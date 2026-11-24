@@ -249742,21 +249742,6 @@
     "lng": null
   },
   {
-    "id": "jcyl-24-e1-00206",
-    "num_reg": "24-E1-00206",
-    "nombre": "Farmacia Garcia Gonzalez, Maria Angeles",
-    "direccion": "Calle Doctor Pagin Allende, 4",
-    "localidad": "Zotes del Páramo",
-    "provincia": "León",
-    "codigo_postal": "24791",
-    "telefono": "987384415",
-    "fuente": "https://analisis.datosabiertos.jcyl.es/explore/dataset/registro-de-establecimientos-farmaceuticos-de-castilla-y-leon/",
-    "guardia": false,
-    "guardia_franja": null,
-    "lat": null,
-    "lng": null
-  },
-  {
     "id": "jcyl-24-e1-00207",
     "num_reg": "24-E1-00207",
     "nombre": "Farmacia Merchan Rodriguez, Maria Cristina",
@@ -281041,8 +281026,8 @@
     "localidad": "Alicante/Alacant",
     "provincia": "Alicante",
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
-    "lat": null,
-    "lng": null,
+    "lat": 38.3474298,
+    "lng": -0.4763202,
     "guardia": false,
     "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
@@ -281057,7 +281042,12 @@
         "inicio": "2026-11-25T09:30:00+01:00",
         "fin": "2026-11-26T09:30:00+01:00"
       }
-    ]
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/6852322080",
+    "nota_ubicacion": "Ubicación contrastada: una farmacia de OpenStreetMap y una fuente independiente coinciden a 8.3 m.",
+    "osm_id": "osm-6852322080",
+    "ajuste_ubicacion_m": 8.3
   },
   {
     "id": "cof-alicante-100376",
@@ -356706,7 +356696,7 @@
     "telefono": "927160195",
     "fuente": "https://farmacias.cofcaceres.es/",
     "guardia": false,
-    "fecha_guardia": "2026-11-03",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "ABERTURA",
       "ALBALA",
@@ -356789,7 +356779,7 @@
     "telefono": "927390105",
     "fuente": "https://farmacias.cofcaceres.es/",
     "guardia": false,
-    "fecha_guardia": "2026-11-03",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "ACEHUCHE",
       "ALCANTARA",
@@ -356817,20 +356807,12 @@
     "telefono": "927430224",
     "fuente": "https://farmacias.cofcaceres.es/",
     "guardia": false,
-    "fecha_guardia": "2026-11-17",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "ACEITUNA",
-      "AHIGAL",
-      "CASAR DE PALOMERO",
-      "GUIJO DE GRANADILLA",
       "HERNAN PEREZ",
-      "LA PESGA",
-      "MARCHAGAZ",
-      "MOHEDAS DE GRANADILLA",
       "MONTEHERMOSO",
-      "PALOMERO",
       "POZUELO DE ZARZON",
-      "SANTIBAÑEZ EL BAJO",
       "TORRECILLA DE LOS ANGELES",
       "VILLA DEL CAMPO",
       "VILLANUEVA DE LA SIERRA"
@@ -356925,7 +356907,7 @@
     "telefono": "927460248",
     "fuente": "https://farmacias.cofcaceres.es/",
     "guardia": false,
-    "fecha_guardia": "2026-11-03",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "ALDEANUEVA DE LA VERA",
       "ARROYOMOLINOS DE LA VERA",
@@ -357113,7 +357095,7 @@
     "telefono": "927501040",
     "fuente": "https://farmacias.cofcaceres.es/",
     "guardia": false,
-    "fecha_guardia": "2026-11-03",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "CALZADILLA",
       "CASAS DE DON GOMEZ",
@@ -357227,7 +357209,7 @@
     "telefono": "927570758",
     "fuente": "https://farmacias.cofcaceres.es/",
     "guardia": false,
-    "fecha_guardia": "2026-11-03",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "GUIJO DE SANTA BARBARA",
       "JARANDILLA",
@@ -357408,24 +357390,15 @@
     "telefono": "927515272",
     "fuente": "https://farmacias.cofcaceres.es/",
     "guardia": false,
-    "fecha_guardia": "2026-11-10",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
-      "ACEBO",
-      "CILLEROS",
       "DESCARGAMARIA",
-      "ELJAS",
       "GATA",
-      "HOYOS",
       "LA MOHEDA DE GATA",
       "MORALEJA",
-      "PERALES DEL PUERTO",
-      "SAN MARTIN DE TREVEJO",
       "SANTIBAÑEZ EL ALTO",
       "TORRE DE D. MIGUEL",
-      "VALVERDE DEL FRESNO",
-      "VEGAVIANA",
-      "VILLAMIEL",
-      "VILLASBUENAS DE GATA"
+      "VEGAVIANA"
     ],
     "guardia_franja": null,
     "guardia_franjas": [
@@ -357582,7 +357555,7 @@
     "telefono": "927360031",
     "fuente": "https://farmacias.cofcaceres.es/",
     "guardia": false,
-    "fecha_guardia": "2026-11-10",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "ALIA",
       "CAÑAMERO",
@@ -357609,13 +357582,10 @@
     "telefono": "927270048",
     "fuente": "https://farmacias.cofcaceres.es/",
     "guardia": false,
-    "fecha_guardia": "2026-11-10",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "ALISEDA",
-      "ARROYO DE LA LUZ",
-      "BROZAS",
-      "GARROVILLAS",
-      "NAVAS DEL MADROÑO"
+      "ARROYO DE LA LUZ"
     ],
     "guardia_franja": null,
     "guardia_franjas": [
@@ -357715,7 +357685,7 @@
     "telefono": "927150045",
     "fuente": "https://farmacias.cofcaceres.es/",
     "guardia": false,
-    "fecha_guardia": "2026-11-10",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "BERZOCANA",
       "CASTAÑAR DE IBOR",
@@ -357776,7 +357746,7 @@
     "telefono": "927433234",
     "fuente": "https://farmacias.cofcaceres.es/",
     "guardia": false,
-    "fecha_guardia": "2026-11-10",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "CAMINOMORISCO",
       "CASARES DE HURDES",
@@ -357803,7 +357773,7 @@
     "telefono": "927290023",
     "fuente": "https://farmacias.cofcaceres.es/",
     "guardia": false,
-    "fecha_guardia": "2026-11-10",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "CAÑAVERAL",
       "CASAR DE CACERES",
@@ -357829,7 +357799,7 @@
     "telefono": "927580124",
     "fuente": "https://farmacias.cofcaceres.es/",
     "guardia": false,
-    "fecha_guardia": "2026-11-10",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "CARBAJO",
       "CEDILLO",
@@ -357890,7 +357860,7 @@
     "telefono": "927303149",
     "fuente": "https://farmacias.cofcaceres.es/",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "HOLGUERA",
       "TORREJONCILLO"
@@ -357965,7 +357935,7 @@
     "telefono": "927578182",
     "fuente": "https://farmacias.cofcaceres.es/",
     "guardia": false,
-    "fecha_guardia": "2026-11-10",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "PUEBLONUEVO DE MIRAMONTES",
       "TALAYUELA",
@@ -358857,6 +358827,230 @@
     "nota_guardia": "COFCáceres marca esta farmacia «En Servicio de Urgencias» al consultar, pero no publica un calendario fechado ni su intervalo horario; se asigna al día actual.",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.google.es/maps/dir//40.131049305457,-5.4621549998372",
+    "guardia_intervalos": []
+  },
+  {
+    "id": "cof-caceres-tel-927514054",
+    "nombre": "REMEDIOS PERIÁNEZ, IRENE",
+    "direccion": "CL. MARIALVA 4, 10850, HOYOS",
+    "localidad": "HOYOS",
+    "provincia": "Cáceres",
+    "telefono": "927514054",
+    "fuente": "https://farmacias.cofcaceres.es/",
+    "guardia": false,
+    "fecha_guardia": "2026-11-25",
+    "localidades_atendidas": [
+      "ACEBO",
+      "CILLEROS",
+      "ELJAS",
+      "HOYOS",
+      "PERALES DEL PUERTO",
+      "SAN MARTIN DE TREVEJO",
+      "VALVERDE DEL FRESNO",
+      "VILLAMIEL",
+      "VILLASBUENAS DE GATA"
+    ],
+    "guardia_franja": null,
+    "guardia_franjas": [
+      "Guardia sin horario publicado"
+    ],
+    "lat": 40.171127724489,
+    "lng": -6.7202366520724,
+    "nota_guardia": "COFCáceres marca esta farmacia «En Servicio de Urgencias» al consultar, pero no publica un calendario fechado ni su intervalo horario; se asigna al día actual.",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.google.es/maps/dir//40.171127724489,-6.7202366520724",
+    "guardia_intervalos": []
+  },
+  {
+    "id": "cof-caceres-tel-927673528",
+    "nombre": "CASTELLANOS MORILLO, CRISPULO M.",
+    "direccion": "AVDA. EXTREMADURA, S/N, 10664, MOHEDAS DE GRANADILLA",
+    "localidad": "MOHEDAS DE GRANADILLA",
+    "provincia": "Cáceres",
+    "telefono": "927673528",
+    "fuente": "https://farmacias.cofcaceres.es/",
+    "guardia": false,
+    "fecha_guardia": "2026-11-25",
+    "localidades_atendidas": [
+      "AHIGAL",
+      "CASAR DE PALOMERO",
+      "GUIJO DE GRANADILLA",
+      "LA PESGA",
+      "MARCHAGAZ",
+      "MOHEDAS DE GRANADILLA",
+      "PALOMERO",
+      "SANTIBAÑEZ EL BAJO"
+    ],
+    "guardia_franja": null,
+    "guardia_franjas": [
+      "Guardia sin horario publicado"
+    ],
+    "lat": 40.26512225056,
+    "lng": -6.2018918536004,
+    "nota_guardia": "COFCáceres marca esta farmacia «En Servicio de Urgencias» al consultar, pero no publica un calendario fechado ni su intervalo horario; se asigna al día actual.",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.google.es/maps/dir//40.26512225056,-6.2018918536004",
+    "guardia_intervalos": []
+  },
+  {
+    "id": "cof-caceres-tel-927323201",
+    "nombre": "SANTIAGO MATEOS, PILAR",
+    "direccion": "CL. FCO. MARTIN DE ALCANTARA, 1, 10200, TRUJILLO",
+    "localidad": "TRUJILLO",
+    "provincia": "Cáceres",
+    "telefono": "927323201",
+    "fuente": "https://farmacias.cofcaceres.es/",
+    "guardia": false,
+    "fecha_guardia": "2026-11-25",
+    "localidades_atendidas": [
+      "ALDEA DEL OBISPO",
+      "ALDEACENTENERA",
+      "CONQUISTA DE LA SIERRA",
+      "HERGUIJUELA",
+      "IBAHERNANDO",
+      "JARAICEJO",
+      "LA CUMBRE",
+      "MADROÑERA",
+      "PLASENZUELA",
+      "PUERTO DE SANTA CRUZ",
+      "ROBLEDILLO DE TRUJILLO",
+      "SALVATIERRA DE SANTIAGO",
+      "SANTA ANA",
+      "SANTA CRUZ DE LA SIERRA",
+      "TORRECILLA DE LA TIESA",
+      "TRUJILLO"
+    ],
+    "guardia_franja": null,
+    "guardia_franjas": [
+      "Guardia sin horario publicado"
+    ],
+    "lat": 39.456005744667,
+    "lng": -5.8840836644797,
+    "nota_guardia": "COFCáceres marca esta farmacia «En Servicio de Urgencias» al consultar, pero no publica un calendario fechado ni su intervalo horario; se asigna al día actual.",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.google.es/maps/dir//39.456005744667,-5.8840836644797",
+    "guardia_intervalos": []
+  },
+  {
+    "id": "cof-caceres-tel-927534717",
+    "nombre": "SANCHEZ GUERRERO, INMACULADA",
+    "direccion": "AVDA DE LAS ANGUSTIAS, 16, 10300, NAVALMORAL DE LA MATA",
+    "localidad": "NAVALMORAL DE LA MATA",
+    "provincia": "Cáceres",
+    "telefono": "927534717",
+    "fuente": "https://farmacias.cofcaceres.es/",
+    "guardia": false,
+    "fecha_guardia": "2026-11-25",
+    "localidades_atendidas": [
+      "ALMARAZ",
+      "BELVIS DE MONROY",
+      "BOHONAL DE IBOR",
+      "CABAÑAS DEL CASTILLO",
+      "CARRASCALEJO",
+      "CASAS DE MIRAVETE",
+      "CASATEJADA",
+      "CASTAÑAR DE IBOR",
+      "DELEITOSA",
+      "GORDO, EL",
+      "MAJADAS DE TIETAR",
+      "MILLANES DE LA MATA",
+      "NAVALMORAL DE LA MATA",
+      "NAVALVILLAR DE IBOR",
+      "Oropesa",
+      "PERALEDA DE LA MATA",
+      "PERALEDA DE SAN ROMAN",
+      "ROBLEDOLLANO",
+      "ROSALEJO",
+      "SAUCEDILLA",
+      "VALDELACASA DE TAJO",
+      "VILLAR DEL PEDROSO"
+    ],
+    "guardia_franja": null,
+    "guardia_franjas": [
+      "Guardia sin horario publicado"
+    ],
+    "lat": 39.892067045633,
+    "lng": -5.5461491889912,
+    "nota_guardia": "COFCáceres marca esta farmacia «En Servicio de Urgencias» al consultar, pero no publica un calendario fechado ni su intervalo horario; se asigna al día actual.",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.google.es/maps/dir//39.892067045633,-5.5461491889912",
+    "guardia_intervalos": []
+  },
+  {
+    "id": "cof-caceres-tel-927309494",
+    "nombre": "PI?AS RIVAS JUAN CARLOS",
+    "direccion": "CL. RAMON Y CAJAL, 55, 10940, GARROVILLAS",
+    "localidad": "GARROVILLAS",
+    "provincia": "Cáceres",
+    "telefono": "927309494",
+    "fuente": "https://farmacias.cofcaceres.es/",
+    "guardia": false,
+    "fecha_guardia": "2026-11-25",
+    "localidades_atendidas": [
+      "BROZAS",
+      "GARROVILLAS",
+      "NAVAS DEL MADROÑO"
+    ],
+    "guardia_franja": null,
+    "guardia_franjas": [
+      "Guardia sin horario publicado"
+    ],
+    "lat": 39.712262163213,
+    "lng": -6.5490717913482,
+    "nota_guardia": "COFCáceres marca esta farmacia «En Servicio de Urgencias» al consultar, pero no publica un calendario fechado ni su intervalo horario; se asigna al día actual.",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.google.es/maps/dir//39.712262163213,-6.5490717913482",
+    "guardia_intervalos": []
+  },
+  {
+    "id": "cof-caceres-tel-927285018",
+    "nombre": "MAURICIO PACHECO ANTONIA",
+    "direccion": "AVDA. DE ESPAÑA, 4, 10193, TALAVAN",
+    "localidad": "TALAVAN",
+    "provincia": "Cáceres",
+    "telefono": "927285018",
+    "fuente": "https://farmacias.cofcaceres.es/",
+    "guardia": false,
+    "fecha_guardia": "2026-11-25",
+    "localidades_atendidas": [
+      "HINOJAL",
+      "MONROY",
+      "SANTIAGO DEL CAMPO",
+      "TALAVAN"
+    ],
+    "guardia_franja": null,
+    "guardia_franjas": [
+      "Guardia sin horario publicado"
+    ],
+    "lat": 39.715218192834,
+    "lng": -6.2814523393276,
+    "nota_guardia": "COFCáceres marca esta farmacia «En Servicio de Urgencias» al consultar, pero no publica un calendario fechado ni su intervalo horario; se asigna al día actual.",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.google.es/maps/dir//39.715218192834,-6.2814523393276",
+    "guardia_intervalos": []
+  },
+  {
+    "id": "cof-caceres-tel-927276349",
+    "nombre": "FARMACIA PEDREGAL FERNANDEZ C.B.",
+    "direccion": "CL. NUEVA, 20, 10910, MALPARTIDA DE CACERES",
+    "localidad": "MALPARTIDA DE CACERES",
+    "provincia": "Cáceres",
+    "telefono": "927276349",
+    "fuente": "https://farmacias.cofcaceres.es/",
+    "guardia": false,
+    "fecha_guardia": "2026-11-25",
+    "localidades_atendidas": [
+      "MALPARTIDA DE CACERES"
+    ],
+    "guardia_franja": null,
+    "guardia_franjas": [
+      "Guardia sin horario publicado"
+    ],
+    "lat": 39.446289495633,
+    "lng": -6.5079304216763,
+    "nota_guardia": "COFCáceres marca esta farmacia «En Servicio de Urgencias» al consultar, pero no publica un calendario fechado ni su intervalo horario; se asigna al día actual.",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.google.es/maps/dir//39.446289495633,-6.5079304216763",
     "guardia_intervalos": []
   },
   {
@@ -421954,18 +422148,18 @@
     "provincia": "León",
     "telefono": "987261531",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "Leon"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T00:00:00+01:00",
-        "fin": "2026-11-24T09:30:00+01:00"
+        "inicio": "2026-11-25T00:00:00+01:00",
+        "fin": "2026-11-25T09:30:00+01:00"
       },
       {
-        "inicio": "2026-11-24T22:00:00+01:00",
-        "fin": "2026-11-25T09:30:00+01:00"
+        "inicio": "2026-11-25T22:00:00+01:00",
+        "fin": "2026-11-26T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
@@ -422019,25 +422213,27 @@
     "provincia": "León",
     "telefono": "987616400",
     "guardia": false,
-    "fecha_guardia": "2026-11-18",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "Astorga"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-18T00:00:00+01:00",
-        "fin": "2026-11-18T09:30:00+01:00"
+        "inicio": "2026-11-25T22:00:00+01:00",
+        "fin": "2026-11-26T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
-      "Madrugada de guardia nocturna anterior · 00:00–09:30"
+      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
+      "Guardia nocturna COF León · 22:00–09:30"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
     "ubicacion_requiere_verificacion": true,
-    "guardia_desde_ayer": true,
-    "guardia_franja": null
+    "guardia_apertura": "desconocida",
+    "guardia_franja": null,
+    "guardia_desde_ayer": false
   },
   {
     "id": "cof-leon-a1fc955f1a07343a",
@@ -422075,7 +422271,7 @@
     "provincia": "León",
     "telefono": "987410070",
     "guardia": false,
-    "fecha_guardia": "2026-11-23",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "Ponferrada"
     ],
@@ -422138,18 +422334,18 @@
     "provincia": "León",
     "telefono": "987750072",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "Valencia De Don Juan"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T00:00:00+01:00",
-        "fin": "2026-11-24T09:30:00+01:00"
+        "inicio": "2026-11-25T00:00:00+01:00",
+        "fin": "2026-11-25T09:30:00+01:00"
       },
       {
-        "inicio": "2026-11-24T22:00:00+01:00",
-        "fin": "2026-11-25T09:30:00+01:00"
+        "inicio": "2026-11-25T22:00:00+01:00",
+        "fin": "2026-11-26T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
@@ -422236,27 +422432,25 @@
     "provincia": "León",
     "telefono": "987644446",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "Bañeza (La)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T22:00:00+01:00",
+        "inicio": "2026-11-25T00:00:00+01:00",
         "fin": "2026-11-25T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
-      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
-      "Guardia nocturna COF León · 22:00–09:30"
+      "Madrugada de guardia nocturna anterior · 00:00–09:30"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
     "ubicacion_requiere_verificacion": true,
-    "guardia_apertura": "desconocida",
-    "guardia_franja": null,
-    "guardia_desde_ayer": false
+    "guardia_desde_ayer": true,
+    "guardia_franja": null
   },
   {
     "id": "cof-leon-f63192efbac8513c",
@@ -422322,18 +422516,18 @@
     "provincia": "León",
     "telefono": "987740188",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "Boca De Huergano"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T00:00:00+01:00",
-        "fin": "2026-11-24T09:30:00+01:00"
+        "inicio": "2026-11-25T00:00:00+01:00",
+        "fin": "2026-11-25T09:30:00+01:00"
       },
       {
-        "inicio": "2026-11-24T22:00:00+01:00",
-        "fin": "2026-11-25T09:30:00+01:00"
+        "inicio": "2026-11-25T22:00:00+01:00",
+        "fin": "2026-11-26T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
@@ -422448,7 +422642,7 @@
     "provincia": "León",
     "telefono": "987207315",
     "guardia": false,
-    "fecha_guardia": "2026-11-21",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "Leon"
     ],
@@ -422534,18 +422728,18 @@
     "provincia": "León",
     "telefono": "987780066",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "Sahagun"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T00:00:00+01:00",
-        "fin": "2026-11-24T09:30:00+01:00"
+        "inicio": "2026-11-25T00:00:00+01:00",
+        "fin": "2026-11-25T09:30:00+01:00"
       },
       {
-        "inicio": "2026-11-24T22:00:00+01:00",
-        "fin": "2026-11-25T09:30:00+01:00"
+        "inicio": "2026-11-25T22:00:00+01:00",
+        "fin": "2026-11-26T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
@@ -422632,7 +422826,7 @@
     "provincia": "León",
     "telefono": "987542156",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "Villafranca Del Bierzo"
     ],
@@ -422746,7 +422940,7 @@
     "provincia": "León",
     "telefono": "987762092",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "Valderas"
     ],
@@ -422797,25 +422991,27 @@
     "provincia": "León",
     "telefono": "987640176",
     "guardia": false,
-    "fecha_guardia": "2026-11-20",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "Bañeza (La)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-20T00:00:00+01:00",
-        "fin": "2026-11-20T09:30:00+01:00"
+        "inicio": "2026-11-25T22:00:00+01:00",
+        "fin": "2026-11-26T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
-      "Madrugada de guardia nocturna anterior · 00:00–09:30"
+      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
+      "Guardia nocturna COF León · 22:00–09:30"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
     "ubicacion_requiere_verificacion": true,
-    "guardia_desde_ayer": true,
-    "guardia_franja": null
+    "guardia_apertura": "desconocida",
+    "guardia_franja": null,
+    "guardia_desde_ayer": false
   },
   {
     "id": "cof-leon-c3533713473368c2",
@@ -422825,23 +423021,22 @@
     "provincia": "León",
     "telefono": "987420809",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "Ponferrada"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T00:00:00+01:00",
-        "fin": "2026-11-24T09:30:00+01:00"
+        "inicio": "2026-11-25T00:00:00+01:00",
+        "fin": "2026-11-25T09:30:00+01:00"
       },
       {
-        "inicio": "2026-11-24T22:00:00+01:00",
-        "fin": "2026-11-25T09:30:00+01:00"
+        "inicio": "2026-11-25T22:00:00+01:00",
+        "fin": "2026-11-26T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
       "Madrugada de guardia nocturna anterior · 00:00–09:30",
-      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
       "Guardia nocturna COF León · 22:00–09:30"
     ],
     "lat": null,
@@ -422849,8 +423044,7 @@
     "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
     "ubicacion_requiere_verificacion": true,
     "guardia_desde_ayer": true,
-    "guardia_franja": null,
-    "guardia_apertura": "desconocida"
+    "guardia_franja": null
   },
   {
     "id": "cof-leon-5cb09a7aafc07faf",
@@ -422888,18 +423082,18 @@
     "provincia": "León",
     "telefono": "987551132",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "Fabero"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T00:00:00+01:00",
-        "fin": "2026-11-24T09:30:00+01:00"
+        "inicio": "2026-11-25T00:00:00+01:00",
+        "fin": "2026-11-25T09:30:00+01:00"
       },
       {
-        "inicio": "2026-11-24T22:00:00+01:00",
-        "fin": "2026-11-25T09:30:00+01:00"
+        "inicio": "2026-11-25T22:00:00+01:00",
+        "fin": "2026-11-26T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
@@ -422923,7 +423117,7 @@
     "provincia": "León",
     "telefono": "987333532",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "Cubillas De Rueda"
     ],
@@ -422946,7 +423140,7 @@
     "provincia": "León",
     "telefono": "987525047",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "Matarrosa Del Sil"
     ],
@@ -422992,23 +423186,24 @@
     "provincia": "León",
     "telefono": "987227265",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "Leon"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T22:00:00+01:00",
+        "inicio": "2026-11-25T00:00:00+01:00",
         "fin": "2026-11-25T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
-      "Guardia nocturna COF León · 22:00–09:30"
+      "Madrugada de guardia nocturna anterior · 00:00–09:30"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
     "ubicacion_requiere_verificacion": true,
+    "guardia_desde_ayer": true,
     "guardia_franja": null
   },
   {
@@ -423126,7 +423321,7 @@
     "provincia": "León",
     "telefono": "987413603",
     "guardia": false,
-    "fecha_guardia": "2026-11-23",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "Ponferrada"
     ],
@@ -423223,7 +423418,7 @@
     "provincia": "León",
     "telefono": "987420565",
     "guardia": false,
-    "fecha_guardia": "2026-11-22",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "Borrenes"
     ],
@@ -423274,7 +423469,7 @@
     "provincia": "León",
     "telefono": "987807673",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "Trobajo Del Camino"
     ],
@@ -423695,18 +423890,18 @@
     "provincia": "León",
     "telefono": "987591352",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "Barrio Estacion"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T00:00:00+01:00",
-        "fin": "2026-11-24T09:30:00+01:00"
+        "inicio": "2026-11-25T00:00:00+01:00",
+        "fin": "2026-11-25T09:30:00+01:00"
       },
       {
-        "inicio": "2026-11-24T22:00:00+01:00",
-        "fin": "2026-11-25T09:30:00+01:00"
+        "inicio": "2026-11-25T22:00:00+01:00",
+        "fin": "2026-11-26T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
@@ -424056,7 +424251,7 @@
     "provincia": "León",
     "telefono": "987488839",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "Cabrillanes"
     ],
@@ -424079,27 +424274,25 @@
     "provincia": "León",
     "telefono": "987304148",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "Valdevimbre"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T22:00:00+01:00",
+        "inicio": "2026-11-25T00:00:00+01:00",
         "fin": "2026-11-25T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
-      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
-      "Guardia nocturna COF León · 22:00–09:30"
+      "Madrugada de guardia nocturna anterior · 00:00–09:30"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
     "ubicacion_requiere_verificacion": true,
-    "guardia_apertura": "desconocida",
-    "guardia_franja": null,
-    "guardia_desde_ayer": false
+    "guardia_desde_ayer": true,
+    "guardia_franja": null
   },
   {
     "id": "cof-leon-627d3b5910c45208",
@@ -424234,7 +424427,7 @@
     "provincia": "León",
     "telefono": "987222020",
     "guardia": false,
-    "fecha_guardia": "2026-11-16",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "Leon"
     ],
@@ -424280,27 +424473,25 @@
     "provincia": "León",
     "telefono": "987616170",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "Astorga"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T22:00:00+01:00",
+        "inicio": "2026-11-25T00:00:00+01:00",
         "fin": "2026-11-25T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
-      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
-      "Guardia nocturna COF León · 22:00–09:30"
+      "Madrugada de guardia nocturna anterior · 00:00–09:30"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
     "ubicacion_requiere_verificacion": true,
-    "guardia_apertura": "desconocida",
-    "guardia_franja": null,
-    "guardia_desde_ayer": false
+    "guardia_desde_ayer": true,
+    "guardia_franja": null
   },
   {
     "id": "cof-leon-d1771d40009cfa01",
@@ -424491,7 +424682,7 @@
     "provincia": "León",
     "telefono": "987247487",
     "guardia": false,
-    "fecha_guardia": "2026-11-23",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "Leon"
     ],
@@ -424654,24 +424845,23 @@
     "provincia": "León",
     "telefono": "987228937",
     "guardia": false,
-    "fecha_guardia": "2026-11-20",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "Leon"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-20T00:00:00+01:00",
-        "fin": "2026-11-20T09:30:00+01:00"
+        "inicio": "2026-11-25T22:00:00+01:00",
+        "fin": "2026-11-26T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
-      "Madrugada de guardia nocturna anterior · 00:00–09:30"
+      "Guardia nocturna COF León · 22:00–09:30"
     ],
     "lat": 42.5986516,
     "lng": -5.5732584,
     "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
     "ubicacion_requiere_verificacion": true,
-    "guardia_desde_ayer": true,
     "guardia_franja": null,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/13289027223",
@@ -424710,7 +424900,7 @@
     "provincia": "León",
     "telefono": "987546081",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "Cacabelos"
     ],
@@ -424733,18 +424923,18 @@
     "provincia": "León",
     "telefono": "987388950",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "Hospital De Orbigo"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T00:00:00+01:00",
-        "fin": "2026-11-24T09:30:00+01:00"
+        "inicio": "2026-11-25T00:00:00+01:00",
+        "fin": "2026-11-25T09:30:00+01:00"
       },
       {
-        "inicio": "2026-11-24T22:00:00+01:00",
-        "fin": "2026-11-25T09:30:00+01:00"
+        "inicio": "2026-11-25T22:00:00+01:00",
+        "fin": "2026-11-26T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
@@ -424768,18 +424958,18 @@
     "provincia": "León",
     "telefono": "987588142",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "Pola De Gordon (La)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T00:00:00+01:00",
-        "fin": "2026-11-24T09:30:00+01:00"
+        "inicio": "2026-11-25T00:00:00+01:00",
+        "fin": "2026-11-25T09:30:00+01:00"
       },
       {
-        "inicio": "2026-11-24T22:00:00+01:00",
-        "fin": "2026-11-25T09:30:00+01:00"
+        "inicio": "2026-11-25T22:00:00+01:00",
+        "fin": "2026-11-26T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
@@ -424803,18 +424993,18 @@
     "provincia": "León",
     "telefono": "987580719",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "Riello"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T00:00:00+01:00",
-        "fin": "2026-11-24T09:30:00+01:00"
+        "inicio": "2026-11-25T00:00:00+01:00",
+        "fin": "2026-11-25T09:30:00+01:00"
       },
       {
-        "inicio": "2026-11-24T22:00:00+01:00",
-        "fin": "2026-11-25T09:30:00+01:00"
+        "inicio": "2026-11-25T22:00:00+01:00",
+        "fin": "2026-11-26T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
@@ -424838,18 +425028,18 @@
     "provincia": "León",
     "telefono": "987711025",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "Cremenes"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T00:00:00+01:00",
-        "fin": "2026-11-24T09:30:00+01:00"
+        "inicio": "2026-11-25T00:00:00+01:00",
+        "fin": "2026-11-25T09:30:00+01:00"
       },
       {
-        "inicio": "2026-11-24T22:00:00+01:00",
-        "fin": "2026-11-25T09:30:00+01:00"
+        "inicio": "2026-11-25T22:00:00+01:00",
+        "fin": "2026-11-26T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
@@ -424873,18 +425063,18 @@
     "provincia": "León",
     "telefono": "677408713",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "Villablino"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T00:00:00+01:00",
-        "fin": "2026-11-24T09:30:00+01:00"
+        "inicio": "2026-11-25T00:00:00+01:00",
+        "fin": "2026-11-25T09:30:00+01:00"
       },
       {
-        "inicio": "2026-11-24T22:00:00+01:00",
-        "fin": "2026-11-25T09:30:00+01:00"
+        "inicio": "2026-11-25T22:00:00+01:00",
+        "fin": "2026-11-26T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
@@ -424908,18 +425098,18 @@
     "provincia": "León",
     "telefono": "987510582",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "Bembibre"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T00:00:00+01:00",
-        "fin": "2026-11-24T09:30:00+01:00"
+        "inicio": "2026-11-25T00:00:00+01:00",
+        "fin": "2026-11-25T09:30:00+01:00"
       },
       {
-        "inicio": "2026-11-24T22:00:00+01:00",
-        "fin": "2026-11-25T09:30:00+01:00"
+        "inicio": "2026-11-25T22:00:00+01:00",
+        "fin": "2026-11-26T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
@@ -424943,7 +425133,7 @@
     "provincia": "León",
     "telefono": "987330011",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "Burgo Ranero (El)"
     ],
@@ -424966,18 +425156,18 @@
     "provincia": "León",
     "telefono": "987742101",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "Vegaquemada"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T00:00:00+01:00",
-        "fin": "2026-11-24T09:30:00+01:00"
+        "inicio": "2026-11-25T00:00:00+01:00",
+        "fin": "2026-11-25T09:30:00+01:00"
       },
       {
-        "inicio": "2026-11-24T22:00:00+01:00",
-        "fin": "2026-11-25T09:30:00+01:00"
+        "inicio": "2026-11-25T22:00:00+01:00",
+        "fin": "2026-11-26T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
@@ -425029,7 +425219,7 @@
     "provincia": "León",
     "telefono": "987664120",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "localidades_atendidas": [
       "Baña (La)"
     ],
@@ -425076,6 +425266,36 @@
     "nota_ubicacion": "Ubicación contrastada: la dirección y una farmacia de OpenStreetMap coinciden a 7 m.",
     "osm_id": "osm-5629249422",
     "ajuste_ubicacion_m": 7.0
+  },
+  {
+    "id": "jcyl-24-e1-00206",
+    "nombre": "",
+    "direccion": "CALLE DOCTOR PAGIN ALLENDE, 4",
+    "localidad": "Zotes Del Paramo",
+    "provincia": "León",
+    "telefono": "987384415",
+    "guardia": false,
+    "fecha_guardia": "2026-11-25",
+    "localidades_atendidas": [
+      "Zotes Del Paramo"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-25T22:00:00+01:00",
+        "fin": "2026-11-26T09:30:00+01:00"
+      }
+    ],
+    "guardia_franjas": [
+      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
+      "Guardia nocturna COF León · 22:00–09:30"
+    ],
+    "lat": null,
+    "lng": null,
+    "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
+    "ubicacion_requiere_verificacion": true,
+    "guardia_apertura": "desconocida",
+    "guardia_franja": null,
+    "guardia_desde_ayer": false
   },
   {
     "id": "cof-lleida-17",
@@ -567013,22 +567233,6 @@
     "guardia_franja": null
   },
   {
-    "id": "cof-valladolid-catalogo-16",
-    "nombre": "TEJEDOR TOQUERO, MARÍA TERESA",
-    "localidad": "Valladolid",
-    "sector": "ARTURO EYRIES",
-    "direccion": "Calle Bolivia , 3",
-    "telefono": "34983471881",
-    "provincia": "Valladolid",
-    "guardia": false,
-    "lat": 41.6318,
-    "lng": -4.7502,
-    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasProvincia.aspx",
-    "precision_ubicacion": "farmacia",
-    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
-    "guardia_franja": null
-  },
-  {
     "id": "cof-valladolid-catalogo-257",
     "nombre": "COLMENERO DÍEZ, MARIA AUXILIADORA",
     "localidad": "Valladolid",
@@ -567119,22 +567323,6 @@
     "guardia": false,
     "lat": 41.6439,
     "lng": -4.7371,
-    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasProvincia.aspx",
-    "precision_ubicacion": "farmacia",
-    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
-    "guardia_franja": null
-  },
-  {
-    "id": "cof-valladolid-catalogo-61",
-    "nombre": "SANTIAGO SASTRE, GENOVEVA",
-    "localidad": "Valladolid",
-    "sector": "CAMPO GRANDE",
-    "direccion": "Paseo Zorrilla , 14",
-    "telefono": "34983337413",
-    "provincia": "Valladolid",
-    "guardia": false,
-    "lat": 41.6466,
-    "lng": -4.732,
     "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasProvincia.aspx",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
@@ -567765,38 +567953,6 @@
     "guardia_franja": null
   },
   {
-    "id": "cof-valladolid-catalogo-12",
-    "nombre": "RIVERA DE DIEGO, CARMEN",
-    "localidad": "Valladolid",
-    "sector": "PLAZA CIRCULAR",
-    "direccion": "Plaza Cruz Verde , 3",
-    "telefono": "34983293465",
-    "provincia": "Valladolid",
-    "guardia": false,
-    "lat": 41.6481,
-    "lng": -4.72,
-    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasProvincia.aspx",
-    "precision_ubicacion": "farmacia",
-    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
-    "guardia_franja": null
-  },
-  {
-    "id": "cof-valladolid-catalogo-110",
-    "nombre": "GARCÍA DEL POZO, VICTORINA",
-    "localidad": "Valladolid",
-    "sector": "PLAZA CIRCULAR",
-    "direccion": "Plaza San Juan , 5",
-    "telefono": "34983291207",
-    "provincia": "Valladolid",
-    "guardia": false,
-    "lat": 41.6517,
-    "lng": -4.7175,
-    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasProvincia.aspx",
-    "precision_ubicacion": "farmacia",
-    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
-    "guardia_franja": null
-  },
-  {
     "id": "cof-valladolid-catalogo-273",
     "nombre": "RUIZ CUADRADO, ANA BELÉN",
     "localidad": "Valladolid",
@@ -567845,22 +568001,6 @@
     "guardia_franja": null
   },
   {
-    "id": "cof-valladolid-catalogo-54",
-    "nombre": "DOMINGO REDONDO, Mª LUISA",
-    "localidad": "Valladolid",
-    "sector": "RONDILLA II",
-    "direccion": "Calle Linares , 31",
-    "telefono": "34983255932",
-    "provincia": "Valladolid",
-    "guardia": false,
-    "lat": 41.6623,
-    "lng": -4.7219,
-    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasProvincia.aspx",
-    "precision_ubicacion": "farmacia",
-    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
-    "guardia_franja": null
-  },
-  {
     "id": "cof-valladolid-catalogo-264",
     "nombre": "PUENTE LÁZARO, CLARA",
     "localidad": "Valladolid",
@@ -567888,22 +568028,6 @@
     "lat": null,
     "lng": null,
     "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasProvincia.aspx",
-    "guardia_franja": null
-  },
-  {
-    "id": "cof-valladolid-catalogo-255",
-    "nombre": "SANTIAGO SASTRE, BLANCA",
-    "localidad": "Valladolid",
-    "sector": "VALLADOLID SUR",
-    "direccion": "Avenida Miguel Delibes , 44",
-    "telefono": "34983248537",
-    "provincia": "Valladolid",
-    "guardia": false,
-    "lat": 41.6107,
-    "lng": -4.7532,
-    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasProvincia.aspx",
-    "precision_ubicacion": "farmacia",
-    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
     "guardia_franja": null
   },
   {
@@ -569283,11 +569407,11 @@
     "localidad": "Valladolid",
     "sector": "DELICIAS II",
     "provincia": "Valladolid",
-    "telefono": null,
+    "telefono": "983230176",
     "guardia": false,
-    "fecha_guardia": "2026-11-02",
+    "fecha_guardia": "2026-11-25",
     "guardia_franjas": [
-      "Nocturna capital: 22:00–09:30; sábados, domingos y festivos hasta 10:00 del día siguiente"
+      "Diurna capital: laborables 09:30–22:00; sábados, domingos y festivos 10:00–22:00"
     ],
     "localidades_atendidas": [
       "Valladolid"
@@ -569446,7 +569570,7 @@
     "provincia": "Valladolid",
     "telefono": "682692483",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "guardia_franjas": [
       "Día y noche: 24 horas según el cuadro provincial. Guardia localizada/no presencial; llamar antes de acudir."
     ],
@@ -569469,7 +569593,7 @@
     "provincia": "Valladolid",
     "telefono": "983770581",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "guardia_franjas": [
       "Día y noche: 24 horas según el cuadro provincial."
     ],
@@ -569492,7 +569616,7 @@
     "provincia": "Valladolid",
     "telefono": "691686900",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "guardia_franjas": [
       "Día y noche: 24 horas según el cuadro provincial. Guardia localizada/no presencial; llamar antes de acudir."
     ],
@@ -569653,7 +569777,7 @@
     "provincia": "Valladolid",
     "telefono": "983409335",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "guardia_franjas": [
       "Diurna provincial: hasta las 22:00; confirmar hora de inicio. Guardia localizada/no presencial; llamar antes de acudir."
     ],
@@ -569676,7 +569800,7 @@
     "provincia": "Valladolid",
     "telefono": "633757701",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "guardia_franjas": [
       "Día y noche: 24 horas según el cuadro provincial. Guardia localizada/no presencial; llamar antes de acudir."
     ],
@@ -569812,7 +569936,7 @@
     "provincia": "Valladolid",
     "telefono": "983373222",
     "guardia": false,
-    "fecha_guardia": "2026-11-08",
+    "fecha_guardia": "2026-11-25",
     "guardia_franjas": [
       "Diurna capital: laborables 09:30–22:00; sábados, domingos y festivos 10:00–22:00"
     ],
@@ -569927,7 +570051,7 @@
     "provincia": "Valladolid",
     "telefono": "666545427",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "guardia_franjas": [
       "Diurna provincial: hasta las 22:00; confirmar hora de inicio. Guardia localizada/no presencial; llamar antes de acudir."
     ],
@@ -569948,7 +570072,7 @@
     "provincia": "Valladolid",
     "telefono": "983609024",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "guardia_franjas": [
       "Diurna provincial: hasta las 22:00; confirmar hora de inicio. Guardia localizada/no presencial; llamar antes de acudir."
     ],
@@ -569994,7 +570118,7 @@
     "provincia": "Valladolid",
     "telefono": "696191476",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "guardia_franjas": [
       "Diurna provincial: hasta las 22:00; confirmar hora de inicio. Guardia localizada/no presencial; llamar antes de acudir."
     ],
@@ -570107,7 +570231,7 @@
     "provincia": "Valladolid",
     "telefono": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "guardia_franjas": [
       "Diurna provincial: hasta las 22:00; confirmar hora de inicio."
     ],
@@ -570609,7 +570733,7 @@
     "provincia": "Valladolid",
     "telefono": "676825736",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "guardia_franjas": [
       "Día y noche: 24 horas según el cuadro provincial. Guardia localizada/no presencial; llamar antes de acudir."
     ],
@@ -572234,7 +572358,7 @@
     "provincia": "Valladolid",
     "telefono": "646916941",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "guardia_franjas": [
       "Diurna provincial: hasta las 22:00; confirmar hora de inicio. Guardia localizada/no presencial; llamar antes de acudir."
     ],
@@ -572370,7 +572494,7 @@
     "provincia": "Valladolid",
     "telefono": "983803285",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "guardia_franjas": [
       "Día y noche: 24 horas según el cuadro provincial."
     ],
@@ -572715,7 +572839,7 @@
     "provincia": "Valladolid",
     "telefono": "617800904",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "guardia_franjas": [
       "Diurna provincial: hasta las 22:00; confirmar hora de inicio. Guardia localizada/no presencial; llamar antes de acudir."
     ],
@@ -572738,7 +572862,7 @@
     "provincia": "Valladolid",
     "telefono": "983526825",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "guardia_franjas": [
       "Día y noche: 24 horas según el cuadro provincial."
     ],
@@ -572761,7 +572885,7 @@
     "provincia": "Valladolid",
     "telefono": "983832862",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "guardia_franjas": [
       "Diurna provincial: hasta las 22:00; confirmar hora de inicio. Guardia localizada/no presencial; llamar antes de acudir."
     ],
@@ -572784,7 +572908,7 @@
     "provincia": "Valladolid",
     "telefono": "604990674",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "guardia_franjas": [
       "Diurna provincial: hasta las 22:00; confirmar hora de inicio. Guardia localizada/no presencial; llamar antes de acudir."
     ],
@@ -572807,7 +572931,7 @@
     "provincia": "Valladolid",
     "telefono": "623964245",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "guardia_franjas": [
       "Diurna provincial: hasta las 22:00; confirmar hora de inicio. Guardia localizada/no presencial; llamar antes de acudir."
     ],
@@ -572830,7 +572954,7 @@
     "provincia": "Valladolid",
     "telefono": "642446271",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "guardia_franjas": [
       "Diurna provincial: hasta las 22:00; confirmar hora de inicio. Guardia localizada/no presencial; llamar antes de acudir."
     ],
@@ -572851,11 +572975,11 @@
     "localidad": "Valladolid",
     "sector": "DELICIAS II",
     "provincia": "Valladolid",
-    "telefono": "983234573",
+    "telefono": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "guardia_franjas": [
-      "Diurna capital: laborables 09:30–22:00; sábados, domingos y festivos 10:00–22:00"
+      "Nocturna capital: 22:00–09:30; sábados, domingos y festivos hasta 10:00 del día siguiente"
     ],
     "localidades_atendidas": [
       "Valladolid"
@@ -572908,6 +573032,144 @@
     ],
     "lat": 41.6612,
     "lng": -4.7169,
+    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "guardia_franja": null
+  },
+  {
+    "id": "cof-valladolid-guardia-59",
+    "nombre": "",
+    "direccion": "Calle Linares , 31",
+    "localidad": "Valladolid",
+    "sector": "RONDILLA II",
+    "provincia": "Valladolid",
+    "telefono": "983255932",
+    "guardia": false,
+    "fecha_guardia": "2026-11-25",
+    "guardia_franjas": [
+      "Diurna capital: laborables 09:30–22:00; sábados, domingos y festivos 10:00–22:00"
+    ],
+    "localidades_atendidas": [
+      "Valladolid"
+    ],
+    "lat": 41.6623,
+    "lng": -4.7219,
+    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "guardia_franja": null
+  },
+  {
+    "id": "cof-valladolid-guardia-66",
+    "nombre": "",
+    "direccion": "Paseo Zorrilla , 14",
+    "localidad": "Valladolid",
+    "sector": "CAMPO GRANDE",
+    "provincia": "Valladolid",
+    "telefono": "983337413",
+    "guardia": false,
+    "fecha_guardia": "2026-11-25",
+    "guardia_franjas": [
+      "Diurna capital: laborables 09:30–22:00; sábados, domingos y festivos 10:00–22:00"
+    ],
+    "localidades_atendidas": [
+      "Valladolid"
+    ],
+    "lat": 41.6466,
+    "lng": -4.732,
+    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "guardia_franja": null
+  },
+  {
+    "id": "cof-valladolid-guardia-14",
+    "nombre": "",
+    "direccion": "Plaza Cruz Verde , 3",
+    "localidad": "Valladolid",
+    "sector": "PLAZA CIRCULAR",
+    "provincia": "Valladolid",
+    "telefono": "983293465",
+    "guardia": false,
+    "fecha_guardia": "2026-11-25",
+    "guardia_franjas": [
+      "Diurna capital: laborables 09:30–22:00; sábados, domingos y festivos 10:00–22:00"
+    ],
+    "localidades_atendidas": [
+      "Valladolid"
+    ],
+    "lat": 41.6481,
+    "lng": -4.72,
+    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "guardia_franja": null
+  },
+  {
+    "id": "cof-valladolid-guardia-279",
+    "nombre": "",
+    "direccion": "Avenida Miguel Delibes , 44",
+    "localidad": "Valladolid",
+    "sector": "VALLADOLID SUR",
+    "provincia": "Valladolid",
+    "telefono": "983248537",
+    "guardia": false,
+    "fecha_guardia": "2026-11-25",
+    "guardia_franjas": [
+      "Diurna capital: laborables 09:30–22:00; sábados, domingos y festivos 10:00–22:00"
+    ],
+    "localidades_atendidas": [
+      "Valladolid"
+    ],
+    "lat": 41.6107,
+    "lng": -4.7532,
+    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "guardia_franja": null
+  },
+  {
+    "id": "cof-valladolid-guardia-18",
+    "nombre": "",
+    "direccion": "Calle Bolivia , 3",
+    "localidad": "Valladolid",
+    "sector": "ARTURO EYRIES",
+    "provincia": "Valladolid",
+    "telefono": null,
+    "guardia": false,
+    "fecha_guardia": "2026-11-25",
+    "guardia_franjas": [
+      "Nocturna capital: 22:00–09:30; sábados, domingos y festivos hasta 10:00 del día siguiente"
+    ],
+    "localidades_atendidas": [
+      "Valladolid"
+    ],
+    "lat": 41.6318,
+    "lng": -4.7502,
+    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "guardia_franja": null
+  },
+  {
+    "id": "cof-valladolid-guardia-123",
+    "nombre": "",
+    "direccion": "Plaza San Juan , 5",
+    "localidad": "Valladolid",
+    "sector": "PLAZA CIRCULAR",
+    "provincia": "Valladolid",
+    "telefono": null,
+    "guardia": false,
+    "fecha_guardia": "2026-11-25",
+    "guardia_franjas": [
+      "Nocturna capital: 22:00–09:30; sábados, domingos y festivos hasta 10:00 del día siguiente"
+    ],
+    "localidades_atendidas": [
+      "Valladolid"
+    ],
+    "lat": 41.6517,
+    "lng": -4.7175,
     "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",

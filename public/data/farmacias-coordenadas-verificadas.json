@@ -712,6 +712,19 @@
     "ajuste_ubicacion_m": 2.7
   },
   {
+    "id": "cof-alicante-100273",
+    "provincia": "Alicante",
+    "localidad": "Alicante/Alacant",
+    "direccion": "C/ VIRGEN DEL SOCORRO, Nº19",
+    "lat": 38.3474298,
+    "lng": -0.4763202,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/6852322080",
+    "nota_ubicacion": "Ubicación contrastada: una farmacia de OpenStreetMap y una fuente independiente coinciden a 8.3 m.",
+    "ajuste_ubicacion_m": 8.3,
+    "osm_id": "osm-6852322080"
+  },
+  {
     "id": "cof-alicante-110072",
     "provincia": "Alicante",
     "localidad": "Alicante/Alacant",
