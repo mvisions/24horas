@@ -77,6 +77,16 @@ jobs:
             ./scripts/daily_update.sh --hoy
           fi
 
+      - name: Mostrar registro de actualización
+        if: always() && steps.restore-cache.outcome == 'success'
+        run: |
+          log_file="$HOME/.local/state/farmacia/daily-update.log"
+          if [[ -f "$log_file" ]]; then
+            tail -n 120 "$log_file"
+          else
+            echo "El actualizador no creó su registro."
+          fi
+
       - name: Guardar cachés de las fuentes
         if: always() && steps.restore-cache.outcome == 'success'
         uses: actions/cache/save@v4
@@ -137,5 +147,5 @@ jobs:
       - name: Informar de errores en las fuentes
         if: needs.actualizar.outputs.refresh_failed == 'true'
         run: |
-          echo "::error::La actualización terminó con errores. Se publicaron los cambios disponibles; revisa el registro del paso de actualización."
+          echo "::error::La actualización terminó con errores. Revisa el paso «Mostrar registro de actualización»; los datos se publican si hubo cambios."
           exit 1
