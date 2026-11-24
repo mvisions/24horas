@@ -1,0 +1,75 @@
+[
+  {
+    "id": "govern-andorra-dc9a8c02c7a3c0a3",
+    "cofm_id": null,
+    "nombre": "F. El Consell",
+    "direccion": "C/ Prat de la Creu 87",
+    "localidad": "Andorra",
+    "provincia": "Andorra",
+    "telefono": "819219",
+    "guardia": true,
+    "fecha_guardia": "2026-11-23",
+    "fuente": "https://www.govern.ad/ca/tematiques/salut/assistencia-sanitaria/farmacies-de-guardia",
+    "localidades_atendidas": [
+      "Andorra"
+    ],
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-23T00:00:00",
+        "fin": "2026-11-23T09:30:00",
+        "inicio_original": "2026-11-22T22:00:00",
+        "fin_original": "2026-11-23T09:30:00",
+        "tipo": "NIT/ NIGHT 22→9’30 · madrugada iniciada el 2026-11-22"
+      }
+    ],
+    "guardia_franjas": [
+      "NIT/ NIGHT 22→9’30 · madrugada iniciada el 2026-11-22"
+    ],
+    "fuente_documento": "https://www.govern.ad/documents/d/guest/farmacies_guardia_novembre_2026?download=true",
+    "guardia_desde_ayer": true,
+    "guardia_franja": "NIT/ NIGHT 22→9’30 · madrugada iniciada el 2026-11-22"
+  },
+  {
+    "id": "govern-andorra-ec38ce0489bee80e",
+    "cofm_id": null,
+    "nombre": "F. Galeno 2",
+    "direccion": "Av. Meritxell 91",
+    "localidad": "Andorra",
+    "provincia": "Andorra",
+    "telefono": "820107",
+    "guardia": true,
+    "fecha_guardia": "2026-11-23",
+    "fuente": "https://www.govern.ad/ca/tematiques/salut/assistencia-sanitaria/farmacies-de-guardia",
+    "localidades_atendidas": [
+      "Andorra"
+    ],
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-23T09:30:00",
+        "fin": "2026-11-23T22:00:00",
+        "inicio_original": "2026-11-23T09:30:00",
+        "fin_original": "2026-11-23T22:00:00",
+        "tipo": "DIA/ DAY 9’30→22"
+      },
+      {
+        "inicio": "2026-11-23T22:00:00",
+        "fin": "2026-11-24T00:00:00",
+        "inicio_original": "2026-11-23T22:00:00",
+        "fin_original": "2026-11-24T09:30:00",
+        "tipo": "NIT/ NIGHT 22→9’30"
+      }
+    ],
+    "guardia_franjas": [
+      "DIA/ DAY 9’30→22",
+      "NIT/ NIGHT 22→9’30"
+    ],
+    "fuente_documento": "https://www.govern.ad/documents/d/guest/farmacies_guardia_novembre_2026?download=true",
+    "guardia_franja": "DIA/ DAY 9’30→22 · NIT/ NIGHT 22→9’30"
+  }
+]

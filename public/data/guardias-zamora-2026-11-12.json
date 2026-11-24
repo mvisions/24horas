@@ -1,0 +1,31 @@
+[
+  {
+    "id": "jcyl-49-e1-00085",
+    "nombre": "MACIAS y PRIETO C.B.",
+    "direccion": "CALLE FERIA, 16",
+    "localidad": "Zamora",
+    "provincia": "Zamora",
+    "telefono": "980531417",
+    "fuente": "https://cofzamora.es/admin/config/media/ver_mes_completo",
+    "guardia": true,
+    "fecha_guardia": "2026-11-12",
+    "localidades_atendidas": [
+      "Zamora"
+    ],
+    "guardia_franja": "Guardia diurna COF Zamora; horario exacto pendiente, confirmar por teléfono. · Guardia nocturna COF Zamora; horario exacto pendiente, confirmar por teléfono.",
+    "guardia_franjas": [
+      "Guardia diurna COF Zamora; horario exacto pendiente, confirmar por teléfono.",
+      "Guardia nocturna COF Zamora; horario exacto pendiente, confirmar por teléfono."
+    ],
+    "guardia_intervalos": [],
+    "guardia_apertura": "desconocida",
+    "lat": 41.5050534,
+    "lng": -5.7486609,
+    "ubicacion_requiere_verificacion": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/7837106096",
+    "nota_ubicacion": "Ubicación contrastada: una farmacia de OpenStreetMap y una fuente independiente coinciden a 5.5 m.",
+    "osm_id": "osm-7837106096",
+    "ajuste_ubicacion_m": 5.5
+  }
+]

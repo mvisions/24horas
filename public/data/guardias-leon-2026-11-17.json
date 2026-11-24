@@ -1,0 +1,990 @@
+[
+  {
+    "id": "cof-leon-4a39e51a528ab7be",
+    "nombre": "",
+    "direccion": "ORDOÑO II, 39",
+    "localidad": "Leon",
+    "provincia": "León",
+    "telefono": "987261531",
+    "guardia": true,
+    "fecha_guardia": "2026-11-17",
+    "localidades_atendidas": [
+      "Leon"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-17T00:00:00+01:00",
+        "fin": "2026-11-17T09:30:00+01:00"
+      },
+      {
+        "inicio": "2026-11-17T22:00:00+01:00",
+        "fin": "2026-11-18T09:30:00+01:00"
+      }
+    ],
+    "guardia_franjas": [
+      "Madrugada de guardia nocturna anterior · 00:00–09:30",
+      "Guardia nocturna COF León · 22:00–09:30"
+    ],
+    "lat": 42.596364,
+    "lng": -5.5769903,
+    "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
+    "ubicacion_requiere_verificacion": true,
+    "guardia_desde_ayer": true,
+    "guardia_franja": "Madrugada de guardia nocturna anterior · 00:00–09:30 · Guardia nocturna COF León · 22:00–09:30",
+    "precision_ubicacion": "direccion",
+    "fuente_coordenadas": "https://www.openstreetmap.org/way/707917945",
+    "nota_ubicacion": "OpenStreetMap y CartoCiudad (IGN) sitúan esta dirección a menos de 15 m entre sí.",
+    "ajuste_ubicacion_m": 13.8
+  },
+  {
+    "id": "cof-leon-0028f7d68e5d86ec",
+    "nombre": "",
+    "direccion": "JORGE DE MONTEMAYOR, 19",
+    "localidad": "Leon",
+    "provincia": "León",
+    "telefono": "987265007",
+    "guardia": true,
+    "fecha_guardia": "2026-11-17",
+    "localidades_atendidas": [
+      "Leon"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-17T00:00:00+01:00",
+        "fin": "2026-11-17T09:30:00+01:00"
+      }
+    ],
+    "guardia_franjas": [
+      "Madrugada de guardia nocturna anterior · 00:00–09:30"
+    ],
+    "lat": null,
+    "lng": null,
+    "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
+    "ubicacion_requiere_verificacion": true,
+    "guardia_desde_ayer": true,
+    "guardia_franja": "Madrugada de guardia nocturna anterior · 00:00–09:30"
+  },
+  {
+    "id": "cof-leon-70444d9545e0ea4a",
+    "nombre": "",
+    "direccion": "AV CONSTANTINO GANCEDO, 27",
+    "localidad": "Villablino",
+    "provincia": "León",
+    "telefono": "987470964",
+    "guardia": true,
+    "fecha_guardia": "2026-11-17",
+    "localidades_atendidas": [
+      "Villablino"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-17T00:00:00+01:00",
+        "fin": "2026-11-17T09:30:00+01:00"
+      },
+      {
+        "inicio": "2026-11-17T22:00:00+01:00",
+        "fin": "2026-11-18T09:30:00+01:00"
+      }
+    ],
+    "guardia_franjas": [
+      "Madrugada de guardia nocturna anterior · 00:00–09:30",
+      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
+      "Guardia nocturna COF León · 22:00–09:30"
+    ],
+    "lat": null,
+    "lng": null,
+    "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
+    "ubicacion_requiere_verificacion": true,
+    "guardia_desde_ayer": true,
+    "guardia_franja": "Madrugada de guardia nocturna anterior · 00:00–09:30 · Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono. · Guardia nocturna COF León · 22:00–09:30",
+    "guardia_apertura": "desconocida"
+  },
+  {
+    "id": "cof-leon-2c05b2b9f0263042",
+    "nombre": "",
+    "direccion": "RAMON Y CAJAL,19",
+    "localidad": "Robla (La)",
+    "provincia": "León",
+    "telefono": "987570013",
+    "guardia": true,
+    "fecha_guardia": "2026-11-17",
+    "localidades_atendidas": [
+      "Robla (La)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-17T00:00:00+01:00",
+        "fin": "2026-11-17T09:30:00+01:00"
+      },
+      {
+        "inicio": "2026-11-17T22:00:00+01:00",
+        "fin": "2026-11-18T09:30:00+01:00"
+      }
+    ],
+    "guardia_franjas": [
+      "Madrugada de guardia nocturna anterior · 00:00–09:30",
+      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
+      "Guardia nocturna COF León · 22:00–09:30"
+    ],
+    "lat": null,
+    "lng": null,
+    "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
+    "ubicacion_requiere_verificacion": true,
+    "guardia_desde_ayer": true,
+    "guardia_franja": "Madrugada de guardia nocturna anterior · 00:00–09:30 · Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono. · Guardia nocturna COF León · 22:00–09:30",
+    "guardia_apertura": "desconocida"
+  },
+  {
+    "id": "cof-leon-4c88bf43bc61c217",
+    "nombre": "",
+    "direccion": "AV DE LA PUEBLA, 6",
+    "localidad": "Ponferrada",
+    "provincia": "León",
+    "telefono": "987410070",
+    "guardia": true,
+    "fecha_guardia": "2026-11-17",
+    "localidades_atendidas": [
+      "Ponferrada"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-17T00:00:00+01:00",
+        "fin": "2026-11-17T09:30:00+01:00"
+      },
+      {
+        "inicio": "2026-11-17T22:00:00+01:00",
+        "fin": "2026-11-18T09:30:00+01:00"
+      }
+    ],
+    "guardia_franjas": [
+      "Madrugada de guardia nocturna anterior · 00:00–09:30",
+      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
+      "Guardia nocturna COF León · 22:00–09:30"
+    ],
+    "lat": 42.5472152,
+    "lng": -6.5935918,
+    "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
+    "ubicacion_requiere_verificacion": true,
+    "guardia_desde_ayer": true,
+    "guardia_franja": "Madrugada de guardia nocturna anterior · 00:00–09:30 · Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono. · Guardia nocturna COF León · 22:00–09:30",
+    "guardia_apertura": "desconocida",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/633686701",
+    "nota_ubicacion": "Ubicación contrastada: la dirección y una farmacia de OpenStreetMap coinciden a 5 m.",
+    "osm_id": "osm-633686701",
+    "ajuste_ubicacion_m": 4.8
+  },
+  {
+    "id": "cof-leon-c8d70ccdd844db0d",
+    "nombre": "",
+    "direccion": "ASTORGA, 4",
+    "localidad": "Bañeza (La)",
+    "provincia": "León",
+    "telefono": "987641939",
+    "guardia": true,
+    "fecha_guardia": "2026-11-17",
+    "localidades_atendidas": [
+      "Bañeza (La)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-17T00:00:00+01:00",
+        "fin": "2026-11-17T09:30:00+01:00"
+      }
+    ],
+    "guardia_franjas": [
+      "Madrugada de guardia nocturna anterior · 00:00–09:30"
+    ],
+    "lat": null,
+    "lng": null,
+    "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
+    "ubicacion_requiere_verificacion": true,
+    "guardia_desde_ayer": true,
+    "guardia_franja": "Madrugada de guardia nocturna anterior · 00:00–09:30"
+  },
+  {
+    "id": "cof-leon-02d4494ddeb68b1d",
+    "nombre": "",
+    "direccion": "AV DE MATALLANA,1",
+    "localidad": "Valencia De Don Juan",
+    "provincia": "León",
+    "telefono": "987750028",
+    "guardia": true,
+    "fecha_guardia": "2026-11-17",
+    "localidades_atendidas": [
+      "Valencia De Don Juan"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-17T00:00:00+01:00",
+        "fin": "2026-11-17T09:30:00+01:00"
+      },
+      {
+        "inicio": "2026-11-17T22:00:00+01:00",
+        "fin": "2026-11-18T09:30:00+01:00"
+      }
+    ],
+    "guardia_franjas": [
+      "Madrugada de guardia nocturna anterior · 00:00–09:30",
+      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
+      "Guardia nocturna COF León · 22:00–09:30"
+    ],
+    "lat": null,
+    "lng": null,
+    "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
+    "ubicacion_requiere_verificacion": true,
+    "guardia_desde_ayer": true,
+    "guardia_franja": "Madrugada de guardia nocturna anterior · 00:00–09:30 · Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono. · Guardia nocturna COF León · 22:00–09:30",
+    "guardia_apertura": "desconocida"
+  },
+  {
+    "id": "cof-leon-966302f60685e356",
+    "nombre": "",
+    "direccion": "PRIETO DE CASTRO, 1",
+    "localidad": "Astorga",
+    "provincia": "León",
+    "telefono": "987616170",
+    "guardia": true,
+    "fecha_guardia": "2026-11-17",
+    "localidades_atendidas": [
+      "Astorga"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-17T00:00:00+01:00",
+        "fin": "2026-11-17T09:30:00+01:00"
+      }
+    ],
+    "guardia_franjas": [
+      "Madrugada de guardia nocturna anterior · 00:00–09:30"
+    ],
+    "lat": null,
+    "lng": null,
+    "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
+    "ubicacion_requiere_verificacion": true,
+    "guardia_desde_ayer": true,
+    "guardia_franja": "Madrugada de guardia nocturna anterior · 00:00–09:30"
+  },
+  {
+    "id": "cof-leon-89e09bb68e80a876",
+    "nombre": "",
+    "direccion": "PZ DE LOS PUEBLOS, 3",
+    "localidad": "Riaño",
+    "provincia": "León",
+    "telefono": "987740672",
+    "guardia": true,
+    "fecha_guardia": "2026-11-17",
+    "localidades_atendidas": [
+      "Riaño"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-17T00:00:00+01:00",
+        "fin": "2026-11-17T09:30:00+01:00"
+      },
+      {
+        "inicio": "2026-11-17T22:00:00+01:00",
+        "fin": "2026-11-18T09:30:00+01:00"
+      }
+    ],
+    "guardia_franjas": [
+      "Madrugada de guardia nocturna anterior · 00:00–09:30",
+      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
+      "Guardia nocturna COF León · 22:00–09:30"
+    ],
+    "lat": null,
+    "lng": null,
+    "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
+    "ubicacion_requiere_verificacion": true,
+    "guardia_desde_ayer": true,
+    "guardia_franja": "Madrugada de guardia nocturna anterior · 00:00–09:30 · Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono. · Guardia nocturna COF León · 22:00–09:30",
+    "guardia_apertura": "desconocida"
+  },
+  {
+    "id": "cof-leon-d1771d40009cfa01",
+    "nombre": "",
+    "direccion": "HONDA, 75",
+    "localidad": "Laguna De Negrillos",
+    "provincia": "León",
+    "telefono": "987755006",
+    "guardia": true,
+    "fecha_guardia": "2026-11-17",
+    "localidades_atendidas": [
+      "Laguna De Negrillos"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-17T00:00:00+01:00",
+        "fin": "2026-11-17T09:30:00+01:00"
+      }
+    ],
+    "guardia_franjas": [
+      "Madrugada de guardia nocturna anterior · 00:00–09:30"
+    ],
+    "lat": null,
+    "lng": null,
+    "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
+    "ubicacion_requiere_verificacion": true,
+    "guardia_desde_ayer": true,
+    "guardia_franja": "Madrugada de guardia nocturna anterior · 00:00–09:30"
+  },
+  {
+    "id": "jcyl-24-e1-00070",
+    "nombre": "",
+    "direccion": "CALLE PADRE ISLA, 10",
+    "localidad": "Cistierna",
+    "provincia": "León",
+    "telefono": "987701264",
+    "guardia": true,
+    "fecha_guardia": "2026-11-17",
+    "localidades_atendidas": [
+      "Cistierna"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-17T00:00:00+01:00",
+        "fin": "2026-11-17T09:30:00+01:00"
+      },
+      {
+        "inicio": "2026-11-17T22:00:00+01:00",
+        "fin": "2026-11-18T09:30:00+01:00"
+      }
+    ],
+    "guardia_franjas": [
+      "Madrugada de guardia nocturna anterior · 00:00–09:30",
+      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
+      "Guardia nocturna COF León · 22:00–09:30"
+    ],
+    "lat": null,
+    "lng": null,
+    "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
+    "ubicacion_requiere_verificacion": true,
+    "guardia_desde_ayer": true,
+    "guardia_franja": "Madrugada de guardia nocturna anterior · 00:00–09:30 · Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono. · Guardia nocturna COF León · 22:00–09:30",
+    "guardia_apertura": "desconocida"
+  },
+  {
+    "id": "cof-leon-cd1b14864677af73",
+    "nombre": "",
+    "direccion": "CONCORDIA, 3",
+    "localidad": "Boñar",
+    "provincia": "León",
+    "telefono": "987735350",
+    "guardia": true,
+    "fecha_guardia": "2026-11-17",
+    "localidades_atendidas": [
+      "Boñar"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-17T00:00:00+01:00",
+        "fin": "2026-11-17T09:30:00+01:00"
+      },
+      {
+        "inicio": "2026-11-17T22:00:00+01:00",
+        "fin": "2026-11-18T09:30:00+01:00"
+      }
+    ],
+    "guardia_franjas": [
+      "Madrugada de guardia nocturna anterior · 00:00–09:30",
+      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
+      "Guardia nocturna COF León · 22:00–09:30"
+    ],
+    "lat": null,
+    "lng": null,
+    "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
+    "ubicacion_requiere_verificacion": true,
+    "guardia_desde_ayer": true,
+    "guardia_franja": "Madrugada de guardia nocturna anterior · 00:00–09:30 · Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono. · Guardia nocturna COF León · 22:00–09:30",
+    "guardia_apertura": "desconocida"
+  },
+  {
+    "id": "cof-leon-d55dd9a2dfdc7bb9",
+    "nombre": "",
+    "direccion": "AV CONSTITUCION, 24",
+    "localidad": "Sahagun",
+    "provincia": "León",
+    "telefono": "987780349",
+    "guardia": true,
+    "fecha_guardia": "2026-11-17",
+    "localidades_atendidas": [
+      "Sahagun"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-17T00:00:00+01:00",
+        "fin": "2026-11-17T09:30:00+01:00"
+      },
+      {
+        "inicio": "2026-11-17T22:00:00+01:00",
+        "fin": "2026-11-18T09:30:00+01:00"
+      }
+    ],
+    "guardia_franjas": [
+      "Madrugada de guardia nocturna anterior · 00:00–09:30",
+      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
+      "Guardia nocturna COF León · 22:00–09:30"
+    ],
+    "lat": null,
+    "lng": null,
+    "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
+    "ubicacion_requiere_verificacion": true,
+    "guardia_desde_ayer": true,
+    "guardia_franja": "Madrugada de guardia nocturna anterior · 00:00–09:30 · Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono. · Guardia nocturna COF León · 22:00–09:30",
+    "guardia_apertura": "desconocida"
+  },
+  {
+    "id": "cof-leon-c605f86b2cdb7f3d",
+    "nombre": "",
+    "direccion": "AV SAN ANDRES, 12",
+    "localidad": "Cimanes Del Tejar",
+    "provincia": "León",
+    "telefono": "987358168",
+    "guardia": true,
+    "fecha_guardia": "2026-11-17",
+    "localidades_atendidas": [
+      "Cimanes Del Tejar"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-17T00:00:00+01:00",
+        "fin": "2026-11-17T09:30:00+01:00"
+      },
+      {
+        "inicio": "2026-11-17T22:00:00+01:00",
+        "fin": "2026-11-18T09:30:00+01:00"
+      }
+    ],
+    "guardia_franjas": [
+      "Madrugada de guardia nocturna anterior · 00:00–09:30",
+      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
+      "Guardia nocturna COF León · 22:00–09:30"
+    ],
+    "lat": null,
+    "lng": null,
+    "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
+    "ubicacion_requiere_verificacion": true,
+    "guardia_desde_ayer": true,
+    "guardia_franja": "Madrugada de guardia nocturna anterior · 00:00–09:30 · Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono. · Guardia nocturna COF León · 22:00–09:30",
+    "guardia_apertura": "desconocida"
+  },
+  {
+    "id": "cof-leon-79005a4708d50d74",
+    "nombre": "",
+    "direccion": "PASEO VEREMUNDO NUÑEZ, 21",
+    "localidad": "Bembibre",
+    "provincia": "León",
+    "telefono": "987513360",
+    "guardia": true,
+    "fecha_guardia": "2026-11-17",
+    "localidades_atendidas": [
+      "Bembibre"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-17T00:00:00+01:00",
+        "fin": "2026-11-17T09:30:00+01:00"
+      },
+      {
+        "inicio": "2026-11-17T22:00:00+01:00",
+        "fin": "2026-11-18T09:30:00+01:00"
+      }
+    ],
+    "guardia_franjas": [
+      "Madrugada de guardia nocturna anterior · 00:00–09:30",
+      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
+      "Guardia nocturna COF León · 22:00–09:30"
+    ],
+    "lat": null,
+    "lng": null,
+    "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
+    "ubicacion_requiere_verificacion": true,
+    "guardia_desde_ayer": true,
+    "guardia_franja": "Madrugada de guardia nocturna anterior · 00:00–09:30 · Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono. · Guardia nocturna COF León · 22:00–09:30",
+    "guardia_apertura": "desconocida"
+  },
+  {
+    "id": "cof-leon-30a119c7b1405f45",
+    "nombre": "",
+    "direccion": "GIL Y CARRASCO, 3",
+    "localidad": "Fabero",
+    "provincia": "León",
+    "telefono": "987551435",
+    "guardia": true,
+    "fecha_guardia": "2026-11-17",
+    "localidades_atendidas": [
+      "Fabero"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-17T00:00:00+01:00",
+        "fin": "2026-11-17T09:30:00+01:00"
+      },
+      {
+        "inicio": "2026-11-17T22:00:00+01:00",
+        "fin": "2026-11-18T09:30:00+01:00"
+      }
+    ],
+    "guardia_franjas": [
+      "Madrugada de guardia nocturna anterior · 00:00–09:30",
+      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
+      "Guardia nocturna COF León · 22:00–09:30"
+    ],
+    "lat": null,
+    "lng": null,
+    "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
+    "ubicacion_requiere_verificacion": true,
+    "guardia_desde_ayer": true,
+    "guardia_franja": "Madrugada de guardia nocturna anterior · 00:00–09:30 · Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono. · Guardia nocturna COF León · 22:00–09:30",
+    "guardia_apertura": "desconocida"
+  },
+  {
+    "id": "cof-leon-627d3b5910c45208",
+    "nombre": "",
+    "direccion": "AV SAN JUAN DE SAHAGÚN, 23",
+    "localidad": "Leon",
+    "provincia": "León",
+    "telefono": "987246446",
+    "guardia": true,
+    "fecha_guardia": "2026-11-17",
+    "localidades_atendidas": [
+      "Leon"
+    ],
+    "guardia_intervalos": [],
+    "guardia_franjas": [
+      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono."
+    ],
+    "lat": null,
+    "lng": null,
+    "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
+    "ubicacion_requiere_verificacion": true,
+    "guardia_apertura": "desconocida",
+    "guardia_franja": "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono."
+  },
+  {
+    "id": "cof-leon-23441047905ef63b",
+    "nombre": "",
+    "direccion": "AV. REYES LEONESES, 46",
+    "localidad": "Leon",
+    "provincia": "León",
+    "telefono": "987247487",
+    "guardia": true,
+    "fecha_guardia": "2026-11-17",
+    "localidades_atendidas": [
+      "Leon"
+    ],
+    "guardia_intervalos": [],
+    "guardia_franjas": [
+      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono."
+    ],
+    "lat": null,
+    "lng": null,
+    "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
+    "ubicacion_requiere_verificacion": true,
+    "guardia_apertura": "desconocida",
+    "guardia_franja": "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono."
+  },
+  {
+    "id": "cof-leon-c954d327e4fe7755",
+    "nombre": "",
+    "direccion": "LA SERNA, 14",
+    "localidad": "Leon",
+    "provincia": "León",
+    "telefono": "987238469",
+    "guardia": true,
+    "fecha_guardia": "2026-11-17",
+    "localidades_atendidas": [
+      "Leon"
+    ],
+    "guardia_intervalos": [],
+    "guardia_franjas": [
+      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono."
+    ],
+    "lat": 42.6012081,
+    "lng": -5.5615651,
+    "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
+    "ubicacion_requiere_verificacion": true,
+    "guardia_apertura": "desconocida",
+    "guardia_franja": "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/10154794738",
+    "nota_ubicacion": "Ubicación contrastada: la dirección y una farmacia de OpenStreetMap coinciden a 4 m.",
+    "osm_id": "osm-10154794738",
+    "ajuste_ubicacion_m": 4.4
+  },
+  {
+    "id": "jcyl-24-e1-00015",
+    "nombre": "",
+    "direccion": "CALLE PIO GULLON, 11",
+    "localidad": "Astorga",
+    "provincia": "León",
+    "telefono": "987616400",
+    "guardia": true,
+    "fecha_guardia": "2026-11-17",
+    "localidades_atendidas": [
+      "Astorga"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-17T22:00:00+01:00",
+        "fin": "2026-11-18T09:30:00+01:00"
+      }
+    ],
+    "guardia_franjas": [
+      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
+      "Guardia nocturna COF León · 22:00–09:30"
+    ],
+    "lat": null,
+    "lng": null,
+    "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
+    "ubicacion_requiere_verificacion": true,
+    "guardia_apertura": "desconocida",
+    "guardia_franja": "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono. · Guardia nocturna COF León · 22:00–09:30",
+    "guardia_desde_ayer": false
+  },
+  {
+    "id": "cof-leon-efa02eb850a6988c",
+    "nombre": "",
+    "direccion": "CR PUERTO VENTANA",
+    "localidad": "San Emiliano",
+    "provincia": "León",
+    "telefono": "987594018",
+    "guardia": true,
+    "fecha_guardia": "2026-11-17",
+    "localidades_atendidas": [
+      "San Emiliano"
+    ],
+    "guardia_intervalos": [],
+    "guardia_franjas": [
+      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono."
+    ],
+    "lat": null,
+    "lng": null,
+    "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
+    "ubicacion_requiere_verificacion": true,
+    "guardia_apertura": "desconocida",
+    "guardia_franja": "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono."
+  },
+  {
+    "id": "cof-leon-7117d6c46d7771f1",
+    "nombre": "",
+    "direccion": "LA VEGA, 21",
+    "localidad": "Paramo Del Sil",
+    "provincia": "León",
+    "telefono": "987526145",
+    "guardia": true,
+    "fecha_guardia": "2026-11-17",
+    "localidades_atendidas": [
+      "Paramo Del Sil"
+    ],
+    "guardia_intervalos": [],
+    "guardia_franjas": [
+      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono."
+    ],
+    "lat": null,
+    "lng": null,
+    "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
+    "ubicacion_requiere_verificacion": true,
+    "guardia_apertura": "desconocida",
+    "guardia_franja": "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono."
+  },
+  {
+    "id": "cof-leon-999e0b093ea46995",
+    "nombre": "",
+    "direccion": "PZ MAYOR, 7",
+    "localidad": "Cacabelos",
+    "provincia": "León",
+    "telefono": "987546977",
+    "guardia": true,
+    "fecha_guardia": "2026-11-17",
+    "localidades_atendidas": [
+      "Cacabelos"
+    ],
+    "guardia_intervalos": [],
+    "guardia_franjas": [
+      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono."
+    ],
+    "lat": 42.5992936,
+    "lng": -6.7255862,
+    "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
+    "ubicacion_requiere_verificacion": true,
+    "guardia_apertura": "desconocida",
+    "guardia_franja": "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/1895699964",
+    "nota_ubicacion": "Ubicación contrastada: la dirección y una farmacia de OpenStreetMap coinciden a 4 m.",
+    "osm_id": "osm-1895699964",
+    "ajuste_ubicacion_m": 3.7
+  },
+  {
+    "id": "cof-leon-b542147be1c0350e",
+    "nombre": "",
+    "direccion": "DOCTOR AREN, 25",
+    "localidad": "Villafranca Del Bierzo",
+    "provincia": "León",
+    "telefono": "987540056",
+    "guardia": true,
+    "fecha_guardia": "2026-11-17",
+    "localidades_atendidas": [
+      "Villafranca Del Bierzo"
+    ],
+    "guardia_intervalos": [],
+    "guardia_franjas": [
+      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono."
+    ],
+    "lat": null,
+    "lng": null,
+    "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
+    "ubicacion_requiere_verificacion": true,
+    "guardia_apertura": "desconocida",
+    "guardia_franja": "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono."
+  },
+  {
+    "id": "cof-leon-f06067770fd722e8",
+    "nombre": "",
+    "direccion": "VIA PICO TUERTO, 5",
+    "localidad": "Ponferrada",
+    "provincia": "León",
+    "telefono": "987413603",
+    "guardia": true,
+    "fecha_guardia": "2026-11-17",
+    "localidades_atendidas": [
+      "Ponferrada"
+    ],
+    "guardia_intervalos": [],
+    "guardia_franjas": [
+      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono."
+    ],
+    "lat": null,
+    "lng": null,
+    "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
+    "ubicacion_requiere_verificacion": true,
+    "guardia_apertura": "desconocida",
+    "guardia_franja": "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono."
+  },
+  {
+    "id": "cof-leon-151e4f609bd6d821",
+    "nombre": "",
+    "direccion": "GENERAL BENAVIDES, 3",
+    "localidad": "Bañeza (La)",
+    "provincia": "León",
+    "telefono": "987655305",
+    "guardia": true,
+    "fecha_guardia": "2026-11-17",
+    "localidades_atendidas": [
+      "Bañeza (La)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-17T22:00:00+01:00",
+        "fin": "2026-11-18T09:30:00+01:00"
+      }
+    ],
+    "guardia_franjas": [
+      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
+      "Guardia nocturna COF León · 22:00–09:30"
+    ],
+    "lat": null,
+    "lng": null,
+    "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
+    "ubicacion_requiere_verificacion": true,
+    "guardia_apertura": "desconocida",
+    "guardia_franja": "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono. · Guardia nocturna COF León · 22:00–09:30",
+    "guardia_desde_ayer": false
+  },
+  {
+    "id": "cof-leon-b2d3b4eeb8fcb84d",
+    "nombre": "",
+    "direccion": "SAN ROQUE, 3",
+    "localidad": "Gordoncillo",
+    "provincia": "León",
+    "telefono": "987757004",
+    "guardia": true,
+    "fecha_guardia": "2026-11-17",
+    "localidades_atendidas": [
+      "Gordoncillo"
+    ],
+    "guardia_intervalos": [],
+    "guardia_franjas": [
+      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono."
+    ],
+    "lat": null,
+    "lng": null,
+    "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
+    "ubicacion_requiere_verificacion": true,
+    "guardia_apertura": "desconocida",
+    "guardia_franja": "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono."
+  },
+  {
+    "id": "cof-leon-cd8efd9430575985",
+    "nombre": "",
+    "direccion": "C/ CARRETERA, 11",
+    "localidad": "Gradefes",
+    "provincia": "León",
+    "telefono": "987333018",
+    "guardia": true,
+    "fecha_guardia": "2026-11-17",
+    "localidades_atendidas": [
+      "Gradefes"
+    ],
+    "guardia_intervalos": [],
+    "guardia_franjas": [
+      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono."
+    ],
+    "lat": null,
+    "lng": null,
+    "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
+    "ubicacion_requiere_verificacion": true,
+    "guardia_apertura": "desconocida",
+    "guardia_franja": "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono."
+  },
+  {
+    "id": "cof-leon-e7311d6a14623152",
+    "nombre": "",
+    "direccion": "PZ PLAZA MAYOR, 2",
+    "localidad": "Santa Maria Del Paramo",
+    "provincia": "León",
+    "telefono": "987350017",
+    "guardia": true,
+    "fecha_guardia": "2026-11-17",
+    "localidades_atendidas": [
+      "Santa Maria Del Paramo"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-17T22:00:00+01:00",
+        "fin": "2026-11-18T09:30:00+01:00"
+      }
+    ],
+    "guardia_franjas": [
+      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
+      "Guardia nocturna COF León · 22:00–09:30"
+    ],
+    "lat": null,
+    "lng": null,
+    "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
+    "ubicacion_requiere_verificacion": true,
+    "guardia_apertura": "desconocida",
+    "guardia_franja": "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono. · Guardia nocturna COF León · 22:00–09:30",
+    "guardia_desde_ayer": false
+  },
+  {
+    "id": "cof-leon-ee79f222f8fb2b1c",
+    "nombre": "",
+    "direccion": "PARROCO PABLO DIEZ, 42-44",
+    "localidad": "Trobajo Del Camino",
+    "provincia": "León",
+    "telefono": "670711021",
+    "guardia": true,
+    "fecha_guardia": "2026-11-17",
+    "localidades_atendidas": [
+      "Trobajo Del Camino"
+    ],
+    "guardia_intervalos": [],
+    "guardia_franjas": [
+      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono."
+    ],
+    "lat": null,
+    "lng": null,
+    "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
+    "ubicacion_requiere_verificacion": true,
+    "guardia_apertura": "desconocida",
+    "guardia_franja": "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono."
+  },
+  {
+    "id": "cof-leon-1582f97ceeadfbb8",
+    "nombre": "",
+    "direccion": "PIORNAL, S/N",
+    "localidad": "Truchas",
+    "provincia": "León",
+    "telefono": "987670289",
+    "guardia": true,
+    "fecha_guardia": "2026-11-17",
+    "localidades_atendidas": [
+      "Truchas"
+    ],
+    "guardia_intervalos": [],
+    "guardia_franjas": [
+      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono."
+    ],
+    "lat": null,
+    "lng": null,
+    "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
+    "ubicacion_requiere_verificacion": true,
+    "guardia_apertura": "desconocida",
+    "guardia_franja": "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono."
+  },
+  {
+    "id": "cof-leon-c0d519766ba6dd7a",
+    "nombre": "",
+    "direccion": "REAL, 4 BAJO - 2",
+    "localidad": "Santas Martas",
+    "provincia": "León",
+    "telefono": "987314042",
+    "guardia": true,
+    "fecha_guardia": "2026-11-17",
+    "localidades_atendidas": [
+      "Santas Martas"
+    ],
+    "guardia_intervalos": [],
+    "guardia_franjas": [
+      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono."
+    ],
+    "lat": null,
+    "lng": null,
+    "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
+    "ubicacion_requiere_verificacion": true,
+    "guardia_apertura": "desconocida",
+    "guardia_franja": "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono."
+  },
+  {
+    "id": "cof-leon-5aef2c445edd7fe5",
+    "nombre": "",
+    "direccion": "EL ENTRAYO, 3",
+    "localidad": "Pombriego",
+    "provincia": "León",
+    "telefono": "987452304",
+    "guardia": true,
+    "fecha_guardia": "2026-11-17",
+    "localidades_atendidas": [
+      "Pombriego"
+    ],
+    "guardia_intervalos": [],
+    "guardia_franjas": [
+      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono."
+    ],
+    "lat": null,
+    "lng": null,
+    "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
+    "ubicacion_requiere_verificacion": true,
+    "guardia_apertura": "desconocida",
+    "guardia_franja": "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono."
+  },
+  {
+    "id": "cof-leon-a70893b284bf6a64",
+    "nombre": "",
+    "direccion": "ANTONIO VAZQUEZ FDEZ, 3",
+    "localidad": "Trobajo Del Camino",
+    "provincia": "León",
+    "telefono": "987803233",
+    "guardia": true,
+    "fecha_guardia": "2026-11-17",
+    "localidades_atendidas": [
+      "Trobajo Del Camino"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-17T22:00:00+01:00",
+        "fin": "2026-11-18T09:30:00+01:00"
+      }
+    ],
+    "guardia_franjas": [
+      "Guardia nocturna COF León · 22:00–09:30"
+    ],
+    "lat": null,
+    "lng": null,
+    "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
+    "ubicacion_requiere_verificacion": true,
+    "guardia_franja": "Guardia nocturna COF León · 22:00–09:30"
+  }
+]

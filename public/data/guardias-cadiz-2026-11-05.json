@@ -1,0 +1,2548 @@
+[
+  {
+    "id": "cad-110002",
+    "cofm_id": "110002",
+    "nombre": "Fernández Montes de Oca, Mª José",
+    "direccion": "Avda. de los Alcornocales, 2 Bajo 6",
+    "localidad": "Alcala de Los Gazules",
+    "provincia": "Cádiz",
+    "zona": "ALCALA DE LOS GAZULES",
+    "telefono": "956428262",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Día y Noche (24 horas): 05/11 00:00–05/11 09:00",
+      "Día y Noche (24 horas): 05/11 09:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      }
+    ],
+    "lat": 36.45982900374759,
+    "lng": -5.724849025568496,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Día y Noche (24 horas): 05/11 00:00–05/11 09:00 · Día y Noche (24 horas): 05/11 09:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110023",
+    "cofm_id": "110023",
+    "nombre": "Rodríguez Muñoz, Antonio",
+    "direccion": "C/ Alcalde José González, nº 8",
+    "localidad": "Bornos",
+    "provincia": "Cádiz",
+    "zona": "BORNOS",
+    "telefono": "956712304",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Día y Noche (24 horas): 05/11 00:00–05/11 09:00",
+      "Día y Noche (24 horas): 05/11 09:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      }
+    ],
+    "lat": 36.815589409989,
+    "lng": -5.7434892654419,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Día y Noche (24 horas): 05/11 00:00–05/11 09:00 · Día y Noche (24 horas): 05/11 09:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110101",
+    "cofm_id": "110101",
+    "nombre": "Ballesteros Galán, Federico - Cascajo Almenara, Nuria",
+    "direccion": "C/ San Francisco de Paula, 4",
+    "localidad": "Medina Sidonia",
+    "provincia": "Cádiz",
+    "zona": "MEDINA SIDONIA",
+    "telefono": "956410031",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Día y Noche (24 horas): 05/11 00:00–05/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      }
+    ],
+    "lat": 36.457671517803,
+    "lng": -5.9294092655182,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Día y Noche (24 horas): 05/11 00:00–05/11 09:00"
+  },
+  {
+    "id": "cad-110106",
+    "cofm_id": "110106",
+    "nombre": "López Naharro , María",
+    "direccion": "C/ Teniente Peñalver, 27 Local 1",
+    "localidad": "Prado del Rey",
+    "provincia": "Cádiz",
+    "zona": "PRADO DEL REY",
+    "telefono": "956723137",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Día y Noche (24 horas): 05/11 00:00–05/11 09:00",
+      "Día y Noche (24 horas): 05/11 09:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      }
+    ],
+    "lat": 36.7892075348839,
+    "lng": -5.5566787719,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Día y Noche (24 horas): 05/11 00:00–05/11 09:00 · Día y Noche (24 horas): 05/11 09:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110135",
+    "cofm_id": "110135",
+    "nombre": "Ortiz de Galisteo Marín-Zamudio Marín",
+    "direccion": "Constitucion, nº 12",
+    "localidad": "Setenil de Las Bodegas",
+    "provincia": "Cádiz",
+    "zona": "SETENIL DE LAS BODEGAS",
+    "telefono": "956134237",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Día y Noche (24 horas): 05/11 00:00–05/11 09:00",
+      "Día y Noche (24 horas): 05/11 09:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      }
+    ],
+    "lat": 36.8631242652952,
+    "lng": -5.1813948154,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Día y Noche (24 horas): 05/11 00:00–05/11 09:00 · Día y Noche (24 horas): 05/11 09:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110142",
+    "cofm_id": "110142",
+    "nombre": "Rapado Llorente, Ana",
+    "direccion": "Juan Relinque, núm. 16",
+    "localidad": "Vejer de La Frontera",
+    "provincia": "Cádiz",
+    "zona": "VEJER DE LA FRONTERA",
+    "telefono": "956450054",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Día y Noche (24 horas): 05/11 00:00–05/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      }
+    ],
+    "lat": 36.2526573429658,
+    "lng": -5.9670996665,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Día y Noche (24 horas): 05/11 00:00–05/11 09:00"
+  },
+  {
+    "id": "cad-110224",
+    "cofm_id": "110224",
+    "nombre": "Mª Jesús Moreno Cruz y Belén Orellana Romero",
+    "direccion": "C/ Antonio Machado, nº 10",
+    "localidad": "Trebujena",
+    "provincia": "Cádiz",
+    "zona": "TREBUJENA",
+    "telefono": "956165376",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Día y Noche (24 horas): 05/11 00:00–05/11 09:00",
+      "Día y Noche (24 horas): 05/11 09:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      }
+    ],
+    "lat": 36.870523168323,
+    "lng": -6.1766123771667,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Día y Noche (24 horas): 05/11 00:00–05/11 09:00 · Día y Noche (24 horas): 05/11 09:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110240",
+    "cofm_id": "110240",
+    "nombre": "Holgado Carrero, Carolina",
+    "direccion": "Clavel, nº 15",
+    "localidad": "Puerto Serrano",
+    "provincia": "Cádiz",
+    "zona": "PUERTO SERRANO",
+    "telefono": "956136059",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Día y Noche (24 horas): 05/11 00:00–05/11 09:00",
+      "Día y Noche (24 horas): 05/11 09:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      }
+    ],
+    "lat": 36.922089570791,
+    "lng": -5.5431389808655,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Día y Noche (24 horas): 05/11 00:00–05/11 09:00 · Día y Noche (24 horas): 05/11 09:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110417",
+    "cofm_id": "110417",
+    "nombre": "Sánchez Trujillo, Francisco Javier",
+    "direccion": "Avda. Mar del Sur, nº 28 Edif. La Dorada",
+    "localidad": "Torreguadiaro",
+    "provincia": "Cádiz",
+    "zona": "SAN ROQUE",
+    "telefono": "956610128",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Día y Noche (24 horas): 05/11 00:00–05/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      }
+    ],
+    "lat": 36.29917659022119,
+    "lng": -5.271057531763257,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Día y Noche (24 horas): 05/11 00:00–05/11 09:00"
+  },
+  {
+    "id": "cad-110465",
+    "cofm_id": "110465",
+    "nombre": "Vega Castaño, Ricardo",
+    "direccion": "Avda. de la Música, 17 C",
+    "localidad": "Conil de La Frontera",
+    "provincia": "Cádiz",
+    "zona": "CONIL DE LA FRONTERA",
+    "telefono": "956444432",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Día y Noche (24 horas): 05/11 00:00–05/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      }
+    ],
+    "lat": 36.284419,
+    "lng": -6.086251,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Día y Noche (24 horas): 05/11 00:00–05/11 09:00"
+  },
+  {
+    "id": "cad-110469",
+    "cofm_id": "110469",
+    "nombre": "Gallardo Castellano, María José",
+    "direccion": "Avda. Virgen de la Merced, 1",
+    "localidad": "Arcos de La Frontera",
+    "provincia": "Cádiz",
+    "zona": "ARCOS DE LA FRONTERA",
+    "telefono": "956701066",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Día y Noche (24 horas): 05/11 00:00–05/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      }
+    ],
+    "lat": 36.756456,
+    "lng": -5.8175220000001,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Día y Noche (24 horas): 05/11 00:00–05/11 09:00"
+  },
+  {
+    "id": "cad-110472",
+    "cofm_id": "110472",
+    "nombre": "Villalva Sabina, Mª Teresa",
+    "direccion": "Canalejas, nº 13",
+    "localidad": "Algodonales",
+    "provincia": "Cádiz",
+    "zona": "ALGODONALES",
+    "telefono": "956137863",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Día y Noche (24 horas): 05/11 00:00–05/11 09:00",
+      "Día y Noche (24 horas): 05/11 09:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      }
+    ],
+    "lat": 36.880221,
+    "lng": -5.408131,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Día y Noche (24 horas): 05/11 00:00–05/11 09:00 · Día y Noche (24 horas): 05/11 09:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110481",
+    "cofm_id": "110481",
+    "nombre": "Rita Hormigo Tirado",
+    "direccion": "C/ Naranjo, nº 1",
+    "localidad": "Chipiona",
+    "provincia": "Cádiz",
+    "zona": "CHIPIONA",
+    "telefono": "856398468",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Día y Noche (24 horas): 05/11 00:00–05/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      }
+    ],
+    "lat": 36.733202,
+    "lng": -6.4350440000001,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Día y Noche (24 horas): 05/11 00:00–05/11 09:00"
+  },
+  {
+    "id": "cad-110483",
+    "cofm_id": "110483",
+    "nombre": "Rodríguez Gil, Ana María",
+    "direccion": "Avda. de los Parlamentarios, 2A",
+    "localidad": "Ubrique",
+    "provincia": "Cádiz",
+    "zona": "UBRIQUE",
+    "telefono": "956460457",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Día y Noche (24 horas): 05/11 00:00–05/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      }
+    ],
+    "lat": 36.6671364,
+    "lng": -5.4481311,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Día y Noche (24 horas): 05/11 00:00–05/11 09:00"
+  },
+  {
+    "id": "cad-110492",
+    "cofm_id": "110492",
+    "nombre": "Palacios Camacho, Victoria María",
+    "direccion": "C/ Espillaga, 1 / La Matea 20",
+    "localidad": "Rota",
+    "provincia": "Cádiz",
+    "zona": "ROTA",
+    "telefono": "956842357",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Día y Noche (24 horas): 05/11 00:00–05/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      }
+    ],
+    "lat": 36.629855,
+    "lng": -6.370043,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Día y Noche (24 horas): 05/11 00:00–05/11 09:00"
+  },
+  {
+    "id": "cad-110087",
+    "cofm_id": "110087",
+    "nombre": "Regueira Mauriz, Víctor José",
+    "direccion": "C/ Los Chorros, nº 20. Los Ángeles",
+    "localidad": "Jimena de La Frontera",
+    "provincia": "Cádiz",
+    "zona": "JIMENA DE LA FRONTERA",
+    "telefono": "956640190",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Día y Noche (24 horas): 05/11 00:00–05/11 09:00",
+      "Día y Noche (24 horas): 05/11 09:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      }
+    ],
+    "lat": 36.4234407156807,
+    "lng": -5.4345846176,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Día y Noche (24 horas): 05/11 00:00–05/11 09:00 · Día y Noche (24 horas): 05/11 09:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110103",
+    "cofm_id": "110103",
+    "nombre": "Morón Flores, Belén",
+    "direccion": "C/ Calvario, nº 124",
+    "localidad": "Olvera",
+    "provincia": "Cádiz",
+    "zona": "OLVERA",
+    "telefono": "956130823",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Día y Noche (24 horas): 05/11 00:00–05/11 09:00",
+      "Día y Noche (24 horas): 05/11 09:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      }
+    ],
+    "lat": 36.93509111282325,
+    "lng": -5.259251058983632,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Día y Noche (24 horas): 05/11 00:00–05/11 09:00 · Día y Noche (24 horas): 05/11 09:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110133",
+    "cofm_id": "110133",
+    "nombre": "Ferrer Rodríguez, Teresa y Juan Manuel",
+    "direccion": "Paseo de la Alameda, s/n",
+    "localidad": "San Roque",
+    "provincia": "Cádiz",
+    "zona": "SAN ROQUE",
+    "telefono": "956780245",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Día y Noche (24 horas): 05/11 00:00–05/11 09:00",
+      "Día y Noche (24 horas): 05/11 09:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      }
+    ],
+    "lat": 36.209845,
+    "lng": -5.389377,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Día y Noche (24 horas): 05/11 00:00–05/11 09:00 · Día y Noche (24 horas): 05/11 09:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110136",
+    "cofm_id": "110136",
+    "nombre": "Checa Moreno de Guerra, Ricardo",
+    "direccion": "Batalla del Salado,55 Bda.C.Consuelo B.1",
+    "localidad": "Tarifa",
+    "provincia": "Cádiz",
+    "zona": "TARIFA",
+    "telefono": "956684136",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Día y Noche (24 horas): 05/11 00:00–05/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      }
+    ],
+    "lat": 36.0179603695588,
+    "lng": -5.608241558,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Día y Noche (24 horas): 05/11 00:00–05/11 09:00"
+  },
+  {
+    "id": "cad-110145",
+    "cofm_id": "110145",
+    "nombre": "Miras Sepúlveda, Marta",
+    "direccion": "Avda. de la Feria, 5",
+    "localidad": "Villamartin",
+    "provincia": "Cádiz",
+    "zona": "VILLAMARTIN",
+    "telefono": "956730075",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Día y Noche (24 horas): 05/11 00:00–05/11 09:00",
+      "Día y Noche (24 horas): 05/11 09:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      }
+    ],
+    "lat": 36.8610898705542,
+    "lng": -5.6432175636,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Día y Noche (24 horas): 05/11 00:00–05/11 09:00 · Día y Noche (24 horas): 05/11 09:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110162",
+    "cofm_id": "110162",
+    "nombre": "Mate López, Paula",
+    "direccion": "Independencia, 11",
+    "localidad": "Benalup-Casas Viejas",
+    "provincia": "Cádiz",
+    "zona": "BENALUP-CASA VIEJAS",
+    "telefono": "956424026",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Día y Noche (24 horas): 05/11 00:00–05/11 09:00",
+      "Día y Noche (24 horas): 05/11 09:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      }
+    ],
+    "lat": 36.3420842244666,
+    "lng": -5.812754631,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Día y Noche (24 horas): 05/11 00:00–05/11 09:00 · Día y Noche (24 horas): 05/11 09:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110199",
+    "cofm_id": "110199",
+    "nombre": "Galán Collantes, María Teresa",
+    "direccion": "Paseo de la Constitución, nº 1",
+    "localidad": "Barrios, Los",
+    "provincia": "Cádiz",
+    "zona": "LOS BARRIOS",
+    "telefono": "956620096",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Día y Noche (24 horas): 05/11 00:00–05/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      }
+    ],
+    "lat": 36.183882,
+    "lng": -5.492705,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Día y Noche (24 horas): 05/11 00:00–05/11 09:00"
+  },
+  {
+    "id": "cad-110222",
+    "cofm_id": "110222",
+    "nombre": "Sánchez de Medina Pacheco, Javier",
+    "direccion": "La Plaza, 204",
+    "localidad": "Puerto Real",
+    "provincia": "Cádiz",
+    "zona": "PUERTO REAL",
+    "telefono": "956831689",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Día y Noche (24 horas): 05/11 00:00–05/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      }
+    ],
+    "lat": 36.529131152509,
+    "lng": -6.1948513984,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Día y Noche (24 horas): 05/11 00:00–05/11 09:00"
+  },
+  {
+    "id": "cad-110473",
+    "cofm_id": "110473",
+    "nombre": "Gámez Rueda, Mª Isabel",
+    "direccion": "Avda. Atlántico, nº 46",
+    "localidad": "Barbate",
+    "provincia": "Cádiz",
+    "zona": "BARBATE",
+    "telefono": "956433515",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "DURANTE LAS 24 HORAS: 05/11 00:00–05/11 09:30"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:30:00",
+        "tipo": "DURANTE LAS 24 HORAS"
+      }
+    ],
+    "lat": 36.18723,
+    "lng": -5.918308,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "DURANTE LAS 24 HORAS: 05/11 00:00–05/11 09:30"
+  },
+  {
+    "id": "cad-110195",
+    "cofm_id": "110195",
+    "nombre": "Martínez Díez, Rafael",
+    "direccion": "Avda. de Godoy, 13",
+    "localidad": "Sanlucar de Barrameda",
+    "provincia": "Cádiz",
+    "zona": "SANLUCAR DE BARRAMEDA",
+    "telefono": "956361212",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "DURANTE LAS 24 HORAS: 05/11 00:00–05/11 09:30"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:30:00",
+        "tipo": "DURANTE LAS 24 HORAS"
+      }
+    ],
+    "lat": 36.76993297256,
+    "lng": -6.3483810424805,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "DURANTE LAS 24 HORAS: 05/11 00:00–05/11 09:30"
+  },
+  {
+    "id": "cad-110048",
+    "cofm_id": "110048",
+    "nombre": "Salado Fernández, Francisco",
+    "direccion": "C/ San Rafael, nº 4",
+    "localidad": "Cádiz",
+    "provincia": "Cádiz",
+    "zona": "CADIZ",
+    "telefono": "956214250",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 05/11 00:00–05/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,00 h)"
+      }
+    ],
+    "lat": 36.5328295600225,
+    "lng": -6.30303025245667,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 05/11 00:00–05/11 09:00"
+  },
+  {
+    "id": "cad-110127",
+    "cofm_id": "110127",
+    "nombre": "Adame Perera, María Isabel y Quintana Calzadilla, José Carlos",
+    "direccion": "C/ San Rafael, 4",
+    "localidad": "San Fernando",
+    "provincia": "Cádiz",
+    "zona": "SAN FERNANDO",
+    "telefono": "956881911",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 05/11 00:00–05/11 09:00",
+      "SERVICIO DIURNO (de 09,00 h a 22,00 h): 05/11 09:00–05/11 22:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,00 h)"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "tipo": "SERVICIO DIURNO (de 09,00 h a 22,00 h)"
+      }
+    ],
+    "lat": 36.4687518,
+    "lng": -6.195977,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 05/11 00:00–05/11 09:00 · SERVICIO DIURNO (de 09,00 h a 22,00 h): 05/11 09:00–05/11 22:00"
+  },
+  {
+    "id": "cad-110241",
+    "cofm_id": "110241",
+    "nombre": "Aumesquet Fernández, Rocío, Teresa Cristina y María del Mar",
+    "direccion": "Avda. la Serrana, b.5 Ed.Aries",
+    "localidad": "Jerez de La Frontera",
+    "provincia": "Cádiz",
+    "zona": "JEREZ DE LA FRONTERA",
+    "telefono": "956305815",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 05/11 00:00–05/11 09:00",
+      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 05/11 22:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,00 h)"
+      },
+      {
+        "inicio": "2026-11-05T22:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,00 h)"
+      }
+    ],
+    "lat": 36.69528538,
+    "lng": -6.14417911,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 05/11 00:00–05/11 09:00 · SERVICIO NOCTURNO (de 22,00 a 9,00 h): 05/11 22:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110326",
+    "cofm_id": "110326",
+    "nombre": "Garcia-Trevijano de Saralegui, Ana y Rocío",
+    "direccion": "Plaza Tula Ruiz Golluri, nº 12",
+    "localidad": "El Puerto de Santa María",
+    "provincia": "Cádiz",
+    "zona": "EL PUERTO DE SANTA MARIA",
+    "telefono": "956871086",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "SERVICIO NOCTURNO (de 22,00 a 9,30 h): 05/11 00:00–05/11 09:30",
+      "SERVICIO DIURNO (de 9,30 a 22,00 h): 05/11 09:30–05/11 22:00",
+      "SERVICIO NOCTURNO (de 22,00 a 9,30 h): 05/11 22:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:30:00",
+        "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,30 h)"
+      },
+      {
+        "inicio": "2026-11-05T09:30:00",
+        "fin": "2026-11-05T22:00:00",
+        "tipo": "SERVICIO DIURNO (de 9,30 a 22,00 h)"
+      },
+      {
+        "inicio": "2026-11-05T22:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,30 h)"
+      }
+    ],
+    "lat": 36.6103659,
+    "lng": -6.2161162,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "SERVICIO NOCTURNO (de 22,00 a 9,30 h): 05/11 00:00–05/11 09:30 · SERVICIO DIURNO (de 9,30 a 22,00 h): 05/11 09:30–05/11 22:00 · SERVICIO NOCTURNO (de 22,00 a 9,30 h): 05/11 22:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110357",
+    "cofm_id": "110357",
+    "nombre": "Rodríguez Ferrer, María",
+    "direccion": "Avda. Virgen de la Palma, 18 Edif. D. Rodrigo (SUBIDA AVDA JAIRO, CC PRIMARK)",
+    "localidad": "Algeciras",
+    "provincia": "Cádiz",
+    "zona": "ALGECIRAS",
+    "telefono": "956656641",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 05/11 00:00–05/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,00 h)"
+      }
+    ],
+    "lat": 36.13571,
+    "lng": -5.4594099999999,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 05/11 00:00–05/11 09:00"
+  },
+  {
+    "id": "cad-110013",
+    "cofm_id": "110013",
+    "nombre": "Aycart Valdés, María Luz",
+    "direccion": "Fuente Nueva, Local 3-A",
+    "localidad": "Algeciras",
+    "provincia": "Cádiz",
+    "zona": "ALGECIRAS",
+    "telefono": "956662851",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 05/11 00:00–05/11 09:00",
+      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 05/11 22:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,00 h)"
+      },
+      {
+        "inicio": "2026-11-05T22:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,00 h)"
+      }
+    ],
+    "lat": 36.13244222571025,
+    "lng": -5.452882420197701,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 05/11 00:00–05/11 09:00 · SERVICIO NOCTURNO (de 22,00 a 9,00 h): 05/11 22:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110083",
+    "cofm_id": "110083",
+    "nombre": "Muñoz Gómez, Susana y Marta",
+    "direccion": "C/ Camino de Albadalejo, nº 2",
+    "localidad": "Jerez de La Frontera",
+    "provincia": "Cádiz",
+    "zona": "JEREZ DE LA FRONTERA",
+    "telefono": "956336212",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 05/11 00:00–05/11 09:00",
+      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 05/11 22:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,00 h)"
+      },
+      {
+        "inicio": "2026-11-05T22:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,00 h)"
+      }
+    ],
+    "lat": 36.6864542521742,
+    "lng": -6.11513614654541,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 05/11 00:00–05/11 09:00 · SERVICIO NOCTURNO (de 22,00 a 9,00 h): 05/11 22:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110096",
+    "cofm_id": "110096",
+    "nombre": "Molina Ruano, Miguel",
+    "direccion": "C/ Aurora nº 16",
+    "localidad": "La Línea de La Concepción",
+    "provincia": "Cádiz",
+    "zona": "LA LINEA DE LA CONCEPCION",
+    "telefono": "956172837",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "SERVICIO NOCTURNO (de 22,00 a 9,30 h): 05/11 00:00–05/11 09:30"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:30:00",
+        "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,30 h)"
+      }
+    ],
+    "lat": 36.1633653,
+    "lng": -5.3500063,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "SERVICIO NOCTURNO (de 22,00 a 9,30 h): 05/11 00:00–05/11 09:30"
+  },
+  {
+    "id": "cad-110185",
+    "cofm_id": "110185",
+    "nombre": "Rodríguez Guerrero, Ignacio, Alfonso, Ana",
+    "direccion": "C/ Jesús Nazareno, 10",
+    "localidad": "Chiclana de La Frontera",
+    "provincia": "Cádiz",
+    "zona": "CHICLANA DE LA FRONTERA",
+    "telefono": "956401111",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "SERVICIO NOCTURNO (de 22,00 a 9,30 h): 05/11 00:00–05/11 09:30"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:30:00",
+        "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,30 h)"
+      }
+    ],
+    "lat": 36.418761505966,
+    "lng": -6.1508846282959,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "SERVICIO NOCTURNO (de 22,00 a 9,30 h): 05/11 00:00–05/11 09:30"
+  },
+  {
+    "id": "cad-110232",
+    "cofm_id": "110232",
+    "nombre": "Rodríguez Castiñeiras, Olga María",
+    "direccion": "Avda. de Huelva, s/n",
+    "localidad": "Cádiz",
+    "provincia": "Cádiz",
+    "zona": "CADIZ",
+    "telefono": "956252715",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 05/11 00:00–05/11 09:00",
+      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 05/11 22:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,00 h)"
+      },
+      {
+        "inicio": "2026-11-05T22:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,00 h)"
+      }
+    ],
+    "lat": 36.520432,
+    "lng": -6.2766300000001,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 05/11 00:00–05/11 09:00 · SERVICIO NOCTURNO (de 22,00 a 9,00 h): 05/11 22:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110336",
+    "cofm_id": "110336",
+    "nombre": "Sancho García, Luis",
+    "direccion": "C/ Campomanes, 6 y 8",
+    "localidad": "San Fernando",
+    "provincia": "Cádiz",
+    "zona": "SAN FERNANDO",
+    "telefono": "956883074",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 05/11 00:00–05/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,00 h)"
+      }
+    ],
+    "lat": 36.47368558633,
+    "lng": -6.1903238296509,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 05/11 00:00–05/11 09:00"
+  },
+  {
+    "id": "cad-110019",
+    "cofm_id": "110019",
+    "nombre": "Corchado Gallego, Jesús",
+    "direccion": "C/ Antonio Silva, nº12",
+    "localidad": "ALGAR",
+    "provincia": "Cádiz",
+    "zona": "ALGAR",
+    "telefono": "956710353",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Atención Permanente (Localizada): 05/11 00:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "Atención Permanente (Localizada)"
+      }
+    ],
+    "lat": 36.6559569256161,
+    "lng": -5.65637111663818,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Atención Permanente (Localizada): 05/11 00:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110022",
+    "cofm_id": "110022",
+    "nombre": "Gallardo Acuña, José",
+    "direccion": "Pº del Pradillo, 24",
+    "localidad": "Zahara de Los Atunes",
+    "provincia": "Cádiz",
+    "zona": "ZAHARA DE LOS ATUNES (BARBATE)",
+    "telefono": "956439147",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Atención Permanente (Localizada): 05/11 00:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "Atención Permanente (Localizada)"
+      }
+    ],
+    "lat": 36.133819575946,
+    "lng": -5.8433318138,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Atención Permanente (Localizada): 05/11 00:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110131",
+    "cofm_id": "110131",
+    "nombre": "Gonzálvez Barrios, Carmen",
+    "direccion": "Plaza San Francisco, nº 49",
+    "localidad": "San Jose del Valle",
+    "provincia": "Cádiz",
+    "zona": "SAN JOSE DEL VALLE",
+    "telefono": "956160203",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Atención Permanente (Localizada): 05/11 00:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "Atención Permanente (Localizada)"
+      }
+    ],
+    "lat": 36.60879535164381,
+    "lng": -5.8027687537772685,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Atención Permanente (Localizada): 05/11 00:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110177",
+    "cofm_id": "110177",
+    "nombre": "Ocaña Palacios, Rosario",
+    "direccion": "C/ Larga, nº 18-20",
+    "localidad": "San Martin del Tesorillo",
+    "provincia": "Cádiz",
+    "zona": "SAN MARTÍN DEL TESORILLO",
+    "telefono": "956618132",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Atención Permanente (Localizada): 05/11 00:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "Atención Permanente (Localizada)"
+      }
+    ],
+    "lat": 36.34047067,
+    "lng": -5.3206476,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Atención Permanente (Localizada): 05/11 00:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110307",
+    "cofm_id": "110307",
+    "nombre": "Gavira García, Juan Antonio",
+    "direccion": "Plaza Andalucia nº 9",
+    "localidad": "Castellar de La Frontera",
+    "provincia": "Cádiz",
+    "zona": "CASTELLAR DE LA FRONTERA",
+    "telefono": "956647369",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Atención Permanente (Localizada): 05/11 00:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "Atención Permanente (Localizada)"
+      }
+    ],
+    "lat": 36.286666,
+    "lng": -5.4205042,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Atención Permanente (Localizada): 05/11 00:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110373",
+    "cofm_id": "110373",
+    "nombre": "Rosell Moreno, Carlos",
+    "direccion": "C/ Lavadero, nº 5-A",
+    "localidad": "Benaocaz",
+    "provincia": "Cádiz",
+    "zona": "BENAOCAZ",
+    "telefono": "956125686",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Atención Permanente (Localizada): 05/11 00:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "Atención Permanente (Localizada)"
+      }
+    ],
+    "lat": 36.67174,
+    "lng": -5.446692,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Atención Permanente (Localizada): 05/11 00:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110374",
+    "cofm_id": "110374",
+    "nombre": "Casas de León, José Ignacio",
+    "direccion": "C/ Real, nº 9",
+    "localidad": "Villaluenga del Rosario",
+    "provincia": "Cádiz",
+    "zona": "VILLALUENGA DEL ROSARIO",
+    "telefono": "956464601",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Atención Permanente (Localizada): 05/11 00:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "Atención Permanente (Localizada)"
+      }
+    ],
+    "lat": 36.6964528,
+    "lng": -5.3870611,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Atención Permanente (Localizada): 05/11 00:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110410",
+    "cofm_id": "110410",
+    "nombre": "Díaz López, Juan Pedro",
+    "direccion": "C/ Real, nº 1 (Farmacia)",
+    "localidad": "Benamahoma",
+    "provincia": "Cádiz",
+    "zona": "BENAMAHOMA (GRAZALEMA)",
+    "telefono": "956716281",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Atención Permanente (Localizada): 05/11 00:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "Atención Permanente (Localizada)"
+      }
+    ],
+    "lat": 36.763031449505,
+    "lng": -5.4653441905975,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Atención Permanente (Localizada): 05/11 00:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110490",
+    "cofm_id": "110490",
+    "nombre": "Mozo Martín de Oliva, Manuel",
+    "direccion": "Avda. de Andalucía, 14",
+    "localidad": "Torre Alhaquime",
+    "provincia": "Cádiz",
+    "zona": "TORRE ALHAQUIME",
+    "telefono": "956125197",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Atención Permanente (Localizada): 05/11 00:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "Atención Permanente (Localizada)"
+      }
+    ],
+    "lat": 36.91685747688156,
+    "lng": -5.234088817979443,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Atención Permanente (Localizada): 05/11 00:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110057",
+    "cofm_id": "110057",
+    "nombre": "Garrucho Campón, Isabel María",
+    "direccion": "Padre Ceballos, 6",
+    "localidad": "Espera",
+    "provincia": "Cádiz",
+    "zona": "ESPERA",
+    "telefono": "956721067",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Atención Permanente (Localizada): 05/11 00:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "Atención Permanente (Localizada)"
+      }
+    ],
+    "lat": 36.872093840913,
+    "lng": -5.806210041,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Atención Permanente (Localizada): 05/11 00:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110115",
+    "cofm_id": "110115",
+    "nombre": "Fuentes Artacho, Florencio",
+    "direccion": "C/ Ronda, s/n",
+    "localidad": "Zahara de La Sierra",
+    "provincia": "Cádiz",
+    "zona": "ZAHARA DE LA SIERRA",
+    "telefono": "956123259",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Atención Permanente (Localizada): 05/11 00:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "Atención Permanente (Localizada)"
+      }
+    ],
+    "lat": 36.839661057597,
+    "lng": -5.3914225101,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Atención Permanente (Localizada): 05/11 00:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110197",
+    "cofm_id": "110197",
+    "nombre": "Carro de la Rosa, Juliana, Castillo Carro, Julia y María",
+    "direccion": "Pza. de la Constitución, 7",
+    "localidad": "Bosque, El",
+    "provincia": "Cádiz",
+    "zona": "EL BOSQUE",
+    "telefono": "956716268",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Atención Permanente (Localizada): 05/11 00:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "Atención Permanente (Localizada)"
+      }
+    ],
+    "lat": 36.758871327373,
+    "lng": -5.5052447319,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Atención Permanente (Localizada): 05/11 00:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110226",
+    "cofm_id": "110226",
+    "nombre": "Pérez Blanco, Evaristo",
+    "direccion": "C/ Las Piedras, nº 36",
+    "localidad": "Grazalema",
+    "provincia": "Cádiz",
+    "zona": "GRAZALEMA",
+    "telefono": "956132477",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Atención Permanente (Localizada): 05/11 00:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "Atención Permanente (Localizada)"
+      }
+    ],
+    "lat": 36.758527505532,
+    "lng": -5.3680336475,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Atención Permanente (Localizada): 05/11 00:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110234",
+    "cofm_id": "110234",
+    "nombre": "Espinar López, Laura",
+    "direccion": "C/ Mesón, nº 49",
+    "localidad": "Alcala del Valle",
+    "provincia": "Cádiz",
+    "zona": "ALCALA DEL VALLE",
+    "telefono": "956135106",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Atención Permanente (Localizada): 05/11 00:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "Atención Permanente (Localizada)"
+      }
+    ],
+    "lat": 36.902865639834,
+    "lng": -5.1710522174,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Atención Permanente (Localizada): 05/11 00:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110306",
+    "cofm_id": "110306",
+    "nombre": "Molero de Castro, Ana-Salguero Suárez, Juan Luis",
+    "direccion": "Fuentes, 44",
+    "localidad": "Gastor, El",
+    "provincia": "Cádiz",
+    "zona": "EL GASTOR",
+    "telefono": "956123824",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Atención Permanente (Localizada): 05/11 00:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "Atención Permanente (Localizada)"
+      }
+    ],
+    "lat": 36.8542394850075,
+    "lng": -5.32198548316956,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Atención Permanente (Localizada): 05/11 00:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110045",
+    "cofm_id": "110045",
+    "nombre": "Domínguez Cerrato, Ana María",
+    "direccion": "Calle La Rosa, 32",
+    "localidad": "Cádiz",
+    "provincia": "Cádiz",
+    "zona": "CADIZ",
+    "telefono": "956808066",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "SERVICIO DIURNO (De 9,00 a 22,00 h): 05/11 09:00–05/11 22:00",
+      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 05/11 22:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "tipo": "SERVICIO DIURNO (De 9,00 a 22,00 h)"
+      },
+      {
+        "inicio": "2026-11-05T22:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,00 h)"
+      }
+    ],
+    "lat": 36.531053656808,
+    "lng": -6.3026762008,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "SERVICIO DIURNO (De 9,00 a 22,00 h): 05/11 09:00–05/11 22:00 · SERVICIO NOCTURNO (de 22,00 a 9,00 h): 05/11 22:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110079",
+    "cofm_id": "110079",
+    "nombre": "Miralles Pérez, Carlos Gaspar",
+    "direccion": "Honda, nº 22",
+    "localidad": "Jerez de La Frontera",
+    "provincia": "Cádiz",
+    "zona": "JEREZ DE LA FRONTERA",
+    "telefono": "956342160",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "SERVICIO DIURNO (de 09,00 h a 22,00 h): 05/11 09:00–05/11 22:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "tipo": "SERVICIO DIURNO (de 09,00 h a 22,00 h)"
+      }
+    ],
+    "lat": 36.68469479,
+    "lng": -6.13605201,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "SERVICIO DIURNO (de 09,00 h a 22,00 h): 05/11 09:00–05/11 22:00"
+  },
+  {
+    "id": "cad-110081",
+    "cofm_id": "110081",
+    "nombre": "Rodríguez Jurado, Ana",
+    "direccion": "Av. Pta del Sur, 2 L-5 Edif. La Venencia",
+    "localidad": "Jerez de La Frontera",
+    "provincia": "Cádiz",
+    "zona": "JEREZ DE LA FRONTERA",
+    "telefono": "956341691",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "SERVICIO DIURNO (de 09,00 h a 22,00 h): 05/11 09:00–05/11 22:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "tipo": "SERVICIO DIURNO (de 09,00 h a 22,00 h)"
+      }
+    ],
+    "lat": 36.6715251,
+    "lng": -6.1494843,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "SERVICIO DIURNO (de 09,00 h a 22,00 h): 05/11 09:00–05/11 22:00"
+  },
+  {
+    "id": "cad-110102",
+    "cofm_id": "110102",
+    "nombre": "Sebastianes Setó, Isabel",
+    "direccion": "C/Alamo, 16",
+    "localidad": "Medina Sidonia",
+    "provincia": "Cádiz",
+    "zona": "MEDINA SIDONIA",
+    "telefono": "956410180",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Día y Noche (24 horas): 05/11 09:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      }
+    ],
+    "lat": 36.459846035831,
+    "lng": -5.92860460281372,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Día y Noche (24 horas): 05/11 09:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110128",
+    "cofm_id": "110128",
+    "nombre": "Ros Sordo, Manuel",
+    "direccion": "C/ Real, 143",
+    "localidad": "San Fernando",
+    "provincia": "Cádiz",
+    "zona": "SAN FERNANDO",
+    "telefono": "956895876",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "SERVICIO DIURNO (de 09,00 h a 22,00 h): 05/11 09:00–05/11 22:00",
+      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 05/11 22:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "tipo": "SERVICIO DIURNO (de 09,00 h a 22,00 h)"
+      },
+      {
+        "inicio": "2026-11-05T22:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,00 h)"
+      }
+    ],
+    "lat": 36.462322495984,
+    "lng": -6.1996364593,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "SERVICIO DIURNO (de 09,00 h a 22,00 h): 05/11 09:00–05/11 22:00 · SERVICIO NOCTURNO (de 22,00 a 9,00 h): 05/11 22:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110147",
+    "cofm_id": "110147",
+    "nombre": "Molina Machuca, Jesús",
+    "direccion": "C/ San Mateo, nº 1 -Junto Curva Segunda Aguada",
+    "localidad": "Cádiz",
+    "provincia": "Cádiz",
+    "zona": "CADIZ",
+    "telefono": "621385218",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "SERVICIO DIURNO (De 9,00 a 22,00 h): 05/11 09:00–05/11 22:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "tipo": "SERVICIO DIURNO (De 9,00 a 22,00 h)"
+      }
+    ],
+    "lat": 36.511606573449,
+    "lng": -6.2740623950958,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "SERVICIO DIURNO (De 9,00 a 22,00 h): 05/11 09:00–05/11 22:00"
+  },
+  {
+    "id": "cad-110156",
+    "cofm_id": "110156",
+    "nombre": "Rodríguez Santos, José Javier",
+    "direccion": "C/Sagrado Corazón Jesús, n.º 52",
+    "localidad": "Rota",
+    "provincia": "Cádiz",
+    "zona": "ROTA",
+    "telefono": "956811950",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Día y Noche (24 horas): 05/11 09:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      }
+    ],
+    "lat": 36.624158643216155,
+    "lng": -6.354904309545518,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Día y Noche (24 horas): 05/11 09:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110168",
+    "cofm_id": "110168",
+    "nombre": "Molina Medel, Esperanza Macarena",
+    "direccion": "Picada, nº 2",
+    "localidad": "Arcos de La Frontera",
+    "provincia": "Cádiz",
+    "zona": "ARCOS DE LA FRONTERA",
+    "telefono": "956700570",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Día y Noche (24 horas): 05/11 09:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      }
+    ],
+    "lat": 36.7515991670382,
+    "lng": -5.8123254776,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Día y Noche (24 horas): 05/11 09:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110180",
+    "cofm_id": "110180",
+    "nombre": "Mate López, Marta",
+    "direccion": "C/ Molinos, 23",
+    "localidad": "Paterna de Rivera",
+    "provincia": "Cádiz",
+    "zona": "PATERNA DE RIVERA",
+    "telefono": "956416008",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "DIURNO (De 9 a 22 h)/NOCTURNO: LOCALIZADA: 05/11 09:00–05/11 22:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "tipo": "DIURNO (De 9 a 22 h)/NOCTURNO: LOCALIZADA"
+      }
+    ],
+    "lat": 36.5208802215576,
+    "lng": -5.86392045021057,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "DIURNO (De 9 a 22 h)/NOCTURNO: LOCALIZADA: 05/11 09:00–05/11 22:00"
+  },
+  {
+    "id": "cad-110183",
+    "cofm_id": "110183",
+    "nombre": "Elena Sainz Pulito",
+    "direccion": "García Carrera, nº 18",
+    "localidad": "Cádiz",
+    "provincia": "Cádiz",
+    "zona": "CADIZ",
+    "telefono": "956256627",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "SERVICIO DIURNO (De 9,00 a 22,00 h): 05/11 09:00–05/11 22:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "tipo": "SERVICIO DIURNO (De 9,00 a 22,00 h)"
+      }
+    ],
+    "lat": 36.5099638448888,
+    "lng": -6.2765192985,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "SERVICIO DIURNO (De 9,00 a 22,00 h): 05/11 09:00–05/11 22:00"
+  },
+  {
+    "id": "cad-110200",
+    "cofm_id": "110200",
+    "nombre": "Nuñez Fluxá, Juan José",
+    "direccion": "C/ Andalucía, nº 76 (Bda. La Piñera-Tropezón)",
+    "localidad": "Algeciras",
+    "provincia": "Cádiz",
+    "zona": "ALGECIRAS",
+    "telefono": "956605121",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "SERVICIO DIURNO (de 09,00 h a 22,00 h): 05/11 09:00–05/11 22:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "tipo": "SERVICIO DIURNO (de 09,00 h a 22,00 h)"
+      }
+    ],
+    "lat": 36.1255266771196,
+    "lng": -5.45444369316101,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "SERVICIO DIURNO (de 09,00 h a 22,00 h): 05/11 09:00–05/11 22:00"
+  },
+  {
+    "id": "cad-110272",
+    "cofm_id": "110272",
+    "nombre": "Fatou García, Luisa Fernanda",
+    "direccion": "Avda.Solís Pascual, 14",
+    "localidad": "Ubrique",
+    "provincia": "Cádiz",
+    "zona": "UBRIQUE",
+    "telefono": "956460800",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Día y Noche (24 horas): 05/11 09:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      }
+    ],
+    "lat": 36.677196183671,
+    "lng": -5.4455173015,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Día y Noche (24 horas): 05/11 09:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110341",
+    "cofm_id": "110341",
+    "nombre": "Matas Sánchez, Teresa",
+    "direccion": "Avda. San Miguel, 31 D",
+    "localidad": "Vejer de La Frontera",
+    "provincia": "Cádiz",
+    "zona": "VEJER DE LA FRONTERA",
+    "telefono": "956450214",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Día y Noche (24 horas): 05/11 09:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      }
+    ],
+    "lat": 36.2503645511344,
+    "lng": -5.96551179885864,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Día y Noche (24 horas): 05/11 09:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110406",
+    "cofm_id": "110406",
+    "nombre": "Ballesteros Gómez, Elena",
+    "direccion": "Plaza Blanca s/n Urb. Sotogrande",
+    "localidad": "Sotogrande",
+    "provincia": "Cádiz",
+    "zona": "SAN ROQUE",
+    "telefono": "956794961",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Día y Noche (24 horas): 05/11 09:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      }
+    ],
+    "lat": 36.2940371524201,
+    "lng": -5.30022740364075,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Día y Noche (24 horas): 05/11 09:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110428",
+    "cofm_id": "110428",
+    "nombre": "Marfil Gómez, Alvaro",
+    "direccion": "c/ Mar Adriático, 12. local 1-1",
+    "localidad": "Tarifa",
+    "provincia": "Cádiz",
+    "zona": "TARIFA",
+    "telefono": "956680584",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Día y Noche (24 horas): 05/11 09:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      }
+    ],
+    "lat": 36.0224267,
+    "lng": -5.6116305,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Día y Noche (24 horas): 05/11 09:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110487",
+    "cofm_id": "110487",
+    "nombre": "Soriano López, Celia",
+    "direccion": "Avda. Dolores Ibárruri, s/n",
+    "localidad": "Conil de La Frontera",
+    "provincia": "Cádiz",
+    "zona": "CONIL DE LA FRONTERA",
+    "telefono": "956442970",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Día y Noche (24 horas): 05/11 09:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      }
+    ],
+    "lat": 36.285238,
+    "lng": -6.0781843,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Día y Noche (24 horas): 05/11 09:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110497",
+    "cofm_id": "110497",
+    "nombre": "Ruiz Díaz, Francisco Javier",
+    "direccion": "C/ Juan de Garay, 8",
+    "localidad": "Chipiona",
+    "provincia": "Cádiz",
+    "zona": "CHIPIONA",
+    "telefono": "956370199",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Día y Noche (24 horas): 05/11 09:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      }
+    ],
+    "lat": 36.7301178,
+    "lng": -6.4269422,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Día y Noche (24 horas): 05/11 09:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110077",
+    "cofm_id": "110077",
+    "nombre": "Alonso Arcas, María José",
+    "direccion": "Gta.Juegos Olimpicos, 1 P.Resid.Jerez N",
+    "localidad": "Jerez de La Frontera",
+    "provincia": "Cádiz",
+    "zona": "JEREZ DE LA FRONTERA",
+    "telefono": "956314415",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "SERVICIO DIURNO (de 09,00 h a 22,00 h): 05/11 09:00–05/11 22:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "tipo": "SERVICIO DIURNO (de 09,00 h a 22,00 h)"
+      }
+    ],
+    "lat": 36.6945928602603,
+    "lng": -6.1175608634,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "SERVICIO DIURNO (de 09,00 h a 22,00 h): 05/11 09:00–05/11 22:00"
+  },
+  {
+    "id": "cad-110099",
+    "cofm_id": "110099",
+    "nombre": "Bautista Martín, Domingo",
+    "direccion": "Plaza San Isidro, 3 Edif. Los Arcos",
+    "localidad": "Barrios, Los",
+    "provincia": "Cádiz",
+    "zona": "LOS BARRIOS",
+    "telefono": "956620037",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Día y Noche (24 horas): 05/11 09:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      }
+    ],
+    "lat": 36.186035,
+    "lng": -5.49252,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Día y Noche (24 horas): 05/11 09:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110125",
+    "cofm_id": "110125",
+    "nombre": "González Ruiz, Cándido",
+    "direccion": "C/ Almirante Faustino Ruiz, nº 11",
+    "localidad": "San Fernando",
+    "provincia": "Cádiz",
+    "zona": "SAN FERNANDO",
+    "telefono": "956881319",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "SERVICIO DIURNO (de 09,00 h a 22,00 h): 05/11 09:00–05/11 22:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "tipo": "SERVICIO DIURNO (de 09,00 h a 22,00 h)"
+      }
+    ],
+    "lat": 36.463090441428,
+    "lng": -6.20185732841492,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "SERVICIO DIURNO (de 09,00 h a 22,00 h): 05/11 09:00–05/11 22:00"
+  },
+  {
+    "id": "cad-110181",
+    "cofm_id": "110181",
+    "nombre": "López Rivas, Ángeles",
+    "direccion": "Pomponio Mela, 18",
+    "localidad": "Algeciras",
+    "provincia": "Cádiz",
+    "zona": "ALGECIRAS",
+    "telefono": "956602323",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "SERVICIO DIURNO (de 09,00 h a 22,00 h): 05/11 09:00–05/11 22:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "tipo": "SERVICIO DIURNO (de 09,00 h a 22,00 h)"
+      }
+    ],
+    "lat": 36.121544561159,
+    "lng": -5.4485213756,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "SERVICIO DIURNO (de 09,00 h a 22,00 h): 05/11 09:00–05/11 22:00"
+  },
+  {
+    "id": "cad-110210",
+    "cofm_id": "110210",
+    "nombre": "Alvarez Caro, María José",
+    "direccion": "C/ Sagasta, nº 28",
+    "localidad": "Puerto Real",
+    "provincia": "Cádiz",
+    "zona": "PUERTO REAL",
+    "telefono": "956830487",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "Día y Noche (24 horas): 05/11 09:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      }
+    ],
+    "lat": 36.5270361718941,
+    "lng": -6.18803858757019,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "Día y Noche (24 horas): 05/11 09:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110215",
+    "cofm_id": "110215",
+    "nombre": "Ayuso González, Rosa María - García Ayuso, Andrés Marcelo",
+    "direccion": "Urb Vista-Mar Pol. Rosario L 8",
+    "localidad": "Algeciras",
+    "provincia": "Cádiz",
+    "zona": "ALGECIRAS",
+    "telefono": "956652358",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "SERVICIO DIURNO (de 09,00 h a 22,00 h): 05/11 09:00–05/11 22:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "tipo": "SERVICIO DIURNO (de 09,00 h a 22,00 h)"
+      }
+    ],
+    "lat": 36.14639,
+    "lng": -5.45131,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "SERVICIO DIURNO (de 09,00 h a 22,00 h): 05/11 09:00–05/11 22:00"
+  },
+  {
+    "id": "cad-110337",
+    "cofm_id": "110337",
+    "nombre": "Alarcón Sotomayor, María Reyes-Garnés Torres, Juan Carlos",
+    "direccion": "Av. Álv. Domecq s/n Rs El Bosque, 3-L.4 ",
+    "localidad": "Jerez de La Frontera",
+    "provincia": "Cádiz",
+    "zona": "JEREZ DE LA FRONTERA",
+    "telefono": "956307455",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "SERVICIO DIURNO (de 09,00 h a 22,00 h): 05/11 09:00–05/11 22:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "tipo": "SERVICIO DIURNO (de 09,00 h a 22,00 h)"
+      }
+    ],
+    "lat": 36.6993930306738,
+    "lng": -6.12405180931091,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "SERVICIO DIURNO (de 09,00 h a 22,00 h): 05/11 09:00–05/11 22:00"
+  },
+  {
+    "id": "cad-110119",
+    "cofm_id": "110119",
+    "nombre": "Barbadillo Vidaurreta, Belén",
+    "direccion": "C/ Santo Domingo, nº 26",
+    "localidad": "Sanlucar de Barrameda",
+    "provincia": "Cádiz",
+    "zona": "SANLUCAR DE BARRAMEDA",
+    "telefono": "956960570",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "SERVICIO DIURNO (de 9,30 a 22,00 h): 05/11 09:30–05/11 22:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:30:00",
+        "fin": "2026-11-05T22:00:00",
+        "tipo": "SERVICIO DIURNO (de 9,30 a 22,00 h)"
+      }
+    ],
+    "lat": 36.780056374241,
+    "lng": -6.3507950305939,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "SERVICIO DIURNO (de 9,30 a 22,00 h): 05/11 09:30–05/11 22:00"
+  },
+  {
+    "id": "cad-110155",
+    "cofm_id": "110155",
+    "nombre": "Moratalla Gómez, Juan Enrique",
+    "direccion": "Ganado, 41",
+    "localidad": "El Puerto de Santa María",
+    "provincia": "Cádiz",
+    "zona": "EL PUERTO DE SANTA MARIA",
+    "telefono": "956852750",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "SERVICIO DIURNO (de 9,30 a 22,00 h): 05/11 09:30–05/11 22:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:30:00",
+        "fin": "2026-11-05T22:00:00",
+        "tipo": "SERVICIO DIURNO (de 9,30 a 22,00 h)"
+      }
+    ],
+    "lat": 36.6010894,
+    "lng": -6.2292842,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "SERVICIO DIURNO (de 9,30 a 22,00 h): 05/11 09:30–05/11 22:00"
+  },
+  {
+    "id": "cad-110343",
+    "cofm_id": "110343",
+    "nombre": "Calderón Romero, Julia",
+    "direccion": "Avda. del Ejército,9 esq. Ave Paraiso",
+    "localidad": "El Puerto de Santa María",
+    "provincia": "Cádiz",
+    "zona": "EL PUERTO DE SANTA MARIA",
+    "telefono": "956870769",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "SERVICIO DIURNO (de 9,30 a 22,00 h): 05/11 09:30–05/11 22:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:30:00",
+        "fin": "2026-11-05T22:00:00",
+        "tipo": "SERVICIO DIURNO (de 9,30 a 22,00 h)"
+      }
+    ],
+    "lat": 36.5952866,
+    "lng": -6.2344568,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "SERVICIO DIURNO (de 9,30 a 22,00 h): 05/11 09:30–05/11 22:00"
+  },
+  {
+    "id": "cad-110398",
+    "cofm_id": "110398",
+    "nombre": "Jiménez Lara, Miguel Ángel",
+    "direccion": "Carretera Medina, nº76",
+    "localidad": "Chiclana de La Frontera",
+    "provincia": "Cádiz",
+    "zona": "CHICLANA DE LA FRONTERA",
+    "telefono": "956688036",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "SERVICIO DIURNO (de 9,30 a 22,00 h): 05/11 09:30–05/11 22:00",
+      "SERVICIO NOCTURNO (de 22,00 a 9,30 h): 05/11 22:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:30:00",
+        "fin": "2026-11-05T22:00:00",
+        "tipo": "SERVICIO DIURNO (de 9,30 a 22,00 h)"
+      },
+      {
+        "inicio": "2026-11-05T22:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,30 h)"
+      }
+    ],
+    "lat": 36.415613239779425,
+    "lng": -6.132441943231755,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "SERVICIO DIURNO (de 9,30 a 22,00 h): 05/11 09:30–05/11 22:00 · SERVICIO NOCTURNO (de 22,00 a 9,30 h): 05/11 22:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110437",
+    "cofm_id": "110437",
+    "nombre": "Duarte Domínguez, Juan Francisco",
+    "direccion": "Avda. del Mar, 9",
+    "localidad": "Barbate",
+    "provincia": "Cádiz",
+    "zona": "BARBATE",
+    "telefono": "956431833",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "DURANTE LAS 24 HORAS: 05/11 09:30–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:30:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "DURANTE LAS 24 HORAS"
+      }
+    ],
+    "lat": 36.190907,
+    "lng": -5.9207511,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "DURANTE LAS 24 HORAS: 05/11 09:30–06/11 00:00"
+  },
+  {
+    "id": "cad-110443",
+    "cofm_id": "110443",
+    "nombre": "Vigo Molina, Ezequiel",
+    "direccion": "Avda. Mª Guerrero, 158",
+    "localidad": "La Línea de La Concepción",
+    "provincia": "Cádiz",
+    "zona": "LA LINEA DE LA CONCEPCION",
+    "telefono": "956643765",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "SERVICIO DIURNO (de 9,30 a 22,00 h): 05/11 09:30–05/11 22:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:30:00",
+        "fin": "2026-11-05T22:00:00",
+        "tipo": "SERVICIO DIURNO (de 9,30 a 22,00 h)"
+      }
+    ],
+    "lat": 36.1768268,
+    "lng": -5.3489024,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "SERVICIO DIURNO (de 9,30 a 22,00 h): 05/11 09:30–05/11 22:00"
+  },
+  {
+    "id": "cad-110225",
+    "cofm_id": "110225",
+    "nombre": "Coello Pérez, María Luisa-Fernández Coello, Antonio Andrés",
+    "direccion": "Barriada Bellavista L-4 (Sacra)",
+    "localidad": "La Línea de La Concepción",
+    "provincia": "Cádiz",
+    "zona": "LA LINEA DE LA CONCEPCION",
+    "telefono": "956170970",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "SERVICIO DIURNO (de 9,30 a 22,00 h): 05/11 09:30–05/11 22:00",
+      "SERVICIO NOCTURNO (de 22,00 a 9,30 h): 05/11 22:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:30:00",
+        "fin": "2026-11-05T22:00:00",
+        "tipo": "SERVICIO DIURNO (de 9,30 a 22,00 h)"
+      },
+      {
+        "inicio": "2026-11-05T22:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,30 h)"
+      }
+    ],
+    "lat": 36.15948019300084,
+    "lng": -5.349093499121198,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "SERVICIO DIURNO (de 9,30 a 22,00 h): 05/11 09:30–05/11 22:00 · SERVICIO NOCTURNO (de 22,00 a 9,30 h): 05/11 22:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110292",
+    "cofm_id": "110292",
+    "nombre": "Ortega Manzorro, Ana Isabel",
+    "direccion": "C/ Pablo Casals, nº 5 - Fuenteamarga",
+    "localidad": "Chiclana de La Frontera",
+    "provincia": "Cádiz",
+    "zona": "CHICLANA DE LA FRONTERA",
+    "telefono": "956400513",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "SERVICIO DIURNO (de 9,30 a 22,00 h): 05/11 09:30–05/11 22:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:30:00",
+        "fin": "2026-11-05T22:00:00",
+        "tipo": "SERVICIO DIURNO (de 9,30 a 22,00 h)"
+      }
+    ],
+    "lat": 36.4114485970576,
+    "lng": -6.146517992,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "SERVICIO DIURNO (de 9,30 a 22,00 h): 05/11 09:30–05/11 22:00"
+  },
+  {
+    "id": "cad-110317",
+    "cofm_id": "110317",
+    "nombre": "López Hidalgo, Marta",
+    "direccion": "Cruz del Monaguillo, s/n.",
+    "localidad": "Sanlucar de Barrameda",
+    "provincia": "Cádiz",
+    "zona": "SANLUCAR DE BARRAMEDA",
+    "telefono": "956365821",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "DURANTE LAS 24 HORAS: 05/11 09:30–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:30:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "DURANTE LAS 24 HORAS"
+      }
+    ],
+    "lat": 36.7724424633,
+    "lng": -6.3501298427582,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "DURANTE LAS 24 HORAS: 05/11 09:30–06/11 00:00"
+  },
+  {
+    "id": "cad-110370",
+    "cofm_id": "110370",
+    "nombre": "Ortus Ruíz, Rosario- Muñoz Ortus, Fernando",
+    "direccion": "J. S. El Cano, 13 - Casería de Osio",
+    "localidad": "San Fernando",
+    "provincia": "Cádiz",
+    "zona": "SAN FERNANDO",
+    "telefono": "956892804",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 05/11 22:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T22:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,00 h)"
+      }
+    ],
+    "lat": 36.477326254559,
+    "lng": -6.1945188045502,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 05/11 22:00–06/11 00:00"
+  },
+  {
+    "id": "cad-110229",
+    "cofm_id": "110229",
+    "nombre": "Torres Lara, Carolina",
+    "direccion": "C/Susana Marcos,8 Urb. Bª. del Rosario",
+    "localidad": "Algeciras",
+    "provincia": "Cádiz",
+    "zona": "ALGECIRAS",
+    "telefono": "956650823",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franjas": [
+      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 05/11 22:00–06/11 00:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T22:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,00 h)"
+      }
+    ],
+    "lat": 36.1432985770513,
+    "lng": -5.4505276679,
+    "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+    "guardia_franja": "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 05/11 22:00–06/11 00:00"
+  }
+]

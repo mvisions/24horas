@@ -1,0 +1,204 @@
+{
+  "fecha": "2026-11-13",
+  "provincia": "Cuenca",
+  "fuente": "https://farmaciasdeguardia.cofcam.es/",
+  "completa": false,
+  "consultas": [
+    {
+      "nombre": "Alarcon",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Aliaguilla",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Almodovar Del Pinar",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Arcas Del Villar",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Buenache De Alarcon",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Casas De Haro",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Casasimarro",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Cañada Del Hoyo",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Cañete",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Cervera Del Llano",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Cuenca",
+      "estado": "disponible",
+      "farmacias": 3,
+      "error": ""
+    },
+    {
+      "nombre": "Iniesta",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Mota Del Cuervo",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Motilla Del Palancar",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Osa De La Vega",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Pedroñeras, Las",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Picazo, El",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Pinarejo",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Pozorrubio De Santiago",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Priego",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Quintanar Del Rey",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Saelices",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "San Clemente",
+      "estado": "disponible",
+      "farmacias": 2,
+      "error": ""
+    },
+    {
+      "nombre": "San Lorenzo De La Parrilla",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Tarancon",
+      "estado": "disponible",
+      "farmacias": 2,
+      "error": ""
+    },
+    {
+      "nombre": "Ucles",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Vara De Rey",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Villalba Del Rey",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Villar De Domingo Garcia",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Villarrubio",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Villaverde Y Pasaconsol",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Cobertura municipal provincial",
+      "estado": "parcial",
+      "error": "Listado provincial completo consultado sin filtro horario; no es un censo de todos los municipios ni confirma derivaciones. El catálogo azul conserva las farmacias OSM y las observadas en guardias."
+    }
+  ],
+  "farmacias": 35,
+  "farmacias_confirmadas": 35,
+  "con_coordenadas": 35,
+  "calendario_actualizado": true,
+  "guardias_conservadas_no_reconfirmadas": 0
+}

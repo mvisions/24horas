@@ -1,0 +1,74 @@
+[
+  {
+    "id": "52-52000015",
+    "cofm_id": "52000015",
+    "direccion": "General Pintos,14",
+    "localidad": "MELILLA",
+    "sector": "",
+    "zona": "MELILLA",
+    "provincia": "Melilla",
+    "guardia": true,
+    "guardia_franja": "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono.",
+    "fecha_guardia": "2026-11-15",
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": null,
+    "lng": null,
+    "localidades_atendidas": [
+      "MELILLA"
+    ],
+    "guardia_franjas": [
+      "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono."
+    ],
+    "nombre": "Fuensanta Granados Tejero",
+    "telefono": "952674888"
+  },
+  {
+    "id": "52-52000016",
+    "cofm_id": "52000016",
+    "direccion": "Ibañez Marin, 1",
+    "localidad": "MELILLA",
+    "sector": "",
+    "zona": "MELILLA",
+    "provincia": "Melilla",
+    "guardia": true,
+    "guardia_franja": "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono.",
+    "fecha_guardia": "2026-11-15",
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": 35.2912704,
+    "lng": -2.9463462,
+    "localidades_atendidas": [
+      "MELILLA"
+    ],
+    "guardia_franjas": [
+      "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono."
+    ],
+    "nombre": "Jacob Benguigui Belilty",
+    "telefono": "952682934",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/3093804650"
+  },
+  {
+    "id": "52-52000022",
+    "cofm_id": "52000022",
+    "direccion": "General Aizpuru, 29",
+    "localidad": "MELILLA",
+    "sector": "",
+    "zona": "MELILLA",
+    "provincia": "Melilla",
+    "guardia": true,
+    "guardia_franja": "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono. · Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre.",
+    "fecha_guardia": "2026-11-15",
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": null,
+    "lng": null,
+    "localidades_atendidas": [
+      "MELILLA"
+    ],
+    "guardia_franjas": [
+      "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono.",
+      "Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre."
+    ],
+    "nombre": "Servicio Nocturno Farmaceutico de Urgencias",
+    "telefono": "952677526"
+  }
+]

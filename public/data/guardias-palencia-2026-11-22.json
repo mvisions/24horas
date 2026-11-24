@@ -1,0 +1,332 @@
+[
+  {
+    "id": "cof-palencia-4ea5d9ab8e764351",
+    "nombre": "JUAN ALFONSO ARIAS BARRA",
+    "direccion": "Avda. de la Constitución, 26",
+    "localidad": "Aguilar De Campoo",
+    "provincia": "Palencia",
+    "fuente": "https://www.cofpalencia.org/PUBLICO/CALENDARIOS%20DE%20GUARDIA/calendarios%20de%20guardias%201.pdf",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "telefono": "678857050",
+    "fecha_guardia": "2026-11-22",
+    "localidades_atendidas": [
+      "Aguilar De Campoo"
+    ],
+    "provincias_atendidas": [
+      "Palencia"
+    ],
+    "guardia_intervalos": [],
+    "guardia_franjas": [
+      "Guardia 24 horas · Aguilar De Campoo · Horario exacto pendiente; confirmar por teléfono",
+      "Madrugada del día anterior · Aguilar De Campoo · Horario exacto pendiente; confirmar por teléfono"
+    ],
+    "guardia_franja": "Guardia 24 horas · Aguilar De Campoo · Horario exacto pendiente; confirmar por teléfono · Madrugada del día anterior · Aguilar De Campoo · Horario exacto pendiente; confirmar por teléfono"
+  },
+  {
+    "id": "cof-palencia-a47592cef99414dc",
+    "nombre": "ENARA ARRIBAS ANGULO",
+    "direccion": "Constitución nº 12",
+    "localidad": "Barruelo de Santullán",
+    "provincia": "Palencia",
+    "fuente": "https://www.cofpalencia.org/PUBLICO/CALENDARIOS%20DE%20GUARDIA/calendarios%20de%20guardias%201.pdf",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "telefono": "979606048",
+    "fecha_guardia": "2026-11-22",
+    "localidades_atendidas": [
+      "Aguilar De Campoo"
+    ],
+    "provincias_atendidas": [
+      "Palencia"
+    ],
+    "guardia_intervalos": [],
+    "guardia_franjas": [
+      "Guardia 24 horas · Aguilar De Campoo · Horario exacto pendiente; confirmar por teléfono",
+      "Madrugada del día anterior · Aguilar De Campoo · Horario exacto pendiente; confirmar por teléfono"
+    ],
+    "guardia_franja": "Guardia 24 horas · Aguilar De Campoo · Horario exacto pendiente; confirmar por teléfono · Madrugada del día anterior · Aguilar De Campoo · Horario exacto pendiente; confirmar por teléfono"
+  },
+  {
+    "id": "cof-palencia-5cf6a688fe3c8bf6",
+    "nombre": "FARMACIA CARRION CB BELEN Y OLENA",
+    "direccion": "Plaza Mayor, 16",
+    "localidad": "Carrión De Los Condes",
+    "provincia": "Palencia",
+    "fuente": "https://www.cofpalencia.org/PUBLICO/CALENDARIOS%20DE%20GUARDIA/calendarios%20de%20guardias%204.pdf",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-22",
+    "localidades_atendidas": [
+      "Carrión de los Condes"
+    ],
+    "provincias_atendidas": [
+      "Palencia"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-22T10:00:00+01:00",
+        "fin": "2026-11-22T22:00:00+01:00"
+      }
+    ],
+    "guardia_franjas": [
+      "Guardia diurna · Carrión de los Condes · 10:00–22:00"
+    ],
+    "guardia_franja": "Guardia diurna · Carrión de los Condes · 10:00–22:00"
+  },
+  {
+    "id": "cof-palencia-e87ce4c98f13e25c",
+    "nombre": "VAZQUEZ GONZALEZ, JOSE LUIS",
+    "direccion": "AV CONSTITUCION, Nº 24",
+    "localidad": "Sahagún",
+    "provincia": "León",
+    "fuente": "https://www.cofpalencia.org/PUBLICO/CALENDARIOS%20DE%20GUARDIA/calendarios%20de%20guardias%204.pdf",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-22",
+    "localidades_atendidas": [
+      "Carrión de los Condes",
+      "Saldaña",
+      "Villada"
+    ],
+    "provincias_atendidas": [
+      "Palencia"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-22T22:00:00+01:00",
+        "fin": "2026-11-23T10:00:00+01:00"
+      },
+      {
+        "inicio": "2026-11-22T00:00:00+01:00",
+        "fin": "2026-11-22T10:00:00+01:00"
+      }
+    ],
+    "guardia_franjas": [
+      "Guardia nocturna · Carrión de los Condes · 22:00–10:00",
+      "Madrugada del día anterior · Carrión de los Condes · 00:00–10:00",
+      "Guardia nocturna · Saldaña · 22:00–10:00",
+      "Madrugada del día anterior · Saldaña · 00:00–10:00",
+      "Guardia 24 horas · Villada · Horario exacto pendiente; confirmar por teléfono",
+      "Madrugada del día anterior · Villada · Horario exacto pendiente; confirmar por teléfono"
+    ],
+    "guardia_franja": "Guardia nocturna · Carrión de los Condes · 22:00–10:00 · Madrugada del día anterior · Carrión de los Condes · 00:00–10:00 · Guardia nocturna · Saldaña · 22:00–10:00 · Madrugada del día anterior · Saldaña · 00:00–10:00 · Guardia 24 horas · Villada · Horario exacto pendiente; confirmar por teléfono · Madrugada del día anterior · Villada · Horario exacto pendiente; confirmar por teléfono"
+  },
+  {
+    "id": "cof-palencia-090fd2e016a102ac",
+    "nombre": "IRENE SANCHEZ MARTIN.",
+    "direccion": "Carretera Burgos -Potes",
+    "localidad": "San Salvador de Cantamuda",
+    "provincia": "Palencia",
+    "fuente": "https://www.cofpalencia.org/PUBLICO/CALENDARIOS%20DE%20GUARDIA/calendarios%20de%20guardias%206.pdf",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "telefono": "979879015",
+    "fecha_guardia": "2026-11-22",
+    "localidades_atendidas": [
+      "Cervera De Pisuerga"
+    ],
+    "provincias_atendidas": [
+      "Palencia"
+    ],
+    "guardia_intervalos": [],
+    "guardia_franjas": [
+      "Guardia 24 horas · Cervera De Pisuerga · Horario exacto pendiente; confirmar por teléfono",
+      "Madrugada del día anterior · Cervera De Pisuerga · Horario exacto pendiente; confirmar por teléfono"
+    ],
+    "guardia_franja": "Guardia 24 horas · Cervera De Pisuerga · Horario exacto pendiente; confirmar por teléfono · Madrugada del día anterior · Cervera De Pisuerga · Horario exacto pendiente; confirmar por teléfono"
+  },
+  {
+    "id": "cof-palencia-30fec7a5c643d7b1",
+    "nombre": "Mª DEL CARMEN ORTEGA FERNANDEZ",
+    "direccion": "C/ Herradura, 2",
+    "localidad": "Guardo",
+    "provincia": "Palencia",
+    "fuente": "https://www.cofpalencia.org/PUBLICO/CALENDARIOS%20DE%20GUARDIA/calendarios%20de%20guardias%208.pdf",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "telefono": "600595710",
+    "fecha_guardia": "2026-11-22",
+    "localidades_atendidas": [
+      "Guardo"
+    ],
+    "provincias_atendidas": [
+      "Palencia"
+    ],
+    "guardia_intervalos": [],
+    "guardia_franjas": [
+      "Guardia 24 horas · Guardo · Horario exacto pendiente; confirmar por teléfono",
+      "Madrugada del día anterior · Guardo · Horario exacto pendiente; confirmar por teléfono"
+    ],
+    "guardia_franja": "Guardia 24 horas · Guardo · Horario exacto pendiente; confirmar por teléfono · Madrugada del día anterior · Guardo · Horario exacto pendiente; confirmar por teléfono"
+  },
+  {
+    "id": "cof-palencia-ef3247f98e2cfc49",
+    "nombre": "MARINA VICTORIA PALACIOS RODRIGUEZ",
+    "direccion": "C/Ricardo Cortes nº 5",
+    "localidad": "Saldaña",
+    "provincia": "Palencia",
+    "fuente": "https://www.cofpalencia.org/PUBLICO/CALENDARIOS%20DE%20GUARDIA/calendarios%20de%20guardias%2013.pdf",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-22",
+    "localidades_atendidas": [
+      "Saldaña"
+    ],
+    "provincias_atendidas": [
+      "Palencia"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-22T10:00:00+01:00",
+        "fin": "2026-11-22T22:00:00+01:00"
+      }
+    ],
+    "guardia_franjas": [
+      "Guardia diurna · Saldaña · 10:00–22:00"
+    ],
+    "guardia_franja": "Guardia diurna · Saldaña · 10:00–22:00"
+  },
+  {
+    "id": "cof-palencia-eb0a02981e3b80a6",
+    "nombre": "ANDRÉS SANZ VIDAL",
+    "direccion": "Avda. de la Estación,36",
+    "localidad": "Venta de Baños",
+    "provincia": "Palencia",
+    "fuente": "https://www.cofpalencia.org/PUBLICO/CALENDARIOS%20DE%20GUARDIA/calendarios%20de%20guardias%2021.pdf",
+    "lat": 41.9196858,
+    "lng": -4.4923911,
+    "guardia": true,
+    "fecha_guardia": "2026-11-22",
+    "localidades_atendidas": [
+      "Venta de Baños"
+    ],
+    "provincias_atendidas": [
+      "Palencia"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-22T09:30:00+01:00",
+        "fin": "2026-11-22T20:00:00+01:00"
+      },
+      {
+        "inicio": "2026-11-22T20:00:00+01:00",
+        "fin": "2026-11-22T22:00:00+01:00"
+      },
+      {
+        "inicio": "2026-11-22T22:00:00+01:00",
+        "fin": "2026-11-23T09:30:00+01:00"
+      },
+      {
+        "inicio": "2026-11-22T00:00:00+01:00",
+        "fin": "2026-11-22T09:30:00+01:00"
+      }
+    ],
+    "guardia_franjas": [
+      "Guardia diurna · Venta de Baños · 09:30–20:00",
+      "Guardia diurna · Venta de Baños · 20:00–22:00",
+      "Guardia nocturna · Venta de Baños · 22:00–09:30",
+      "Madrugada del día anterior · Venta de Baños · 00:00–09:30"
+    ],
+    "guardia_franja": "Guardia diurna · Venta de Baños · 09:30–20:00 · Guardia diurna · Venta de Baños · 20:00–22:00 · Guardia nocturna · Venta de Baños · 22:00–09:30 · Madrugada del día anterior · Venta de Baños · 00:00–09:30",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/10287702563",
+    "nota_ubicacion": "Ubicación contrastada: la dirección y una farmacia de OpenStreetMap coinciden a 13 m."
+  },
+  {
+    "id": "cof-palencia-63fe14a503b28984",
+    "nombre": "Nuria Hernández Tesorero",
+    "direccion": "C/ Los Abetos nº 4",
+    "localidad": "Palencia",
+    "provincia": "Palencia",
+    "fuente": "https://www.cofpalencia.org/PUBLICO/CALENDARIOS%20DE%20GUARDIA/calendarios%20de%20guardias%2024.pdf",
+    "lat": 42.0144691,
+    "lng": -4.5308201,
+    "guardia": true,
+    "fecha_guardia": "2026-11-22",
+    "localidades_atendidas": [
+      "Palencia"
+    ],
+    "provincias_atendidas": [
+      "Palencia"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-22T00:00:00+01:00",
+        "fin": "2026-11-22T10:00:00+01:00"
+      }
+    ],
+    "guardia_franjas": [
+      "Madrugada del día anterior · Palencia · 00:00–10:00"
+    ],
+    "guardia_franja": "Madrugada del día anterior · Palencia · 00:00–10:00",
+    "telefono": "979743536",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org"
+  },
+  {
+    "id": "cof-palencia-7203fa00bd05cd5e",
+    "nombre": "Patricia Melendre Aragón",
+    "direccion": "C/ Barrio y Mier nº 8",
+    "localidad": "Palencia",
+    "provincia": "Palencia",
+    "fuente": "https://www.cofpalencia.org/PUBLICO/CALENDARIOS%20DE%20GUARDIA/calendarios%20de%20guardias%2024.pdf",
+    "lat": 42.0117409,
+    "lng": -4.5343294,
+    "guardia": true,
+    "fecha_guardia": "2026-11-22",
+    "localidades_atendidas": [
+      "Palencia"
+    ],
+    "provincias_atendidas": [
+      "Palencia"
+    ],
+    "guardia_intervalos": [],
+    "guardia_franjas": [
+      "Guardia diurna · Palencia · Horario exacto pendiente; confirmar por teléfono"
+    ],
+    "guardia_franja": "Guardia diurna · Palencia · Horario exacto pendiente; confirmar por teléfono",
+    "telefono": "979742114",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org"
+  },
+  {
+    "id": "cof-palencia-802740223c13fb46",
+    "nombre": "Carmen Calvo Garcia",
+    "direccion": "C/Don Pelayo nº18",
+    "localidad": "Palencia",
+    "provincia": "Palencia",
+    "fuente": "https://www.cofpalencia.org/PUBLICO/CALENDARIOS%20DE%20GUARDIA/calendarios%20de%20guardias%2024.pdf",
+    "lat": 42.0184185,
+    "lng": -4.533055,
+    "guardia": true,
+    "fecha_guardia": "2026-11-22",
+    "localidades_atendidas": [
+      "Palencia"
+    ],
+    "provincias_atendidas": [
+      "Palencia"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-22T22:00:00+01:00",
+        "fin": "2026-11-23T10:00:00+01:00"
+      }
+    ],
+    "guardia_franjas": [
+      "Guardia diurna · Palencia · Horario exacto pendiente; confirmar por teléfono",
+      "Guardia nocturna · Palencia · 22:00–10:00"
+    ],
+    "guardia_franja": "Guardia diurna · Palencia · Horario exacto pendiente; confirmar por teléfono · Guardia nocturna · Palencia · 22:00–10:00",
+    "telefono": "979741410",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org"
+  }
+]

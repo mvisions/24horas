@@ -1,0 +1,19 @@
+{
+  "fecha": "2026-11-15",
+  "provincia": "Girona",
+  "fuente": "https://www.cofgi.org/farmacies/farmacies-de-guardia",
+  "completa": false,
+  "consultas": [
+    {
+      "nombre": "Provincia de Girona",
+      "estado": "parcial",
+      "farmacias": 46,
+      "error": "La tabla no acredita cobertura de todos los municipios; confirmar por teléfono."
+    }
+  ],
+  "farmacias": 46,
+  "farmacias_confirmadas": 46,
+  "con_coordenadas": 13,
+  "calendario_actualizado": true,
+  "guardias_conservadas_no_reconfirmadas": 0
+}

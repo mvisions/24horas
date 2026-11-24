@@ -1,0 +1,2311 @@
+[
+  {
+    "id": "cof-valencia-315",
+    "nombre": "",
+    "direccion": "Plaza Miguel Ballesteros, 15",
+    "localidad": "Utiel",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46300",
+    "telefono": "962171067",
+    "guardia": true,
+    "lat": 39.5671187,
+    "lng": -1.206875,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "00:00-14:00, 17:00-20:30 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "00:00-14:00, 17:00-20:30 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T00:00:00",
+        "fin": "2026-11-10T14:00:00"
+      },
+      {
+        "inicio": "2026-11-10T17:00:00",
+        "fin": "2026-11-10T20:30:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Utiel"
+    ],
+    "guardia_franja": "00:00-14:00, 17:00-20:30 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-312",
+    "nombre": "",
+    "direccion": "Calle El Peso, 13",
+    "localidad": "Requena",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46340",
+    "telefono": "962301407",
+    "guardia": true,
+    "lat": 39.4875781,
+    "lng": -1.099472,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "00:00-14:30, 17:00-21:00 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "00:00-14:30, 17:00-21:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T00:00:00",
+        "fin": "2026-11-10T14:30:00"
+      },
+      {
+        "inicio": "2026-11-10T17:00:00",
+        "fin": "2026-11-10T21:00:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Requena"
+    ],
+    "guardia_franja": "00:00-14:30, 17:00-21:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-242",
+    "nombre": "",
+    "direccion": "Calle Llibertad, 5",
+    "localidad": "Llíria",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46160",
+    "telefono": "962780978",
+    "guardia": true,
+    "lat": 39.6267056,
+    "lng": -0.5961966,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "00:00-13:30, 16:30-20:00 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "00:00-13:30, 16:30-20:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T00:00:00",
+        "fin": "2026-11-10T13:30:00"
+      },
+      {
+        "inicio": "2026-11-10T16:30:00",
+        "fin": "2026-11-10T20:00:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Llíria"
+    ],
+    "guardia_franja": "00:00-13:30, 16:30-20:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-705",
+    "nombre": "",
+    "direccion": "Plaza de las Ventas, 11",
+    "localidad": "Buñol",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46360",
+    "telefono": "962501256",
+    "guardia": true,
+    "lat": 39.4242154,
+    "lng": -0.7898451,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "00:00-21:00 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "00:00-21:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T00:00:00",
+        "fin": "2026-11-10T21:00:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Buñol"
+    ],
+    "guardia_franja": "00:00-21:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-963",
+    "nombre": "",
+    "direccion": "Plaza Julio Ángel Pardo, 10",
+    "localidad": "Cofrentes",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46625",
+    "telefono": "603042066",
+    "guardia": true,
+    "lat": 39.229485,
+    "lng": -1.0616065,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "00:00-13:30, 17:00-20:00 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "00:00-13:30, 17:00-20:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T00:00:00",
+        "fin": "2026-11-10T13:30:00"
+      },
+      {
+        "inicio": "2026-11-10T17:00:00",
+        "fin": "2026-11-10T20:00:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Cofrentes"
+    ],
+    "guardia_franja": "00:00-13:30, 17:00-20:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-430",
+    "nombre": "",
+    "direccion": "Calle . Ribarroja, 9D",
+    "localidad": "Manises",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46940",
+    "telefono": "961546051",
+    "guardia": true,
+    "lat": 39.4916953404841,
+    "lng": -0.4600218275583325,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "00:00-21:30 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "00:00-21:30 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T00:00:00",
+        "fin": "2026-11-10T21:30:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Manises"
+    ],
+    "guardia_franja": "00:00-21:30 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-309",
+    "nombre": "",
+    "direccion": "Plaza Mayor, 8",
+    "localidad": "Paterna",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46980",
+    "telefono": "961382119",
+    "guardia": true,
+    "lat": 39.5011322,
+    "lng": -0.4398648,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "00:00-20:30 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "00:00-20:30 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T00:00:00",
+        "fin": "2026-11-10T20:30:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Paterna"
+    ],
+    "guardia_franja": "00:00-20:30 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-217",
+    "nombre": "",
+    "direccion": "Calle . Secretario Molins, 15",
+    "localidad": "Moncada",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46113",
+    "telefono": "961391945",
+    "guardia": true,
+    "lat": 39.54432035805093,
+    "lng": -0.3914154514417286,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "00:00-14:00, 17:00-20:00 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "00:00-14:00, 17:00-20:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T00:00:00",
+        "fin": "2026-11-10T14:00:00"
+      },
+      {
+        "inicio": "2026-11-10T17:00:00",
+        "fin": "2026-11-10T20:00:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Moncada"
+    ],
+    "guardia_franja": "00:00-14:00, 17:00-20:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-971",
+    "nombre": "",
+    "direccion": "Calle . La Merced, 1",
+    "localidad": "Utiel",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46300",
+    "telefono": "962170155",
+    "guardia": true,
+    "lat": 39.56613901983939,
+    "lng": -1.2015809019044354,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "09:00-23:59 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "09:00-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T09:00:00",
+        "fin": "2026-11-10T23:59:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Utiel"
+    ],
+    "guardia_franja": "09:00-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-368",
+    "nombre": "",
+    "direccion": "Calle . Anselmo Fernández, 31",
+    "localidad": "Requena",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46340",
+    "telefono": "962300097",
+    "guardia": true,
+    "lat": 39.4879969,
+    "lng": -1.0974165,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "09:00-23:59 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "09:00-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T09:00:00",
+        "fin": "2026-11-10T23:59:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Requena"
+    ],
+    "guardia_franja": "09:00-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-997",
+    "nombre": "",
+    "direccion": "Calle Duque de Lliria, 100",
+    "localidad": "Llíria",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46160",
+    "telefono": "962780162",
+    "guardia": true,
+    "lat": 39.62928037041893,
+    "lng": -0.5999457836151123,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "09:00-23:59 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "09:00-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T09:00:00",
+        "fin": "2026-11-10T23:59:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Llíria"
+    ],
+    "guardia_franja": "09:00-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-352",
+    "nombre": "",
+    "direccion": "Avenida Pais Valenciá, 23",
+    "localidad": "Buñol",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46360",
+    "telefono": "962500262",
+    "guardia": true,
+    "lat": 39.4172632,
+    "lng": -0.788469,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "08:00-23:59 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "08:00-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T08:00:00",
+        "fin": "2026-11-10T23:59:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Buñol"
+    ],
+    "guardia_franja": "08:00-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-1062",
+    "nombre": "",
+    "direccion": "Calle Peniscola, 10",
+    "localidad": "Manises",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46940",
+    "telefono": "961530725",
+    "guardia": true,
+    "lat": 39.4981549,
+    "lng": -0.4739201,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "09:00-22:00 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "09:00-22:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T09:00:00",
+        "fin": "2026-11-10T22:00:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Manises"
+    ],
+    "guardia_franja": "09:00-22:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-227",
+    "nombre": "",
+    "direccion": "Calle Mayor, 27",
+    "localidad": "Manises",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46940",
+    "telefono": "961546177",
+    "guardia": true,
+    "lat": 39.49134177936365,
+    "lng": -0.4571867055507184,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "09:00-20:00, 22:00-23:59 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "09:00-20:00, 22:00-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T09:00:00",
+        "fin": "2026-11-10T20:00:00"
+      },
+      {
+        "inicio": "2026-11-10T22:00:00",
+        "fin": "2026-11-10T23:59:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Manises"
+    ],
+    "guardia_franja": "09:00-20:00, 22:00-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-649",
+    "nombre": "",
+    "direccion": "Calle Poeta Querol, 29",
+    "localidad": "Oliva",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46780",
+    "telefono": "962851797",
+    "guardia": true,
+    "lat": 38.91935,
+    "lng": -0.11771,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "00:00-08:00, 09:00-21:00 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "00:00-08:00, 09:00-21:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T00:00:00",
+        "fin": "2026-11-10T08:00:00"
+      },
+      {
+        "inicio": "2026-11-10T09:00:00",
+        "fin": "2026-11-10T21:00:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Oliva"
+    ],
+    "guardia_franja": "00:00-08:00, 09:00-21:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-533",
+    "nombre": "",
+    "direccion": "Gran Vía Germanies, 34",
+    "localidad": "Tavernes de la Valldigna",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46760",
+    "telefono": "962821392",
+    "guardia": true,
+    "lat": 39.0718517,
+    "lng": -0.2644681,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "00:00-13:30, 16:30-20:00 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "00:00-13:30, 16:30-20:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T00:00:00",
+        "fin": "2026-11-10T13:30:00"
+      },
+      {
+        "inicio": "2026-11-10T16:30:00",
+        "fin": "2026-11-10T20:00:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Tavernes de la Valldigna"
+    ],
+    "guardia_franja": "00:00-13:30, 16:30-20:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-207",
+    "nombre": "",
+    "direccion": "Calle Mayor, 30",
+    "localidad": "Rafelguaraf",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46666",
+    "telefono": "962586016",
+    "guardia": true,
+    "lat": 39.0508837,
+    "lng": -0.45563979999997173,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "00:00-14:00, 17:30-20:00 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "00:00-14:00, 17:30-20:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T00:00:00",
+        "fin": "2026-11-10T14:00:00"
+      },
+      {
+        "inicio": "2026-11-10T17:30:00",
+        "fin": "2026-11-10T20:00:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Rafelguaraf"
+    ],
+    "guardia_franja": "00:00-14:00, 17:30-20:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-239",
+    "nombre": "",
+    "direccion": "Calle Vicente Boix, 7",
+    "localidad": "Xàtiva",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46800",
+    "telefono": "962276077",
+    "guardia": true,
+    "lat": 38.9907418,
+    "lng": -0.5245218,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "00:00-13:30, 16:30-20:00 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "00:00-13:30, 16:30-20:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T00:00:00",
+        "fin": "2026-11-10T13:30:00"
+      },
+      {
+        "inicio": "2026-11-10T16:30:00",
+        "fin": "2026-11-10T20:00:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Xàtiva"
+    ],
+    "guardia_franja": "00:00-13:30, 16:30-20:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-985",
+    "nombre": "",
+    "direccion": "Avenida Del Raco, 14",
+    "localidad": "Cullera",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46400",
+    "telefono": "961732301",
+    "guardia": true,
+    "lat": 39.17257550691806,
+    "lng": -0.24241362524646035,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "00:00-13:30, 17:00-20:00 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "00:00-13:30, 17:00-20:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T00:00:00",
+        "fin": "2026-11-10T13:30:00"
+      },
+      {
+        "inicio": "2026-11-10T17:00:00",
+        "fin": "2026-11-10T20:00:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Cullera"
+    ],
+    "guardia_franja": "00:00-13:30, 17:00-20:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-464",
+    "nombre": "",
+    "direccion": "Calle La Torre, 11",
+    "localidad": "Agullent",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46890",
+    "telefono": "962907765",
+    "guardia": true,
+    "lat": 38.8225805,
+    "lng": -0.5498537,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "00:00-14:00, 17:00-19:30 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "00:00-14:00, 17:00-19:30 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T00:00:00",
+        "fin": "2026-11-10T14:00:00"
+      },
+      {
+        "inicio": "2026-11-10T17:00:00",
+        "fin": "2026-11-10T19:30:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Agullent"
+    ],
+    "guardia_franja": "00:00-14:00, 17:00-19:30 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-1047",
+    "nombre": "",
+    "direccion": "Camí Real de Madrid, 9",
+    "localidad": "Cerdà",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46813",
+    "telefono": "654842144",
+    "guardia": true,
+    "lat": 38.9858751,
+    "lng": -0.5746614,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "00:00-13:30, 17:00-20:00 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "00:00-13:30, 17:00-20:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T00:00:00",
+        "fin": "2026-11-10T13:30:00"
+      },
+      {
+        "inicio": "2026-11-10T17:00:00",
+        "fin": "2026-11-10T20:00:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Cerdà"
+    ],
+    "guardia_franja": "00:00-13:30, 17:00-20:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-212",
+    "nombre": "",
+    "direccion": "Plaza Rosanes, 1",
+    "localidad": "Sueca",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46410",
+    "telefono": "961710316",
+    "guardia": true,
+    "lat": 39.201836928718265,
+    "lng": -0.3102247707583956,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "00:00-13:30, 16:30-20:00 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "00:00-13:30, 16:30-20:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T00:00:00",
+        "fin": "2026-11-10T13:30:00"
+      },
+      {
+        "inicio": "2026-11-10T16:30:00",
+        "fin": "2026-11-10T20:00:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Sueca"
+    ],
+    "guardia_franja": "00:00-13:30, 16:30-20:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-579",
+    "nombre": "",
+    "direccion": "Calle José Simó Marín, 19",
+    "localidad": "Ontinyent",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46870",
+    "telefono": "962380202",
+    "guardia": true,
+    "lat": 38.8211043,
+    "lng": -0.6029878,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "00:00-14:00, 16:30-20:30 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "00:00-14:00, 16:30-20:30 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T00:00:00",
+        "fin": "2026-11-10T14:00:00"
+      },
+      {
+        "inicio": "2026-11-10T16:30:00",
+        "fin": "2026-11-10T20:30:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Ontinyent"
+    ],
+    "guardia_franja": "00:00-14:00, 16:30-20:30 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-860",
+    "nombre": "",
+    "direccion": "Carretera Denia, 9",
+    "localidad": "Oliva",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46780",
+    "telefono": "962851836",
+    "guardia": true,
+    "lat": 38.91575,
+    "lng": -0.11494,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "08:00-23:59 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "08:00-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T08:00:00",
+        "fin": "2026-11-10T23:59:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Oliva"
+    ],
+    "guardia_franja": "08:00-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-697",
+    "nombre": "",
+    "direccion": "Calle Virgen Desamparados, 21",
+    "localidad": "Tavernes de la Valldigna",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46760",
+    "telefono": "962821707",
+    "guardia": true,
+    "lat": 39.0749378,
+    "lng": -0.2636117,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "09:00-23:59 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "09:00-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T09:00:00",
+        "fin": "2026-11-10T23:59:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Tavernes de la Valldigna"
+    ],
+    "guardia_franja": "09:00-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-1094",
+    "nombre": "",
+    "direccion": "Calle Virgen de Loreto, 18",
+    "localidad": "Bufali",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46891",
+    "telefono": "962900588",
+    "guardia": true,
+    "lat": 38.8685871,
+    "lng": -0.51684,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "09:00-23:59 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "09:00-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T09:00:00",
+        "fin": "2026-11-10T23:59:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Bufali"
+    ],
+    "guardia_franja": "09:00-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-483",
+    "nombre": "",
+    "direccion": "Avenida Selgas, 64-66",
+    "localidad": "Xàtiva",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46800",
+    "telefono": "962280297",
+    "guardia": true,
+    "lat": 38.9901218,
+    "lng": -0.5142071,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "09:00-23:59 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "09:00-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T09:00:00",
+        "fin": "2026-11-10T23:59:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Xàtiva"
+    ],
+    "guardia_franja": "09:00-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-220",
+    "nombre": "",
+    "direccion": "Calle Valencia, 12",
+    "localidad": "Cullera",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46400",
+    "telefono": "961720228",
+    "guardia": true,
+    "lat": 39.1664748,
+    "lng": -0.2569452,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "09:00-23:59 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "09:00-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T09:00:00",
+        "fin": "2026-11-10T23:59:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Cullera"
+    ],
+    "guardia_franja": "09:00-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-748",
+    "nombre": "",
+    "direccion": "Calle Maestro Giner, 21",
+    "localidad": "Castelló",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46270",
+    "telefono": "962451329",
+    "guardia": true,
+    "lat": 39.0816945,
+    "lng": -0.5160502,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "09:00-23:59 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "09:00-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T09:00:00",
+        "fin": "2026-11-10T23:59:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Castelló"
+    ],
+    "guardia_franja": "09:00-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-1040",
+    "nombre": "",
+    "direccion": "Calle 9 De Octubre, 2",
+    "localidad": "Canals",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46650",
+    "telefono": "962241569",
+    "guardia": true,
+    "lat": 38.95782367067551,
+    "lng": -0.5879402160644531,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "09:00-23:59 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "09:00-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T09:00:00",
+        "fin": "2026-11-10T23:59:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Canals"
+    ],
+    "guardia_franja": "09:00-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-406",
+    "nombre": "",
+    "direccion": "Plaza del Ayuntamiento, 3",
+    "localidad": "Sueca",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46410",
+    "telefono": "961700099",
+    "guardia": true,
+    "lat": 39.202431231457915,
+    "lng": -0.3155774686817567,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "09:00-23:59 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "09:00-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T09:00:00",
+        "fin": "2026-11-10T23:59:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Sueca"
+    ],
+    "guardia_franja": "09:00-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-752",
+    "nombre": "",
+    "direccion": "Calle 2, 3",
+    "localidad": "Gavarda",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46267",
+    "telefono": "962594127",
+    "guardia": true,
+    "lat": 39.090102,
+    "lng": -0.5439117550849915,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "09:00-23:59 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "09:00-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T09:00:00",
+        "fin": "2026-11-10T23:59:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Gavarda"
+    ],
+    "guardia_franja": "09:00-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-313",
+    "nombre": "",
+    "direccion": "Calle Rafael Juan Vidal, 1",
+    "localidad": "Ontinyent",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46870",
+    "telefono": "962380119",
+    "guardia": true,
+    "lat": 38.8196406,
+    "lng": -0.6087213,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "08:30-23:59 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "08:30-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T08:30:00",
+        "fin": "2026-11-10T23:59:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Ontinyent"
+    ],
+    "guardia_franja": "08:30-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-340",
+    "nombre": "",
+    "direccion": "Plaza Mayor, 5",
+    "localidad": "Vallada",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46691",
+    "telefono": "962257014",
+    "guardia": true,
+    "lat": 38.8956027,
+    "lng": -0.6903529,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "09:00-23:59 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "09:00-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T09:00:00",
+        "fin": "2026-11-10T23:59:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Vallada"
+    ],
+    "guardia_franja": "09:00-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-1153",
+    "nombre": "",
+    "direccion": "Calle Delicias, 4",
+    "localidad": "Moixent",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46640",
+    "telefono": "962260006",
+    "guardia": true,
+    "lat": 38.8730358,
+    "lng": -0.7582865,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "00:00-14:00, 16:00-20:00 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "00:00-14:00, 16:00-20:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T00:00:00",
+        "fin": "2026-11-10T14:00:00"
+      },
+      {
+        "inicio": "2026-11-10T16:00:00",
+        "fin": "2026-11-10T20:00:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Moixent"
+    ],
+    "guardia_franja": "00:00-14:00, 16:00-20:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-595",
+    "nombre": "",
+    "direccion": "Calle Desamparados Santamans, 1",
+    "localidad": "Massalavés",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46292",
+    "telefono": "962441673",
+    "guardia": true,
+    "lat": 39.1584097,
+    "lng": -0.5210565,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "00:00-14:00, 17:00-20:00 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "00:00-14:00, 17:00-20:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T00:00:00",
+        "fin": "2026-11-10T14:00:00"
+      },
+      {
+        "inicio": "2026-11-10T17:00:00",
+        "fin": "2026-11-10T20:00:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Massalavés"
+    ],
+    "guardia_franja": "00:00-14:00, 17:00-20:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-831",
+    "nombre": "",
+    "direccion": "Calle Pintor Sorolla, 21",
+    "localidad": "Aldaia",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46960",
+    "telefono": "961501974",
+    "guardia": true,
+    "lat": 39.4582589,
+    "lng": -0.4650219,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "00:00-14:30, 15:30-20:30 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "00:00-14:30, 15:30-20:30 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T00:00:00",
+        "fin": "2026-11-10T14:30:00"
+      },
+      {
+        "inicio": "2026-11-10T15:30:00",
+        "fin": "2026-11-10T20:30:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Aldaia"
+    ],
+    "guardia_franja": "00:00-14:30, 15:30-20:30 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-894",
+    "nombre": "",
+    "direccion": "Avenida Camí Nou, 195",
+    "localidad": "Xirivella",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46950",
+    "telefono": "963594238",
+    "guardia": true,
+    "lat": 39.4632022,
+    "lng": -0.4366778,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "00:00-14:00, 16:30-20:30 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "00:00-14:00, 16:30-20:30 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T00:00:00",
+        "fin": "2026-11-10T14:00:00"
+      },
+      {
+        "inicio": "2026-11-10T16:30:00",
+        "fin": "2026-11-10T20:30:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Xirivella"
+    ],
+    "guardia_franja": "00:00-14:00, 16:30-20:30 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-730",
+    "nombre": "",
+    "direccion": "Avenida Sta. Mª del Puig, 1",
+    "localidad": "Picanya",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46210",
+    "telefono": "961592509",
+    "guardia": true,
+    "lat": 39.4351468,
+    "lng": -0.4372669,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "08:00-22:00 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "08:00-22:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T08:00:00",
+        "fin": "2026-11-10T22:00:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Picanya"
+    ],
+    "guardia_franja": "08:00-22:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-554",
+    "nombre": "",
+    "direccion": "Plaza Alqueria Nova, 9",
+    "localidad": "Xirivella (Bº de la luz)",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46950",
+    "telefono": "963790668",
+    "guardia": true,
+    "lat": 39.467382,
+    "lng": -0.416378,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "08:30-23:59 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "08:30-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T08:30:00",
+        "fin": "2026-11-10T23:59:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Xirivella (Bº de la luz)"
+    ],
+    "guardia_franja": "08:30-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-813",
+    "nombre": "",
+    "direccion": "Calle Arq. Segura Lago, 4",
+    "localidad": "Valencia",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46014",
+    "telefono": "963785431",
+    "guardia": true,
+    "lat": 39.4520748,
+    "lng": -0.4101619,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "08:30-22:00 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "08:30-22:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T08:30:00",
+        "fin": "2026-11-10T22:00:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Valencia"
+    ],
+    "guardia_franja": "08:30-22:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-375",
+    "nombre": "",
+    "direccion": "Plaza Constitución, 4",
+    "localidad": "Massanassa",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46470",
+    "telefono": "961250365",
+    "guardia": true,
+    "lat": 39.409467,
+    "lng": -0.3982622,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "00:00-14:00, 17:00-20:00 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "00:00-14:00, 17:00-20:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T00:00:00",
+        "fin": "2026-11-10T14:00:00"
+      },
+      {
+        "inicio": "2026-11-10T17:00:00",
+        "fin": "2026-11-10T20:00:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Massanassa"
+    ],
+    "guardia_franja": "00:00-14:00, 17:00-20:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-921",
+    "nombre": "",
+    "direccion": "Avenida Reyes Católicos, 18",
+    "localidad": "Silla",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46460",
+    "telefono": "961201430",
+    "guardia": true,
+    "lat": 39.3659399,
+    "lng": -0.4094572,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "00:00-14:00, 17:00-20:00 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "00:00-14:00, 17:00-20:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T00:00:00",
+        "fin": "2026-11-10T14:00:00"
+      },
+      {
+        "inicio": "2026-11-10T17:00:00",
+        "fin": "2026-11-10T20:00:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Silla"
+    ],
+    "guardia_franja": "00:00-14:00, 17:00-20:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-1291",
+    "nombre": "",
+    "direccion": "Avenida del Sud, 45",
+    "localidad": "Picassent",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46220",
+    "telefono": "961240831",
+    "guardia": true,
+    "lat": 39.35953011302546,
+    "lng": -0.46414070000002994,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "00:00-21:00 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "00:00-21:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T00:00:00",
+        "fin": "2026-11-10T21:00:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Picassent"
+    ],
+    "guardia_franja": "00:00-21:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-338",
+    "nombre": "",
+    "direccion": "Camí Real, 37",
+    "localidad": "Sagunto",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46500",
+    "telefono": "962661253",
+    "guardia": true,
+    "lat": 39.6796718,
+    "lng": -0.2764727,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "00:00-20:30 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "00:00-20:30 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T00:00:00",
+        "fin": "2026-11-10T20:30:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Sagunto"
+    ],
+    "guardia_franja": "00:00-20:30 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-262",
+    "nombre": "",
+    "direccion": "Avenida Santa Maria del Puig, 21",
+    "localidad": "Almàssera",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46132",
+    "telefono": "961853712",
+    "guardia": true,
+    "lat": 39.5137683,
+    "lng": -0.3592901,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "00:00-20:30 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "00:00-20:30 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T00:00:00",
+        "fin": "2026-11-10T20:30:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Almàssera"
+    ],
+    "guardia_franja": "00:00-20:30 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-1203",
+    "nombre": "",
+    "direccion": "Calle Mestre Arturo Padilla, 36",
+    "localidad": "Burjassot",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46100",
+    "telefono": "963906173",
+    "guardia": true,
+    "lat": 39.5101065,
+    "lng": -0.4169929,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "00:00-14:00, 16:30-20:30 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "00:00-14:00, 16:30-20:30 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T00:00:00",
+        "fin": "2026-11-10T14:00:00"
+      },
+      {
+        "inicio": "2026-11-10T16:30:00",
+        "fin": "2026-11-10T20:30:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Burjassot"
+    ],
+    "guardia_franja": "00:00-14:00, 16:30-20:30 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-882",
+    "nombre": "",
+    "direccion": "Calle Isla Corcega, 12",
+    "localidad": "Sagunto (Puerto de Sagunto)",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46520",
+    "telefono": "962676123",
+    "guardia": true,
+    "lat": 39.6632037,
+    "lng": -0.2140822,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "08:30-23:59 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "08:30-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T08:30:00",
+        "fin": "2026-11-10T23:59:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Sagunto (Puerto de Sagunto)"
+    ],
+    "guardia_franja": "08:30-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-194",
+    "nombre": "",
+    "direccion": "Calle 25 De Abril, 9",
+    "localidad": "Moncada",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46113",
+    "telefono": "961392654",
+    "guardia": true,
+    "lat": 39.5447916,
+    "lng": -0.3949719,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "09:00-23:59 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "09:00-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T09:00:00",
+        "fin": "2026-11-10T23:59:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Moncada"
+    ],
+    "guardia_franja": "09:00-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-621",
+    "nombre": "",
+    "direccion": "Calle Mayor, 50",
+    "localidad": "Alginet",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46230",
+    "telefono": "961753594",
+    "guardia": true,
+    "lat": 39.2599178,
+    "lng": -0.47098909999999705,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "00:00-09:00, 09:30-13:30, 16:30-20:30 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "00:00-09:00, 09:30-13:30, 16:30-20:30 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T00:00:00",
+        "fin": "2026-11-10T09:00:00"
+      },
+      {
+        "inicio": "2026-11-10T09:30:00",
+        "fin": "2026-11-10T13:30:00"
+      },
+      {
+        "inicio": "2026-11-10T16:30:00",
+        "fin": "2026-11-10T20:30:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Alginet"
+    ],
+    "guardia_franja": "00:00-09:00, 09:30-13:30, 16:30-20:30 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-982",
+    "nombre": "",
+    "direccion": "Avenida 9 de Octubre, 4",
+    "localidad": "Alginet",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46230",
+    "telefono": "961750298",
+    "guardia": true,
+    "lat": 39.2638755,
+    "lng": -0.4702895,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "09:00-23:59 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "09:00-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T09:00:00",
+        "fin": "2026-11-10T23:59:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Alginet"
+    ],
+    "guardia_franja": "09:00-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-1237",
+    "nombre": "",
+    "direccion": "Calle Del Port, 30",
+    "localidad": "Silla",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46460",
+    "telefono": "961217819",
+    "guardia": true,
+    "lat": 39.3617518,
+    "lng": -0.4095632,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "09:00-14:00, 17:00-20:00, 21:00-23:59 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "09:00-14:00, 17:00-20:00, 21:00-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T09:00:00",
+        "fin": "2026-11-10T14:00:00"
+      },
+      {
+        "inicio": "2026-11-10T17:00:00",
+        "fin": "2026-11-10T20:00:00"
+      },
+      {
+        "inicio": "2026-11-10T21:00:00",
+        "fin": "2026-11-10T23:59:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Silla"
+    ],
+    "guardia_franja": "09:00-14:00, 17:00-20:00, 21:00-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-1079",
+    "nombre": "",
+    "direccion": "Calle Palleter, 12",
+    "localidad": "Picassent",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46220",
+    "telefono": "961235415",
+    "guardia": true,
+    "lat": 39.364154,
+    "lng": -0.4667973,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "09:00-23:59 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "09:00-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T09:00:00",
+        "fin": "2026-11-10T23:59:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Picassent"
+    ],
+    "guardia_franja": "09:00-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-222",
+    "nombre": "",
+    "direccion": "Calle Cami Real, 64",
+    "localidad": "Catarroja",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46470",
+    "telefono": "961274652",
+    "guardia": true,
+    "lat": 39.4016682,
+    "lng": -0.4037908,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "09:00-23:59 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "09:00-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T09:00:00",
+        "fin": "2026-11-10T23:59:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Catarroja"
+    ],
+    "guardia_franja": "09:00-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-411",
+    "nombre": "",
+    "direccion": "Avenida Ausias March, 5",
+    "localidad": "Alboraya",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46120",
+    "telefono": "961856342",
+    "guardia": true,
+    "lat": 39.4989552,
+    "lng": -0.3510141,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "08:00-23:59 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "08:00-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T08:00:00",
+        "fin": "2026-11-10T23:59:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Alboraya"
+    ],
+    "guardia_franja": "08:00-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-2",
+    "nombre": "",
+    "direccion": "Calle Felipe Rinaldi, 8",
+    "localidad": "Valencia",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46019",
+    "telefono": "963650841",
+    "guardia": true,
+    "lat": 39.4924916,
+    "lng": -0.3766242,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "09:00-22:00 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "09:00-22:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T09:00:00",
+        "fin": "2026-11-10T22:00:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Valencia"
+    ],
+    "guardia_franja": "09:00-22:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-843",
+    "nombre": "",
+    "direccion": "Calle Vista Alegre, 2",
+    "localidad": "Burjassot",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46100",
+    "telefono": "963637962",
+    "guardia": true,
+    "lat": 39.5153044,
+    "lng": -0.4113566,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "09:00-23:59 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "09:00-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T09:00:00",
+        "fin": "2026-11-10T23:59:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Burjassot"
+    ],
+    "guardia_franja": "09:00-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-790",
+    "nombre": "",
+    "direccion": "Calle Arquitecto Arnau, 30",
+    "localidad": "Valencia",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46020",
+    "telefono": "963601222",
+    "guardia": true,
+    "lat": 39.4855133,
+    "lng": -0.3564038,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "09:00-22:00 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "09:00-22:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T09:00:00",
+        "fin": "2026-11-10T22:00:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Valencia"
+    ],
+    "guardia_franja": "09:00-22:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-1247",
+    "nombre": "",
+    "direccion": "Calle Orba, 10",
+    "localidad": "Benetússer",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46910",
+    "telefono": "963765340",
+    "guardia": true,
+    "lat": 39.4180154,
+    "lng": -0.3968339,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "09:00-23:59 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "09:00-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T09:00:00",
+        "fin": "2026-11-10T23:59:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Benetússer"
+    ],
+    "guardia_franja": "09:00-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-709",
+    "nombre": "",
+    "direccion": "Calle Vicent Andrés Estellés, 21",
+    "localidad": "Sedaví",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46910",
+    "telefono": "963752426",
+    "guardia": true,
+    "lat": 39.42382637217646,
+    "lng": -0.3861354150038498,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "08:45-14:00, 16:45-22:00 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "08:45-14:00, 16:45-22:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T08:45:00",
+        "fin": "2026-11-10T14:00:00"
+      },
+      {
+        "inicio": "2026-11-10T16:45:00",
+        "fin": "2026-11-10T22:00:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Sedaví"
+    ],
+    "guardia_franja": "08:45-14:00, 16:45-22:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-308",
+    "nombre": "",
+    "direccion": "Calle Federico García Lorca, 6",
+    "localidad": "Paterna",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46980",
+    "telefono": "961381098",
+    "guardia": true,
+    "lat": 39.4996099,
+    "lng": -0.43858,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "08:30-23:59 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "08:30-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T08:30:00",
+        "fin": "2026-11-10T23:59:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Paterna"
+    ],
+    "guardia_franja": "08:30-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-67",
+    "nombre": "",
+    "direccion": "Carrera Fuente San Luis, 38",
+    "localidad": "Valencia",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46006",
+    "telefono": "963747020",
+    "guardia": true,
+    "lat": 39.4556976,
+    "lng": -0.3716622,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "09:00-22:00 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "09:00-22:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T09:00:00",
+        "fin": "2026-11-10T22:00:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Valencia"
+    ],
+    "guardia_franja": "09:00-22:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-933",
+    "nombre": "",
+    "direccion": "Calle Carcagente, 14",
+    "localidad": "Valencia",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46007",
+    "telefono": "963801624",
+    "guardia": true,
+    "lat": 39.4596268,
+    "lng": -0.3869167,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "09:00-22:00 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "09:00-22:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T09:00:00",
+        "fin": "2026-11-10T22:00:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Valencia"
+    ],
+    "guardia_franja": "09:00-22:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-994",
+    "nombre": "",
+    "direccion": "Calle Valencia, 56",
+    "localidad": "Algar de Palància",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46593",
+    "telefono": "962626278",
+    "guardia": true,
+    "lat": 39.7794906,
+    "lng": -0.3659323,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "09:00-21:00 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "09:00-21:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T09:00:00",
+        "fin": "2026-11-10T21:00:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Algar de Palància"
+    ],
+    "guardia_franja": "09:00-21:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-111",
+    "nombre": "",
+    "direccion": "Calle Colón, 40",
+    "localidad": "Valencia",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46004",
+    "telefono": "963512963",
+    "guardia": true,
+    "lat": 39.4689489,
+    "lng": -0.3720473,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "09:00-22:00 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "09:00-22:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T09:00:00",
+        "fin": "2026-11-10T22:00:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Valencia"
+    ],
+    "guardia_franja": "09:00-22:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-937",
+    "nombre": "",
+    "direccion": "Calle Poeta Bodria, 4",
+    "localidad": "Valencia",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46010",
+    "telefono": "963616515",
+    "guardia": true,
+    "lat": 39.4809769,
+    "lng": -0.3716957,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "09:00-22:00 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "09:00-22:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T09:00:00",
+        "fin": "2026-11-10T22:00:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Valencia"
+    ],
+    "guardia_franja": "09:00-22:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-107",
+    "nombre": "",
+    "direccion": "G.V. Fdo. El Católico, 56",
+    "localidad": "Valencia",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46008",
+    "telefono": "963914513",
+    "guardia": true,
+    "lat": 39.4734722,
+    "lng": -0.3868374,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "08:30-22:00 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "08:30-22:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T08:30:00",
+        "fin": "2026-11-10T22:00:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Valencia"
+    ],
+    "guardia_franja": "08:30-22:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-773",
+    "nombre": "",
+    "direccion": "Calle Polo y Peyrolon, 1",
+    "localidad": "Valencia",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46021",
+    "telefono": "963604025",
+    "guardia": true,
+    "lat": 39.4712424,
+    "lng": -0.3562315,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "09:00-22:00 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "09:00-22:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T09:00:00",
+        "fin": "2026-11-10T22:00:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Valencia"
+    ],
+    "guardia_franja": "09:00-22:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-910",
+    "nombre": "",
+    "direccion": "Calle José María Haro, 4",
+    "localidad": "Valencia",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46022",
+    "telefono": "963724527",
+    "guardia": true,
+    "lat": 39.4681013,
+    "lng": -0.3387384000000111,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "09:00-22:00 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "09:00-22:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T09:00:00",
+        "fin": "2026-11-10T22:00:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Valencia"
+    ],
+    "guardia_franja": "09:00-22:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-405",
+    "nombre": "",
+    "direccion": "Calle Mayor, 40",
+    "localidad": "Jalance",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46624",
+    "telefono": "962196386",
+    "guardia": true,
+    "lat": 39.1897061,
+    "lng": -1.0768675,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "09:30-23:59 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "09:30-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T09:30:00",
+        "fin": "2026-11-10T23:59:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Jalance"
+    ],
+    "guardia_franja": "09:30-23:59 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  },
+  {
+    "id": "cof-valencia-391",
+    "nombre": "",
+    "direccion": "Camí Real, 93",
+    "localidad": "Sagunto",
+    "sector": "",
+    "provincia": "Valencia",
+    "codigo_postal": "46500",
+    "telefono": "962660272",
+    "guardia": true,
+    "lat": 39.679038,
+    "lng": -0.2737693,
+    "fuente": "https://www.micof.es/ver/124/",
+    "horario_publicado": "09:00-21:00 (incluye horario de urgencias)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.micof.es/ver/124/",
+    "fecha_guardia": "2026-11-10",
+    "guardia_franjas": [
+      "09:00-21:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-10T09:00:00",
+        "fin": "2026-11-10T21:00:00"
+      }
+    ],
+    "localidades_atendidas": [
+      "Sagunto"
+    ],
+    "guardia_franja": "09:00-21:00 (incluye horario de urgencias) · Confirmar horario por teléfono"
+  }
+]

@@ -1,0 +1,1819 @@
+{
+  "fecha": "2026-11-22",
+  "provincia": "Valencia",
+  "fuente": "https://www.micof.es/ver/124/",
+  "completa": false,
+  "consultas": [
+    {
+      "nombre": "Ademuz",
+      "estado": "parcial",
+      "farmacias": 18,
+      "error": "Consultas a las 00:00, 12:00 y 22:00; no certifican todos los turnos ni que otras farmacias cercanas atiendan este municipio."
+    },
+    {
+      "nombre": "Ador",
+      "estado": "error",
+      "farmacias": 9,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "nombre": "Agullent",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "nombre": "Aielo de Malferit",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "nombre": "Alaquàs",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "nombre": "Albaida",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "nombre": "Albal",
+      "estado": "parcial",
+      "farmacias": 4,
+      "error": "Consultas a las 00:00, 12:00 y 22:00; no certifican todos los turnos ni que otras farmacias cercanas atiendan este municipio."
+    },
+    {
+      "nombre": "Albalat  dels Tarongers",
+      "estado": "parcial",
+      "farmacias": 14,
+      "error": "Consultas a las 00:00, 12:00 y 22:00; no certifican todos los turnos ni que otras farmacias cercanas atiendan este municipio."
+    },
+    {
+      "nombre": "Albalat de la Ribera",
+      "estado": "parcial",
+      "farmacias": 21,
+      "error": "Consultas a las 00:00, 12:00 y 22:00; no certifican todos los turnos ni que otras farmacias cercanas atiendan este municipio."
+    },
+    {
+      "nombre": "Albalat dels Sorells",
+      "estado": "parcial",
+      "farmacias": 9,
+      "error": "Consultas a las 00:00, 12:00 y 22:00; no certifican todos los turnos ni que otras farmacias cercanas atiendan este municipio."
+    },
+    {
+      "nombre": "Alberic",
+      "estado": "parcial",
+      "farmacias": 3,
+      "error": "Consultas a las 00:00, 12:00 y 22:00; no certifican todos los turnos ni que otras farmacias cercanas atiendan este municipio."
+    },
+    {
+      "nombre": "Alborache",
+      "estado": "parcial",
+      "farmacias": 17,
+      "error": "Consultas a las 00:00, 12:00 y 22:00; no certifican todos los turnos ni que otras farmacias cercanas atiendan este municipio."
+    },
+    {
+      "nombre": "Alboraya",
+      "estado": "parcial",
+      "farmacias": 3,
+      "error": "Consultas a las 00:00, 12:00 y 22:00; no certifican todos los turnos ni que otras farmacias cercanas atiendan este municipio."
+    },
+    {
+      "nombre": "Albuixech",
+      "estado": "parcial",
+      "farmacias": 8,
+      "error": "Consultas a las 00:00, 12:00 y 22:00; no certifican todos los turnos ni que otras farmacias cercanas atiendan este municipio."
+    },
+    {
+      "nombre": "Alcublas",
+      "estado": "parcial",
+      "farmacias": 14,
+      "error": "Consultas a las 00:00, 12:00 y 22:00; no certifican todos los turnos ni que otras farmacias cercanas atiendan este municipio."
+    },
+    {
+      "nombre": "Alcàntera de Xúquer",
+      "estado": "parcial",
+      "farmacias": 28,
+      "error": "Consultas a las 00:00, 12:00 y 22:00; no certifican todos los turnos ni que otras farmacias cercanas atiendan este municipio."
+    },
+    {
+      "nombre": "Alcácer",
+      "estado": "parcial",
+      "farmacias": 13,
+      "error": "Consultas a las 00:00, 12:00 y 22:00; no certifican todos los turnos ni que otras farmacias cercanas atiendan este municipio."
+    },
+    {
+      "nombre": "Aldaia",
+      "estado": "parcial",
+      "farmacias": 8,
+      "error": "Consultas a las 00:00, 12:00 y 22:00; no certifican todos los turnos ni que otras farmacias cercanas atiendan este municipio."
+    },
+    {
+      "nombre": "Alfafar",
+      "estado": "parcial",
+      "farmacias": 5,
+      "error": "Consultas a las 00:00, 12:00 y 22:00; no certifican todos los turnos ni que otras farmacias cercanas atiendan este municipio."
+    },
+    {
+      "nombre": "Alfafar (Bº Orba)",
+      "estado": "parcial",
+      "farmacias": 6,
+      "error": "Consultas a las 00:00, 12:00 y 22:00; no certifican todos los turnos ni que otras farmacias cercanas atiendan este municipio."
+    },
+    {
+      "nombre": "Alfara de la Baronia",
+      "estado": "parcial",
+      "farmacias": 14,
+      "error": "Consultas a las 00:00, 12:00 y 22:00; no certifican todos los turnos ni que otras farmacias cercanas atiendan este municipio."
+    },
+    {
+      "nombre": "Alfara del Patriarca",
+      "estado": "parcial",
+      "farmacias": 10,
+      "error": "Consultas a las 00:00, 12:00 y 22:00; no certifican todos los turnos ni que otras farmacias cercanas atiendan este municipio."
+    },
+    {
+      "nombre": "Alfarb",
+      "estado": "parcial",
+      "farmacias": 18,
+      "error": "Consultas a las 00:00, 12:00 y 22:00; no certifican todos los turnos ni que otras farmacias cercanas atiendan este municipio."
+    },
+    {
+      "nombre": "Alfarrasí",
+      "estado": "parcial",
+      "farmacias": 25,
+      "error": "Consultas a las 00:00, 12:00 y 22:00; no certifican todos los turnos ni que otras farmacias cercanas atiendan este municipio."
+    },
+    {
+      "nombre": "Alfauir",
+      "estado": "parcial",
+      "farmacias": 18,
+      "error": "Consultas a las 00:00, 12:00 y 22:00; no certifican todos los turnos ni que otras farmacias cercanas atiendan este municipio."
+    },
+    {
+      "nombre": "Algar de Palància",
+      "estado": "parcial",
+      "farmacias": 14,
+      "error": "Consultas a las 00:00, 12:00 y 22:00; no certifican todos los turnos ni que otras farmacias cercanas atiendan este municipio."
+    },
+    {
+      "nombre": "Algemesí",
+      "estado": "parcial",
+      "farmacias": 23,
+      "error": "Consultas a las 00:00, 12:00 y 22:00; no certifican todos los turnos ni que otras farmacias cercanas atiendan este municipio."
+    },
+    {
+      "nombre": "Algimia de Alfara",
+      "estado": "error",
+      "farmacias": 9,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "nombre": "Alginet",
+      "estado": "parcial",
+      "farmacias": 3,
+      "error": "Consultas a las 00:00, 12:00 y 22:00; no certifican todos los turnos ni que otras farmacias cercanas atiendan este municipio."
+    },
+    {
+      "nombre": "Almiserà",
+      "estado": "parcial",
+      "farmacias": 18,
+      "error": "Consultas a las 00:00, 12:00 y 22:00; no certifican todos los turnos ni que otras farmacias cercanas atiendan este municipio."
+    },
+    {
+      "nombre": "Almoines",
+      "estado": "parcial",
+      "farmacias": 18,
+      "error": "Consultas a las 00:00, 12:00 y 22:00; no certifican todos los turnos ni que otras farmacias cercanas atiendan este municipio."
+    },
+    {
+      "nombre": "Almussafes",
+      "estado": "parcial",
+      "farmacias": 16,
+      "error": "Consultas a las 00:00, 12:00 y 22:00; no certifican todos los turnos ni que otras farmacias cercanas atiendan este municipio."
+    },
+    {
+      "nombre": "Almàssera",
+      "estado": "parcial",
+      "farmacias": 5,
+      "error": "Consultas a las 00:00, 12:00 y 22:00; no certifican todos los turnos ni que otras farmacias cercanas atiendan este municipio."
+    },
+    {
+      "nombre": "Alpuente",
+      "estado": "parcial",
+      "farmacias": 18,
+      "error": "Consultas a las 00:00, 12:00 y 22:00; no certifican todos los turnos ni que otras farmacias cercanas atiendan este municipio."
+    },
+    {
+      "nombre": "Alzira",
+      "estado": "parcial",
+      "farmacias": 24,
+      "error": "Consultas a las 00:00, 12:00 y 22:00; no certifican todos los turnos ni que otras farmacias cercanas atiendan este municipio."
+    },
+    {
+      "nombre": "Alzira (La Barraca d' Aigües Vives)",
+      "estado": "parcial",
+      "farmacias": 3,
+      "error": "Consultas a las 00:00, 12:00 y 22:00; no certifican todos los turnos ni que otras farmacias cercanas atiendan este municipio."
+    },
+    {
+      "nombre": "Andilla",
+      "estado": "parcial",
+      "farmacias": 15,
+      "error": "Consultas a las 00:00, 12:00 y 22:00; no certifican todos los turnos ni que otras farmacias cercanas atiendan este municipio."
+    },
+    {
+      "nombre": "Anna",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "nombre": "Antella",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "nombre": "Aras de los Olmos",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "nombre": "Atzaneta d´Albaida",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "nombre": "Ayelo de Rugat",
+      "estado": "parcial",
+      "farmacias": 20,
+      "error": "Consultas a las 00:00, 12:00 y 22:00; no certifican todos los turnos ni que otras farmacias cercanas atiendan este municipio."
+    },
+    {
+      "nombre": "Ayora",
+      "estado": "parcial",
+      "farmacias": 28,
+      "error": "Consultas a las 00:00, 12:00 y 22:00; no certifican todos los turnos ni que otras farmacias cercanas atiendan este municipio."
+    },
+    {
+      "nombre": "Barx",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "nombre": "Barxeta",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "nombre": "Bellreguard",
+      "estado": "parcial",
+      "farmacias": 18,
+      "error": "Consultas a las 00:00, 12:00 y 22:00; no certifican todos los turnos ni que otras farmacias cercanas atiendan este municipio."
+    },
+    {
+      "nombre": "Bellús",
+      "estado": "parcial",
+      "farmacias": 26,
+      "error": "Consultas a las 00:00, 12:00 y 22:00; no certifican todos los turnos ni que otras farmacias cercanas atiendan este municipio."
+    },
+    {
+      "nombre": "Benaguasil",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "nombre": "Benagéber",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "nombre": "Benavites",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "nombre": "Beneixida",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "nombre": "Benetússer",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "nombre": "Beniarjó",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "nombre": "Beniatjar",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "nombre": "Benicolet",
+      "estado": "parcial",
+      "farmacias": 20,
+      "error": "Consultas a las 00:00, 12:00 y 22:00; no certifican todos los turnos ni que otras farmacias cercanas atiendan este municipio."
+    },
+    {
+      "nombre": "Benicull del Xúquer",
+      "estado": "error",
+      "farmacias": 8,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "nombre": "Benifairó de la Valldigna",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "nombre": "Benifairó de les Valls",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "nombre": "Benifaió",
+      "estado": "error",
+      "farmacias": 7,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "nombre": "Beniflá",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "nombre": "Benigànim",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "nombre": "Benimodo",
+      "estado": "error",
+      "farmacias": 9,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "nombre": "Benimuslem",
+      "estado": "error",
+      "farmacias": 18,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "nombre": "Beniparrell",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "nombre": "Benirredrà",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "nombre": "Benisanó",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "nombre": "Benissoda",
+      "estado": "error",
+      "farmacias": 16,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "nombre": "Benisuera",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "nombre": "Bicorp",
+      "estado": "error",
+      "farmacias": 10,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "nombre": "Bocairent",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "nombre": "Bolbaite",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "nombre": "Bonrepòs i Mirambell",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "nombre": "Bufali",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "nombre": "Bugarra",
+      "estado": "error",
+      "farmacias": 7,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "nombre": "Burjassot",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "nombre": "Burjassot (Bº de la Coma)",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "nombre": "Buñol",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "nombre": "Bèlgida",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "nombre": "Bétera",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "nombre": "Bétera (Mas Camarena)",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "nombre": "Calles",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "nombre": "Camporrobles",
+      "estado": "error",
+      "farmacias": 12,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "nombre": "Canals",
+      "estado": "parcial",
+      "farmacias": 3,
+      "error": "Consultas a las 00:00, 12:00 y 22:00; no certifican todos los turnos ni que otras farmacias cercanas atiendan este municipio."
+    },
+    {
+      "nombre": "Canet d´En Berenguer",
+      "estado": "parcial",
+      "farmacias": 12,
+      "error": "Consultas a las 00:00, 12:00 y 22:00; no certifican todos los turnos ni que otras farmacias cercanas atiendan este municipio."
+    },
+    {
+      "nombre": "Carcaixent",
+      "estado": "parcial",
+      "farmacias": 27,
+      "error": "Consultas a las 00:00, 12:00 y 22:00; no certifican todos los turnos ni que otras farmacias cercanas atiendan este municipio."
+    },
+    {
+      "nombre": "Carlet",
+      "estado": "error",
+      "farmacias": 16,
+      "error": "MICOF no confirma la fecha y hora solicitadas."
+    },
+    {
+      "nombre": "Carrícola",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Casas Bajas",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Casinos",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Castellonet de la Conquesta",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Castelló",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Castelló de  Rugat",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Catadau",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Catarroja",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Caudete de las Fuentes",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Cerdà",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Chella",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Chelva",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Chera",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Cheste",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Chiva",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Chulilla",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Cofrentes",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Corbera",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Cortes de Pallás",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Cotes",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Cullera",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Càrcer",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Daimús",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Domeño",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Dos Aguas",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Emperador",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Enguera",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Estivella",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Estubeny",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Faura",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Favara",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Foios",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Fontanars dels Alforins",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Fortaleny",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Fuenterrobles",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Gandia",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Gavarda",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Genovés",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Gestalgar",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Gilet",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Godella",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Godelleta",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Granja de la Costera",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Grao de Gandia",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Guadassuar",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Guadasséquies",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Guardamar de la Safor",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Gátova",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Higueruelas",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Jalance",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Jarafuel",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "La Font de la Figuera",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "La Font d´En Carròs",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "La Pobla Llarga",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "La Pobla de Farnals",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "La Pobla de Farnals (Playa)",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "La Pobla de Vallbona",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "La Pobla del Duc",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "La Yesa",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Llanera de Ranes",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Llaurí",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Llocnou de Fenollet",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Llocnou de Sant Jeroni",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Llocnou de la Corona",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Llombai",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Llosa de Ranes",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Llutxent",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Llíria",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Loriguilla",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Losa Del Obispo",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "L´Alcúdia",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "L´Alcúdia de Crespins",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "L´Alqueria de la Comtessa",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "L´Eliana",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "L´Olleria",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "L´Ènova",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Macastre",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Manises",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Manuel",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Marines",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Massalavés",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Massalfassar",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Massamagrell",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Massanassa",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Meliana",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Millares",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Miramar",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Miramar (Playa)",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Mislata",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Moixent",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Moncada",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Moncada (S.I. Benageber)",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Montaverner",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Montesa",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Montichelvo",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Montroy",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Montserrat",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Museros",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Navarrés",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Novelé",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Náquera",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Oliva",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Oliva (Playa)",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Olocau",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Ontinyent",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Otos",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Paiporta",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Palma de Gandía",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Palmera",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Palomar",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Paterna",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Paterna (Casas Verdes)",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Paterna (La Cañada)",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Paterna (Mas del Rosari)",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Paterna (Terramelar)",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Paterna (Valterna)",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Pedralba",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Petrés",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Picanya",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Picassent",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Piles",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Pinet",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Polinyà del Xúquer",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Potríes",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Puig de Santa María",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Puçol",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Quart de Poblet",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Quart de Poblet (Bº Porta)",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Quart de les Valls",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Quartell",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Quatretonda",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Quesa",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Rafelbuñol",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Rafelcofer",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Rafelguaraf",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Real",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Real de Gandía",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Requena",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Requena (Campo Arcis)",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Requena (San Antonio)",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Riba-roja de Túria",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Riola",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Rocafort",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Rotglà i Corberà",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Rugat",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Ràfol De Salem",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Rótova",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Sagunto",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Sagunto (Almardá)",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Sagunto (Puerto de Sagunto)",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Salem",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "San Antonio de Benagéber",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Sant Joanet",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Sedaví",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Segart",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Sellent",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Sempere",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Senyera",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Serra",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Serra (Urb. Torre Porta Coeli)",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Siete Aguas",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Silla",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Simat de la Valldigna",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Sinarcas",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Sollana",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Sot De Chera",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Sueca",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Sueca (El Perelló)",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Sueca (La Llastra)",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Sueca (Las Palmeras)",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Sueca (Mareny Barraquetes)",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Sueca (Mareny Blau)",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Sumacàrcer",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Tavernes Blanques",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Tavernes de la Valldigna",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Teresa de Cofrentes",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Terrateig",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Titaguas",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Torrebaja",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Torrella",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Torrent",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Torrent (El Vedat)",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Torres-Torres",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Tous",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Turís",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Tuéjar",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Utiel",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Utiel (Cuevas de Utiel)",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Valencia",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Valencia (Benifaraig)",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Valencia (Benimamet)",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Valencia (Carpesa)",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Valencia (Castellar-Oliveral)",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Valencia (El Palmar)",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Valencia (El Perellonet)",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Valencia (El Saler)",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Valencia (Horno de Alcedo)",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Valencia (Masarrochos)",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Valencia (Pinedo)",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Vallada",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Vallanca",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Vallés",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Venta Del Moro",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Vilamarxant",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Villalonga",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Villar Del Arzobispo",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Villargordo del Cabriel",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Vinalesa",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Xeraco",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Xeresa",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Xirivella",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Xirivella (Bº de la luz)",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Xàtiva",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Yátova",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    },
+    {
+      "nombre": "Zarra",
+      "estado": "error",
+      "farmacias": 0,
+      "error": "MICOF no publica una lista de farmacias reconocible."
+    }
+  ],
+  "farmacias": 48,
+  "farmacias_confirmadas": 48,
+  "con_coordenadas": 48,
+  "calendario_actualizado": true,
+  "guardias_conservadas_no_reconfirmadas": 0
+}

@@ -1,0 +1,2434 @@
+[
+  {
+    "id": "cof-tarragona-114",
+    "nombre": "Rull Ferre, Gabriel",
+    "direccion": "Abat Llort, 24",
+    "localidad": "Valls",
+    "provincia": "Tarragona",
+    "cp": "43800",
+    "telefono": "977608717",
+    "observaciones": "Les guàrdies van de 9 del matí a 9 del matí del dia següent",
+    "lat": 41.28775,
+    "lng": 1.2493763,
+    "ubicacion_pendiente_verificacion": false,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franja": "Servei d'Urgències Diürn (9:00h a 22:00h) · Servei d'Urgències Nocturn (22:00h a 9:00h)",
+    "guardia_franjas": [
+      "Servei d'Urgències Diürn (9:00h a 22:00h)",
+      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "inicio_original": "2026-11-05T09:00:00",
+        "fin_original": "2026-11-05T22:00:00",
+        "tipo": "Diürn"
+      },
+      {
+        "inicio": "2026-11-05T22:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "inicio_original": "2026-11-05T22:00:00",
+        "fin_original": "2026-11-06T09:00:00",
+        "tipo": "Nocturn"
+      }
+    ],
+    "localidades_atendidas": [
+      "Aiguamúrcia-Santes",
+      "Alcover",
+      "Alió",
+      "Bràfim",
+      "Cabra del Camp",
+      "El Milà",
+      "El Pla de Sta. Maria",
+      "El Pont d'Armentera",
+      "El Rourell",
+      "Els Garidells",
+      "Figuerola del Camp",
+      "La Masó",
+      "La Riba",
+      "La Secuita",
+      "Masllorenç",
+      "Mont-ral",
+      "Montferri",
+      "Nulles",
+      "Perafort",
+      "Puigpelat",
+      "Querol",
+      "Renau",
+      "Rodonyà",
+      "Santes Creus",
+      "Vallmoll",
+      "Valls",
+      "Vespella de Gaià",
+      "Vila-rodona",
+      "Vilabella",
+      "Vilallonga del camp"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=114"
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.coft.cat/font/fitxafarma.php?cfci=114",
+    "ajuste_ubicacion_m": 8.1,
+    "osm_id": "osm-7977855589",
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/7977855589",
+    "nota_ubicacion": "Marcador del Colegio contrastado con una farmacia OSM a 8.1 m."
+  },
+  {
+    "id": "cof-tarragona-17",
+    "nombre": "de Miguel Gasol, Josefina",
+    "direccion": "Av. Catalunya, 1",
+    "localidad": "Bràfim",
+    "provincia": "Tarragona",
+    "cp": "43812",
+    "telefono": "977016912",
+    "observaciones": "Guardies Nocturnes a Valls",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franja": "Servei d'Urgències Nocturn (22:00h a 9:00h)",
+    "guardia_franjas": [
+      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T22:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "inicio_original": "2026-11-05T22:00:00",
+        "fin_original": "2026-11-06T09:00:00",
+        "tipo": "Nocturn"
+      }
+    ],
+    "localidades_atendidas": [
+      "Aiguamúrcia-Santes",
+      "Alió",
+      "Bràfim",
+      "Cabra del Camp",
+      "El Milà",
+      "El Pla de Sta. Maria",
+      "El Pont d'Armentera",
+      "Masllorenç",
+      "Puigpelat",
+      "Rodonyà",
+      "Santes Creus",
+      "Vila-rodona",
+      "Vilabella"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=17"
+    ]
+  },
+  {
+    "id": "cof-tarragona-268",
+    "nombre": "Arévalo Valero, Maria del Carmen",
+    "direccion": "Sant Martí, 6",
+    "localidad": "Prades",
+    "provincia": "Tarragona",
+    "cp": "43364",
+    "telefono": "613488967",
+    "observaciones": "Dissabtes: 9:45h a 13:15h. (Les guàrdies de dissabtes, diumenges i festius serveis només de matins). Farmàcia en servei de guàrdia localitzada. Fora de l'horari ordinari d'atenció al públic -migdia- trucar al telèfon d'urgències 613488967",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franja": "Servei d'Urgències Diürn (9:00h a 22:00h)",
+    "guardia_franjas": [
+      "Servei d'Urgències Diürn (9:00h a 22:00h)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "inicio_original": "2026-11-05T09:00:00",
+        "fin_original": "2026-11-05T22:00:00",
+        "tipo": "Diürn"
+      }
+    ],
+    "localidades_atendidas": [
+      "Albarca",
+      "Cornudella de Montsant",
+      "La Morera de Montsant",
+      "Margalef de Montsant",
+      "Poboleda",
+      "Prades",
+      "Scala-dei",
+      "Siurana",
+      "Ulldemolins"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=268"
+    ]
+  },
+  {
+    "id": "cof-tarragona-120",
+    "nombre": "Mestres Català, Mª Carme",
+    "direccion": "Prat de la Riba, 2",
+    "localidad": "El Vendrell",
+    "provincia": "Tarragona",
+    "cp": "43700",
+    "telefono": "977666084",
+    "observaciones": "Dilluns a Divendres 9:00 a 13:30 i 16:30 a 20:00h Dissabtes 9:00 a 13:30 juliol i agost dilluns a divendres 9:00 a 13:30 i 16:30 a 20:30 Dissabtes de 9:00 a 13:30 i de 17:00 a 20:30",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franja": "Servei d'Urgències Diürn (9:00h a 22:00h) · Servei d'Urgències Nocturn (22:00h a 9:00h)",
+    "guardia_franjas": [
+      "Servei d'Urgències Diürn (9:00h a 22:00h)",
+      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "inicio_original": "2026-11-05T09:00:00",
+        "fin_original": "2026-11-05T22:00:00",
+        "tipo": "Diürn"
+      },
+      {
+        "inicio": "2026-11-05T22:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "inicio_original": "2026-11-05T22:00:00",
+        "fin_original": "2026-11-06T09:00:00",
+        "tipo": "Nocturn"
+      }
+    ],
+    "localidades_atendidas": [
+      "Albinyana",
+      "Banyeres del Penedès",
+      "Bellvei",
+      "Bonastre",
+      "El Montmell",
+      "El Vendrell",
+      "L'Arboç",
+      "La Bisbal del Penedès",
+      "Llorenç del Penedès",
+      "Sant Jaume dels Domenys",
+      "Santa Oliva"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=120"
+    ]
+  },
+  {
+    "id": "cof-tarragona-2",
+    "nombre": "Delgado Boix, Jordi",
+    "direccion": "Avinguda Catalunya, 59",
+    "localidad": "Alcanar",
+    "provincia": "Tarragona",
+    "cp": "43530",
+    "telefono": "977730105",
+    "observaciones": "Dissabtes de 9'30- 13'30 16.30-20.30 Diumenge 11'00 -13.30 17.30-20.30 Horari estiu: Tardes 17.30-20.30",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franja": "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior) · Servei d'Urgències Diürn (9:00h a 22:00h) · Servei d'Urgències Nocturn (22:00h a 9:00h)",
+    "guardia_franjas": [
+      "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)",
+      "Servei d'Urgències Diürn (9:00h a 22:00h)",
+      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "inicio_original": "2026-11-04T22:00:00",
+        "fin_original": "2026-11-05T09:00:00",
+        "tipo": "Nocturn"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "inicio_original": "2026-11-05T09:00:00",
+        "fin_original": "2026-11-05T22:00:00",
+        "tipo": "Diürn"
+      },
+      {
+        "inicio": "2026-11-05T22:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "inicio_original": "2026-11-05T22:00:00",
+        "fin_original": "2026-11-06T09:00:00",
+        "tipo": "Nocturn"
+      }
+    ],
+    "localidades_atendidas": [
+      "Alcanar",
+      "Cases d'Alcanar"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=2"
+    ]
+  },
+  {
+    "id": "cof-tarragona-350",
+    "nombre": "Rafecas Valles, Victor",
+    "direccion": "Barcelona.10 baixos",
+    "localidad": "Constantí",
+    "provincia": "Tarragona",
+    "cp": "43120",
+    "telefono": "977271180",
+    "observaciones": "Dilluns a dissabtes 09:00 a 21:00h Guardies Localitzades caps de setmana i festius Nocturnes tarragona i/o Reus",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franja": "Servei d'Urgències Diürn (9:00h a 22:00h)",
+    "guardia_franjas": [
+      "Servei d'Urgències Diürn (9:00h a 22:00h)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "inicio_original": "2026-11-05T09:00:00",
+        "fin_original": "2026-11-05T22:00:00",
+        "tipo": "Diürn"
+      }
+    ],
+    "localidades_atendidas": [
+      "Alcover",
+      "Almoster",
+      "Arbolí",
+      "Capafonts",
+      "Constantí",
+      "El Morell",
+      "El Rourell",
+      "Els Pallaresos",
+      "L'Albiol",
+      "La Pobla de Mafumet",
+      "La Riba",
+      "La Secuita",
+      "La Selva del Camp",
+      "Perafort",
+      "Renau",
+      "Vilallonga del camp"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=350"
+    ]
+  },
+  {
+    "id": "cof-tarragona-60",
+    "nombre": "Piqué Calafell, Joaquim",
+    "direccion": "Avda President Macià, núm. 21-23",
+    "localidad": "Reus",
+    "provincia": "Tarragona",
+    "cp": "43204",
+    "telefono": "977945735",
+    "observaciones": "De dilluns a dissabte de 09:00 a 22:00",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franja": "Servei d'Urgències Diürn (9:00h a 22:00h)",
+    "guardia_franjas": [
+      "Servei d'Urgències Diürn (9:00h a 22:00h)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "inicio_original": "2026-11-05T09:00:00",
+        "fin_original": "2026-11-05T22:00:00",
+        "tipo": "Diürn"
+      }
+    ],
+    "localidades_atendidas": [
+      "Alcover",
+      "Alforja",
+      "Almoster",
+      "Arbolí",
+      "Botarell",
+      "Capafonts",
+      "Castellvell del Camp",
+      "Colldejou",
+      "Constantí",
+      "Cornudella de Montsant",
+      "Duesaigües",
+      "El Morell",
+      "L'Albiol",
+      "L'Aleixar",
+      "L'Argentera",
+      "La Febró",
+      "La Pobla de Mafumet",
+      "La Riba",
+      "La Selva del Camp",
+      "Les Borges del Camp",
+      "Maspujols",
+      "Montbrió del Camp",
+      "Poboleda",
+      "Prades",
+      "Renau",
+      "Reus",
+      "Riudecanyes",
+      "Riudecols",
+      "Riudoms",
+      "Ulldemolins",
+      "Vespella de Gaià",
+      "Vilallonga del camp",
+      "Vilanova de Prades",
+      "Vilaplana",
+      "Vinyols i Els Arcs"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=60"
+    ]
+  },
+  {
+    "id": "cof-tarragona-312",
+    "nombre": "Guillen-Navàs-Sentis-Villanueva ,",
+    "direccion": "Av. Paisos Catalans,116 dreta",
+    "localidad": "Reus",
+    "provincia": "Tarragona",
+    "cp": "43205",
+    "telefono": "977322751",
+    "observaciones": "Tots els dies del any 24 hores",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franja": "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior) · Servei d'Urgències Diürn (9:00h a 22:00h) · Servei d'Urgències Nocturn (22:00h a 9:00h)",
+    "guardia_franjas": [
+      "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)",
+      "Servei d'Urgències Diürn (9:00h a 22:00h)",
+      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "inicio_original": "2026-11-04T22:00:00",
+        "fin_original": "2026-11-05T09:00:00",
+        "tipo": "Nocturn"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "inicio_original": "2026-11-05T09:00:00",
+        "fin_original": "2026-11-05T22:00:00",
+        "tipo": "Diürn"
+      },
+      {
+        "inicio": "2026-11-05T22:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "inicio_original": "2026-11-05T22:00:00",
+        "fin_original": "2026-11-06T09:00:00",
+        "tipo": "Nocturn"
+      }
+    ],
+    "localidades_atendidas": [
+      "Alcover",
+      "Alforja",
+      "Almoster",
+      "Arbolí",
+      "Botarell",
+      "Capafonts",
+      "Castellvell del Camp",
+      "Colldejou",
+      "Constantí",
+      "Cornudella de Montsant",
+      "Duesaigües",
+      "El Morell",
+      "L'Albiol",
+      "L'Aleixar",
+      "L'Argentera",
+      "La Febró",
+      "La Pobla de Mafumet",
+      "La Riba",
+      "La Selva del Camp",
+      "Les Borges del Camp",
+      "Maspujols",
+      "Montbrió del Camp",
+      "Poboleda",
+      "Prades",
+      "Renau",
+      "Reus",
+      "Riudecanyes",
+      "Riudecols",
+      "Riudoms",
+      "Ulldemolins",
+      "Vespella de Gaià",
+      "Vilallonga del camp",
+      "Vilanova de Prades",
+      "Vilaplana",
+      "Vinyols i Els Arcs"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=312"
+    ]
+  },
+  {
+    "id": "cof-tarragona-100",
+    "nombre": "Pellisa De Cid, Anna",
+    "direccion": "Enric d'Ossó i Cervelló, núm. 27",
+    "localidad": "Tortosa",
+    "provincia": "Tarragona",
+    "cp": "43500",
+    "telefono": "977440342",
+    "observaciones": "Dilluns a Divendres 8:00h a 21:00 Dissabtes 9:00 a 14:00h Diumenges 9:00 a 14:00",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franja": "Servei d'Urgències Diürn (9:00h a 22:00h) · Servei d'Urgències Nocturn (22:00h a 9:00h)",
+    "guardia_franjas": [
+      "Servei d'Urgències Diürn (9:00h a 22:00h)",
+      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "inicio_original": "2026-11-05T09:00:00",
+        "fin_original": "2026-11-05T22:00:00",
+        "tipo": "Diürn"
+      },
+      {
+        "inicio": "2026-11-05T22:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "inicio_original": "2026-11-05T22:00:00",
+        "fin_original": "2026-11-06T09:00:00",
+        "tipo": "Nocturn"
+      }
+    ],
+    "localidades_atendidas": [
+      "Aldover",
+      "Alfara de Carles",
+      "Benifallet",
+      "Jesús",
+      "Mas de Barberans",
+      "Paüls",
+      "Roquetes",
+      "Tivenys",
+      "Tortosa",
+      "Xerta"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=100"
+    ]
+  },
+  {
+    "id": "cof-tarragona-13",
+    "nombre": "Solé Roig, Elisenda",
+    "direccion": "Avgda. Magdalena Martorell, 59",
+    "localidad": "Les Borges del Camp",
+    "provincia": "Tarragona",
+    "cp": "43350",
+    "telefono": "977817329",
+    "observaciones": "GUARDIES NOCTURNES REUS/CAMBRILS",
+    "lat": 41.171894,
+    "lng": 1.021224,
+    "ubicacion_pendiente_verificacion": false,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franja": "Servei d'Urgències Diürn (9:00h a 22:00h)",
+    "guardia_franjas": [
+      "Servei d'Urgències Diürn (9:00h a 22:00h)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "inicio_original": "2026-11-05T09:00:00",
+        "fin_original": "2026-11-05T22:00:00",
+        "tipo": "Diürn"
+      }
+    ],
+    "localidades_atendidas": [
+      "Alforja",
+      "Botarell",
+      "L'Aleixar",
+      "Les Borges del Camp",
+      "Maspujols",
+      "Montbrió del Camp",
+      "Riudecanyes",
+      "Riudecols",
+      "Riudoms",
+      "Vilaplana",
+      "Vinyols i Els Arcs"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=13"
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.coft.cat/font/fitxafarma.php?cfci=13",
+    "ajuste_ubicacion_m": 5.8,
+    "osm_id": "osm-4315313826",
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/4315313826",
+    "nota_ubicacion": "Marcador del Colegio contrastado con una farmacia OSM a 5.8 m."
+  },
+  {
+    "id": "cof-tarragona-348",
+    "nombre": "Esqué Englund, Teresa",
+    "direccion": "Avda. Vidal i Barraquer, 3",
+    "localidad": "Cambrils",
+    "provincia": "Tarragona",
+    "cp": "43850",
+    "telefono": "977791702",
+    "observaciones": "Dilluns a Divendres 8:30 a 14 i 16:30 a 20:30 Dissabtes De 9 a 14 26 Juny al 1 Setembre Dilluns a Divendres 8:30 a 14h i 17 a 21 Dissabte 9 a 14 i 17 a 21",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franja": "Servei d'Urgències Diürn (9:00h a 22:00h) · Servei d'Urgències Nocturn (22:00h a 9:00h)",
+    "guardia_franjas": [
+      "Servei d'Urgències Diürn (9:00h a 22:00h)",
+      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "inicio_original": "2026-11-05T09:00:00",
+        "fin_original": "2026-11-05T22:00:00",
+        "tipo": "Diürn"
+      },
+      {
+        "inicio": "2026-11-05T22:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "inicio_original": "2026-11-05T22:00:00",
+        "fin_original": "2026-11-06T09:00:00",
+        "tipo": "Nocturn"
+      }
+    ],
+    "localidades_atendidas": [
+      "Alforja",
+      "Botarell",
+      "Cambrils",
+      "L'Aleixar",
+      "Les Borges del Camp",
+      "Maspujols",
+      "Miami-platja",
+      "Mont-roig del Camp",
+      "Montbrió del Camp",
+      "Pratdip",
+      "Riudecanyes",
+      "Riudecols",
+      "Riudoms",
+      "Vandellòs i L'Hospitalet de L'Infant",
+      "Vilanova d'Escornalbou",
+      "Vilaplana",
+      "Vinyols i Els Arcs"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=348"
+    ]
+  },
+  {
+    "id": "cof-tarragona-93",
+    "nombre": "Cogul Ardèvol, Mª Blanca",
+    "direccion": "Antoni Roig, 14",
+    "localidad": "Torredembarra",
+    "provincia": "Tarragona",
+    "cp": "43830",
+    "telefono": "977640003",
+    "observaciones": "Dilluns a Divendres de 8:30 a 21:00 Dissabtes de 9:00 a 13.30",
+    "lat": 41.144489,
+    "lng": 1.3978879,
+    "ubicacion_pendiente_verificacion": false,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franja": "Servei d'Urgències Diürn (9:00h a 22:00h) · Servei d'Urgències Nocturn (22:00h a 9:00h)",
+    "guardia_franjas": [
+      "Servei d'Urgències Diürn (9:00h a 22:00h)",
+      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "inicio_original": "2026-11-05T09:00:00",
+        "fin_original": "2026-11-05T22:00:00",
+        "tipo": "Diürn"
+      },
+      {
+        "inicio": "2026-11-05T22:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "inicio_original": "2026-11-05T22:00:00",
+        "fin_original": "2026-11-06T09:00:00",
+        "tipo": "Nocturn"
+      }
+    ],
+    "localidades_atendidas": [
+      "Altafulla",
+      "Creixell",
+      "La Nou de Gaià",
+      "La Pobla de Montornès",
+      "La Riera de Gaià",
+      "Roda de Barà",
+      "Salomó",
+      "Torredembarra",
+      "Vespella de Gaià"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=93"
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.coft.cat/font/fitxafarma.php?cfci=93",
+    "ajuste_ubicacion_m": 6.2,
+    "osm_id": "osm-7319727401",
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/7319727401",
+    "nota_ubicacion": "Marcador del Colegio contrastado con una farmacia OSM a 6.2 m."
+  },
+  {
+    "id": "cof-tarragona-8",
+    "nombre": "Salom Jovani, Angela ,",
+    "direccion": "Sebastià Joan Arbó, 85",
+    "localidad": "Amposta",
+    "provincia": "Tarragona",
+    "cp": "43870",
+    "telefono": "977704076",
+    "observaciones": "Dilluns a Divendres : De 8:30 a 20:30 hores Dissabtes: De 9:00 a 14:00 hores Festius Tancat",
+    "lat": 40.706055,
+    "lng": 0.5754889,
+    "ubicacion_pendiente_verificacion": false,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franja": "Servei d'Urgències Diürn (9:00h a 22:00h) · Servei d'Urgències Nocturn (22:00h a 9:00h)",
+    "guardia_franjas": [
+      "Servei d'Urgències Diürn (9:00h a 22:00h)",
+      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "inicio_original": "2026-11-05T09:00:00",
+        "fin_original": "2026-11-05T22:00:00",
+        "tipo": "Diürn"
+      },
+      {
+        "inicio": "2026-11-05T22:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "inicio_original": "2026-11-05T22:00:00",
+        "fin_original": "2026-11-06T09:00:00",
+        "tipo": "Nocturn"
+      }
+    ],
+    "localidades_atendidas": [
+      "Amposta",
+      "Els Muntells",
+      "Freginals",
+      "Godall",
+      "L'Aldea",
+      "La Galera",
+      "Masdenverge",
+      "Santa Bàrbara"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=8"
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.coft.cat/font/fitxafarma.php?cfci=8",
+    "ajuste_ubicacion_m": 13.1,
+    "osm_id": "osm-7295588779",
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/7295588779",
+    "nota_ubicacion": "Marcador del Colegio contrastado con una farmacia OSM a 13.1 m."
+  },
+  {
+    "id": "cof-tarragona-37",
+    "nombre": "Ferras Prats, Joaquim",
+    "direccion": "Navarra, 8",
+    "localidad": "Horta de Sant Joan",
+    "provincia": "Tarragona",
+    "cp": "43596",
+    "telefono": "977435016",
+    "observaciones": "Dissabtes al matí obrim de 10:00 h a 13:00 h",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franja": "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior) · Servei d'Urgències Diürn (9:00h a 22:00h) · Servei d'Urgències Nocturn (22:00h a 9:00h)",
+    "guardia_franjas": [
+      "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)",
+      "Servei d'Urgències Diürn (9:00h a 22:00h)",
+      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "inicio_original": "2026-11-04T22:00:00",
+        "fin_original": "2026-11-05T09:00:00",
+        "tipo": "Nocturn"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "inicio_original": "2026-11-05T09:00:00",
+        "fin_original": "2026-11-05T22:00:00",
+        "tipo": "Diürn"
+      },
+      {
+        "inicio": "2026-11-05T22:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "inicio_original": "2026-11-05T22:00:00",
+        "fin_original": "2026-11-06T09:00:00",
+        "tipo": "Nocturn"
+      }
+    ],
+    "localidades_atendidas": [
+      "Arnes",
+      "Batea",
+      "Bot",
+      "Caseres",
+      "Corbera d'Ebre",
+      "El Pinell de Brai",
+      "Gandesa",
+      "Ginestar",
+      "Horta de Sant Joan",
+      "La Fatarella",
+      "La Pobla de Massaluca",
+      "Prat de Comte",
+      "Vilalba dels Arcs"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=37"
+    ]
+  },
+  {
+    "id": "cof-tarragona-33",
+    "nombre": "Barbero Pamies, Amelia",
+    "direccion": "Major, 6",
+    "localidad": "Flix",
+    "provincia": "Tarragona",
+    "cp": "43750",
+    "telefono": "977410129",
+    "observaciones": "La guardia comença dissabte a les 14 h. i acabarà dilluns a les 9 h Horarí sense recepta: Dissabte 17,30h a 20,30h Diumenge 11,30h a 14,30h",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franja": "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior) · Servei d'Urgències Diürn (9:00h a 22:00h) · Servei d'Urgències Nocturn (22:00h a 9:00h)",
+    "guardia_franjas": [
+      "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)",
+      "Servei d'Urgències Diürn (9:00h a 22:00h)",
+      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "inicio_original": "2026-11-04T22:00:00",
+        "fin_original": "2026-11-05T09:00:00",
+        "tipo": "Nocturn"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "inicio_original": "2026-11-05T09:00:00",
+        "fin_original": "2026-11-05T22:00:00",
+        "tipo": "Diürn"
+      },
+      {
+        "inicio": "2026-11-05T22:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "inicio_original": "2026-11-05T22:00:00",
+        "fin_original": "2026-11-06T09:00:00",
+        "tipo": "Nocturn"
+      }
+    ],
+    "localidades_atendidas": [
+      "Ascó",
+      "Flix",
+      "La Palma d'Ebre",
+      "La Torre de l'Espanyol",
+      "Riba-roja d'Ebre",
+      "Vinebre"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=33"
+    ]
+  },
+  {
+    "id": "cof-tarragona-11",
+    "nombre": "Suriol Ribé, Andreu",
+    "direccion": "Major, 22",
+    "localidad": "L'Arboç",
+    "provincia": "Tarragona",
+    "cp": "43720",
+    "telefono": "977670009",
+    "observaciones": "GUARDIES NOCTURNES EL VENDRELL",
+    "lat": 41.267765,
+    "lng": 1.603982,
+    "ubicacion_pendiente_verificacion": false,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franja": "Servei d'Urgències Diürn (9:00h a 22:00h)",
+    "guardia_franjas": [
+      "Servei d'Urgències Diürn (9:00h a 22:00h)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "inicio_original": "2026-11-05T09:00:00",
+        "fin_original": "2026-11-05T22:00:00",
+        "tipo": "Diürn"
+      }
+    ],
+    "localidades_atendidas": [
+      "Banyeres del Penedès",
+      "Bellvei",
+      "El Montmell",
+      "L'Arboç",
+      "La Bisbal del Penedès",
+      "Llorenç del Penedès",
+      "Sant Jaume dels Domenys"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=11"
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.coft.cat/font/fitxafarma.php?cfci=11",
+    "ajuste_ubicacion_m": 6.5,
+    "osm_id": "osm-7319997502",
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/7319997502",
+    "nota_ubicacion": "Marcador del Colegio contrastado con una farmacia OSM a 6.5 m."
+  },
+  {
+    "id": "cof-tarragona-39",
+    "nombre": "Felip Sánchez, Jaume",
+    "direccion": "Avda General Prim, 6",
+    "localidad": "Montblanc",
+    "provincia": "Tarragona",
+    "cp": "43400",
+    "telefono": "977860167",
+    "observaciones": "Farmàcia amb servei de guàrdia localitzada Horari d’obertura física De dilluns a divendres: De 9.00 a 21.00 h Caps de setmana i festius Dissabtes: De 9.00 a 13.30 h Tarda d’hivern: de 16.30 a 20.00 h Tarda d’estiu: de 17.00 a 20.30 h Aquest horari queda vinculat al canvi horari oficial. Diumenges i festius: D’11.00 a 13.00 h i de 18.00 a 20.00 h Fora d’aquests horaris i per al servei nocturn de guàrdia: Servei de guàrdia localitzada, autoritzat pel Decret 321/1996, d’1 d’octubre, DOGC núm. 2264, de 4.10.1996. Aquest servei és exclusivament per a urgències. Cal avisar prèviament al telèfon mòbil 679 384 427.",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franja": "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior) · Servei d'Urgències Diürn (9:00h a 22:00h) · Servei d'Urgències Nocturn (22:00h a 9:00h)",
+    "guardia_franjas": [
+      "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)",
+      "Servei d'Urgències Diürn (9:00h a 22:00h)",
+      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "inicio_original": "2026-11-04T22:00:00",
+        "fin_original": "2026-11-05T09:00:00",
+        "tipo": "Nocturn"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "inicio_original": "2026-11-05T09:00:00",
+        "fin_original": "2026-11-05T22:00:00",
+        "tipo": "Diürn"
+      },
+      {
+        "inicio": "2026-11-05T22:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "inicio_original": "2026-11-05T22:00:00",
+        "fin_original": "2026-11-06T09:00:00",
+        "tipo": "Nocturn"
+      }
+    ],
+    "localidades_atendidas": [
+      "Barberà de la Conca",
+      "Blancafort",
+      "Conesa",
+      "Cornudella de Montsant",
+      "Forès",
+      "L'Espluga de Francolí",
+      "Les Piles",
+      "Montblanc",
+      "Passanant",
+      "Pira",
+      "Poboleda",
+      "Pontils",
+      "Prades",
+      "Rocafort de Queralt",
+      "Sarral",
+      "Savallà del Comtat",
+      "Senan",
+      "Solivella",
+      "Ulldemolins",
+      "Vallclara",
+      "Vallfogona de Riucorb",
+      "Vilanova de Prades",
+      "Vilaverd",
+      "Vimbodí"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=39"
+    ]
+  },
+  {
+    "id": "cof-tarragona-31",
+    "nombre": "Compte - Barcelo cb ,",
+    "direccion": "Miquel Barcelo,16",
+    "localidad": "Falset",
+    "provincia": "Tarragona",
+    "cp": "43730",
+    "telefono": "977830914",
+    "observaciones": "dissabtes 9 a 13:30h. ELS DIES 14 i 15 març 4 i 5 abril 22 i 23 agost 28 i 29 novembre GUARDIES A MORA DE D´EBRE",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franja": "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior) · Servei d'Urgències Diürn (9:00h a 22:00h) · Servei d'Urgències Nocturn (22:00h a 9:00h)",
+    "guardia_franjas": [
+      "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)",
+      "Servei d'Urgències Diürn (9:00h a 22:00h)",
+      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "inicio_original": "2026-11-04T22:00:00",
+        "fin_original": "2026-11-05T09:00:00",
+        "tipo": "Nocturn"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "inicio_original": "2026-11-05T09:00:00",
+        "fin_original": "2026-11-05T22:00:00",
+        "tipo": "Diürn"
+      },
+      {
+        "inicio": "2026-11-05T22:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "inicio_original": "2026-11-05T22:00:00",
+        "fin_original": "2026-11-06T09:00:00",
+        "tipo": "Nocturn"
+      }
+    ],
+    "localidades_atendidas": [
+      "Bellmunt del Priorat",
+      "Cabacés",
+      "Capçanes",
+      "El Lloar",
+      "El Masroig",
+      "El Molar",
+      "Els Guiamets",
+      "Falset",
+      "Gratallops",
+      "La Bisbal de Falset",
+      "La Figuera",
+      "La Torre de Fontaubella",
+      "La Vilella Alta",
+      "La Vilella Baixa",
+      "Marçà",
+      "Porrera",
+      "Pradell de la Teixeta",
+      "Torroja del Priorat"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=31"
+    ]
+  },
+  {
+    "id": "cof-tarragona-43",
+    "nombre": "Molina - Bengochea ,",
+    "direccion": "l’Avinguda Comarques Catalanes, núm. 57",
+    "localidad": "Móra d'Ebre",
+    "provincia": "Tarragona",
+    "cp": "43740",
+    "telefono": "977400115",
+    "observaciones": "dilluns a diumenge de 09:00 a 13:30 i de 16:30 a 20:00 Guàrdies localitzades.",
+    "lat": 41.088593,
+    "lng": 0.64049,
+    "ubicacion_pendiente_verificacion": false,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franja": "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior) · Servei d'Urgències Diürn (9:00h a 22:00h) · Servei d'Urgències Nocturn (22:00h a 9:00h)",
+    "guardia_franjas": [
+      "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)",
+      "Servei d'Urgències Diürn (9:00h a 22:00h)",
+      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "inicio_original": "2026-11-04T22:00:00",
+        "fin_original": "2026-11-05T09:00:00",
+        "tipo": "Nocturn"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "inicio_original": "2026-11-05T09:00:00",
+        "fin_original": "2026-11-05T22:00:00",
+        "tipo": "Diürn"
+      },
+      {
+        "inicio": "2026-11-05T22:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "inicio_original": "2026-11-05T22:00:00",
+        "fin_original": "2026-11-06T09:00:00",
+        "tipo": "Nocturn"
+      }
+    ],
+    "localidades_atendidas": [
+      "Benissanet",
+      "Garcia",
+      "Ginestar",
+      "Miravet",
+      "Móra d'Ebre",
+      "Móra la Nova",
+      "Prat de Comte",
+      "Rasquera",
+      "Tivissa"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=43"
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.coft.cat/font/fitxafarma.php?cfci=43",
+    "ajuste_ubicacion_m": 1.1,
+    "osm_id": "osm-7298643694",
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/7298643694",
+    "nota_ubicacion": "Marcador del Colegio contrastado con una farmacia OSM a 1.1 m."
+  },
+  {
+    "id": "cof-tarragona-273",
+    "nombre": "Safont Albert, Sara",
+    "direccion": "Ronda Universitat, 1 local 5 (Segur de Calafell)",
+    "localidad": "Calafell",
+    "provincia": "Tarragona",
+    "cp": "43882",
+    "telefono": "977160041",
+    "observaciones": "13 hores tot l’any",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franja": "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior) · Servei d'Urgències Diürn (9:00h a 22:00h) · Servei d'Urgències Nocturn (22:00h a 9:00h)",
+    "guardia_franjas": [
+      "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)",
+      "Servei d'Urgències Diürn (9:00h a 22:00h)",
+      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "inicio_original": "2026-11-04T22:00:00",
+        "fin_original": "2026-11-05T09:00:00",
+        "tipo": "Nocturn"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "inicio_original": "2026-11-05T09:00:00",
+        "fin_original": "2026-11-05T22:00:00",
+        "tipo": "Diürn"
+      },
+      {
+        "inicio": "2026-11-05T22:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "inicio_original": "2026-11-05T22:00:00",
+        "fin_original": "2026-11-06T09:00:00",
+        "tipo": "Nocturn"
+      }
+    ],
+    "localidades_atendidas": [
+      "Calafell",
+      "Cubelles",
+      "Cunit"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=273"
+    ]
+  },
+  {
+    "id": "cof-tarragona-105",
+    "nombre": "Gimeno Palatsí, Mª Victoria",
+    "direccion": "Av. Catalunya, 302",
+    "localidad": "L'Aldea",
+    "provincia": "Tarragona",
+    "cp": "43896",
+    "telefono": "977450543",
+    "observaciones": "Dissabte de 9:30 a 13:30 GUARDIES NOCTURNES AMPOSTA",
+    "lat": 40.747997,
+    "lng": 0.623571,
+    "ubicacion_pendiente_verificacion": false,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franja": "Servei d'Urgències Diürn (9:00h a 22:00h)",
+    "guardia_franjas": [
+      "Servei d'Urgències Diürn (9:00h a 22:00h)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "inicio_original": "2026-11-05T09:00:00",
+        "fin_original": "2026-11-05T22:00:00",
+        "tipo": "Diürn"
+      }
+    ],
+    "localidades_atendidas": [
+      "Camarles",
+      "L'Aldea",
+      "L'Ampolla"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=105"
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.coft.cat/font/fitxafarma.php?cfci=105",
+    "ajuste_ubicacion_m": 11.7,
+    "osm_id": "osm-5978837081",
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/5978837081",
+    "nota_ubicacion": "Marcador del Colegio contrastado con una farmacia OSM a 11.7 m."
+  },
+  {
+    "id": "cof-tarragona-111",
+    "nombre": "Ferreres Gimeno, Manuel",
+    "direccion": "Av. de Catalunya, 2",
+    "localidad": "Deltebre",
+    "provincia": "Tarragona",
+    "cp": "43580",
+    "telefono": "977489918",
+    "observaciones": "CANVIS DE GUARDIA: -setmanals 20,30 del divendres -festius 9,30 del mati HORARI TARDA JUNY-JULIOL-AGOST:17-21",
+    "lat": 40.718674,
+    "lng": 0.722823,
+    "ubicacion_pendiente_verificacion": false,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franja": "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior) · Servei d'Urgències Diürn (9:00h a 22:00h) · Servei d'Urgències Nocturn (22:00h a 9:00h)",
+    "guardia_franjas": [
+      "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)",
+      "Servei d'Urgències Diürn (9:00h a 22:00h)",
+      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "inicio_original": "2026-11-04T22:00:00",
+        "fin_original": "2026-11-05T09:00:00",
+        "tipo": "Nocturn"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "inicio_original": "2026-11-05T09:00:00",
+        "fin_original": "2026-11-05T22:00:00",
+        "tipo": "Diürn"
+      },
+      {
+        "inicio": "2026-11-05T22:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "inicio_original": "2026-11-05T22:00:00",
+        "fin_original": "2026-11-06T09:00:00",
+        "tipo": "Nocturn"
+      }
+    ],
+    "localidades_atendidas": [
+      "Camarles",
+      "Deltebre",
+      "L'Ampolla",
+      "S. Jaume d'Enveja"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=111"
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.coft.cat/font/fitxafarma.php?cfci=111",
+    "ajuste_ubicacion_m": 12.4,
+    "osm_id": "osm-6833349111",
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/6833349111",
+    "nota_ubicacion": "Marcador del Colegio contrastado con una farmacia OSM a 12.4 m."
+  },
+  {
+    "id": "cof-tarragona-336",
+    "nombre": "Maduell Miras, Roger",
+    "direccion": "Av. Catalunya, 30",
+    "localidad": "Mont-roig del Camp",
+    "provincia": "Tarragona",
+    "cp": "43300",
+    "telefono": "977837864",
+    "observaciones": "GUARDIES NOCTURNES CAMBRILS HORARI ESTIU: 1 JULIOL AL 31 AGOST TARDES 17 A 20:30 h",
+    "lat": 41.086906,
+    "lng": 0.9621225,
+    "ubicacion_pendiente_verificacion": false,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franja": "Servei d'Urgències Diürn (9:00h a 22:00h)",
+    "guardia_franjas": [
+      "Servei d'Urgències Diürn (9:00h a 22:00h)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "inicio_original": "2026-11-05T09:00:00",
+        "fin_original": "2026-11-05T22:00:00",
+        "tipo": "Diürn"
+      }
+    ],
+    "localidades_atendidas": [
+      "Colldejou",
+      "Duesaigües",
+      "Miami-platja",
+      "Mont-roig del Camp",
+      "Pratdip",
+      "Vandellòs i L'Hospitalet de L'Infant",
+      "Vilanova d'Escornalbou"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=336"
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.coft.cat/font/fitxafarma.php?cfci=336",
+    "ajuste_ubicacion_m": 12.7,
+    "osm_id": "osm-7298832575",
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/7298832575",
+    "nota_ubicacion": "Marcador del Colegio contrastado con una farmacia OSM a 12.7 m."
+  },
+  {
+    "id": "cof-tarragona-89",
+    "nombre": "Rubio Sanromà, Clara",
+    "direccion": "La Unió, 17",
+    "localidad": "Tarragona",
+    "provincia": "Tarragona",
+    "cp": "43001",
+    "telefono": "977233521",
+    "observaciones": "",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franja": "Servei d'Urgències Diürn (9:00h a 22:00h) · Servei d'Urgències Nocturn (22:00h a 9:00h)",
+    "guardia_franjas": [
+      "Servei d'Urgències Diürn (9:00h a 22:00h)",
+      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "inicio_original": "2026-11-05T09:00:00",
+        "fin_original": "2026-11-05T22:00:00",
+        "tipo": "Diürn"
+      },
+      {
+        "inicio": "2026-11-05T22:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "inicio_original": "2026-11-05T22:00:00",
+        "fin_original": "2026-11-06T09:00:00",
+        "tipo": "Nocturn"
+      }
+    ],
+    "localidades_atendidas": [
+      "Constantí",
+      "El Catllar",
+      "Els Pallaresos",
+      "La Canonja",
+      "Renau",
+      "Tarragona",
+      "Vespella de Gaià"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=89"
+    ]
+  },
+  {
+    "id": "cof-tarragona-171",
+    "nombre": "Ciutat, Rosa M. - Molero, Helena ,",
+    "direccion": "Urb.La Granja, Gran Canaria, 11 (Torreforta)",
+    "localidad": "Tarragona",
+    "provincia": "Tarragona",
+    "cp": "43006",
+    "telefono": "977543189",
+    "observaciones": "Dilluns a Divendres de 8:30 a 22:00 Hores Dissabte , Diumenge i festius de 9:00 a 22:00 Hores",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franja": "Servei d'Urgències Diürn (9:00h a 22:00h)",
+    "guardia_franjas": [
+      "Servei d'Urgències Diürn (9:00h a 22:00h)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "inicio_original": "2026-11-05T09:00:00",
+        "fin_original": "2026-11-05T22:00:00",
+        "tipo": "Diürn"
+      }
+    ],
+    "localidades_atendidas": [
+      "Constantí",
+      "El Catllar",
+      "Els Pallaresos",
+      "La Canonja",
+      "Renau",
+      "Tarragona",
+      "Vespella de Gaià"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=171"
+    ]
+  },
+  {
+    "id": "cof-tarragona-163",
+    "nombre": "Rovira Sanchez, David",
+    "direccion": "Avinguda Barcelona, 52, Esc 1, Local 2",
+    "localidad": "Cunit",
+    "provincia": "Tarragona",
+    "cp": "43881",
+    "telefono": "977162210",
+    "observaciones": "Juliol a Setembre: Dilluns a Diumenge de 9:00 a 21:00 D'octubre a Juny: Dilluns a Dissabte laborables de 9:00 a 21:00 Diumenges i festius de 10:00 a 15:00",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franja": "Servei d'Urgències Diürn (9:00h a 22:00h)",
+    "guardia_franjas": [
+      "Servei d'Urgències Diürn (9:00h a 22:00h)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "inicio_original": "2026-11-05T09:00:00",
+        "fin_original": "2026-11-05T22:00:00",
+        "tipo": "Diürn"
+      }
+    ],
+    "localidades_atendidas": [
+      "Cubelles",
+      "Cunit"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=163"
+    ]
+  },
+  {
+    "id": "cof-tarragona-353",
+    "nombre": "Ruiz Félez, Jaime",
+    "direccion": "Plaça Major, s/n (Urb. Les Tres Cales)",
+    "localidad": "L'Ametlla de Mar",
+    "provincia": "Tarragona",
+    "cp": "43860",
+    "telefono": "977457821",
+    "observaciones": "",
+    "lat": 40.908234,
+    "lng": 0.8092251,
+    "ubicacion_pendiente_verificacion": false,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franja": "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior) · Servei d'Urgències Diürn (9:00h a 22:00h) · Servei d'Urgències Nocturn (22:00h a 9:00h)",
+    "guardia_franjas": [
+      "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)",
+      "Servei d'Urgències Diürn (9:00h a 22:00h)",
+      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "inicio_original": "2026-11-04T22:00:00",
+        "fin_original": "2026-11-05T09:00:00",
+        "tipo": "Nocturn"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "inicio_original": "2026-11-05T09:00:00",
+        "fin_original": "2026-11-05T22:00:00",
+        "tipo": "Diürn"
+      },
+      {
+        "inicio": "2026-11-05T22:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "inicio_original": "2026-11-05T22:00:00",
+        "fin_original": "2026-11-06T09:00:00",
+        "tipo": "Nocturn"
+      }
+    ],
+    "localidades_atendidas": [
+      "El Perelló",
+      "L'Ametlla de Mar",
+      "L'Ampolla"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=353"
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.coft.cat/font/fitxafarma.php?cfci=353",
+    "ajuste_ubicacion_m": 7.8,
+    "osm_id": "osm-5914611071",
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/5914611071",
+    "nota_ubicacion": "Marcador del Colegio contrastado con una farmacia OSM a 7.8 m."
+  },
+  {
+    "id": "cof-tarragona-277",
+    "nombre": "Agüera Balagué, Ma. Pilar",
+    "direccion": "Carrer del Forn, 5",
+    "localidad": "Freginals",
+    "provincia": "Tarragona",
+    "cp": "43558",
+    "telefono": "679749541",
+    "observaciones": "Guardies Nocturnes ,caps de setmana i dies festius Amposta.",
+    "lat": 40.672253,
+    "lng": 0.520169,
+    "ubicacion_pendiente_verificacion": false,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franja": "Servei d'Urgències Nocturn (22:00h a 9:00h)",
+    "guardia_franjas": [
+      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T22:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "inicio_original": "2026-11-05T22:00:00",
+        "fin_original": "2026-11-06T09:00:00",
+        "tipo": "Nocturn"
+      }
+    ],
+    "localidades_atendidas": [
+      "Freginals",
+      "Godall",
+      "La Galera",
+      "Masdenverge",
+      "Santa Bàrbara"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=277"
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.coft.cat/font/fitxafarma.php?cfci=277",
+    "ajuste_ubicacion_m": 4.7,
+    "osm_id": "osm-1680712991",
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/1680712991",
+    "nota_ubicacion": "Marcador del Colegio contrastado con una farmacia OSM a 4.7 m."
+  },
+  {
+    "id": "cof-tarragona-22",
+    "nombre": "Escuder Monfort, Lluís",
+    "direccion": "Ramón y Cajal, 20",
+    "localidad": "La Sénia",
+    "provincia": "Tarragona",
+    "cp": "43560",
+    "telefono": "977570577",
+    "observaciones": "Dilluns a Divendres de 09:00 a 14:00h i de 16:30 a 20:30h Dissabtes de 09:00 a 14:00h. Telèfon de guàrdia: 607353106",
+    "lat": 40.635376,
+    "lng": 0.281235,
+    "ubicacion_pendiente_verificacion": false,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franja": "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior) · Servei d'Urgències Diürn (9:00h a 22:00h) · Servei d'Urgències Nocturn (22:00h a 9:00h)",
+    "guardia_franjas": [
+      "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)",
+      "Servei d'Urgències Diürn (9:00h a 22:00h)",
+      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "inicio_original": "2026-11-04T22:00:00",
+        "fin_original": "2026-11-05T09:00:00",
+        "tipo": "Nocturn"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "inicio_original": "2026-11-05T09:00:00",
+        "fin_original": "2026-11-05T22:00:00",
+        "tipo": "Diürn"
+      },
+      {
+        "inicio": "2026-11-05T22:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "inicio_original": "2026-11-05T22:00:00",
+        "fin_original": "2026-11-06T09:00:00",
+        "tipo": "Nocturn"
+      }
+    ],
+    "localidades_atendidas": [
+      "La Sénia"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=22"
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.coft.cat/font/fitxafarma.php?cfci=22",
+    "ajuste_ubicacion_m": 4.4,
+    "osm_id": "osm-7343835532",
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/7343835532",
+    "nota_ubicacion": "Marcador del Colegio contrastado con una farmacia OSM a 4.4 m."
+  },
+  {
+    "id": "cof-tarragona-66",
+    "nombre": "Borrut Valles, Josep M",
+    "direccion": "Constància, 6",
+    "localidad": "S. Carles de la Ràpita",
+    "provincia": "Tarragona",
+    "cp": "43540",
+    "telefono": "977740160",
+    "observaciones": "HORARI TARDES ELS MESOS DE JUNY JULIOL AGOST I SEPTEMBRE ES DE 17H A 21H",
+    "lat": 40.620358,
+    "lng": 0.591647,
+    "ubicacion_pendiente_verificacion": false,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franja": "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior) · Servei d'Urgències Diürn (9:00h a 22:00h) · Servei d'Urgències Nocturn (22:00h a 9:00h)",
+    "guardia_franjas": [
+      "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)",
+      "Servei d'Urgències Diürn (9:00h a 22:00h)",
+      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "inicio_original": "2026-11-04T22:00:00",
+        "fin_original": "2026-11-05T09:00:00",
+        "tipo": "Nocturn"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "inicio_original": "2026-11-05T09:00:00",
+        "fin_original": "2026-11-05T22:00:00",
+        "tipo": "Diürn"
+      },
+      {
+        "inicio": "2026-11-05T22:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "inicio_original": "2026-11-05T22:00:00",
+        "fin_original": "2026-11-06T09:00:00",
+        "tipo": "Nocturn"
+      }
+    ],
+    "localidades_atendidas": [
+      "S. Carles de la Ràpita"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=66"
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.coft.cat/font/fitxafarma.php?cfci=66",
+    "ajuste_ubicacion_m": 9.6,
+    "osm_id": "osm-1392019064",
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/1392019064",
+    "nota_ubicacion": "Marcador del Colegio contrastado con una farmacia OSM a 9.6 m."
+  },
+  {
+    "id": "cof-tarragona-109",
+    "nombre": "Blanch Pastor, Jordi Xavier",
+    "direccion": "Major, 1",
+    "localidad": "S. Jaume d'Enveja",
+    "provincia": "Tarragona",
+    "cp": "43877",
+    "telefono": "977468111",
+    "observaciones": "Horari d´hivern: de l’1 de gener al 31 de maig i de l’1 de setembre al 31 de desembre) Dilluns a Divendres: de 09:00 a 13:00h i de 16:30 a 20:30h Dissabtes: de 09:00 a 13:00h i de 17:00 a 20:00h Diumenge i festius de 10:00 a 13:00h Horari d´estiu: de l’1 de juny al 31 d'agost: Dilluns a Divendres de 09:00 a 13:00h i de 17:00 a 21:00h Dissabte de 09:00 a 13:00h i de 17:00 a 20:00h Diumenge i festius de 10:00 a 13:00h",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franja": "Servei d'Urgències Diürn (9:00h a 22:00h)",
+    "guardia_franjas": [
+      "Servei d'Urgències Diürn (9:00h a 22:00h)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "inicio_original": "2026-11-05T09:00:00",
+        "fin_original": "2026-11-05T22:00:00",
+        "tipo": "Diürn"
+      }
+    ],
+    "localidades_atendidas": [
+      "S. Jaume d'Enveja"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=109"
+    ]
+  },
+  {
+    "id": "cof-tarragona-127",
+    "nombre": "Oliva, Dolors - Cristià, Gil ,",
+    "direccion": "Passeig Jaume I, nº 28 Edif. Xipre",
+    "localidad": "Salou",
+    "provincia": "Tarragona",
+    "cp": "43840",
+    "telefono": "977350555",
+    "observaciones": "",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franja": "Servei d'Urgències Diürn (9:00h a 22:00h) · Servei d'Urgències Nocturn (22:00h a 9:00h)",
+    "guardia_franjas": [
+      "Servei d'Urgències Diürn (9:00h a 22:00h)",
+      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "inicio_original": "2026-11-05T09:00:00",
+        "fin_original": "2026-11-05T22:00:00",
+        "tipo": "Diürn"
+      },
+      {
+        "inicio": "2026-11-05T22:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "inicio_original": "2026-11-05T22:00:00",
+        "fin_original": "2026-11-06T09:00:00",
+        "tipo": "Nocturn"
+      }
+    ],
+    "localidades_atendidas": [
+      "Salou"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=127"
+    ]
+  },
+  {
+    "id": "cof-tarragona-72",
+    "nombre": "Ximenos Alio, Mª. Immaculada",
+    "direccion": "Plaça Major, 18",
+    "localidad": "Sta. Coloma de Queralt",
+    "provincia": "Tarragona",
+    "cp": "43420",
+    "telefono": "977880040",
+    "observaciones": "DIVENDRES I DISSABTES DE LES 12 DE LA NIT A LES 6 DEL MATI TRUCAR A LA GUÀRDIA URBANA",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franja": "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior) · Servei d'Urgències Diürn (9:00h a 22:00h) · Servei d'Urgències Nocturn (22:00h a 9:00h)",
+    "guardia_franjas": [
+      "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)",
+      "Servei d'Urgències Diürn (9:00h a 22:00h)",
+      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "inicio_original": "2026-11-04T22:00:00",
+        "fin_original": "2026-11-05T09:00:00",
+        "tipo": "Nocturn"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "inicio_original": "2026-11-05T09:00:00",
+        "fin_original": "2026-11-05T22:00:00",
+        "tipo": "Diürn"
+      },
+      {
+        "inicio": "2026-11-05T22:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "inicio_original": "2026-11-05T22:00:00",
+        "fin_original": "2026-11-06T09:00:00",
+        "tipo": "Nocturn"
+      }
+    ],
+    "localidades_atendidas": [
+      "Sta. Coloma de Queralt"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=72"
+    ]
+  },
+  {
+    "id": "cof-tarragona-112",
+    "nombre": "Puig Salomon, Pius",
+    "direccion": "Sant Lluc, 34",
+    "localidad": "Ulldecona",
+    "provincia": "Tarragona",
+    "cp": "43550",
+    "telefono": "977720161",
+    "observaciones": "Dissabte : 9 a 13'30 h Guardia sabado: Matí: 9 a 13.30 Tarda: 18.00 a 20.00 Diumenges i festius Matí: 11 a 14 Tarda: guàrdia localitzada Telf. guardia P.Puig: 630-21-70-02",
+    "lat": 40.598011,
+    "lng": 0.446223,
+    "ubicacion_pendiente_verificacion": false,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franja": "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior) · Servei d'Urgències Diürn (9:00h a 22:00h) · Servei d'Urgències Nocturn (22:00h a 9:00h)",
+    "guardia_franjas": [
+      "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)",
+      "Servei d'Urgències Diürn (9:00h a 22:00h)",
+      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "inicio_original": "2026-11-04T22:00:00",
+        "fin_original": "2026-11-05T09:00:00",
+        "tipo": "Nocturn"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "inicio_original": "2026-11-05T09:00:00",
+        "fin_original": "2026-11-05T22:00:00",
+        "tipo": "Diürn"
+      },
+      {
+        "inicio": "2026-11-05T22:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "inicio_original": "2026-11-05T22:00:00",
+        "fin_original": "2026-11-06T09:00:00",
+        "tipo": "Nocturn"
+      }
+    ],
+    "localidades_atendidas": [
+      "Ulldecona"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=112"
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.coft.cat/font/fitxafarma.php?cfci=112",
+    "ajuste_ubicacion_m": 5.3,
+    "osm_id": "osm-2154062780",
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/2154062780",
+    "nota_ubicacion": "Marcador del Colegio contrastado con una farmacia OSM a 5.3 m."
+  },
+  {
+    "id": "cof-tarragona-126",
+    "nombre": "Jansa Padró, Pau",
+    "direccion": "Plaça de Voltes, 4",
+    "localidad": "Vila-seca",
+    "provincia": "Tarragona",
+    "cp": "43480",
+    "telefono": "977392139",
+    "observaciones": "dissabtes 9 a 13 h.",
+    "lat": 41.111835,
+    "lng": 1.14584,
+    "ubicacion_pendiente_verificacion": false,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franja": "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior) · Servei d'Urgències Diürn (9:00h a 22:00h) · Servei d'Urgències Nocturn (22:00h a 9:00h)",
+    "guardia_franjas": [
+      "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)",
+      "Servei d'Urgències Diürn (9:00h a 22:00h)",
+      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "inicio_original": "2026-11-04T22:00:00",
+        "fin_original": "2026-11-05T09:00:00",
+        "tipo": "Nocturn"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00",
+        "fin": "2026-11-05T22:00:00",
+        "inicio_original": "2026-11-05T09:00:00",
+        "fin_original": "2026-11-05T22:00:00",
+        "tipo": "Diürn"
+      },
+      {
+        "inicio": "2026-11-05T22:00:00",
+        "fin": "2026-11-06T00:00:00",
+        "inicio_original": "2026-11-05T22:00:00",
+        "fin_original": "2026-11-06T09:00:00",
+        "tipo": "Nocturn"
+      }
+    ],
+    "localidades_atendidas": [
+      "Vila-seca"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=126"
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.coft.cat/font/fitxafarma.php?cfci=126",
+    "ajuste_ubicacion_m": 8.8,
+    "osm_id": "osm-1223995570",
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/1223995570",
+    "nota_ubicacion": "Marcador del Colegio contrastado con una farmacia OSM a 8.8 m."
+  },
+  {
+    "id": "cof-tarragona-119",
+    "nombre": "Climent Pons, Lourdes",
+    "direccion": "Anselm Clavé, 35",
+    "localidad": "Valls",
+    "provincia": "Tarragona",
+    "cp": "43800",
+    "telefono": "977600763",
+    "observaciones": "Dilluns a Divendres: De 8:30 a 20:30 Dissabtes: de 9:00 a 13:30",
+    "lat": 41.286667,
+    "lng": 1.2530841,
+    "ubicacion_pendiente_verificacion": false,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franja": "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)",
+    "guardia_franjas": [
+      "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "inicio_original": "2026-11-04T22:00:00",
+        "fin_original": "2026-11-05T09:00:00",
+        "tipo": "Nocturn"
+      }
+    ],
+    "localidades_atendidas": [
+      "Aiguamúrcia-Santes",
+      "Alcover",
+      "Alió",
+      "Bràfim",
+      "Cabra del Camp",
+      "El Milà",
+      "El Pla de Sta. Maria",
+      "El Pont d'Armentera",
+      "El Rourell",
+      "Els Garidells",
+      "Figuerola del Camp",
+      "La Masó",
+      "La Riba",
+      "La Secuita",
+      "Masllorenç",
+      "Mont-ral",
+      "Montferri",
+      "Nulles",
+      "Perafort",
+      "Puigpelat",
+      "Querol",
+      "Renau",
+      "Rodonyà",
+      "Santes Creus",
+      "Vallmoll",
+      "Valls",
+      "Vespella de Gaià",
+      "Vila-rodona",
+      "Vilabella",
+      "Vilallonga del camp"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=119"
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.coft.cat/font/fitxafarma.php?cfci=119",
+    "ajuste_ubicacion_m": 13.6,
+    "osm_id": "osm-7297534438",
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/7297534438",
+    "nota_ubicacion": "Marcador del Colegio contrastado con una farmacia OSM a 13.6 m."
+  },
+  {
+    "id": "cof-tarragona-47",
+    "nombre": "Rocamora Batalla, Montserrat",
+    "direccion": "Reria, 4",
+    "localidad": "El Pla de Sta. Maria",
+    "provincia": "Tarragona",
+    "cp": "43810",
+    "telefono": "977630030",
+    "observaciones": "Guardies Nocturnes dirigirse a Valls",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franja": "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)",
+    "guardia_franjas": [
+      "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "inicio_original": "2026-11-04T22:00:00",
+        "fin_original": "2026-11-05T09:00:00",
+        "tipo": "Nocturn"
+      }
+    ],
+    "localidades_atendidas": [
+      "Aiguamúrcia-Santes",
+      "Alió",
+      "Bràfim",
+      "Cabra del Camp",
+      "El Milà",
+      "El Pla de Sta. Maria",
+      "El Pont d'Armentera",
+      "Masllorenç",
+      "Puigpelat",
+      "Rodonyà",
+      "Santes Creus",
+      "Vila-rodona",
+      "Vilabella"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=47"
+    ]
+  },
+  {
+    "id": "cof-tarragona-328",
+    "nombre": "Lopez Alfonso, Cristina",
+    "direccion": "Benvingut Socias, 64",
+    "localidad": "El Vendrell",
+    "provincia": "Tarragona",
+    "cp": "43700",
+    "telefono": "977660333",
+    "observaciones": "Dilluns a Diumenge de 9:00 a 21:00",
+    "lat": 41.218048,
+    "lng": 1.528366,
+    "ubicacion_pendiente_verificacion": false,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franja": "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)",
+    "guardia_franjas": [
+      "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "inicio_original": "2026-11-04T22:00:00",
+        "fin_original": "2026-11-05T09:00:00",
+        "tipo": "Nocturn"
+      }
+    ],
+    "localidades_atendidas": [
+      "Albinyana",
+      "Banyeres del Penedès",
+      "Bellvei",
+      "Bonastre",
+      "El Montmell",
+      "El Vendrell",
+      "L'Arboç",
+      "La Bisbal del Penedès",
+      "Llorenç del Penedès",
+      "Sant Jaume dels Domenys",
+      "Santa Oliva"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=328"
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.coft.cat/font/fitxafarma.php?cfci=328",
+    "ajuste_ubicacion_m": 7.5,
+    "osm_id": "osm-7320392679",
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/7320392679",
+    "nota_ubicacion": "Marcador del Colegio contrastado con una farmacia OSM a 7.5 m."
+  },
+  {
+    "id": "cof-tarragona-102",
+    "nombre": "Ferreres Puchol, Mª del Carme",
+    "direccion": "Pça Agusti Querol, 5",
+    "localidad": "Tortosa",
+    "provincia": "Tarragona",
+    "cp": "43500",
+    "telefono": "691740763",
+    "observaciones": "",
+    "lat": 40.812569,
+    "lng": 0.521657,
+    "ubicacion_pendiente_verificacion": false,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franja": "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)",
+    "guardia_franjas": [
+      "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "inicio_original": "2026-11-04T22:00:00",
+        "fin_original": "2026-11-05T09:00:00",
+        "tipo": "Nocturn"
+      }
+    ],
+    "localidades_atendidas": [
+      "Aldover",
+      "Alfara de Carles",
+      "Benifallet",
+      "Jesús",
+      "Mas de Barberans",
+      "Paüls",
+      "Roquetes",
+      "Tivenys",
+      "Tortosa",
+      "Xerta"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=102"
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.coft.cat/font/fitxafarma.php?cfci=102",
+    "ajuste_ubicacion_m": 8.3,
+    "osm_id": "osm-5986956524",
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/5986956524",
+    "nota_ubicacion": "Marcador del Colegio contrastado con una farmacia OSM a 8.3 m."
+  },
+  {
+    "id": "cof-tarragona-364",
+    "nombre": "Diaz Marti, Maria",
+    "direccion": "Avda. Diputació, 12",
+    "localidad": "Cambrils",
+    "provincia": "Tarragona",
+    "cp": "43850",
+    "telefono": "977364510",
+    "observaciones": "1 gener al 2 d’abril i del 13 d’octubre al 31 desembre Dilluns a divendres de 09:00 a 14:00 i de 16:30 a 20:30 Dissabtes: de 09:00 a 14:00 26 de març al 5 d’abril i 24 de juny al 3 de setembre: Dilluns a diumenge i festius de 09:00 a 22:00h 19 d’abril al 23 de juny i del 4 de setembre al 12 d’octubre Dilluns a dissabte de 09:00 a 14:00 i de 16:30 a 20:30 Diumenges i festius: de 09:00 a 14:00",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franja": "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)",
+    "guardia_franjas": [
+      "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "inicio_original": "2026-11-04T22:00:00",
+        "fin_original": "2026-11-05T09:00:00",
+        "tipo": "Nocturn"
+      }
+    ],
+    "localidades_atendidas": [
+      "Alforja",
+      "Botarell",
+      "Cambrils",
+      "L'Aleixar",
+      "Les Borges del Camp",
+      "Maspujols",
+      "Miami-platja",
+      "Mont-roig del Camp",
+      "Montbrió del Camp",
+      "Pratdip",
+      "Riudecanyes",
+      "Riudecols",
+      "Riudoms",
+      "Vandellòs i L'Hospitalet de L'Infant",
+      "Vilanova d'Escornalbou",
+      "Vilaplana",
+      "Vinyols i Els Arcs"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=364"
+    ]
+  },
+  {
+    "id": "cof-tarragona-293",
+    "nombre": "Millan Contreras, Martha Isabel",
+    "direccion": "Av. Verge de Montserrat,4 (Farmàcia Els Munts)",
+    "localidad": "Torredembarra",
+    "provincia": "Tarragona",
+    "cp": "43830",
+    "telefono": "977130434",
+    "observaciones": "HIVERN: De 1 de gener a 14 de juny i del 14 de setembre al 31 de desembre: Dilluns a divendres de 09:00 a 20:30 Dissabtes de 09:00 a 14:00 3 i 6 d´abril - 1 de maig - 12 d’octubre, 1 de novembre; i 6-8 de desembre de 09:00 a 20.30h ESTIU: Del 16 de juny al 13 de setembre: Dilluns a dissabte 09:00 a 21:30 Diumenges 9:30 a 14:00",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franja": "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)",
+    "guardia_franjas": [
+      "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "inicio_original": "2026-11-04T22:00:00",
+        "fin_original": "2026-11-05T09:00:00",
+        "tipo": "Nocturn"
+      }
+    ],
+    "localidades_atendidas": [
+      "Altafulla",
+      "Creixell",
+      "La Nou de Gaià",
+      "La Pobla de Montornès",
+      "La Riera de Gaià",
+      "Roda de Barà",
+      "Salomó",
+      "Torredembarra",
+      "Vespella de Gaià"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=293"
+    ]
+  },
+  {
+    "id": "cof-tarragona-341",
+    "nombre": "Moran Sitja, Juan Carlos",
+    "direccion": "Josep Tarradellas, 132",
+    "localidad": "Amposta",
+    "provincia": "Tarragona",
+    "cp": "43870",
+    "telefono": "977707701",
+    "observaciones": "Dilluns a divendres 9:00-13:30 i 16:30-20:30 Dissabtes 9:00-13:00",
+    "lat": 40.703915,
+    "lng": 0.5795874,
+    "ubicacion_pendiente_verificacion": false,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franja": "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)",
+    "guardia_franjas": [
+      "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "inicio_original": "2026-11-04T22:00:00",
+        "fin_original": "2026-11-05T09:00:00",
+        "tipo": "Nocturn"
+      }
+    ],
+    "localidades_atendidas": [
+      "Amposta",
+      "Els Muntells",
+      "Freginals",
+      "Godall",
+      "L'Aldea",
+      "La Galera",
+      "Masdenverge",
+      "Santa Bàrbara"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=341"
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.coft.cat/font/fitxafarma.php?cfci=341",
+    "ajuste_ubicacion_m": 13.0,
+    "osm_id": "osm-5786521709",
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/5786521709",
+    "nota_ubicacion": "Marcador del Colegio contrastado con una farmacia OSM a 13.0 m."
+  },
+  {
+    "id": "cof-tarragona-83",
+    "nombre": "Font-Quer - Roset cb ,",
+    "direccion": "Plç. Generalitat,1 A ( abans Lluis Companys, 11",
+    "localidad": "Tarragona",
+    "provincia": "Tarragona",
+    "cp": "43005",
+    "telefono": "977211660",
+    "observaciones": "dilluns a dissabte de 9 a 22",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franja": "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)",
+    "guardia_franjas": [
+      "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "inicio_original": "2026-11-04T22:00:00",
+        "fin_original": "2026-11-05T09:00:00",
+        "tipo": "Nocturn"
+      }
+    ],
+    "localidades_atendidas": [
+      "Constantí",
+      "El Catllar",
+      "Els Pallaresos",
+      "La Canonja",
+      "Renau",
+      "Tarragona",
+      "Vespella de Gaià"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=83"
+    ]
+  },
+  {
+    "id": "cof-tarragona-128",
+    "nombre": "Besora Mallafre, Jordi",
+    "direccion": "Plaça Bonet, 1",
+    "localidad": "Salou",
+    "provincia": "Tarragona",
+    "cp": "43840",
+    "telefono": "977380343",
+    "observaciones": "",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franja": "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)",
+    "guardia_franjas": [
+      "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "inicio_original": "2026-11-04T22:00:00",
+        "fin_original": "2026-11-05T09:00:00",
+        "tipo": "Nocturn"
+      }
+    ],
+    "localidades_atendidas": [
+      "Salou"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=128"
+    ]
+  },
+  {
+    "id": "cof-tarragona-227",
+    "nombre": "Grecea Capera, Maria Laura",
+    "direccion": "Generalitat, 38",
+    "localidad": "Tivenys",
+    "provincia": "Tarragona",
+    "cp": "43511",
+    "telefono": "977496138",
+    "observaciones": "",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "guardia_franja": "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)",
+    "guardia_franjas": [
+      "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00",
+        "fin": "2026-11-05T09:00:00",
+        "inicio_original": "2026-11-04T22:00:00",
+        "fin_original": "2026-11-05T09:00:00",
+        "tipo": "Nocturn"
+      }
+    ],
+    "localidades_atendidas": [
+      "Tivenys",
+      "Tortosa"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=227"
+    ]
+  }
+]

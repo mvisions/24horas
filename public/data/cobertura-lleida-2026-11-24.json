@@ -1,0 +1,755 @@
+{
+  "fecha": "2026-11-24",
+  "provincia": "Lleida",
+  "fuente": "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+  "completa": false,
+  "consultas": [
+    {
+      "nombre": "Adrall",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=28&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Àger",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=29&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Agramunt",
+      "estado": "disponible",
+      "farmacias": 2,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=21&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Aitona",
+      "estado": "disponible",
+      "farmacias": 2,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=30&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Albatàrrec",
+      "estado": "disponible",
+      "farmacias": 3,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=33&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Albesa",
+      "estado": "disponible",
+      "farmacias": 3,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=35&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Alcarràs",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=36&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Alcoletge",
+      "estado": "disponible",
+      "farmacias": 3,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=37&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Alfarràs",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=38&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Algerri",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=39&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Alguaire",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=40&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Almacelles",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=22&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Almenar",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=41&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Alp",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=163&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Alpicat",
+      "estado": "disponible",
+      "farmacias": 3,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=42&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Anglesola",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=43&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Arbeca",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=44&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Artesa de Lleida",
+      "estado": "disponible",
+      "farmacias": 3,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=45&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Artesa de Segre",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=46&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Balaguer",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=16&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Baqueira-Beret (Naut Aran)",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=48&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Barbens",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=47&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Barruera",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=49&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Belianes",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=50&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Bell-lloc d'Urgell",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=52&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Bellcaire d'Urgell",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=51&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Bellpuig",
+      "estado": "disponible",
+      "farmacias": 2,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=23&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Bellver de Cerdanya",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=53&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Bellvís",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=54&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Benavent de Segrià",
+      "estado": "disponible",
+      "farmacias": 3,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=55&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Bossòst",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=57&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Calaf",
+      "estado": "parcial",
+      "farmacias": 0,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=164&Any=2026&Mes=11&Dia=24",
+      "nota": "No hi ha definides farmàcies de guàrdia per aquesta població.",
+      "error": "La zona no publica farmacias para esta fecha; confirmar por teléfono."
+    },
+    {
+      "nombre": "Camarasa",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=58&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Castelldans",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=59&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Castellnou de Seana",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=60&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Castelló de Farfanya",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=61&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Castellserà",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=62&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Cervera",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=17&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Cervià",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=63&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Coll de Nargó",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=64&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Corbins",
+      "estado": "disponible",
+      "farmacias": 3,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=65&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Cubells",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=66&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "El Palau d'Anglesola",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=96&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "El Poal",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=98&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "El Pont de Suert",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=99&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Els Alamús",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=31&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Esterri d'Àneu",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=68&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Fondarella",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=69&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Ger",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=162&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Gimenells",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=71&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Golmés",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=72&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Guissona",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=75&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Isona",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=76&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Ivars d'Urgell",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=77&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Juncosa",
+      "estado": "disponible",
+      "farmacias": 2,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=78&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Juneda",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=79&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "L'Albagès",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=32&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "L'Albi",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=34&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "L'Espluga Calba",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=67&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "La Fuliola",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=70&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "La Granadella",
+      "estado": "disponible",
+      "farmacias": 2,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=73&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "La Granja d'Escarp",
+      "estado": "disponible",
+      "farmacias": 2,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=74&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "La Pobla de Segur",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=25&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "La Portella",
+      "estado": "disponible",
+      "farmacias": 3,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=101&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "La Sentiu",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=114&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "La Seu d'Urgell",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=19&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Les",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=80&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Les Borges Blanques",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=24&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Linyola",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=81&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Llardecans",
+      "estado": "disponible",
+      "farmacias": 2,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=82&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Llavorsí",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=83&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Lleida",
+      "estado": "disponible",
+      "farmacias": 3,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=14&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Maials",
+      "estado": "disponible",
+      "farmacias": 2,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=84&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Martinet",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=85&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Massalcoreig",
+      "estado": "disponible",
+      "farmacias": 2,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=86&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Menàrguens",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=87&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Miralcamp",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=88&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Mollerussa",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=18&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Montferrer i Castellbó",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=89&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Montgai",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=90&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Montoliu",
+      "estado": "disponible",
+      "farmacias": 3,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=91&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Oliana",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=92&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Olius",
+      "estado": "disponible",
+      "farmacias": 2,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=93&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Organyà",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=94&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Os de Balaguer",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=95&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Penelles",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=97&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Ponts",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=100&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Preixana",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=102&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Prullans",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=103&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Puigverd de Lleida",
+      "estado": "disponible",
+      "farmacias": 3,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=104&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Rialp",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=105&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Rosselló",
+      "estado": "disponible",
+      "farmacias": 3,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=106&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Sanaüja",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=107&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Sant Antolí",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=108&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Sant Guim de Freixenet",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=109&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Sant Llorenç de Morunys",
+      "estado": "disponible",
+      "farmacias": 2,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=110&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Sant Ramon",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=111&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Sarroca de Lleida",
+      "estado": "disponible",
+      "farmacias": 2,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=112&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Senterada",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=113&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Seròs",
+      "estado": "disponible",
+      "farmacias": 2,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=115&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Sidamon",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=116&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Solsona",
+      "estado": "disponible",
+      "farmacias": 2,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=20&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Sort",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=117&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Soses",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=118&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Sudanell",
+      "estado": "disponible",
+      "farmacias": 3,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=119&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Tàrrega",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=15&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Térmens",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=121&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Torà",
+      "estado": "parcial",
+      "farmacias": 0,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=122&Any=2026&Mes=11&Dia=24",
+      "nota": "No hi ha definides farmàcies de guàrdia per aquesta població.",
+      "error": "La zona no publica farmacias para esta fecha; confirmar por teléfono."
+    },
+    {
+      "nombre": "Torrefarrera",
+      "estado": "disponible",
+      "farmacias": 3,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=123&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Torregrossa",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=124&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Torrelameu",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=125&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Torres de Segre",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=126&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Tremp",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=26&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Vallfogona de Balaguer",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=127&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Verdú",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=128&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Vielha",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=27&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Vila-sana",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=134&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Vilagrassa",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=129&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Vilaller",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=130&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Vilanova de Bellpuig",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=132&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Vilanova de la Barca",
+      "estado": "disponible",
+      "farmacias": 3,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=131&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Vilanova de Segrià",
+      "estado": "disponible",
+      "farmacias": 3,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=133&Any=2026&Mes=11&Dia=24"
+    },
+    {
+      "nombre": "Vinaixa",
+      "estado": "disponible",
+      "farmacias": 1,
+      "url": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Calendari&IdZona=135&Any=2026&Mes=11&Dia=24"
+    }
+  ],
+  "farmacias": 24,
+  "farmacias_confirmadas": 24,
+  "con_coordenadas": 13,
+  "calendario_actualizado": true,
+  "guardias_conservadas_no_reconfirmadas": 0
+}

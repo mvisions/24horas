@@ -1,0 +1,3059 @@
+[
+  {
+    "id": "cof-alicante-100010",
+    "cofa_id": "100010",
+    "nombre": "QUILES GARCIA, MARIA JOSE",
+    "direccion": "AV. JUAN CARLOS I, Nº18",
+    "localidad": "Elche/Elx",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Elche/Elx"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:00 · Guardia COFA · 05/11 09:00–06/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:00",
+      "Guardia COFA · 05/11 09:00–06/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:00:00+01:00"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-06T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-100013",
+    "cofa_id": "100013",
+    "nombre": "MANRESA GILABERT, MARIA DOLORES",
+    "direccion": "C/ CARLOS GALIANA, Nº11",
+    "localidad": "Callosa de Segura",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Callosa de Segura"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-100021",
+    "cofa_id": "100021",
+    "nombre": "JORGE-PEREZ, FARMACIA",
+    "direccion": "C/ RAMON Y CAJAL, Nº4",
+    "localidad": "Pinoso",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Pinoso"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:00 · Guardia COFA · 05/11 09:00–06/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:00",
+      "Guardia COFA · 05/11 09:00–06/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:00:00+01:00"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-06T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-100024",
+    "cofa_id": "100024",
+    "nombre": "RIUS CERVERA, ANA ISABEL",
+    "direccion": "C/ CORTES VALENCIANAS, Nº4",
+    "localidad": "Jijona/Xixona",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Jijona/Xixona"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:30 · Guardia COFA · 05/11 09:30–06/11 09:30",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:30",
+      "Guardia COFA · 05/11 09:30–06/11 09:30"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:30:00+01:00"
+      },
+      {
+        "inicio": "2026-11-05T09:30:00+01:00",
+        "fin": "2026-11-06T09:30:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-100037",
+    "cofa_id": "100037",
+    "nombre": "SAVALL PEREZ, MARIA JESUS",
+    "direccion": "PLAZA DE ESPAÑA, 9 (APDO DE CORREOS 65)",
+    "localidad": "Callosa d'En Sarrià",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": 38.6515146,
+    "lng": -0.1225374,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Callosa d'En Sarrià"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:00 · Guardia COFA · 05/11 09:00–06/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:00",
+      "Guardia COFA · 05/11 09:00–06/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:00:00+01:00"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-06T09:00:00+01:00"
+      }
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/5817708241",
+    "nota_ubicacion": null
+  },
+  {
+    "id": "cof-alicante-100046",
+    "cofa_id": "100046",
+    "nombre": "ANDRES-ESCRIVA, FARMACIA",
+    "direccion": "C/ SAN CRISTOBAL, Nº9",
+    "localidad": "Biar",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": 38.6285376,
+    "lng": -0.7631218,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Biar"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:00 · Guardia COFA · 05/11 09:00–06/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:00",
+      "Guardia COFA · 05/11 09:00–06/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:00:00+01:00"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-06T09:00:00+01:00"
+      }
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org",
+    "nota_ubicacion": null
+  },
+  {
+    "id": "cof-alicante-100081",
+    "cofa_id": "100081",
+    "nombre": "FERNANDEZ FERNANDEZ, ARACELI",
+    "direccion": "AV. MARQUES DE CAMPO, Nº48",
+    "localidad": "Denia",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Denia"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:30",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:30"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:30:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-100082",
+    "cofa_id": "100082",
+    "nombre": "HORTENSIA RICO VIDAL",
+    "direccion": "C/ NUEVA, Nº2",
+    "localidad": "Elda",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Elda"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-100095",
+    "cofa_id": "100095",
+    "nombre": "BORDALLO OREJA, CARMEN",
+    "direccion": "PARQUE DR. CALATAYUD, Nº12",
+    "localidad": "Aspe",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Aspe"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-100199",
+    "cofa_id": "100199",
+    "nombre": "GIMENEZ MATEOS, ESPERANZA BLANCA",
+    "direccion": "C/ ANTONIO MACHADO, Nº43",
+    "localidad": "Elche/Elx",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Elche/Elx"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:00 · Guardia COFA · 05/11 09:00–06/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:00",
+      "Guardia COFA · 05/11 09:00–06/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:00:00+01:00"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-06T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-100203",
+    "cofa_id": "100203",
+    "nombre": "HERNANDEZ MEJIAS, JOAQUIN LUIS",
+    "direccion": "PASEO DE LOS ABRETS, Nº7",
+    "localidad": "Crevillent",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Crevillent"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-100240",
+    "cofa_id": "100240",
+    "nombre": "CHAZARRA NAVARRO, GONZALO",
+    "direccion": "AV. DUQUE TAMAMES, Nº39",
+    "localidad": "Orihuela",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Orihuela"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-100294",
+    "cofa_id": "100294",
+    "nombre": "MORCILLO-MORCILLO, FARMACIA",
+    "direccion": "C/ BERGANTIN, Nº2 ESQ. C/ JUAN GOSALBEZ (EL ALTET)",
+    "localidad": "Elche/Elx",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Elche/Elx"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:00 · Guardia COFA · 05/11 09:00–06/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:00",
+      "Guardia COFA · 05/11 09:00–06/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:00:00+01:00"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-06T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-100301",
+    "cofa_id": "100301",
+    "nombre": "GARCIA MONGARS, ANDRES",
+    "direccion": "AV. REYES CATOLICOS, Nº85",
+    "localidad": "Novelda",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Novelda"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:30",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:30"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:30:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-100464",
+    "cofa_id": "100464",
+    "nombre": "MARSAL ROMANY, DESAMPARADOS",
+    "direccion": "AV. REY JUAN CARLOS I, Nº33",
+    "localidad": "Jávea/Xàbia",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Jávea/Xàbia"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-100497",
+    "cofa_id": "100497",
+    "nombre": "GONZALEZ VICENTE, MARGARITA",
+    "direccion": "AV. DE LAS ADELFAS, S/N (DEHESA CAMPOAMOR)",
+    "localidad": "Orihuela",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Orihuela"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:00 · Guardia COFA · 05/11 09:00–06/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:00",
+      "Guardia COFA · 05/11 09:00–06/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:00:00+01:00"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-06T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-100538",
+    "cofa_id": "100538",
+    "nombre": "GINESTAR VIVES, MATEO",
+    "direccion": "C/ SAGRA, Nº21 ESQUINA C/ POU",
+    "localidad": "Tormos",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Tormos"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 10:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 10:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T10:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-100590",
+    "cofa_id": "100590",
+    "nombre": "BADENES CATALA, ROSARIO",
+    "direccion": "C/ LUIS VIDAL, Nº12",
+    "localidad": "Monóvar/Monòver",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Monóvar/Monòver"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:30",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:30"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:30:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-100644",
+    "cofa_id": "100644",
+    "nombre": "LOPEZ-GASCO GARCIA, CARMEN",
+    "direccion": "AV. EUROPA, Nº12",
+    "localidad": "Benidorm",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Benidorm"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:30 · Guardia COFA · 05/11 09:30–06/11 09:30",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:30",
+      "Guardia COFA · 05/11 09:30–06/11 09:30"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:30:00+01:00"
+      },
+      {
+        "inicio": "2026-11-05T09:30:00+01:00",
+        "fin": "2026-11-06T09:30:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-100682",
+    "cofa_id": "100682",
+    "nombre": "CARBAJO BOTELLA, RODRIGO",
+    "direccion": "AV. ANTONIO MACHADO, 115",
+    "localidad": "Torrevieja",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Torrevieja"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:00 · Guardia COFA · 05/11 09:00–06/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:00",
+      "Guardia COFA · 05/11 09:00–06/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:00:00+01:00"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-06T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-100697",
+    "cofa_id": "100697",
+    "nombre": "ORTIZ ALEMANY, FRANCISCO JOSE",
+    "direccion": "C/ LA PAZ, Nº10 LOCAL 3",
+    "localidad": "Mutxamel",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Mutxamel"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:30 · Guardia COFA · 05/11 09:30–06/11 09:30",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:30",
+      "Guardia COFA · 05/11 09:30–06/11 09:30"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:30:00+01:00"
+      },
+      {
+        "inicio": "2026-11-05T09:30:00+01:00",
+        "fin": "2026-11-06T09:30:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-100715",
+    "cofa_id": "100715",
+    "nombre": "MAYOR SEGRELLES, MARTA",
+    "direccion": "CAMI VELL DE ALTEA, Nº41",
+    "localidad": "Alfàs del Pi (l')",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Alfàs del Pi (l')"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:30",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:30"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:30:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-100752",
+    "cofa_id": "100752",
+    "nombre": "CUQUERELLA GUILLEN, JOSE LUIS",
+    "direccion": "C/ CIUDAD REAL, Nº2 L- 3",
+    "localidad": "Moraira",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Moraira"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-100797",
+    "cofa_id": "100797",
+    "nombre": "GIMENO SANCHEZ, INMACULADA",
+    "direccion": "AVDA DE LA PAZ,Nº36",
+    "localidad": "Onil",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Onil"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:00 · Guardia COFA · 05/11 09:00–06/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:00",
+      "Guardia COFA · 05/11 09:00–06/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:00:00+01:00"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-06T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-100806",
+    "cofa_id": "100806",
+    "nombre": "AYELA PASTOR, MARIA ROSARIO",
+    "direccion": "C/ HERMANOS KENNEDY, Nº3",
+    "localidad": "Monforte del Cid",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Monforte del Cid"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:00 · Guardia COFA · 05/11 09:00–06/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:00",
+      "Guardia COFA · 05/11 09:00–06/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:00:00+01:00"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-06T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-100817",
+    "cofa_id": "100817",
+    "nombre": "LLINARES TELLO, FRANCISCA",
+    "direccion": "C/ PINTOR SOROLLA, Nº22",
+    "localidad": "San Vicente del Raspeig/Sant V",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "San Vicente del Raspeig/Sant V"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-100823",
+    "cofa_id": "100823",
+    "nombre": "PERIS CASTELLS, ALBERTO",
+    "direccion": "AV. DE LA LIBERTAD, 36",
+    "localidad": "Redován",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": 38.1127493,
+    "lng": -0.908409,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Redován"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:00:00+01:00"
+      }
+    ],
+    "precision_ubicacion": "direccion",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/6487399615",
+    "nota_ubicacion": "Ubicación por dirección exacta; pendiente de verificar como farmacia."
+  },
+  {
+    "id": "cof-alicante-110011",
+    "cofa_id": "110011",
+    "nombre": "DIAZ-HEREDERO LOZANO, FARMACIA",
+    "direccion": "C/ PADRE MELCHOR, Nº8",
+    "localidad": "Benissa",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Benissa"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-110026",
+    "cofa_id": "110026",
+    "nombre": "OLIVARES BAUTISTA, JOSE MARIA",
+    "direccion": "C/ MAYOR, Nº29",
+    "localidad": "Ibi",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Ibi"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-110039",
+    "cofa_id": "110039",
+    "nombre": "MARTINEZ TAMAYO, FARMACIA",
+    "direccion": "AV. RAMBLA MENDEZ NUÑEZ, Nº39",
+    "localidad": "Alicante/Alacant",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Alicante/Alacant"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:30",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:30"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:30:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-110060",
+    "cofa_id": "110060",
+    "nombre": "HERNANDEZ PASCUAL, LUCIA",
+    "direccion": "AV. PAIS VALENCIANO, Nº76",
+    "localidad": "Cocentaina",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Cocentaina"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-110084",
+    "cofa_id": "110084",
+    "nombre": "GARCIA CARRION, ENRIQUE",
+    "direccion": "AV. CONSTITUCION, Nº11",
+    "localidad": "Banyeres de Mariola",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Banyeres de Mariola"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:00 · Guardia COFA · 05/11 09:00–06/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:00",
+      "Guardia COFA · 05/11 09:00–06/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:00:00+01:00"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-06T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-110112",
+    "cofa_id": "110112",
+    "nombre": "FARMACIA SALAH, C.B",
+    "direccion": "C/ ALICANTE, Nº8",
+    "localidad": "Dolores",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Dolores"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:00 · Guardia COFA · 05/11 09:00–06/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:00",
+      "Guardia COFA · 05/11 09:00–06/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:00:00+01:00"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-06T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-110137",
+    "cofa_id": "110137",
+    "nombre": "FUNES ESQUINAS, MARIA TERESA",
+    "direccion": "C/ MAYOR, Nº9",
+    "localidad": "Guardamar del Segura",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Guardamar del Segura"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:00 · Guardia COFA · 05/11 09:00–05/11 22:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:00",
+      "Guardia COFA · 05/11 09:00–05/11 22:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:00:00+01:00"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-05T22:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-110204",
+    "cofa_id": "110204",
+    "nombre": "FARMACIA RAFAEL ESPUCH C.B.",
+    "direccion": "C/ MAYOR, Nº21",
+    "localidad": "Pilar de la Horadada",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Pilar de la Horadada"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:00 · Guardia COFA · 05/11 09:00–06/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:00",
+      "Guardia COFA · 05/11 09:00–06/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:00:00+01:00"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-06T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-110212",
+    "cofa_id": "110212",
+    "nombre": "VERDU PALOMARES, PAULA",
+    "direccion": "C/ MAYOR DEL PLA, Nº38",
+    "localidad": "Elche/Elx",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Elche/Elx"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-110282",
+    "cofa_id": "110282",
+    "nombre": "AYUSO SOTO, CARLOS",
+    "direccion": "C/ VIRGEN DE LA PAZ, Nº30",
+    "localidad": "Agost",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Agost"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:00 · Guardia COFA · 05/11 09:00–06/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:00",
+      "Guardia COFA · 05/11 09:00–06/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:00:00+01:00"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-06T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-110320",
+    "cofa_id": "110320",
+    "nombre": "SANCHEZ ALARCON, PEDRO",
+    "direccion": "C/ GRAN VIA, Nº32",
+    "localidad": "Sax",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Sax"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:00 · Guardia COFA · 05/11 09:00–06/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:00",
+      "Guardia COFA · 05/11 09:00–06/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:00:00+01:00"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-06T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-110322",
+    "cofa_id": "110322",
+    "nombre": "SOLER DIAZ, DIEGO",
+    "direccion": "PLAZA AYUNTAMIENTO, Nº22",
+    "localidad": "Altea",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Altea"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-110411",
+    "cofa_id": "110411",
+    "nombre": "GEA MONERA, BEATRIZ",
+    "direccion": "AVDA. FEDERICO GARCIA LORCA, Nº21",
+    "localidad": "Benijófar",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Benijófar"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-110435",
+    "cofa_id": "110435",
+    "nombre": "IVARS SANCHIS, JUAN",
+    "direccion": "C/ CERDA, Nº104-106 LOCAL 1",
+    "localidad": "Alicante/Alacant",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Alicante/Alacant"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:30",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:30"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:30:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-110450",
+    "cofa_id": "110450",
+    "nombre": "MEDINA GALVEZ, IGNACIO MANUEL",
+    "direccion": "C/ PINTOR PEYRET, Nº38",
+    "localidad": "Alicante/Alacant",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Alicante/Alacant"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:30 · Guardia COFA · 05/11 09:30–06/11 09:30",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:30",
+      "Guardia COFA · 05/11 09:30–06/11 09:30"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:30:00+01:00"
+      },
+      {
+        "inicio": "2026-11-05T09:30:00+01:00",
+        "fin": "2026-11-06T09:30:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-110459",
+    "cofa_id": "110459",
+    "nombre": "CALATAYUD SANCHEZ, LETICIA",
+    "direccion": "C/ LA NIÑA, Nº7",
+    "localidad": "Calpe/Calp",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Calpe/Calp"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-110536",
+    "cofa_id": "110536",
+    "nombre": "LOPEZ DE LA LLAVE-MARTINEZ, FARMACIA",
+    "direccion": "C/ MARE DE DEU DE GRACIA, Nº14",
+    "localidad": "Gorga",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Gorga"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-110628",
+    "cofa_id": "110628",
+    "nombre": "GALIANA ROMERO, ANGEL",
+    "direccion": "C/ FINLANDIA, 1 LOCAL UNO-C GRAN ALACANT",
+    "localidad": "Santa Pola",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Santa Pola"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:00 · Guardia COFA · 05/11 09:00–05/11 17:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:00",
+      "Guardia COFA · 05/11 09:00–05/11 17:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:00:00+01:00"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-05T17:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-110640",
+    "cofa_id": "110640",
+    "nombre": "SEVA IZQUIERDO, INMACULADA",
+    "direccion": "C/ GOYA, Nº7",
+    "localidad": "Bigastro",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": 38.0637065,
+    "lng": -0.8957598,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Bigastro"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:00:00+01:00"
+      }
+    ],
+    "precision_ubicacion": "direccion",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/6406395394",
+    "nota_ubicacion": "Ubicación por dirección exacta; pendiente de verificar como farmacia."
+  },
+  {
+    "id": "cof-alicante-110657",
+    "cofa_id": "110657",
+    "nombre": "SOLER-SOLER, FARMACIA",
+    "direccion": "C/ RAMON GALLUD, Nº196 ESQ C/VIRGEN DE LA PALOMA",
+    "localidad": "Torrevieja",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Torrevieja"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:00 · Guardia COFA · 05/11 09:00–06/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:00",
+      "Guardia COFA · 05/11 09:00–06/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:00:00+01:00"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-06T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-110691",
+    "cofa_id": "110691",
+    "nombre": "REYES CRESPO, MANUEL JAVIER",
+    "direccion": "C/ VILLA DE BARCELONA ESQ. C/SAN LUIS",
+    "localidad": "Torrevieja",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Torrevieja"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:00 · Guardia COFA · 05/11 09:00–06/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:00",
+      "Guardia COFA · 05/11 09:00–06/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:00:00+01:00"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-06T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-110707",
+    "cofa_id": "110707",
+    "nombre": "PEREZ ANDRES, BEATRIZ",
+    "direccion": "AV. DE LA CONSTITUCION, Nº71",
+    "localidad": "Castalla",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Castalla"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:00 · Guardia COFA · 05/11 09:00–06/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:00",
+      "Guardia COFA · 05/11 09:00–06/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:00:00+01:00"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-06T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-110713",
+    "cofa_id": "110713",
+    "nombre": "ARQUES-TORRES, FARMACIA",
+    "direccion": "C/COMPOSITOR MANUEL CARRASCOSA, Nº2",
+    "localidad": "Villena",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Villena"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-110736",
+    "cofa_id": "110736",
+    "nombre": "TORRES GARCIA, LETICIA",
+    "direccion": "C/ UNAMUNO, Nº9",
+    "localidad": "Petrer",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Petrer"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-110737",
+    "cofa_id": "110737",
+    "nombre": "ARCE BUENO, LAURA",
+    "direccion": "AVDA. DE ALICANTE, Nº16 BAJO",
+    "localidad": "Pego",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Pego"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-110748",
+    "cofa_id": "110748",
+    "nombre": "ROSELLO ALEO EAR",
+    "direccion": "AV. GENERALITAT, Nº4",
+    "localidad": "Campello (el)",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Campello (el)"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-110775",
+    "cofa_id": "110775",
+    "nombre": "CLEMENTE PEREZ, MIRIAM",
+    "direccion": "AV. DOCTOR MARAÑÓN, Nº14",
+    "localidad": "Almoradí",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": 38.1071816,
+    "lng": -0.7880725,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Almoradí"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:00:00+01:00"
+      }
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/1965477653",
+    "nota_ubicacion": null
+  },
+  {
+    "id": "cof-alicante-110779",
+    "cofa_id": "110779",
+    "nombre": "GARCIA MOLINA, PABLO",
+    "direccion": "C/ MESON, 45",
+    "localidad": "Albatera",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": 38.178061,
+    "lng": -0.8718786,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Albatera"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:30",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:30"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:30:00+01:00"
+      }
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/7295362978",
+    "nota_ubicacion": null
+  },
+  {
+    "id": "cof-alicante-120058",
+    "cofa_id": "120058",
+    "nombre": "FARMACIA GIL, CB",
+    "direccion": "AV. JAUME I, Nº67",
+    "localidad": "Pedreguer",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Pedreguer"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-120135",
+    "cofa_id": "120135",
+    "nombre": "CANO-CANO, FARMACIA",
+    "direccion": "C/ CARRETERA, Nº2",
+    "localidad": "Nucia (la)",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Nucia (la)"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:30",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:30"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:30:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-120145",
+    "cofa_id": "120145",
+    "nombre": "RAMOS GALERA, BORJA MANUEL",
+    "direccion": "C/ DIECINUEVE DE ABRIL, Nº21",
+    "localidad": "San Miguel de Salinas",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "San Miguel de Salinas"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:30 · Guardia COFA · 05/11 09:30–06/11 09:30",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:30",
+      "Guardia COFA · 05/11 09:30–06/11 09:30"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:30:00+01:00"
+      },
+      {
+        "inicio": "2026-11-05T09:30:00+01:00",
+        "fin": "2026-11-06T09:30:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-120239",
+    "cofa_id": "120239",
+    "nombre": "VICENTE SANTAMARIA, EDUARDO",
+    "direccion": "AV. BENITO PEREZ GALDOS, Nº19-21",
+    "localidad": "Alicante/Alacant",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Alicante/Alacant"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:30 · Guardia COFA · 05/11 09:30–06/11 09:30",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:30",
+      "Guardia COFA · 05/11 09:30–06/11 09:30"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:30:00+01:00"
+      },
+      {
+        "inicio": "2026-11-05T09:30:00+01:00",
+        "fin": "2026-11-06T09:30:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-120539",
+    "cofa_id": "120539",
+    "nombre": "MIRA ALAMO, GONZALO",
+    "direccion": "C/ RELLEU, Nº20-22",
+    "localidad": "Villajoyosa/Vila Joiosa (la)",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Villajoyosa/Vila Joiosa (la)"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-120634",
+    "cofa_id": "120634",
+    "nombre": "ZAMORA CASTRO, VERONICA",
+    "direccion": "C/ DR. JOSE L. DE LA VEGA, Nº2 LOC-4",
+    "localidad": "Alicante/Alacant",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Alicante/Alacant"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:30 · Guardia COFA · 05/11 09:30–06/11 09:30",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:30",
+      "Guardia COFA · 05/11 09:30–06/11 09:30"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:30:00+01:00"
+      },
+      {
+        "inicio": "2026-11-05T09:30:00+01:00",
+        "fin": "2026-11-06T09:30:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-120739",
+    "cofa_id": "120739",
+    "nombre": "FITOR VILAPLANA, MARIA LUISA",
+    "direccion": "AV. GANDIA, Nº65",
+    "localidad": "Muro de Alcoy",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Muro de Alcoy"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:30 · Guardia COFA · 05/11 09:30–06/11 09:30",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:30",
+      "Guardia COFA · 05/11 09:30–06/11 09:30"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:30:00+01:00"
+      },
+      {
+        "inicio": "2026-11-05T09:30:00+01:00",
+        "fin": "2026-11-06T09:30:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-130221",
+    "cofa_id": "130221",
+    "nombre": "GARCIA DE REPARAZ Y YELO, FERNANDO",
+    "direccion": "AV. DE LAS ACACIAS, Nº29",
+    "localidad": "Elda",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": 38.47316,
+    "lng": -0.7881806,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Elda"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:00 · Guardia COFA · 05/11 09:00–06/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:00",
+      "Guardia COFA · 05/11 09:00–06/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:00:00+01:00"
+      },
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-06T09:00:00+01:00"
+      }
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/3617008509",
+    "nota_ubicacion": null
+  },
+  {
+    "id": "cof-alicante-130679",
+    "cofa_id": "130679",
+    "nombre": "JORDA SEMPERE, PALOMA",
+    "direccion": "PASEO OVIDI MONTLLOR, Nº24",
+    "localidad": "Alcoy/Alcoi",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Alcoy/Alcoi"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 00:00–05/11 09:30",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 00:00–05/11 09:30"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T00:00:00+01:00",
+        "fin": "2026-11-05T09:30:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-100073",
+    "cofa_id": "100073",
+    "nombre": "CANALES ALONSO, NURIA PAULA",
+    "direccion": "C/ LUIS MARTI, Nº7",
+    "localidad": "Monóvar/Monòver",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Monóvar/Monòver"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 09:30–06/11 09:30",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 09:30–06/11 09:30"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:30:00+01:00",
+        "fin": "2026-11-06T09:30:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-100136",
+    "cofa_id": "100136",
+    "nombre": "AVILA LANZAS, JUAN JOSE",
+    "direccion": "AV. REINA VICTORIA, Nº30",
+    "localidad": "Elche/Elx",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": 38.2653531,
+    "lng": -0.7029615,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Elche/Elx"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 09:00–05/11 20:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 09:00–05/11 20:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-05T20:00:00+01:00"
+      }
+    ],
+    "precision_ubicacion": "direccion",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/410976471",
+    "nota_ubicacion": "Dirección OSM contrastada a 3.2 m con la farmacia enlazada por el plano oficial del COF Alicante (https://www.cofalicante.com/ficheros/planosfarmacias/100136.JPG)."
+  },
+  {
+    "id": "cof-alicante-100158",
+    "cofa_id": "100158",
+    "nombre": "LOPEZ LLORET, MARIA JOSE",
+    "direccion": "C/ SAN JOSE, Nº42",
+    "localidad": "Aspe",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": 38.3449132,
+    "lng": -0.7697864,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Aspe"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 09:00–06/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 09:00–06/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-06T09:00:00+01:00"
+      }
+    ],
+    "precision_ubicacion": "direccion",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/1941659949",
+    "nota_ubicacion": "Ubicación por dirección exacta; pendiente de verificar como farmacia."
+  },
+  {
+    "id": "cof-alicante-100181",
+    "cofa_id": "100181",
+    "nombre": "PASCUAL ROVIRA, IGNACIO",
+    "direccion": "C/ RAMON Y CAJAL, Nº20",
+    "localidad": "Pego",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Pego"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 14:00–05/11 17:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 14:00–05/11 17:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T14:00:00+01:00",
+        "fin": "2026-11-05T17:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-100232",
+    "cofa_id": "100232",
+    "nombre": "COLOMA MOLTO, MONICA",
+    "direccion": "AV. DE LA PAZ, Nº31",
+    "localidad": "Ibi",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Ibi"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 09:00–06/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 09:00–06/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-06T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-100245",
+    "cofa_id": "100245",
+    "nombre": "GALIANA GILABERT, YOLANDA",
+    "direccion": "PLAZA DEL PONT, Nº2",
+    "localidad": "Elche/Elx",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Elche/Elx"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 09:00–05/11 20:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 09:00–05/11 20:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-05T20:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-100300",
+    "cofa_id": "100300",
+    "nombre": "BALMASEDA-CORBACHO, FARMACIA",
+    "direccion": "CTRA. HONDON DE LOS FRAILES, Nº9",
+    "localidad": "Albatera",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Albatera"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 09:30–06/11 09:30",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 09:30–06/11 09:30"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:30:00+01:00",
+        "fin": "2026-11-06T09:30:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-100310",
+    "cofa_id": "100310",
+    "nombre": "VILLAGRASA ESPINOSA, VICENTE",
+    "direccion": "COLONIA SANTA ISABEL, LOCAL C",
+    "localidad": "San Vicente del Raspeig/Sant V",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "San Vicente del Raspeig/Sant V"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 09:00–06/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 09:00–06/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-06T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-100328",
+    "cofa_id": "100328",
+    "nombre": "ARCE RICO, FARMACIA",
+    "direccion": "AV. JOSE MARTINEZ GONZALEZ, Nº74",
+    "localidad": "Elda",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Elda"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 09:00–06/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 09:00–06/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-06T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-100333",
+    "cofa_id": "100333",
+    "nombre": "GILABERT-GILABERT, FARMACIA",
+    "direccion": "C/ OBISPO ROCAMORA, Nº20",
+    "localidad": "Orihuela",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": 38.0833345,
+    "lng": -0.9433396,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Orihuela"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 09:00–06/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 09:00–06/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-06T09:00:00+01:00"
+      }
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/6372054834"
+  },
+  {
+    "id": "cof-alicante-100412",
+    "cofa_id": "100412",
+    "nombre": "SALVADOR FELIU, MARIA ELENA",
+    "direccion": "AV. DE LA MARINA ALTA, Nº60",
+    "localidad": "Gata de Gorgos",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Gata de Gorgos"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 09:00–06/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 09:00–06/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-06T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-100434",
+    "cofa_id": "100434",
+    "nombre": "BOLUFER VIGRANA, JOSE",
+    "direccion": "C/ ASTURIAS, Nº2",
+    "localidad": "Alicante/Alacant",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Alicante/Alacant"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 09:30–06/11 09:30",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 09:30–06/11 09:30"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:30:00+01:00",
+        "fin": "2026-11-06T09:30:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-100512",
+    "cofa_id": "100512",
+    "nombre": "CASTELLO ALBEROLA, MARIA DOLORES",
+    "direccion": "AV. DOCTOR FLEMING, Nº22",
+    "localidad": "Ondara",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Ondara"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 09:00–05/11 22:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 09:00–05/11 22:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-05T22:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-100516",
+    "cofa_id": "100516",
+    "nombre": "QUESADA MUELAS, ANA JULIA",
+    "direccion": "C/ LA ERA, Nº5",
+    "localidad": "Penaguila",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Penaguila"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 09:00–06/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 09:00–06/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-06T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-100525",
+    "cofa_id": "100525",
+    "nombre": "BOLUFER GARCIA, NATALIA",
+    "direccion": "C/ COLON, Nº14",
+    "localidad": "Llíber",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Llíber"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 09:00–06/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 09:00–06/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-06T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-100558",
+    "cofa_id": "100558",
+    "nombre": "GASENT VALLALTA, ANTONIO",
+    "direccion": "C/ ALADROC, Nº1 URB. HOLIDAY CLUB",
+    "localidad": "Nucia (la)",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Nucia (la)"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 09:30–06/11 09:30",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 09:30–06/11 09:30"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:30:00+01:00",
+        "fin": "2026-11-06T09:30:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-100589",
+    "cofa_id": "100589",
+    "nombre": "BONMATI LUCERGA, JUAN JOSE",
+    "direccion": "MONTE DE SANTA POLA, Nº32 URB. GRAN ALACANT",
+    "localidad": "Santa Pola",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Santa Pola"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 09:00–05/11 17:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 09:00–05/11 17:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-05T17:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-100594",
+    "cofa_id": "100594",
+    "nombre": "GARCIA QUINTANA, CARMEN PILAR",
+    "direccion": "AV. SANTIAGO BERNABEU, Nº42-43",
+    "localidad": "Santa Pola",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Santa Pola"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 17:00–06/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 17:00–06/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T17:00:00+01:00",
+        "fin": "2026-11-06T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-100693",
+    "cofa_id": "100693",
+    "nombre": "RECHE MORENO, MANUEL CARLOS",
+    "direccion": "AV. MIGUEL HERNANDEZ, Nº1 L- 2 UR. SAN RAFAEL",
+    "localidad": "Alfàs del Pi (l')",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Alfàs del Pi (l')"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 09:30–06/11 09:30",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 09:30–06/11 09:30"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:30:00+01:00",
+        "fin": "2026-11-06T09:30:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-100764",
+    "cofa_id": "100764",
+    "nombre": "LLORET CABALLERIA, ANA MARIA",
+    "direccion": "C/CAMINO VIEJO DE ELDA, Nº43 ESQ. C/NOVELDA",
+    "localidad": "Petrer",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Petrer"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 09:00–06/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 09:00–06/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-06T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-100802",
+    "cofa_id": "100802",
+    "nombre": "PEREZ GARCIA, MARIA MERCEDES",
+    "direccion": "C/ PLAZA SIERRA DE CASTILLA,Nº2 L.9 URB. LA MARINA",
+    "localidad": "San Fulgencio",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "San Fulgencio"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 19:30–06/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 19:30–06/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T19:30:00+01:00",
+        "fin": "2026-11-06T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-110006",
+    "cofa_id": "110006",
+    "nombre": "HEREDEROS DE JUAN JAVIER DEL RIO SALANOVA",
+    "direccion": "C/ EMILIO CASTELAR, Nº37",
+    "localidad": "Novelda",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": 38.3846089,
+    "lng": -0.7677528,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Novelda"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 09:30–06/11 09:30",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 09:30–06/11 09:30"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:30:00+01:00",
+        "fin": "2026-11-06T09:30:00+01:00"
+      }
+    ],
+    "precision_ubicacion": "direccion",
+    "fuente_coordenadas": "https://www.openstreetmap.org/way/43994864",
+    "nota_ubicacion": "Ubicación por dirección exacta; pendiente de verificar como farmacia."
+  },
+  {
+    "id": "cof-alicante-110047",
+    "cofa_id": "110047",
+    "nombre": "VICENTE MARTINEZ, SUSANA",
+    "direccion": "PLAZA DE PIO XII,  Nº7",
+    "localidad": "Alicante/Alacant",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Alicante/Alacant"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 09:30–06/11 09:30",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 09:30–06/11 09:30"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:30:00+01:00",
+        "fin": "2026-11-06T09:30:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-110069",
+    "cofa_id": "110069",
+    "nombre": "SERNA ZAPLANA, MANUEL",
+    "direccion": "C/ SALVADOR, Nº25",
+    "localidad": "Elche/Elx",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Elche/Elx"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 09:00–05/11 20:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 09:00–05/11 20:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-05T20:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-110077",
+    "cofa_id": "110077",
+    "nombre": "FARMACIA GLORIETA CB",
+    "direccion": "C/ GLORIETA, Nº11",
+    "localidad": "Santa Pola",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Santa Pola"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 09:00–05/11 17:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 09:00–05/11 17:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-05T17:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-110098",
+    "cofa_id": "110098",
+    "nombre": "ESCRIVA ALOS, JOSE LUIS",
+    "direccion": "PLAZA DEL PLA, Nº10",
+    "localidad": "Cocentaina",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": 38.7431591,
+    "lng": -0.4405619,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Cocentaina"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 09:00–06/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 09:00–06/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-06T09:00:00+01:00"
+      }
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/12852003362",
+    "nota_ubicacion": "Ubicación contrastada: la dirección y una farmacia de OpenStreetMap coinciden a 1 m.",
+    "osm_id": "osm-12852003362",
+    "ajuste_ubicacion_m": 1.3
+  },
+  {
+    "id": "cof-alicante-110117",
+    "cofa_id": "110117",
+    "nombre": "FARMACIA GARRIDO C.B.",
+    "direccion": "AV. JAIME I, Nº4",
+    "localidad": "Pego",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Pego"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 09:00–05/11 14:00 · Guardia COFA · 05/11 17:00–06/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 09:00–05/11 14:00",
+      "Guardia COFA · 05/11 17:00–06/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-05T14:00:00+01:00"
+      },
+      {
+        "inicio": "2026-11-05T17:00:00+01:00",
+        "fin": "2026-11-06T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-110134",
+    "cofa_id": "110134",
+    "nombre": "RABADAN OLIVER, ISABEL",
+    "direccion": "C/SANTA LUCIA, Nº2",
+    "localidad": "Crevillent",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Crevillent"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 09:00–06/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 09:00–06/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-06T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-110223",
+    "cofa_id": "110223",
+    "nombre": "GONZALEZ BARRIOS, FERNANDO",
+    "direccion": "AV. CONSTITUCION, Nº36",
+    "localidad": "Formentera del Segura",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": 38.0863084,
+    "lng": -0.7457416,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Formentera del Segura"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 20:00–06/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 20:00–06/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T20:00:00+01:00",
+        "fin": "2026-11-06T09:00:00+01:00"
+      }
+    ],
+    "precision_ubicacion": "direccion",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/6400533580",
+    "nota_ubicacion": "Ubicación por dirección exacta; pendiente de verificar como farmacia."
+  },
+  {
+    "id": "cof-alicante-110253",
+    "cofa_id": "110253",
+    "nombre": "HURTADO BARRACHINA, ANTONIO",
+    "direccion": "C/ MANUEL VICENTE PASTOR, Nº65",
+    "localidad": "Elche/Elx",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Elche/Elx"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 20:00–06/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 20:00–06/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T20:00:00+01:00",
+        "fin": "2026-11-06T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-110264",
+    "cofa_id": "110264",
+    "nombre": "ÑIGUEZ PUJOL, JOSE ANTONIO",
+    "direccion": "PLAZA DE ESPAÑA, Nº4",
+    "localidad": "Callosa de Segura",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Callosa de Segura"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 09:00–06/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 09:00–06/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-06T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-110279",
+    "cofa_id": "110279",
+    "nombre": "SANCHEZ RIQUELME, ISABEL",
+    "direccion": "AV. DE LA PAZ, Nº38",
+    "localidad": "Jacarilla",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": 38.061731,
+    "lng": -0.8678595,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Jacarilla"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 09:00–06/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 09:00–06/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-06T09:00:00+01:00"
+      }
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/6430907132"
+  },
+  {
+    "id": "cof-alicante-110283",
+    "cofa_id": "110283",
+    "nombre": "DEVESA-SALAS, FARMACIA",
+    "direccion": "C/ POETA MIGUEL HERNANDEZ, Nº72",
+    "localidad": "Elche/Elx",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Elche/Elx"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 09:00–05/11 20:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 09:00–05/11 20:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-05T20:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-110386",
+    "cofa_id": "110386",
+    "nombre": "GARCES-MORALES, FARMACIA",
+    "direccion": "C/ SEVILLA, Nº1 - ED. ADUMAR Nº1",
+    "localidad": "Jávea/Xàbia",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Jávea/Xàbia"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 09:00–06/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 09:00–06/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-06T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-110473",
+    "cofa_id": "110473",
+    "nombre": "CORTES TORMO, IVANA MICAELA",
+    "direccion": "C/ MUSICO CARBONELL, Nº5",
+    "localidad": "Alcoy/Alcoi",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Alcoy/Alcoi"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 09:30–06/11 09:30",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 09:30–06/11 09:30"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:30:00+01:00",
+        "fin": "2026-11-06T09:30:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-110483",
+    "cofa_id": "110483",
+    "nombre": "FARMACIA MULET CHORRO",
+    "direccion": "C/ CTRA. CALLOSA, Nº67, LOCAL 2 (ALTEA LA VELLA)",
+    "localidad": "Altea",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Altea"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 09:00–06/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 09:00–06/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-06T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-110508",
+    "cofa_id": "110508",
+    "nombre": "TORRES SIRERA, ANNA",
+    "direccion": "C/ SANTA ANNA, Nº9",
+    "localidad": "Vall de Laguar (la)",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Vall de Laguar (la)"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 10:00–06/11 10:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 10:00–06/11 10:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T10:00:00+01:00",
+        "fin": "2026-11-06T10:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-110544",
+    "cofa_id": "110544",
+    "nombre": "RODRIGUEZ-SANDOVAL, FARMACIA",
+    "direccion": "C/ CERVANTES, Nº51",
+    "localidad": "Villajoyosa/Vila Joiosa (la)",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Villajoyosa/Vila Joiosa (la)"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 09:00–06/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 09:00–06/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-06T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-110572",
+    "cofa_id": "110572",
+    "nombre": "FARMACIA SUERO C.B.",
+    "direccion": "CTRA. VALENCIA, KM 89-CC CARREFOUR SAN JUAN-LOC-1C",
+    "localidad": "Sant Joan d'Alacant",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Sant Joan d'Alacant"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 09:30–06/11 09:30",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 09:30–06/11 09:30"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:30:00+01:00",
+        "fin": "2026-11-06T09:30:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-110754",
+    "cofa_id": "110754",
+    "nombre": "BELENGUER ALVAREZ, MARIA",
+    "direccion": "AV. FABRAQUER, Nº38 L-9",
+    "localidad": "Campello (el)",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Campello (el)"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 09:00–06/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 09:00–06/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-06T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-110762",
+    "cofa_id": "110762",
+    "nombre": "LLAUDES VALERA, JOAQUIN",
+    "direccion": "PLAZA GABRIEL MIRO, Nº1",
+    "localidad": "Teulada",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Teulada"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 09:00–06/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 09:00–06/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-06T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-110803",
+    "cofa_id": "110803",
+    "nombre": "MEDINA PERIS, ALICIA",
+    "direccion": "C/ CRISTOBAL COLON, Nº14",
+    "localidad": "Almoradí",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Almoradí"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 09:00–06/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 09:00–06/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-06T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-120115",
+    "cofa_id": "120115",
+    "nombre": "CATALA MARRADES, JUAN IGNACIO",
+    "direccion": "C/ MARQUES DEL CAMPO, Nº66",
+    "localidad": "Denia",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": 38.8413268,
+    "lng": 0.1119989,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Denia"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 09:30–06/11 09:30",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 09:30–06/11 09:30"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:30:00+01:00",
+        "fin": "2026-11-06T09:30:00+01:00"
+      }
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/1989925710",
+    "nota_ubicacion": "Ubicación contrastada: la dirección y una farmacia de OpenStreetMap coinciden a 6 m.",
+    "osm_id": "osm-1989925710",
+    "ajuste_ubicacion_m": 6.2
+  },
+  {
+    "id": "cof-alicante-120513",
+    "cofa_id": "120513",
+    "nombre": "MORENO VICENS, SANDRA",
+    "direccion": "AV. IFACH, Nº10 LOCAL 1 BIS",
+    "localidad": "Calpe/Calp",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Calpe/Calp"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 09:00–06/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 09:00–06/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-06T09:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-120532",
+    "cofa_id": "120532",
+    "nombre": "MARES CALATAYUD, MARIA",
+    "direccion": "C/ MADRID, Nº10",
+    "localidad": "Santa Pola",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Santa Pola"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 09:00–05/11 17:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 09:00–05/11 17:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-05T17:00:00+01:00"
+      }
+    ]
+  },
+  {
+    "id": "cof-alicante-120720",
+    "cofa_id": "120720",
+    "nombre": "GARCIA CASAS, JAVIER",
+    "direccion": "C/ CRISTOBAL AMOROS, Nº24",
+    "localidad": "Villena",
+    "provincia": "Alicante",
+    "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Villena"
+    ],
+    "guardia_franja": "Guardia COFA · 05/11 09:00–06/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 05/11 09:00–06/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-05T09:00:00+01:00",
+        "fin": "2026-11-06T09:00:00+01:00"
+      }
+    ]
+  }
+]

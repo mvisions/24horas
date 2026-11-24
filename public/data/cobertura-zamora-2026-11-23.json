@@ -1,0 +1,18 @@
+{
+  "fecha": "2026-11-23",
+  "provincia": "Zamora",
+  "fuente": "https://cofzamora.es/admin/config/media/ver_mes_completo",
+  "completa": false,
+  "consultas": [
+    {
+      "nombre": "Calendario COF Zamora",
+      "estado": "error",
+      "error": "The read operation timed out"
+    }
+  ],
+  "farmacias": 0,
+  "farmacias_confirmadas": 0,
+  "con_coordenadas": 0,
+  "calendario_actualizado": false,
+  "guardias_conservadas_no_reconfirmadas": 0
+}

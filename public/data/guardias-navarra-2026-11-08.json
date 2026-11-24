@@ -1,0 +1,229 @@
+[
+  {
+    "id": "navarra-f00393",
+    "cofm_id": null,
+    "nombre": "Andueza Diaz, Oihane",
+    "direccion": "C/ Espoz y Mina, 1 . Barrio de San Miguel",
+    "localidad": "Estella-Lizarra",
+    "provincia": "Navarra",
+    "telefono": "948546284",
+    "guardia": true,
+    "fecha_guardia": "2026-11-08",
+    "fuente": "https://datosabiertos.navarra.es/es/dataset/farmacias-de-guardia",
+    "fuente_licencia": "https://creativecommons.org/licenses/by/4.0/",
+    "localidades_atendidas": [
+      "Estella-Lizarra"
+    ],
+    "lat": 42.6707539,
+    "lng": -2.026824,
+    "guardia_franjas": [
+      "Fuente: desde 9, hasta 21; horario y cambio de fecha pendientes de confirmar.",
+      "Fuente: desde 21, hasta 9; horario y cambio de fecha pendientes de confirmar."
+    ],
+    "horarios_fuente": [
+      {
+        "desde": "9",
+        "hasta": "21"
+      },
+      {
+        "desde": "21",
+        "hasta": "9"
+      }
+    ],
+    "guardia_franja": "Fuente: desde 9, hasta 21; horario y cambio de fecha pendientes de confirmar. · Fuente: desde 21, hasta 9; horario y cambio de fecha pendientes de confirmar.",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/4329742595",
+    "referencia_ubicacion": "https://www.cartociudad.es/geocoder/api/geocoder/reverseGeocode?lon=-2.026824&lat=42.6707539",
+    "ajuste_ubicacion_m": 2.1,
+    "nota_ubicacion": "Teléfono, dirección y portal CartoCiudad coinciden a 2.1 m."
+  },
+  {
+    "id": "navarra-f00176",
+    "cofm_id": null,
+    "nombre": "Cando Guañuna, Jonatan Patricio",
+    "direccion": "Avda Barañáin, 6 . Junto Col. S. Cernin. San Juan",
+    "localidad": "Pamplona / Iruña",
+    "provincia": "Navarra",
+    "telefono": "948266207",
+    "guardia": true,
+    "fecha_guardia": "2026-11-08",
+    "fuente": "https://datosabiertos.navarra.es/es/dataset/farmacias-de-guardia",
+    "fuente_licencia": "https://creativecommons.org/licenses/by/4.0/",
+    "localidades_atendidas": [
+      "Pamplona / Iruña"
+    ],
+    "lat": 42.8134879,
+    "lng": -1.6566019,
+    "guardia_franjas": [
+      "Fuente: desde 10, hasta 21; horario y cambio de fecha pendientes de confirmar."
+    ],
+    "horarios_fuente": [
+      {
+        "desde": "10",
+        "hasta": "21"
+      }
+    ],
+    "guardia_franja": "Fuente: desde 10, hasta 21; horario y cambio de fecha pendientes de confirmar.",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/3627529590",
+    "nota_ubicacion": "Ubicación contrastada: la dirección y una farmacia de OpenStreetMap coinciden a 6 m.",
+    "osm_id": "osm-3627529590",
+    "ajuste_ubicacion_m": 6.3
+  },
+  {
+    "id": "navarra-f00577",
+    "cofm_id": null,
+    "nombre": "Esain Palomero, Maria Mercedes",
+    "direccion": "Avda Marcelo Celayeta, 72 . Rochapea",
+    "localidad": "Pamplona / Iruña",
+    "provincia": "Navarra",
+    "telefono": "948129294",
+    "guardia": true,
+    "fecha_guardia": "2026-11-08",
+    "fuente": "https://datosabiertos.navarra.es/es/dataset/farmacias-de-guardia",
+    "fuente_licencia": "https://creativecommons.org/licenses/by/4.0/",
+    "localidades_atendidas": [
+      "Pamplona / Iruña"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_franjas": [
+      "Fuente: desde 10, hasta 21; horario y cambio de fecha pendientes de confirmar."
+    ],
+    "horarios_fuente": [
+      {
+        "desde": "10",
+        "hasta": "21"
+      }
+    ],
+    "guardia_franja": "Fuente: desde 10, hasta 21; horario y cambio de fecha pendientes de confirmar."
+  },
+  {
+    "id": "navarra-f00006",
+    "cofm_id": null,
+    "nombre": "Iturria Sarasibar, Pedro",
+    "direccion": "C/ Estafeta, 87",
+    "localidad": "Pamplona / Iruña",
+    "provincia": "Navarra",
+    "telefono": "948220680",
+    "guardia": true,
+    "fecha_guardia": "2026-11-08",
+    "fuente": "https://datosabiertos.navarra.es/es/dataset/farmacias-de-guardia",
+    "fuente_licencia": "https://creativecommons.org/licenses/by/4.0/",
+    "localidades_atendidas": [
+      "Pamplona / Iruña"
+    ],
+    "lat": 42.8161502,
+    "lng": -1.6411454,
+    "guardia_franjas": [
+      "Fuente: desde 10, hasta 21; horario y cambio de fecha pendientes de confirmar."
+    ],
+    "horarios_fuente": [
+      {
+        "desde": "10",
+        "hasta": "21"
+      }
+    ],
+    "guardia_franja": "Fuente: desde 10, hasta 21; horario y cambio de fecha pendientes de confirmar.",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/373366688",
+    "nota_ubicacion": "Ubicación contrastada: la dirección y una farmacia de OpenStreetMap coinciden a 11 m.",
+    "osm_id": "osm-373366688",
+    "ajuste_ubicacion_m": 11.4
+  },
+  {
+    "id": "navarra-f00419",
+    "cofm_id": null,
+    "nombre": "Serrano Osta, Maria Concepcion",
+    "direccion": "C/ Cuesta de Loreto, 3",
+    "localidad": "Tudela",
+    "provincia": "Navarra",
+    "telefono": "948847546",
+    "guardia": true,
+    "fecha_guardia": "2026-11-08",
+    "fuente": "https://datosabiertos.navarra.es/es/dataset/farmacias-de-guardia",
+    "fuente_licencia": "https://creativecommons.org/licenses/by/4.0/",
+    "localidades_atendidas": [
+      "Tudela"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_franjas": [
+      "Fuente: desde 9, hasta 21; horario y cambio de fecha pendientes de confirmar.",
+      "Fuente: desde 21, hasta 9; horario y cambio de fecha pendientes de confirmar."
+    ],
+    "horarios_fuente": [
+      {
+        "desde": "9",
+        "hasta": "21"
+      },
+      {
+        "desde": "21",
+        "hasta": "9"
+      }
+    ],
+    "guardia_franja": "Fuente: desde 9, hasta 21; horario y cambio de fecha pendientes de confirmar. · Fuente: desde 21, hasta 9; horario y cambio de fecha pendientes de confirmar."
+  },
+  {
+    "id": "navarra-f00205",
+    "cofm_id": null,
+    "nombre": "Marfil Garcia, Alberto",
+    "direccion": "C/ Yanguas y Miranda, 17",
+    "localidad": "Pamplona / Iruña",
+    "provincia": "Navarra",
+    "telefono": "948245030",
+    "guardia": true,
+    "fecha_guardia": "2026-11-08",
+    "fuente": "https://datosabiertos.navarra.es/es/dataset/farmacias-de-guardia",
+    "fuente_licencia": "https://creativecommons.org/licenses/by/4.0/",
+    "localidades_atendidas": [
+      "Pamplona / Iruña"
+    ],
+    "lat": 42.8121504,
+    "lng": -1.6449965,
+    "guardia_franjas": [
+      "Fuente: desde 21, hasta 10; horario y cambio de fecha pendientes de confirmar."
+    ],
+    "horarios_fuente": [
+      {
+        "desde": "21",
+        "hasta": "10"
+      }
+    ],
+    "guardia_franja": "Fuente: desde 21, hasta 10; horario y cambio de fecha pendientes de confirmar.",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/2585013618",
+    "nota_ubicacion": "Ubicación contrastada: la dirección y una farmacia de OpenStreetMap coinciden a 6 m.",
+    "osm_id": "osm-2585013618",
+    "ajuste_ubicacion_m": 6.3,
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/9176040415"
+  },
+  {
+    "id": "navarra-f00550",
+    "cofm_id": null,
+    "nombre": "Menendez Garcia, Graciela",
+    "direccion": "C/ Irunlarrea, 19 . Próx. Virgen del Camino. Mendebaldea",
+    "localidad": "Pamplona / Iruña",
+    "provincia": "Navarra",
+    "telefono": "948198191",
+    "guardia": true,
+    "fecha_guardia": "2026-11-08",
+    "fuente": "https://datosabiertos.navarra.es/es/dataset/farmacias-de-guardia",
+    "fuente_licencia": "https://creativecommons.org/licenses/by/4.0/",
+    "localidades_atendidas": [
+      "Pamplona / Iruña"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_franjas": [
+      "Fuente: desde 21, hasta 10; horario y cambio de fecha pendientes de confirmar."
+    ],
+    "horarios_fuente": [
+      {
+        "desde": "21",
+        "hasta": "10"
+      }
+    ],
+    "guardia_franja": "Fuente: desde 21, hasta 10; horario y cambio de fecha pendientes de confirmar."
+  }
+]

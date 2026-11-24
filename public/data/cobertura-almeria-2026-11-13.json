@@ -1,0 +1,14 @@
+{
+  "fecha": "2026-11-13",
+  "provincia": "Almería",
+  "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
+  "completa": false,
+  "consultas": [
+    {
+      "nombre": "Buscador provincial",
+      "estado": "error",
+      "error": "El buscador oficial no publica su configuración."
+    }
+  ],
+  "calendario_actualizado": false
+}

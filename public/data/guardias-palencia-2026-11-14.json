@@ -1,0 +1,240 @@
+[
+  {
+    "id": "cof-palencia-58b357ce60e77729",
+    "nombre": "JOSE RAMÓN PUENTE RODRIGUEZ",
+    "direccion": "C/ Santiago Amón, 12",
+    "localidad": "Aguilar De Campoo",
+    "provincia": "Palencia",
+    "fuente": "https://www.cofpalencia.org/PUBLICO/CALENDARIOS%20DE%20GUARDIA/calendarios%20de%20guardias%201.pdf",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "telefono": "666577327",
+    "fecha_guardia": "2026-11-14",
+    "localidades_atendidas": [
+      "Aguilar De Campoo"
+    ],
+    "provincias_atendidas": [
+      "Palencia"
+    ],
+    "guardia_intervalos": [],
+    "guardia_franjas": [
+      "Guardia 24 horas · Aguilar De Campoo · Horario exacto pendiente; confirmar por teléfono",
+      "Madrugada del día anterior · Aguilar De Campoo · Horario exacto pendiente; confirmar por teléfono"
+    ],
+    "guardia_franja": "Guardia 24 horas · Aguilar De Campoo · Horario exacto pendiente; confirmar por teléfono · Madrugada del día anterior · Aguilar De Campoo · Horario exacto pendiente; confirmar por teléfono"
+  },
+  {
+    "id": "cof-palencia-29b4e499e44640f5",
+    "nombre": "ALBERTO LUIS LOPEZ VIDAL",
+    "direccion": "C/La Rua,4",
+    "localidad": "Carrión De Los Condes",
+    "provincia": "Palencia",
+    "fuente": "https://www.cofpalencia.org/PUBLICO/CALENDARIOS%20DE%20GUARDIA/calendarios%20de%20guardias%204.pdf",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-14",
+    "localidades_atendidas": [
+      "Carrión de los Condes"
+    ],
+    "provincias_atendidas": [
+      "Palencia"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-14T10:00:00+01:00",
+        "fin": "2026-11-14T22:00:00+01:00"
+      }
+    ],
+    "guardia_franjas": [
+      "Guardia diurna · Carrión de los Condes · 10:00–22:00"
+    ],
+    "guardia_franja": "Guardia diurna · Carrión de los Condes · 10:00–22:00"
+  },
+  {
+    "id": "cof-palencia-4cd638563ff541ed",
+    "nombre": "SARA RUIZ-ZORRILLA SENIN",
+    "direccion": "C/Las Huertas,1",
+    "localidad": "Saldaña",
+    "provincia": "Palencia",
+    "fuente": "https://www.cofpalencia.org/PUBLICO/CALENDARIOS%20DE%20GUARDIA/calendarios%20de%20guardias%204.pdf",
+    "lat": 42.5223357,
+    "lng": -4.7371161,
+    "guardia": true,
+    "fecha_guardia": "2026-11-14",
+    "localidades_atendidas": [
+      "Carrión de los Condes",
+      "Saldaña"
+    ],
+    "provincias_atendidas": [
+      "Palencia"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-14T22:00:00+01:00",
+        "fin": "2026-11-15T10:00:00+01:00"
+      },
+      {
+        "inicio": "2026-11-14T00:00:00+01:00",
+        "fin": "2026-11-14T10:00:00+01:00"
+      },
+      {
+        "inicio": "2026-11-14T10:00:00+01:00",
+        "fin": "2026-11-14T22:00:00+01:00"
+      }
+    ],
+    "guardia_franjas": [
+      "Guardia nocturna · Carrión de los Condes · 22:00–10:00",
+      "Madrugada del día anterior · Carrión de los Condes · 00:00–10:00",
+      "Guardia diurna · Saldaña · 10:00–22:00",
+      "Guardia nocturna · Saldaña · 22:00–10:00",
+      "Madrugada del día anterior · Saldaña · 00:00–10:00"
+    ],
+    "guardia_franja": "Guardia nocturna · Carrión de los Condes · 22:00–10:00 · Madrugada del día anterior · Carrión de los Condes · 00:00–10:00 · Guardia diurna · Saldaña · 10:00–22:00 · Guardia nocturna · Saldaña · 22:00–10:00 · Madrugada del día anterior · Saldaña · 00:00–10:00",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org",
+    "nota_ubicacion": null
+  },
+  {
+    "id": "cof-palencia-7a843a686dc89811",
+    "nombre": "ANAHI IGLESIAS VELEZ.",
+    "direccion": "Plaza Mayor, 2",
+    "localidad": "Cervera de Pisuerga",
+    "provincia": "Palencia",
+    "fuente": "https://www.cofpalencia.org/PUBLICO/CALENDARIOS%20DE%20GUARDIA/calendarios%20de%20guardias%206.pdf",
+    "lat": 42.8639,
+    "lng": -4.4980314,
+    "guardia": true,
+    "telefono": "979870093",
+    "fecha_guardia": "2026-11-14",
+    "localidades_atendidas": [
+      "Cervera De Pisuerga"
+    ],
+    "provincias_atendidas": [
+      "Palencia"
+    ],
+    "guardia_intervalos": [],
+    "guardia_franjas": [
+      "Guardia 24 horas · Cervera De Pisuerga · Horario exacto pendiente; confirmar por teléfono",
+      "Madrugada del día anterior · Cervera De Pisuerga · Horario exacto pendiente; confirmar por teléfono"
+    ],
+    "guardia_franja": "Guardia 24 horas · Cervera De Pisuerga · Horario exacto pendiente; confirmar por teléfono · Madrugada del día anterior · Cervera De Pisuerga · Horario exacto pendiente; confirmar por teléfono",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org",
+    "nota_ubicacion": null
+  },
+  {
+    "id": "cof-palencia-7473459fa81d537b",
+    "nombre": "LORENZO PEREZ GOMEZ",
+    "direccion": "Santa Bárbara, 5",
+    "localidad": "Guardo",
+    "provincia": "Palencia",
+    "fuente": "https://www.cofpalencia.org/PUBLICO/CALENDARIOS%20DE%20GUARDIA/calendarios%20de%20guardias%208.pdf",
+    "lat": null,
+    "lng": null,
+    "guardia": true,
+    "telefono": "979850442",
+    "fecha_guardia": "2026-11-14",
+    "localidades_atendidas": [
+      "Guardo"
+    ],
+    "provincias_atendidas": [
+      "Palencia"
+    ],
+    "guardia_intervalos": [],
+    "guardia_franjas": [
+      "Guardia 24 horas · Guardo · Horario exacto pendiente; confirmar por teléfono",
+      "Madrugada del día anterior · Guardo · Horario exacto pendiente; confirmar por teléfono"
+    ],
+    "guardia_franja": "Guardia 24 horas · Guardo · Horario exacto pendiente; confirmar por teléfono · Madrugada del día anterior · Guardo · Horario exacto pendiente; confirmar por teléfono"
+  },
+  {
+    "id": "cof-palencia-dab995d72da7471e",
+    "nombre": "Ramón Martínez Rubio",
+    "direccion": "Avda. Manuel Rivera nº 19",
+    "localidad": "Palencia",
+    "provincia": "Palencia",
+    "fuente": "https://www.cofpalencia.org/PUBLICO/CALENDARIOS%20DE%20GUARDIA/calendarios%20de%20guardias%2023.pdf",
+    "lat": 42.0079184,
+    "lng": -4.5260357,
+    "guardia": true,
+    "fecha_guardia": "2026-11-14",
+    "localidades_atendidas": [
+      "Palencia"
+    ],
+    "provincias_atendidas": [
+      "Palencia"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-14T00:00:00+01:00",
+        "fin": "2026-11-14T10:00:00+01:00"
+      },
+      {
+        "inicio": "2026-11-14T22:00:00+01:00",
+        "fin": "2026-11-15T10:00:00+01:00"
+      }
+    ],
+    "guardia_franjas": [
+      "Madrugada del día anterior · Palencia · 00:00–10:00",
+      "Guardia nocturna · Palencia · 22:00–10:00"
+    ],
+    "guardia_franja": "Madrugada del día anterior · Palencia · 00:00–10:00 · Guardia nocturna · Palencia · 22:00–10:00",
+    "telefono": "979722626",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org"
+  },
+  {
+    "id": "cof-palencia-13af108029d828d5",
+    "nombre": "Rafael Becerril Ramos",
+    "direccion": "C/ Colón, nº 20",
+    "localidad": "Palencia",
+    "provincia": "Palencia",
+    "fuente": "https://www.cofpalencia.org/PUBLICO/CALENDARIOS%20DE%20GUARDIA/calendarios%20de%20guardias%2023.pdf",
+    "lat": 42.0074447,
+    "lng": -4.531163,
+    "guardia": true,
+    "fecha_guardia": "2026-11-14",
+    "localidades_atendidas": [
+      "Palencia"
+    ],
+    "provincias_atendidas": [
+      "Palencia"
+    ],
+    "guardia_intervalos": [],
+    "guardia_franjas": [
+      "Guardia diurna · Palencia · Horario exacto pendiente; confirmar por teléfono"
+    ],
+    "guardia_franja": "Guardia diurna · Palencia · Horario exacto pendiente; confirmar por teléfono",
+    "telefono": "979706277",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org"
+  },
+  {
+    "id": "cof-palencia-810249a959587526",
+    "nombre": "Francisco Garcia-Malvar Gutiérrez",
+    "direccion": "Avda. de Madrid nº37",
+    "localidad": "Palencia",
+    "provincia": "Palencia",
+    "fuente": "https://www.cofpalencia.org/PUBLICO/CALENDARIOS%20DE%20GUARDIA/calendarios%20de%20guardias%2023.pdf",
+    "lat": 41.9918109,
+    "lng": -4.5175543,
+    "guardia": true,
+    "fecha_guardia": "2026-11-14",
+    "localidades_atendidas": [
+      "Palencia"
+    ],
+    "provincias_atendidas": [
+      "Palencia"
+    ],
+    "guardia_intervalos": [],
+    "guardia_franjas": [
+      "Guardia diurna · Palencia · Horario exacto pendiente; confirmar por teléfono"
+    ],
+    "guardia_franja": "Guardia diurna · Palencia · Horario exacto pendiente; confirmar por teléfono",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/1940274872",
+    "nota_ubicacion": null
+  }
+]

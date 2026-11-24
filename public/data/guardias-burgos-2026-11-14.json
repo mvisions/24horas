@@ -1,0 +1,827 @@
+[
+  {
+    "id": "09-9000091",
+    "cofm_id": "9000091",
+    "direccion": "Plaza Mayor, 14",
+    "localidad": "Aranda de Duero",
+    "sector": "",
+    "zona": "Aranda de Duero (Ciudad)",
+    "provincia": "Burgos",
+    "guardia": true,
+    "guardia_franja": "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono.",
+    "fecha_guardia": "2026-11-14",
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": 41.6701889,
+    "lng": -3.6881138,
+    "localidades_atendidas": [
+      "Aranda de Duero"
+    ],
+    "guardia_franjas": [
+      "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono."
+    ],
+    "nombre": "Lda. Blanca Portela Arribas",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/1270451586"
+  },
+  {
+    "id": "09-9000090",
+    "cofm_id": "9000090",
+    "direccion": "Plaza Mayor 11",
+    "localidad": "Aranda de Duero",
+    "sector": "",
+    "zona": "Aranda de Duero (Ciudad)",
+    "provincia": "Burgos",
+    "guardia": true,
+    "guardia_franja": "Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre.",
+    "fecha_guardia": "2026-11-14",
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": 41.6701895,
+    "lng": -3.6885626,
+    "localidades_atendidas": [
+      "Aranda de Duero"
+    ],
+    "guardia_franjas": [
+      "Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre."
+    ],
+    "nombre": "Ldo. Julian Lazaro Cebas",
+    "precision_ubicacion": "direccion",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/3613453176",
+    "nota_ubicacion": "Ubicación por dirección exacta; pendiente de verificar como farmacia."
+  },
+  {
+    "id": "09-9000107",
+    "cofm_id": "9000107",
+    "direccion": "San Roque 1 bis.",
+    "localidad": "Pradoluengo",
+    "sector": "",
+    "zona": "Belorado",
+    "provincia": "Burgos",
+    "guardia": true,
+    "guardia_franja": "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono. · Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre.",
+    "fecha_guardia": "2026-11-14",
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": null,
+    "lng": null,
+    "localidades_atendidas": [
+      "Pradoluengo"
+    ],
+    "guardia_franjas": [
+      "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono.",
+      "Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre."
+    ],
+    "nombre": "Ldo. Sergio Nicolas Febrel Ruiz"
+  },
+  {
+    "id": "09-9000109",
+    "cofm_id": "9000109",
+    "direccion": "Calle Mayor, 9",
+    "localidad": "Briviesca",
+    "sector": "",
+    "zona": "Briviesca",
+    "provincia": "Burgos",
+    "guardia": true,
+    "guardia_franja": "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono. · Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre.",
+    "fecha_guardia": "2026-11-14",
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": 42.5500863,
+    "lng": -3.3243482,
+    "localidades_atendidas": [
+      "Briviesca"
+    ],
+    "guardia_franjas": [
+      "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono.",
+      "Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre."
+    ],
+    "nombre": "Ldo. Amadeo Villanueva Rivera",
+    "precision_ubicacion": "direccion",
+    "fuente_coordenadas": "https://www.openstreetmap.org/way/564341023",
+    "nota_ubicacion": "Ubicación por dirección exacta; pendiente de verificar como farmacia."
+  },
+  {
+    "id": "09-9000023",
+    "cofm_id": "9000023",
+    "direccion": "Avda del Arlanzon, 15 (Puente Gasset s/n)",
+    "localidad": "Burgos",
+    "sector": "",
+    "zona": "Burgos (Ciudad)",
+    "provincia": "Burgos",
+    "guardia": true,
+    "guardia_franja": "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono.",
+    "fecha_guardia": "2026-11-14",
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": 42.3415772,
+    "lng": -3.6944341,
+    "localidades_atendidas": [
+      "Burgos"
+    ],
+    "guardia_franjas": [
+      "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono."
+    ],
+    "nombre": "Ldo. Ramon Perez Chomon",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/519841514",
+    "nota_ubicacion": "Ubicación contrastada: la dirección y una farmacia de OpenStreetMap coinciden a 13 m.",
+    "osm_id": "osm-519841514",
+    "ajuste_ubicacion_m": 12.8
+  },
+  {
+    "id": "09-9000055",
+    "cofm_id": "9000055",
+    "direccion": "Avda. de los Derechos Humanos, 16 (Antigua Avda. Eladio Perlado)",
+    "localidad": "Burgos",
+    "sector": "",
+    "zona": "Burgos (Ciudad)",
+    "provincia": "Burgos",
+    "guardia": true,
+    "guardia_franja": "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono.",
+    "fecha_guardia": "2026-11-14",
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": 42.3522402,
+    "lng": -3.6678014,
+    "localidades_atendidas": [
+      "Burgos"
+    ],
+    "guardia_franjas": [
+      "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono."
+    ],
+    "nombre": "Ldos. Jose Juan Sanchez y Lucia Sanchez",
+    "precision_ubicacion": "direccion",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/2650955000",
+    "nota_ubicacion": "Ubicación por dirección exacta; pendiente de verificar como farmacia."
+  },
+  {
+    "id": "09-9000206",
+    "cofm_id": "9000206",
+    "direccion": "C/Esteban Saez de Alvarado, 14",
+    "localidad": "Burgos",
+    "sector": "",
+    "zona": "Burgos (Ciudad)",
+    "provincia": "Burgos",
+    "guardia": true,
+    "guardia_franja": "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono.",
+    "fecha_guardia": "2026-11-14",
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": 42.3584289,
+    "lng": -3.6649254,
+    "localidades_atendidas": [
+      "Burgos"
+    ],
+    "guardia_franjas": [
+      "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono."
+    ],
+    "nombre": "Ldo. Carlos G emes Ruiz",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/1438652655",
+    "nota_ubicacion": "Ubicación contrastada: la dirección y una farmacia de OpenStreetMap coinciden a 12 m."
+  },
+  {
+    "id": "09-9000047",
+    "cofm_id": "9000047",
+    "direccion": "Avda de Cantabria, 61 (antigua Gral Vigon)",
+    "localidad": "Burgos",
+    "sector": "",
+    "zona": "Burgos (Ciudad)",
+    "provincia": "Burgos",
+    "guardia": true,
+    "guardia_franja": "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono.",
+    "fecha_guardia": "2026-11-14",
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": 42.3519166,
+    "lng": -3.69048,
+    "localidades_atendidas": [
+      "Burgos"
+    ],
+    "guardia_franjas": [
+      "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono."
+    ],
+    "nombre": "Ldo. Alfonso Saez Cornejo",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/1018577874",
+    "nota_ubicacion": "Ubicación contrastada: la dirección y una farmacia de OpenStreetMap coinciden a 2 m.",
+    "osm_id": "osm-1018577874",
+    "ajuste_ubicacion_m": 2.2
+  },
+  {
+    "id": "09-9000061",
+    "cofm_id": "9000061",
+    "direccion": "Federico Garcia Lorca, 17",
+    "localidad": "Burgos",
+    "sector": "",
+    "zona": "Burgos (Ciudad)",
+    "provincia": "Burgos",
+    "guardia": true,
+    "guardia_franja": "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono.",
+    "fecha_guardia": "2026-11-14",
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": 42.3503984,
+    "lng": -3.6644475,
+    "localidades_atendidas": [
+      "Burgos"
+    ],
+    "guardia_franjas": [
+      "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono."
+    ],
+    "nombre": "Lda. Ana Tomas Garcia",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org",
+    "nota_ubicacion": null
+  },
+  {
+    "id": "09-9000043",
+    "cofm_id": "9000043",
+    "direccion": "Francisco Sarmiento, 8",
+    "localidad": "Burgos",
+    "sector": "",
+    "zona": "Burgos (Ciudad)",
+    "provincia": "Burgos",
+    "guardia": true,
+    "guardia_franja": "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono. · Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre.",
+    "fecha_guardia": "2026-11-14",
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": 42.3489573,
+    "lng": -3.6940792,
+    "localidades_atendidas": [
+      "Burgos"
+    ],
+    "guardia_franjas": [
+      "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono.",
+      "Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre."
+    ],
+    "nombre": "Ldo. E. Jonas Martin Acinas",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/667948022",
+    "nota_ubicacion": null
+  },
+  {
+    "id": "09-9000002",
+    "cofm_id": "9000002",
+    "direccion": "E. Martinez del Campo, 2",
+    "localidad": "Burgos",
+    "sector": "",
+    "zona": "Burgos (Ciudad)",
+    "provincia": "Burgos",
+    "guardia": true,
+    "guardia_franja": "Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre.",
+    "fecha_guardia": "2026-11-14",
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": null,
+    "lng": null,
+    "localidades_atendidas": [
+      "Burgos"
+    ],
+    "guardia_franjas": [
+      "Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre."
+    ],
+    "nombre": "Lda. M   Paz Grañon Perez"
+  },
+  {
+    "id": "09-9000198",
+    "cofm_id": "9000198",
+    "direccion": "La guardia se realiza por la correspondiente de MIRANDA DE EBRO",
+    "localidad": "Condado de Treviño",
+    "sector": "",
+    "zona": "Condado de Treviño",
+    "provincia": "Burgos",
+    "guardia": true,
+    "guardia_franja": "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono.",
+    "fecha_guardia": "2026-11-14",
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": null,
+    "lng": null,
+    "localidades_atendidas": [
+      "Condado de Treviño"
+    ],
+    "guardia_franjas": [
+      "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono."
+    ],
+    "nombre": ""
+  },
+  {
+    "id": "09-9000199",
+    "cofm_id": "9000199",
+    "direccion": "La guardia la nocturna la realiza la correspondiente de MIRANDA DE EBRO",
+    "localidad": "Z.B.S Condado de Treviño",
+    "sector": "",
+    "zona": "Condado de Treviño",
+    "provincia": "Burgos",
+    "guardia": true,
+    "guardia_franja": "Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre.",
+    "fecha_guardia": "2026-11-14",
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": null,
+    "lng": null,
+    "localidades_atendidas": [
+      "Z.B.S Condado de Treviño"
+    ],
+    "guardia_franjas": [
+      "Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre."
+    ],
+    "nombre": ""
+  },
+  {
+    "id": "09-9001010",
+    "cofm_id": "9001010",
+    "direccion": "La guardia la realiza la correspondiente en MEDINA DE POMAR y VILLARCAYO",
+    "localidad": "Z.B.S Espinosa de los Monteros",
+    "sector": "",
+    "zona": "Espinosa de los Monteros",
+    "provincia": "Burgos",
+    "guardia": true,
+    "guardia_franja": "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono. · Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre.",
+    "fecha_guardia": "2026-11-14",
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": null,
+    "lng": null,
+    "localidades_atendidas": [
+      "Z.B.S Espinosa de los Monteros"
+    ],
+    "guardia_franjas": [
+      "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono.",
+      "Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre."
+    ],
+    "nombre": ""
+  },
+  {
+    "id": "09-9001041",
+    "cofm_id": "9001041",
+    "direccion": "La guardia la realiza la correspondiente en ARANDA DE DUERO",
+    "localidad": "Z.B.S Huerta del Rey",
+    "sector": "",
+    "zona": "Huerta de Rey",
+    "provincia": "Burgos",
+    "guardia": true,
+    "guardia_franja": "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono. · Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre.",
+    "fecha_guardia": "2026-11-14",
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": null,
+    "lng": null,
+    "localidades_atendidas": [
+      "Z.B.S Huerta del Rey"
+    ],
+    "guardia_franjas": [
+      "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono.",
+      "Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre."
+    ],
+    "nombre": ""
+  },
+  {
+    "id": "09-9000119",
+    "cofm_id": "9000119",
+    "direccion": "Lerma",
+    "localidad": "Lerma",
+    "sector": "",
+    "zona": "Lerma",
+    "provincia": "Burgos",
+    "guardia": true,
+    "guardia_franja": "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono.",
+    "fecha_guardia": "2026-11-14",
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": null,
+    "lng": null,
+    "localidades_atendidas": [
+      "Lerma"
+    ],
+    "guardia_franjas": [
+      "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono."
+    ],
+    "nombre": "Lda. Teresa Ruiz Perez"
+  },
+  {
+    "id": "09-9001025",
+    "cofm_id": "9001025",
+    "direccion": "La guardia nocturna la realiza la correspondiente en BURGOS",
+    "localidad": "Z.B.S Lerma",
+    "sector": "",
+    "zona": "Lerma",
+    "provincia": "Burgos",
+    "guardia": true,
+    "guardia_franja": "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono. · Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre.",
+    "fecha_guardia": "2026-11-14",
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": null,
+    "lng": null,
+    "localidades_atendidas": [
+      "Z.B.S Lerma"
+    ],
+    "guardia_franjas": [
+      "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono.",
+      "Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre."
+    ],
+    "nombre": ""
+  },
+  {
+    "id": "09-9000179",
+    "cofm_id": "9000179",
+    "direccion": "Juan de Medina, 7",
+    "localidad": "Medina de Pomar",
+    "sector": "",
+    "zona": "Medina de Pomar",
+    "provincia": "Burgos",
+    "guardia": true,
+    "guardia_franja": "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono. · Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre.",
+    "fecha_guardia": "2026-11-14",
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": 42.9332865,
+    "lng": -3.486896,
+    "localidades_atendidas": [
+      "Medina de Pomar"
+    ],
+    "guardia_franjas": [
+      "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono.",
+      "Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre."
+    ],
+    "nombre": "Lda. Cecilia Iparraguirre Martinez",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org",
+    "nota_ubicacion": null
+  },
+  {
+    "id": "09-9000196",
+    "cofm_id": "9000196",
+    "direccion": "La Guardias la Realiza Osorno (Palencia).",
+    "localidad": "Osorno (Palencia)",
+    "sector": "",
+    "zona": "Melgar - Villadiego",
+    "provincia": "Burgos",
+    "guardia": true,
+    "guardia_franja": "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono.",
+    "fecha_guardia": "2026-11-14",
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": null,
+    "lng": null,
+    "localidades_atendidas": [
+      "Osorno (Palencia)"
+    ],
+    "guardia_franjas": [
+      "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono."
+    ],
+    "nombre": ""
+  },
+  {
+    "id": "09-9000172",
+    "cofm_id": "9000172",
+    "direccion": "C/ Mayor, 8",
+    "localidad": "Villadiego",
+    "sector": "",
+    "zona": "Melgar - Villadiego",
+    "provincia": "Burgos",
+    "guardia": true,
+    "guardia_franja": "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono.",
+    "fecha_guardia": "2026-11-14",
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": 42.5154385,
+    "lng": -4.0108822,
+    "localidades_atendidas": [
+      "Villadiego"
+    ],
+    "guardia_franjas": [
+      "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono."
+    ],
+    "nombre": "Ldo. Rodrigo Martin Martinez",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org",
+    "nota_ubicacion": null
+  },
+  {
+    "id": "09-9001020",
+    "cofm_id": "9001020",
+    "direccion": "La guardia nocturna la realiza la correspondiente en BURGOS o AGUILAR DE CAMPOO (Palencia) - Z.B.S Melgar",
+    "localidad": "Villadiego",
+    "sector": "",
+    "zona": "Melgar - Villadiego",
+    "provincia": "Burgos",
+    "guardia": true,
+    "guardia_franja": "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono. · Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre.",
+    "fecha_guardia": "2026-11-14",
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": null,
+    "lng": null,
+    "localidades_atendidas": [
+      "Villadiego"
+    ],
+    "guardia_franjas": [
+      "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono.",
+      "Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre."
+    ]
+  },
+  {
+    "id": "09-9000135",
+    "cofm_id": "9000135",
+    "direccion": "Estacion, 32",
+    "localidad": "Miranda de Ebro",
+    "sector": "",
+    "zona": "Miranda de Ebro",
+    "provincia": "Burgos",
+    "guardia": true,
+    "guardia_franja": "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono.",
+    "fecha_guardia": "2026-11-14",
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": 42.6871268,
+    "lng": -2.944901,
+    "localidades_atendidas": [
+      "Miranda de Ebro"
+    ],
+    "guardia_franjas": [
+      "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono."
+    ],
+    "nombre": "Lda. Teresa Prior de Castro",
+    "precision_ubicacion": "direccion",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/4735034110",
+    "nota_ubicacion": "Ubicación por dirección exacta; pendiente de verificar como farmacia."
+  },
+  {
+    "id": "09-9000201",
+    "cofm_id": "9000201",
+    "direccion": "Ronda de Ferrocarril, 45",
+    "localidad": "Miranda de Ebro",
+    "sector": "",
+    "zona": "Miranda de Ebro",
+    "provincia": "Burgos",
+    "guardia": true,
+    "guardia_franja": "Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre.",
+    "fecha_guardia": "2026-11-14",
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": null,
+    "lng": null,
+    "localidades_atendidas": [
+      "Miranda de Ebro"
+    ],
+    "guardia_franjas": [
+      "Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre."
+    ],
+    "nombre": "Lda. Sandra Torrecilla San Millan"
+  },
+  {
+    "id": "09-9001033",
+    "cofm_id": "9001033",
+    "direccion": "La guardia de Fin de Semanala o Festivo la realiza la correspondiente de BURGOS",
+    "localidad": "Z.B.S Pampliega",
+    "sector": "",
+    "zona": "Pampliega",
+    "provincia": "Burgos",
+    "guardia": true,
+    "guardia_franja": "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono.",
+    "fecha_guardia": "2026-11-14",
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": null,
+    "lng": null,
+    "localidades_atendidas": [
+      "Z.B.S Pampliega"
+    ],
+    "guardia_franjas": [
+      "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono."
+    ],
+    "nombre": ""
+  },
+  {
+    "id": "09-9000200",
+    "cofm_id": "9000200",
+    "direccion": "La guardia nocturna la realiza la correspondiente de BURGOS",
+    "localidad": "Z.B.S Pampliega",
+    "sector": "",
+    "zona": "Pampliega",
+    "provincia": "Burgos",
+    "guardia": true,
+    "guardia_franja": "Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre.",
+    "fecha_guardia": "2026-11-14",
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": null,
+    "lng": null,
+    "localidades_atendidas": [
+      "Z.B.S Pampliega"
+    ],
+    "guardia_franjas": [
+      "Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre."
+    ],
+    "nombre": ""
+  },
+  {
+    "id": "09-9001026",
+    "cofm_id": "9001026",
+    "direccion": "La guardia la realiza la correspondiente en SALAS DE LOS INFANTES",
+    "localidad": "Z. B. S Quintanar de la Sierra",
+    "sector": "",
+    "zona": "Quintanar de la Sierra",
+    "provincia": "Burgos",
+    "guardia": true,
+    "guardia_franja": "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono. · Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre.",
+    "fecha_guardia": "2026-11-14",
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": null,
+    "lng": null,
+    "localidades_atendidas": [
+      "Z. B. S Quintanar de la Sierra"
+    ],
+    "guardia_franjas": [
+      "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono.",
+      "Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre."
+    ],
+    "nombre": ""
+  },
+  {
+    "id": "09-9000219",
+    "cofm_id": "9000219",
+    "direccion": "El Tinte, 26",
+    "localidad": "Roa",
+    "sector": "",
+    "zona": "Roa de Duero",
+    "provincia": "Burgos",
+    "guardia": true,
+    "guardia_franja": "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono.",
+    "fecha_guardia": "2026-11-14",
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": null,
+    "lng": null,
+    "localidades_atendidas": [
+      "Roa"
+    ],
+    "guardia_franjas": [
+      "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono."
+    ],
+    "nombre": "Lda. Belen Diez Iñiguez"
+  },
+  {
+    "id": "09-9001027",
+    "cofm_id": "9001027",
+    "direccion": "La guardia nocturna la realiza la correspondiente en ARANDA DEL DUERO",
+    "localidad": "Z.B.S Roa de Duero",
+    "sector": "",
+    "zona": "Roa de Duero",
+    "provincia": "Burgos",
+    "guardia": true,
+    "guardia_franja": "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono. · Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre.",
+    "fecha_guardia": "2026-11-14",
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": null,
+    "lng": null,
+    "localidades_atendidas": [
+      "Z.B.S Roa de Duero"
+    ],
+    "guardia_franjas": [
+      "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono.",
+      "Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre."
+    ],
+    "nombre": ""
+  },
+  {
+    "id": "09-9000156",
+    "cofm_id": "9000156",
+    "direccion": "Salas de los Infantes",
+    "localidad": "Salas de los Infantes",
+    "sector": "",
+    "zona": "Salas de los Infantes",
+    "provincia": "Burgos",
+    "guardia": true,
+    "guardia_franja": "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono. · Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre.",
+    "fecha_guardia": "2026-11-14",
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": null,
+    "lng": null,
+    "localidades_atendidas": [
+      "Salas de los Infantes"
+    ],
+    "guardia_franjas": [
+      "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono.",
+      "Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre."
+    ],
+    "nombre": "Ldo. Joaquin Esteban Bartolome"
+  },
+  {
+    "id": "09-9001011",
+    "cofm_id": "9001011",
+    "direccion": "La guardia nocturna la realiza la correspondiente en MEDINA DE POMAR y MIRANDA DE EBRO",
+    "localidad": "Z.B.S Valle de Losa",
+    "sector": "",
+    "zona": "Valle de Losa",
+    "provincia": "Burgos",
+    "guardia": true,
+    "guardia_franja": "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono. · Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre.",
+    "fecha_guardia": "2026-11-14",
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": null,
+    "lng": null,
+    "localidades_atendidas": [
+      "Z.B.S Valle de Losa"
+    ],
+    "guardia_franjas": [
+      "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono.",
+      "Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre."
+    ],
+    "nombre": ""
+  },
+  {
+    "id": "09-9001006",
+    "cofm_id": "9001006",
+    "direccion": "C/ La Amistad, 2. Villasana de Mena",
+    "localidad": "Valle de Mena",
+    "sector": "",
+    "zona": "Valle de Mena",
+    "provincia": "Burgos",
+    "guardia": true,
+    "guardia_franja": "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono. · Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre.",
+    "fecha_guardia": "2026-11-14",
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": null,
+    "lng": null,
+    "localidades_atendidas": [
+      "Valle de Mena"
+    ],
+    "guardia_franjas": [
+      "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono.",
+      "Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre."
+    ],
+    "nombre": "Lda. Jon Angulo Ercilla"
+  },
+  {
+    "id": "09-9001024",
+    "cofm_id": "9001024",
+    "direccion": "La guardia la realiza la correspondiente en BURGOS",
+    "localidad": "Z.B.S Valle de Sedano",
+    "sector": "",
+    "zona": "Valle de Sedano",
+    "provincia": "Burgos",
+    "guardia": true,
+    "guardia_franja": "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono. · Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre.",
+    "fecha_guardia": "2026-11-14",
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": null,
+    "lng": null,
+    "localidades_atendidas": [
+      "Z.B.S Valle de Sedano"
+    ],
+    "guardia_franjas": [
+      "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono.",
+      "Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre."
+    ],
+    "nombre": ""
+  },
+  {
+    "id": "09-9001028",
+    "cofm_id": "9001028",
+    "direccion": "La guardia la realiza la correspondiente en BRIVIESCA, MEDINA DE POMAR Y MIRANDA DE EBRO.",
+    "localidad": "Z.B.S Valle de Tobalina",
+    "sector": "",
+    "zona": "Valle de Tobalina",
+    "provincia": "Burgos",
+    "guardia": true,
+    "guardia_franja": "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono. · Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre.",
+    "fecha_guardia": "2026-11-14",
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": null,
+    "lng": null,
+    "localidades_atendidas": [
+      "Z.B.S Valle de Tobalina"
+    ],
+    "guardia_franjas": [
+      "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono.",
+      "Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre."
+    ],
+    "nombre": ""
+  },
+  {
+    "id": "09-9001017",
+    "cofm_id": "9001017",
+    "direccion": "La guardia la realiza la correspondiente en VILLARCAYO y MEDINA DE POMAR.",
+    "localidad": "Z.B.S De Valdebezana",
+    "sector": "",
+    "zona": "Valle de Valdebezana",
+    "provincia": "Burgos",
+    "guardia": true,
+    "guardia_franja": "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono. · Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre.",
+    "fecha_guardia": "2026-11-14",
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": null,
+    "lng": null,
+    "localidades_atendidas": [
+      "Z.B.S De Valdebezana"
+    ],
+    "guardia_franjas": [
+      "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono.",
+      "Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre."
+    ],
+    "nombre": ""
+  },
+  {
+    "id": "09-9000186",
+    "cofm_id": "9000186",
+    "direccion": "Villarcayo",
+    "localidad": "Villarcayo de Merindad de Castilla la Vieja",
+    "sector": "",
+    "zona": "Villarcayo de Merindad de Castilla la Vieja",
+    "provincia": "Burgos",
+    "guardia": true,
+    "guardia_franja": "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono. · Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre.",
+    "fecha_guardia": "2026-11-14",
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": null,
+    "lng": null,
+    "localidades_atendidas": [
+      "Villarcayo de Merindad de Castilla la Vieja"
+    ],
+    "guardia_franjas": [
+      "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono.",
+      "Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre."
+    ],
+    "nombre": "Fcia Peña"
+  }
+]

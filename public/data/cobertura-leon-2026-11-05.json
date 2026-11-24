@@ -1,0 +1,19 @@
+{
+  "fecha": "2026-11-05",
+  "provincia": "León",
+  "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
+  "completa": false,
+  "consultas": [
+    {
+      "nombre": "Calendario COF León",
+      "estado": "parcial",
+      "farmacias": 32,
+      "error": "Turnos publicados por el Colegio para la fecha; el horario diurno exacto y la cobertura de todas las derivaciones no están acreditados. Confirmar por teléfono."
+    }
+  ],
+  "farmacias": 32,
+  "farmacias_confirmadas": 32,
+  "con_coordenadas": 8,
+  "calendario_actualizado": true,
+  "guardias_conservadas_no_reconfirmadas": 0
+}

@@ -1,0 +1,156 @@
+{
+  "fecha": "2026-11-18",
+  "provincia": "Guadalajara",
+  "fuente": "https://farmaciasdeguardia.cofcam.es/",
+  "completa": false,
+  "consultas": [
+    {
+      "nombre": "Alcolea Del Pinar",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Almoguera",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Alovera",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Atienza",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Azuqueca De Henares",
+      "estado": "disponible",
+      "farmacias": 3,
+      "error": ""
+    },
+    {
+      "nombre": "Cabanillas Del Campo",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Cifuentes",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Cogolludo",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Espinosa De Henares",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Fuentenovilla",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Guadalajara",
+      "estado": "disponible",
+      "farmacias": 3,
+      "error": ""
+    },
+    {
+      "nombre": "Hiendelaencina",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Ledanca",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Lupiana",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Marchamalo",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Molina De Aragón",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Sacecorbo",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Sacedón",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Saelices De La Sal",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Salmerón",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Sigüenza",
+      "estado": "disponible",
+      "farmacias": 2,
+      "error": ""
+    },
+    {
+      "nombre": "Urb. El Coto (El Casar)",
+      "estado": "disponible",
+      "farmacias": 2,
+      "error": ""
+    },
+    {
+      "nombre": "Valdeluz",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Cobertura municipal provincial",
+      "estado": "parcial",
+      "error": "Listado provincial completo consultado sin filtro horario; no es un censo de todos los municipios ni confirma derivaciones. El catálogo azul conserva las farmacias OSM y las observadas en guardias."
+    }
+  ],
+  "farmacias": 29,
+  "farmacias_confirmadas": 29,
+  "con_coordenadas": 29,
+  "calendario_actualizado": true,
+  "guardias_conservadas_no_reconfirmadas": 0
+}

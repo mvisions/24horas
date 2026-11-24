@@ -1,0 +1,168 @@
+{
+  "fecha": "2026-11-16",
+  "provincia": "Guadalajara",
+  "fuente": "https://farmaciasdeguardia.cofcam.es/",
+  "completa": false,
+  "consultas": [
+    {
+      "nombre": "Albalate De Zorita",
+      "estado": "parcial",
+      "farmacias": 1,
+      "error": "Registro 1899: Provincia/identificador no corresponde a la consulta."
+    },
+    {
+      "nombre": "Alcolea Del Pinar",
+      "estado": "parcial",
+      "farmacias": 1,
+      "error": "Registro 1899: Provincia/identificador no corresponde a la consulta."
+    },
+    {
+      "nombre": "Alovera",
+      "estado": "parcial",
+      "farmacias": 1,
+      "error": "Registro 1899: Provincia/identificador no corresponde a la consulta."
+    },
+    {
+      "nombre": "Anguita",
+      "estado": "parcial",
+      "farmacias": 1,
+      "error": "Registro 1899: Provincia/identificador no corresponde a la consulta."
+    },
+    {
+      "nombre": "Azuqueca De Henares",
+      "estado": "parcial",
+      "farmacias": 2,
+      "error": "Registro 1899: Provincia/identificador no corresponde a la consulta."
+    },
+    {
+      "nombre": "Brihuega",
+      "estado": "parcial",
+      "farmacias": 1,
+      "error": "Registro 1899: Provincia/identificador no corresponde a la consulta."
+    },
+    {
+      "nombre": "Cabanillas Del Campo",
+      "estado": "parcial",
+      "farmacias": 2,
+      "error": "Registro 1899: Provincia/identificador no corresponde a la consulta."
+    },
+    {
+      "nombre": "Cifuentes",
+      "estado": "parcial",
+      "farmacias": 1,
+      "error": "Registro 1899: Provincia/identificador no corresponde a la consulta."
+    },
+    {
+      "nombre": "Galve De Sorbe",
+      "estado": "parcial",
+      "farmacias": 1,
+      "error": "Registro 1899: Provincia/identificador no corresponde a la consulta."
+    },
+    {
+      "nombre": "Guadalajara",
+      "estado": "parcial",
+      "farmacias": 3,
+      "error": "Registro 1899: Provincia/identificador no corresponde a la consulta."
+    },
+    {
+      "nombre": "Hiendelaencina",
+      "estado": "parcial",
+      "farmacias": 1,
+      "error": "Registro 1899: Provincia/identificador no corresponde a la consulta."
+    },
+    {
+      "nombre": "Humanes",
+      "estado": "parcial",
+      "farmacias": 1,
+      "error": "Registro 1899: Provincia/identificador no corresponde a la consulta."
+    },
+    {
+      "nombre": "Ledanca",
+      "estado": "parcial",
+      "farmacias": 1,
+      "error": "Registro 1899: Provincia/identificador no corresponde a la consulta."
+    },
+    {
+      "nombre": "Marchamalo",
+      "estado": "parcial",
+      "farmacias": 2,
+      "error": "Registro 1899: Provincia/identificador no corresponde a la consulta."
+    },
+    {
+      "nombre": "Molina De Aragón",
+      "estado": "parcial",
+      "farmacias": 2,
+      "error": "Registro 1899: Provincia/identificador no corresponde a la consulta."
+    },
+    {
+      "nombre": "Pareja",
+      "estado": "parcial",
+      "farmacias": 1,
+      "error": "Registro 1899: Provincia/identificador no corresponde a la consulta."
+    },
+    {
+      "nombre": "Sacecorbo",
+      "estado": "parcial",
+      "farmacias": 1,
+      "error": "Registro 1899: Provincia/identificador no corresponde a la consulta."
+    },
+    {
+      "nombre": "Sacedón",
+      "estado": "parcial",
+      "farmacias": 1,
+      "error": "Registro 1899: Provincia/identificador no corresponde a la consulta."
+    },
+    {
+      "nombre": "Sigüenza",
+      "estado": "parcial",
+      "farmacias": 1,
+      "error": "Registro 1899: Provincia/identificador no corresponde a la consulta."
+    },
+    {
+      "nombre": "Urb. El Coto (El Casar)",
+      "estado": "parcial",
+      "farmacias": 1,
+      "error": "Registro 1899: Provincia/identificador no corresponde a la consulta."
+    },
+    {
+      "nombre": "Urb. Las Colinas (El Casar)",
+      "estado": "parcial",
+      "farmacias": 1,
+      "error": "Registro 1899: Provincia/identificador no corresponde a la consulta."
+    },
+    {
+      "nombre": "Urb. Los Arenales (El Casar)",
+      "estado": "parcial",
+      "farmacias": 1,
+      "error": "Registro 1899: Provincia/identificador no corresponde a la consulta."
+    },
+    {
+      "nombre": "Valdeluz",
+      "estado": "parcial",
+      "farmacias": 1,
+      "error": "Registro 1899: Provincia/identificador no corresponde a la consulta."
+    },
+    {
+      "nombre": "Yebra",
+      "estado": "parcial",
+      "farmacias": 1,
+      "error": "Registro 1899: Provincia/identificador no corresponde a la consulta."
+    },
+    {
+      "nombre": "Yunquera De Henares",
+      "estado": "parcial",
+      "farmacias": 1,
+      "error": "Registro 1899: Provincia/identificador no corresponde a la consulta."
+    },
+    {
+      "nombre": "Cobertura municipal provincial",
+      "estado": "parcial",
+      "error": "Listado provincial completo consultado sin filtro horario; no es un censo de todos los municipios ni confirma derivaciones. El catálogo azul conserva las farmacias OSM y las observadas en guardias."
+    }
+  ],
+  "farmacias": 31,
+  "farmacias_confirmadas": 31,
+  "con_coordenadas": 31,
+  "calendario_actualizado": true,
+  "guardias_conservadas_no_reconfirmadas": 0
+}

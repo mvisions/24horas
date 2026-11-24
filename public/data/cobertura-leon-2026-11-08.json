@@ -1,0 +1,18 @@
+{
+  "fecha": "2026-11-08",
+  "provincia": "León",
+  "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
+  "completa": false,
+  "consultas": [
+    {
+      "nombre": "Calendario COF León",
+      "estado": "error",
+      "error": "No se identifica el municipio oficial en la dirección: AV LA MAGDALENA, 2 LA MAGDALENA"
+    }
+  ],
+  "farmacias": 0,
+  "farmacias_confirmadas": 0,
+  "con_coordenadas": 0,
+  "calendario_actualizado": false,
+  "guardias_conservadas_no_reconfirmadas": 0
+}

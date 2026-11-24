@@ -1,0 +1,17 @@
+{
+  "fecha": "2026-11-14",
+  "provincia": "Cádiz",
+  "fuente": "https://www.cofcadiz.es/wp-json/vcomm/v1/farmacias/guardia",
+  "completa": true,
+  "consultado": "2026-11-13T23:06:48.437793+00:00",
+  "consultas": [
+    {
+      "nombre": "API provincial, todas sus páginas",
+      "estado": "disponible",
+      "farmacias": 86
+    }
+  ],
+  "farmacias": 86,
+  "con_coordenadas": 86,
+  "calendario_actualizado": true
+}

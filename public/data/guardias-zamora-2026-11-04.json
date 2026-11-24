@@ -1,0 +1,31 @@
+[
+  {
+    "id": "jcyl-49-e1-00071",
+    "nombre": "PALACIOS DEL VALLE, NAZARIO",
+    "direccion": "CALLE ARAPILES, 22",
+    "localidad": "Zamora",
+    "provincia": "Zamora",
+    "telefono": "980524892",
+    "fuente": "https://cofzamora.es/admin/config/media/ver_mes_completo",
+    "guardia": true,
+    "fecha_guardia": "2026-11-04",
+    "localidades_atendidas": [
+      "Zamora"
+    ],
+    "guardia_franja": "Guardia diurna COF Zamora; horario exacto pendiente, confirmar por teléfono. · Guardia nocturna COF Zamora; horario exacto pendiente, confirmar por teléfono.",
+    "guardia_franjas": [
+      "Guardia diurna COF Zamora; horario exacto pendiente, confirmar por teléfono.",
+      "Guardia nocturna COF Zamora; horario exacto pendiente, confirmar por teléfono."
+    ],
+    "guardia_intervalos": [],
+    "guardia_apertura": "desconocida",
+    "lat": 41.5061147,
+    "lng": -5.7364632,
+    "ubicacion_requiere_verificacion": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/6843786867",
+    "nota_ubicacion": "Ubicación contrastada: la dirección y una farmacia de OpenStreetMap coinciden a 6 m.",
+    "osm_id": "osm-6843786867",
+    "ajuste_ubicacion_m": 5.8
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "id": "jcyl-49-e1-00048",
+    "nombre": "GARCIA GOMEZ, MARÍA ROSARIO",
+    "direccion": "CALLE AMARGURA, 10",
+    "localidad": "Zamora",
+    "provincia": "Zamora",
+    "telefono": "980557508",
+    "fuente": "https://cofzamora.es/admin/config/media/ver_mes_completo",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Zamora"
+    ],
+    "guardia_franja": "Guardia diurna COF Zamora; horario exacto pendiente, confirmar por teléfono.",
+    "guardia_franjas": [
+      "Guardia diurna COF Zamora; horario exacto pendiente, confirmar por teléfono."
+    ],
+    "guardia_intervalos": [],
+    "guardia_apertura": "desconocida",
+    "lat": null,
+    "lng": null,
+    "ubicacion_requiere_verificacion": true
+  },
+  {
+    "id": "jcyl-49-e1-00079",
+    "nombre": "GONZALEZ VAZQUEZ, TERESA",
+    "direccion": "CALLE SAN BLAS, 13",
+    "localidad": "Zamora",
+    "provincia": "Zamora",
+    "telefono": "980531509",
+    "fuente": "https://cofzamora.es/admin/config/media/ver_mes_completo",
+    "guardia": true,
+    "fecha_guardia": "2026-11-05",
+    "localidades_atendidas": [
+      "Zamora"
+    ],
+    "guardia_franja": "Guardia nocturna COF Zamora; horario exacto pendiente, confirmar por teléfono.",
+    "guardia_franjas": [
+      "Guardia nocturna COF Zamora; horario exacto pendiente, confirmar por teléfono."
+    ],
+    "guardia_intervalos": [],
+    "guardia_apertura": "desconocida",
+    "lat": null,
+    "lng": null,
+    "ubicacion_requiere_verificacion": true
+  }
+]

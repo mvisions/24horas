@@ -1,0 +1,2666 @@
+[
+  {
+    "id": "cof-madrid-46",
+    "nombre": "",
+    "direccion": "Plaza DEL ANGEL, 14",
+    "localidad": "Madrid",
+    "provincia": "Madrid",
+    "telefono": "913692318",
+    "codigo_postal": "28012",
+    "guardia": true,
+    "lat": 40.41432672,
+    "lng": -3.70254204,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "MADRID"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-65",
+    "nombre": "",
+    "direccion": "Calle ALFONSO SENRA, 20",
+    "localidad": "Guadarrama",
+    "provincia": "Madrid",
+    "telefono": "918540069",
+    "codigo_postal": "28440",
+    "guardia": true,
+    "lat": 40.67294585,
+    "lng": -4.08987993,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "09:30–13:45 · 17:00–20:00",
+    "servicio_24h": false,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "GUADARRAMA"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-95",
+    "nombre": "",
+    "direccion": "Avenida MACHUPICHU, 37 LC 2 Y 3",
+    "localidad": "Madrid",
+    "provincia": "Madrid",
+    "telefono": "913887588",
+    "codigo_postal": "28043",
+    "guardia": true,
+    "lat": 40.45942576,
+    "lng": -3.62738576,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "MADRID"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-123",
+    "nombre": "",
+    "direccion": "Avenida ANDALUCIA, KM 6.400 ESQ AV POBLADOS",
+    "localidad": "Madrid",
+    "provincia": "Madrid",
+    "telefono": "917237731",
+    "codigo_postal": "28041",
+    "guardia": true,
+    "lat": 40.37100321,
+    "lng": -3.69489498,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "MADRID"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-136",
+    "nombre": "",
+    "direccion": "Calle CEA BERMUDEZ, 15",
+    "localidad": "Madrid",
+    "provincia": "Madrid",
+    "telefono": "915335849",
+    "codigo_postal": "28003",
+    "guardia": true,
+    "lat": 40.43866639,
+    "lng": -3.70889118,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "MADRID"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-139",
+    "nombre": "",
+    "direccion": "Paseo FEDERICO GARCIA LORCA, 19",
+    "localidad": "Madrid",
+    "provincia": "Madrid",
+    "telefono": "913320826",
+    "codigo_postal": "28031",
+    "guardia": true,
+    "lat": 40.37774945,
+    "lng": -3.62073741,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "MADRID"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-224",
+    "nombre": "",
+    "direccion": "Avenida LAS SUERTES, 13 ESQ CL PUEBLA NUEVA",
+    "localidad": "Madrid",
+    "provincia": "Madrid",
+    "telefono": "915220007",
+    "codigo_postal": "28051",
+    "guardia": true,
+    "lat": 40.37200313,
+    "lng": -3.60858745,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "MADRID"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-248",
+    "nombre": "",
+    "direccion": "Calle TINTE, 2",
+    "localidad": "Alcalá De Henares",
+    "provincia": "Madrid",
+    "telefono": "918881557",
+    "codigo_postal": "28801",
+    "guardia": true,
+    "lat": 40.48391506,
+    "lng": -3.36419442,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "ALCALÁ DE HENARES"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-266",
+    "nombre": "",
+    "direccion": "Calle JUAN DE LA CIERVA, 20",
+    "localidad": "Arganda Del Rey",
+    "provincia": "Madrid",
+    "telefono": "918710052",
+    "codigo_postal": "28500",
+    "guardia": true,
+    "lat": 40.30154652,
+    "lng": -3.4407696,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "09:00–21:00",
+    "servicio_24h": false,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "ARGANDA DEL REY"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-288",
+    "nombre": "",
+    "direccion": "Calle BUENA MADRE, 9",
+    "localidad": "Pinto",
+    "provincia": "Madrid",
+    "telefono": "916914551",
+    "codigo_postal": "28320",
+    "guardia": true,
+    "lat": 40.24203063,
+    "lng": -3.6988297,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "09:00–21:00",
+    "servicio_24h": false,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "PINTO"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-328",
+    "nombre": "",
+    "direccion": "Calle JOSE ANTONIO FERNANDEZ ORDOÑEZ, 45 LC-3",
+    "localidad": "Madrid",
+    "provincia": "Madrid",
+    "telefono": "911498786",
+    "codigo_postal": "28055",
+    "guardia": true,
+    "lat": 40.49180347,
+    "lng": -3.60724942,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "MADRID"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-331",
+    "nombre": "",
+    "direccion": "Calle MAYOR, 13",
+    "localidad": "Madrid",
+    "provincia": "Madrid",
+    "telefono": "913664616",
+    "codigo_postal": "28013",
+    "guardia": true,
+    "lat": 40.41625037,
+    "lng": -3.70620419,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "MADRID"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-433",
+    "nombre": "",
+    "direccion": "Calle STUART, 78",
+    "localidad": "Aranjuez",
+    "provincia": "Madrid",
+    "telefono": "918910161",
+    "codigo_postal": "28300",
+    "guardia": true,
+    "lat": 40.03312187,
+    "lng": -3.60373621,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "09:30–13:45 · 17:00–20:00",
+    "servicio_24h": false,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "ARANJUEZ"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-493",
+    "nombre": "",
+    "direccion": "Calle MARCELO USERA, 114",
+    "localidad": "Madrid",
+    "provincia": "Madrid",
+    "telefono": "914756729",
+    "codigo_postal": "28026",
+    "guardia": true,
+    "lat": 40.38557486,
+    "lng": -3.70908828,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "MADRID"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-515",
+    "nombre": "",
+    "direccion": "Avenida MONTE IGUELDO, 14",
+    "localidad": "Madrid",
+    "provincia": "Madrid",
+    "telefono": "914339315",
+    "codigo_postal": "28053",
+    "guardia": true,
+    "lat": 40.39664703,
+    "lng": -3.66824514,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "MADRID"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-535",
+    "nombre": "",
+    "direccion": "Calle ELOY GONZALO, 31",
+    "localidad": "Madrid",
+    "provincia": "Madrid",
+    "telefono": "914489932",
+    "codigo_postal": "28010",
+    "guardia": true,
+    "lat": 40.43480146,
+    "lng": -3.70003159,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "MADRID"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-542",
+    "nombre": "",
+    "direccion": "Calle GRANDE, 18",
+    "localidad": "Chinchón",
+    "provincia": "Madrid",
+    "telefono": "918940058",
+    "codigo_postal": "28370",
+    "guardia": true,
+    "lat": 40.14035823,
+    "lng": -3.42164798,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "08:45–21:30",
+    "servicio_24h": false,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "CHINCHÓN"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-589",
+    "nombre": "",
+    "direccion": "Calle ALCALA, 321",
+    "localidad": "Madrid",
+    "provincia": "Madrid",
+    "telefono": "914511284",
+    "codigo_postal": "28027",
+    "guardia": true,
+    "lat": 40.4329189,
+    "lng": -3.65062463,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "MADRID"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-619",
+    "nombre": "",
+    "direccion": "Calle DOCTOR ESQUERDO, 75",
+    "localidad": "Madrid",
+    "provincia": "Madrid",
+    "telefono": "915733814",
+    "codigo_postal": "28007",
+    "guardia": true,
+    "lat": 40.41897664,
+    "lng": -3.66891395,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "MADRID"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-624",
+    "nombre": "",
+    "direccion": "Plaza SAGRADOS CORAZONES, 4",
+    "localidad": "Madrid",
+    "provincia": "Madrid",
+    "telefono": "915649284",
+    "codigo_postal": "28036",
+    "guardia": true,
+    "lat": 40.4520696,
+    "lng": -3.68535141,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "MADRID"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-641",
+    "nombre": "",
+    "direccion": "Calle FUENTE CARRANTONA, 29",
+    "localidad": "Madrid",
+    "provincia": "Madrid",
+    "telefono": "915616041",
+    "codigo_postal": "28030",
+    "guardia": true,
+    "lat": 40.40634275,
+    "lng": -3.63266733,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "MADRID"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-877",
+    "nombre": "",
+    "direccion": "Calle ESTUDIANTES, 4 C/V CL LEGANES, 47",
+    "localidad": "Getafe",
+    "provincia": "Madrid",
+    "telefono": "916952117",
+    "codigo_postal": "28904",
+    "guardia": true,
+    "lat": 40.30857335,
+    "lng": -3.73653759,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "GETAFE"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-886",
+    "nombre": "",
+    "direccion": "Avenida HERMANOS GARCÍA NOBLEJAS, 21",
+    "localidad": "Madrid",
+    "provincia": "Madrid",
+    "telefono": "914080164",
+    "codigo_postal": "28037",
+    "guardia": true,
+    "lat": 40.43446411,
+    "lng": -3.63520632,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "MADRID"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-892",
+    "nombre": "",
+    "direccion": "Calle FRANCISCO SILVELA, 36",
+    "localidad": "Madrid",
+    "provincia": "Madrid",
+    "telefono": "913563573",
+    "codigo_postal": "28028",
+    "guardia": true,
+    "lat": 40.43291974,
+    "lng": -3.67251829,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "MADRID"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-1089",
+    "nombre": "",
+    "direccion": "Calle HERCE, 41",
+    "localidad": "Madrid",
+    "provincia": "Madrid",
+    "telefono": "914633094",
+    "codigo_postal": "28032",
+    "guardia": true,
+    "lat": 40.4039,
+    "lng": -3.6163,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "09:30–09:30",
+    "servicio_24h": false,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "MADRID"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-1295",
+    "nombre": "",
+    "direccion": "Calle BLANCA DE CASTILLA, 11",
+    "localidad": "Madrid",
+    "provincia": "Madrid",
+    "telefono": "913576914",
+    "codigo_postal": "28023",
+    "guardia": true,
+    "lat": 40.46584996,
+    "lng": -3.78370099,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "MADRID"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-1320",
+    "nombre": "",
+    "direccion": "Avenida SAN LUIS, 52",
+    "localidad": "Madrid",
+    "provincia": "Madrid",
+    "telefono": "644598687",
+    "codigo_postal": "28033",
+    "guardia": true,
+    "lat": 40.47299143,
+    "lng": -3.65053938,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "MADRID"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-1346",
+    "nombre": "",
+    "direccion": "Paseo CASTELLANA, 181",
+    "localidad": "Madrid",
+    "provincia": "Madrid",
+    "telefono": "915704891",
+    "codigo_postal": "28046",
+    "guardia": true,
+    "lat": 40.46323029,
+    "lng": -3.69013568,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "MADRID"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-1451",
+    "nombre": "",
+    "direccion": "Calle LUIS MOYA BLANCO, 19-21 ESQ CL SEGUNDINO ZUAZO",
+    "localidad": "Madrid",
+    "provincia": "Madrid",
+    "telefono": "915295978",
+    "codigo_postal": "28055",
+    "guardia": true,
+    "lat": 40.49507876,
+    "lng": -3.61650708,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "MADRID"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-1764",
+    "nombre": "",
+    "direccion": "Avenida PABLO NERUDA, 91-97 CEN COM MADRID SUR",
+    "localidad": "Madrid",
+    "provincia": "Madrid",
+    "telefono": "915079484",
+    "codigo_postal": "28018",
+    "guardia": true,
+    "lat": 40.38116827,
+    "lng": -3.66217822,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "MADRID"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-1786",
+    "nombre": "",
+    "direccion": "Calle IGLESIA, 20",
+    "localidad": "Valdetorres De Jarama",
+    "provincia": "Madrid",
+    "telefono": "918415140",
+    "codigo_postal": "28150",
+    "guardia": true,
+    "lat": 40.69564462,
+    "lng": -3.51271566,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "09:00–20:00",
+    "servicio_24h": false,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "VALDETORRES DE JARAMA"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-1870",
+    "nombre": "",
+    "direccion": "Avenida BETANZOS, 61 LC 416 TDA 3",
+    "localidad": "Madrid",
+    "provincia": "Madrid",
+    "telefono": "913862393",
+    "codigo_postal": "28029",
+    "guardia": true,
+    "lat": 40.47852573,
+    "lng": -3.71269623,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "MADRID"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-1937",
+    "nombre": "",
+    "direccion": "Calle SEGOVIA, 34",
+    "localidad": "Alcalá De Henares",
+    "provincia": "Madrid",
+    "telefono": "918882277",
+    "codigo_postal": "28804",
+    "guardia": true,
+    "lat": 40.48491139,
+    "lng": -3.35081976,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "ALCALÁ DE HENARES"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-1993",
+    "nombre": "",
+    "direccion": "Avenida JUAN CARLOS I, 15",
+    "localidad": "Villanueva Del Pardillo",
+    "provincia": "Madrid",
+    "telefono": "918150228",
+    "codigo_postal": "28229",
+    "guardia": true,
+    "lat": 40.49397045,
+    "lng": -3.96643839,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "09:30–21:30",
+    "servicio_24h": false,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "VILLANUEVA DEL PARDILLO"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-2107",
+    "nombre": "",
+    "direccion": "Calle SIERRA DE PICOS DE EUROPA, 24",
+    "localidad": "Alcorcón",
+    "provincia": "Madrid",
+    "telefono": "916104934",
+    "codigo_postal": "28923",
+    "guardia": true,
+    "lat": 40.34674286,
+    "lng": -3.82243714,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "ALCORCÓN"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-2121",
+    "nombre": "",
+    "direccion": "Avenida ONU, 9",
+    "localidad": "Móstoles",
+    "provincia": "Madrid",
+    "telefono": "916461636",
+    "codigo_postal": "28936",
+    "guardia": true,
+    "lat": 40.32822081,
+    "lng": -3.85343022,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "MÓSTOLES"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-2128",
+    "nombre": "",
+    "direccion": "Calle BRONCE, 4C LC9",
+    "localidad": "Madrid",
+    "provincia": "Madrid",
+    "telefono": "914610270",
+    "codigo_postal": "28045",
+    "guardia": true,
+    "lat": 40.39237239,
+    "lng": -3.68894046,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "MADRID"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-2180",
+    "nombre": "",
+    "direccion": "Calle CRISTO DE LA SALUD, 32",
+    "localidad": "Valdemoro",
+    "provincia": "Madrid",
+    "telefono": "918953087",
+    "codigo_postal": "28342",
+    "guardia": true,
+    "lat": 40.19369269,
+    "lng": -3.68115732,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "VALDEMORO"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-2211",
+    "nombre": "",
+    "direccion": "Calle HERMANOS PINZON, 2",
+    "localidad": "Móstoles",
+    "provincia": "Madrid",
+    "telefono": "911721874",
+    "codigo_postal": "28937",
+    "guardia": true,
+    "lat": 40.32264583,
+    "lng": -3.85564348,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "MÓSTOLES"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-2274",
+    "nombre": "",
+    "direccion": "Avenida LOS POBLADOS, 58 C.C.PLAZA ALUCHE LC B1-B2",
+    "localidad": "Madrid",
+    "provincia": "Madrid",
+    "telefono": "915094389",
+    "codigo_postal": "28044",
+    "guardia": true,
+    "lat": 40.38586247,
+    "lng": -3.76298013,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "MADRID"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-2316",
+    "nombre": "",
+    "direccion": "Avenida MADRID, 35 LC 13 Y 14",
+    "localidad": "Torrejón De Ardoz",
+    "provincia": "Madrid",
+    "telefono": "916767366",
+    "codigo_postal": "28850",
+    "guardia": true,
+    "lat": 40.46418879,
+    "lng": -3.46157633,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "TORREJÓN DE ARDOZ"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-2360",
+    "nombre": "",
+    "direccion": "Paseo DELICIAS, 5",
+    "localidad": "Madrid",
+    "provincia": "Madrid",
+    "telefono": "914740702",
+    "codigo_postal": "28045",
+    "guardia": true,
+    "lat": 40.40657305,
+    "lng": -3.69306862,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "MADRID"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-2444",
+    "nombre": "",
+    "direccion": "AV. CALATALIFA, 22",
+    "localidad": "Villaviciosa De Odón",
+    "provincia": "Madrid",
+    "telefono": "916160048",
+    "codigo_postal": "28670",
+    "guardia": true,
+    "lat": 40.35404993,
+    "lng": -3.90440414,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "09:00–21:00",
+    "servicio_24h": false,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "VILLAVICIOSA DE ODÓN"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-2457",
+    "nombre": "",
+    "direccion": "CC BURGO CENTRO 2 LC 11-12",
+    "localidad": "Las Rozas",
+    "provincia": "Madrid",
+    "telefono": "916361368",
+    "codigo_postal": "28230",
+    "guardia": true,
+    "lat": 40.48968466,
+    "lng": -3.87570871,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "LAS ROZAS"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-2510",
+    "nombre": "",
+    "direccion": "Avenida ESPAÑA, 48",
+    "localidad": "San Sebastián De Los Reyes",
+    "provincia": "Madrid",
+    "telefono": "916546152",
+    "codigo_postal": "28700",
+    "guardia": true,
+    "lat": 40.54597591,
+    "lng": -3.6337432,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "SAN SEBASTIÁN DE LOS REYES"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T23:00:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 23:00-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia de ayer 23:00 a hoy 09:30",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-2517",
+    "nombre": "",
+    "direccion": "Calle LORENZO NIÑO, 10",
+    "localidad": "Escorial, El",
+    "provincia": "Madrid",
+    "telefono": "918902418",
+    "codigo_postal": "28280",
+    "guardia": true,
+    "lat": 40.58424265,
+    "lng": -4.12883792,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "09:15–14:30 · 16:45–20:30",
+    "servicio_24h": false,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "ESCORIAL, EL"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-2531",
+    "nombre": "",
+    "direccion": "Calle CHILE, 162 LC. 1, 2 Y 3",
+    "localidad": "Coslada",
+    "provincia": "Madrid",
+    "telefono": "916698779",
+    "codigo_postal": "28820",
+    "guardia": true,
+    "lat": 40.42396631,
+    "lng": -3.54377213,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "COSLADA"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-2566",
+    "nombre": "",
+    "direccion": "Avenida EUROPA, 7",
+    "localidad": "Pozuelo De Alarcón",
+    "provincia": "Madrid",
+    "telefono": "913514140",
+    "codigo_postal": "28224",
+    "guardia": true,
+    "lat": 40.43712565,
+    "lng": -3.7974216,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "POZUELO DE ALARCÓN"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-2575",
+    "nombre": "",
+    "direccion": "Calle PLANETA VENUS, 12 LC 1",
+    "localidad": "Parla",
+    "provincia": "Madrid",
+    "telefono": "603017419",
+    "codigo_postal": "28983",
+    "guardia": true,
+    "lat": 40.24134092,
+    "lng": -3.76241332,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "PARLA"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-2578",
+    "nombre": "",
+    "direccion": "Paseo LAS NACIONES, 2",
+    "localidad": "Pozuelo De Alarcón",
+    "provincia": "Madrid",
+    "telefono": "913511105",
+    "codigo_postal": "28224",
+    "guardia": true,
+    "lat": 40.44044875,
+    "lng": -3.80409923,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "POZUELO DE ALARCÓN"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-2584",
+    "nombre": "",
+    "direccion": "Plaza LA VILLA, 3 (REDUE\\A)",
+    "localidad": "Redueña",
+    "provincia": "Madrid",
+    "telefono": "918438319",
+    "codigo_postal": "28721",
+    "guardia": true,
+    "lat": 40.81618158,
+    "lng": -3.60348625,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "09:30–18:00",
+    "servicio_24h": false,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "REDUEÑA"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-2586",
+    "nombre": "",
+    "direccion": "Calle SECTOR DESCUBRIDORES, 47 L1",
+    "localidad": "Tres Cantos",
+    "provincia": "Madrid",
+    "telefono": "911731561",
+    "codigo_postal": "28760",
+    "guardia": true,
+    "lat": 40.60710225,
+    "lng": -3.71669628,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "09:00–21:00",
+    "servicio_24h": false,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "TRES CANTOS"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T23:00:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 23:00-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia de ayer 23:00 a hoy 09:30",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-2614",
+    "nombre": "",
+    "direccion": "Calle FUENTE, 10",
+    "localidad": "San Martín De Valdeiglesias",
+    "provincia": "Madrid",
+    "telefono": "918613029",
+    "codigo_postal": "28680",
+    "guardia": true,
+    "lat": 40.36459385,
+    "lng": -4.39814494,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "09:00–21:00",
+    "servicio_24h": false,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "SAN MARTÍN DE VALDEIGLESIAS"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-2625",
+    "nombre": "",
+    "direccion": "Calle SUIZA, 20-22",
+    "localidad": "Fuenlabrada",
+    "provincia": "Madrid",
+    "telefono": "916078355",
+    "codigo_postal": "28943",
+    "guardia": true,
+    "lat": 40.28353763,
+    "lng": -3.8027663,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "FUENLABRADA"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-2635",
+    "nombre": "",
+    "direccion": "Calle PARQUE RIVAS, 3 LC 12 CENTRO COMERCIAL",
+    "localidad": "Rivas-Vaciamadrid",
+    "provincia": "Madrid",
+    "telefono": "913012661",
+    "codigo_postal": "28522",
+    "guardia": true,
+    "lat": 40.34248915,
+    "lng": -3.53378051,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "RIVAS-VACIAMADRID"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-2649",
+    "nombre": "",
+    "direccion": "Avenida OLIMPICA, 26-10",
+    "localidad": "Alcobendas",
+    "provincia": "Madrid",
+    "telefono": "916626231",
+    "codigo_postal": "28108",
+    "guardia": true,
+    "lat": 40.53613831,
+    "lng": -3.63700393,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "ALCOBENDAS"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-2694",
+    "nombre": "",
+    "direccion": "Avenida ALCARRIA, 6",
+    "localidad": "Alcalá De Henares",
+    "provincia": "Madrid",
+    "telefono": "918788484",
+    "codigo_postal": "28806",
+    "guardia": true,
+    "lat": 40.49152837,
+    "lng": -3.36397597,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "ALCALÁ DE HENARES"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-2696",
+    "nombre": "",
+    "direccion": "Calle BATALLA DE BAILEN, 21",
+    "localidad": "Collado Villalba",
+    "provincia": "Madrid",
+    "telefono": "918517215",
+    "codigo_postal": "28400",
+    "guardia": true,
+    "lat": 40.63241558,
+    "lng": -4.00971174,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "09:00–21:00",
+    "servicio_24h": false,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "COLLADO VILLALBA"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T23:00:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 23:00-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia de ayer 23:00 a hoy 09:30",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-2706",
+    "nombre": "",
+    "direccion": "Calle MONACO, 17",
+    "localidad": "Fuenlabrada",
+    "provincia": "Madrid",
+    "telefono": "916085151",
+    "codigo_postal": "28943",
+    "guardia": true,
+    "lat": 40.27898158,
+    "lng": -3.80627658,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "FUENLABRADA"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-2734",
+    "nombre": "",
+    "direccion": "Calle MARTIN LUTHER KING, 16 C/A POR AV CONSTITUCION",
+    "localidad": "Torrejón De Ardoz",
+    "provincia": "Madrid",
+    "telefono": "916750585",
+    "codigo_postal": "28850",
+    "guardia": true,
+    "lat": 40.465338,
+    "lng": -3.441639,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "TORREJÓN DE ARDOZ"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-2775",
+    "nombre": "",
+    "direccion": "Avenida FUENLABRADA, 78",
+    "localidad": "Leganés",
+    "provincia": "Madrid",
+    "telefono": "914987158",
+    "codigo_postal": "28911",
+    "guardia": true,
+    "lat": 40.32794686,
+    "lng": -3.76374013,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "LEGANÉS"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-2820",
+    "nombre": "",
+    "direccion": "Calle SAN ROQUE, 71",
+    "localidad": "Navalcarnero",
+    "provincia": "Madrid",
+    "telefono": "918111221",
+    "codigo_postal": "28600",
+    "guardia": true,
+    "lat": 40.28408546,
+    "lng": -4.01205042,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "09:00–14:00 · 16:30–21:00",
+    "servicio_24h": false,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "NAVALCARNERO"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T21:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 21:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia de ayer 21:30 a hoy 09:30",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-2825",
+    "nombre": "",
+    "direccion": "TR LOS MORALES, 7",
+    "localidad": "Soto Del Real",
+    "provincia": "Madrid",
+    "telefono": "918479592",
+    "codigo_postal": "28791",
+    "guardia": true,
+    "lat": 40.75210829,
+    "lng": -3.78939791,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "09:30–14:00 · 16:00–20:00",
+    "servicio_24h": false,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "SOTO DEL REAL"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-2837",
+    "nombre": "",
+    "direccion": "Calle CALVARIO, 33",
+    "localidad": "Galapagar",
+    "provincia": "Madrid",
+    "telefono": "918587606",
+    "codigo_postal": "28260",
+    "guardia": true,
+    "lat": 40.57923965,
+    "lng": -4.00741118,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "09:00–21:00",
+    "servicio_24h": false,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "GALAPAGAR"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-2859",
+    "nombre": "",
+    "direccion": "Avenida LA LIBERTAD, 24",
+    "localidad": "Colmenar Viejo",
+    "provincia": "Madrid",
+    "telefono": "918473099",
+    "codigo_postal": "28770",
+    "guardia": true,
+    "lat": 40.66085587,
+    "lng": -3.76464969,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "09:00–22:00",
+    "servicio_24h": false,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "COLMENAR VIEJO"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-2867",
+    "nombre": "",
+    "direccion": "Calle ISLAS COLUMBRETES, 1",
+    "localidad": "Humanes De Madrid",
+    "provincia": "Madrid",
+    "telefono": "916049791",
+    "codigo_postal": "28970",
+    "guardia": true,
+    "lat": 40.250139,
+    "lng": -3.82600501,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "09:00–21:00",
+    "servicio_24h": false,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "HUMANES DE MADRID"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-2896",
+    "nombre": "",
+    "direccion": "Calle MARIA SEVILLA DIAGO, 24 ESQ. CL NIZA",
+    "localidad": "Madrid",
+    "provincia": "Madrid",
+    "telefono": "917757621",
+    "codigo_postal": "28022",
+    "guardia": true,
+    "lat": 40.43315455,
+    "lng": -3.607311,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "MADRID"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-2905",
+    "nombre": "",
+    "direccion": "Avenida INFANTE DON LUIS, 7 LOCAL 4",
+    "localidad": "Boadilla Del Monte",
+    "provincia": "Madrid",
+    "telefono": "916337771",
+    "codigo_postal": "28660",
+    "guardia": true,
+    "lat": 40.40689288,
+    "lng": -3.89565942,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "BOADILLA DEL MONTE"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-2906",
+    "nombre": "",
+    "direccion": "Calle MORERAS, S/N C/V A CL DOCTOR PEREZ GALLARDO",
+    "localidad": "Majadahonda",
+    "provincia": "Madrid",
+    "telefono": "916384650",
+    "codigo_postal": "28222",
+    "guardia": true,
+    "lat": 40.45610876,
+    "lng": -3.86610887,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "Abierto 24 h",
+    "servicio_24h": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "MAJADAHONDA"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-2975",
+    "nombre": "",
+    "direccion": "Calle QUEVEDO, 15",
+    "localidad": "Paracuellos De Jarama",
+    "provincia": "Madrid",
+    "telefono": "911277391",
+    "codigo_postal": "28860",
+    "guardia": true,
+    "lat": 40.49951568,
+    "lng": -3.50614483,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "08:30–21:30",
+    "servicio_24h": false,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "PARACUELLOS DE JARAMA"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-3006",
+    "nombre": "",
+    "direccion": "Calle JESUSA LARA, 30",
+    "localidad": "Torrelodones",
+    "provincia": "Madrid",
+    "telefono": "910847202",
+    "codigo_postal": "28250",
+    "guardia": true,
+    "lat": 40.57926755,
+    "lng": -3.95535336,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "09:15–21:00",
+    "servicio_24h": false,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "TORRELODONES"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-3013",
+    "nombre": "",
+    "direccion": "Calle AMOR DE DIOS, 1 LC 4 Y 5",
+    "localidad": "San Martín De La Vega",
+    "provincia": "Madrid",
+    "telefono": "910932274",
+    "codigo_postal": "28330",
+    "guardia": true,
+    "lat": 40.21176824652236,
+    "lng": -3.577871082464013,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "08:30–21:30",
+    "servicio_24h": false,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "SAN MARTÍN DE LA VEGA"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-3024",
+    "nombre": "",
+    "direccion": "Calle ESTRELLAS, 39",
+    "localidad": "Ciempozuelos",
+    "provincia": "Madrid",
+    "telefono": "914928809",
+    "codigo_postal": "28350",
+    "guardia": true,
+    "lat": 40.15933214,
+    "lng": -3.62333508,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "09:00–21:00",
+    "servicio_24h": false,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "CIEMPOZUELOS"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  },
+  {
+    "id": "cof-madrid-3040",
+    "nombre": "",
+    "direccion": "Avenida JUAN GRIS, 4 LC 15",
+    "localidad": "Mejorada Del Campo",
+    "provincia": "Madrid",
+    "telefono": "919473839",
+    "codigo_postal": "28840",
+    "guardia": true,
+    "lat": 40.39494293,
+    "lng": -3.48410402,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "09:30–21:00",
+    "servicio_24h": false,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "fecha_guardia": "2026-11-11",
+    "localidades_atendidas": [
+      "MEJORADA DEL CAMPO"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-11T00:00:00",
+        "fin": "2026-11-11T09:30:00",
+        "tipo": "Guardia COFM",
+        "inicio_original": "2026-11-10T09:30:00",
+        "fin_original": "2026-11-11T09:30:00"
+      }
+    ],
+    "horario_guardia_original": "2026-11-10 09:30-2026-11-11 09:30",
+    "guardia_descripcion_oficial": "Guardia 24 h (ayer 09:30 a hoy 09:30)",
+    "guardia_franjas": [
+      "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+    ],
+    "guardia_franja": "Guardia COFM: 2026-11-11 00:00:00–2026-11-11 09:30:00"
+  }
+]

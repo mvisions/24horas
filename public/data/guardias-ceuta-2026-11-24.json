@@ -1,0 +1,52 @@
+[
+  {
+    "id": "51-51000001",
+    "cofm_id": "51000001",
+    "direccion": "RUIZ. C/ Jaurdenes, 12",
+    "localidad": "Ceuta",
+    "sector": "",
+    "zona": "Ceuta",
+    "provincia": "Ceuta",
+    "guardia": true,
+    "guardia_franja": "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono.",
+    "fecha_guardia": "2026-11-24",
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": 35.88746,
+    "lng": -5.3142902,
+    "localidades_atendidas": [
+      "Ceuta"
+    ],
+    "guardia_franjas": [
+      "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono."
+    ],
+    "nombre": "Ruiz C.B.",
+    "telefono": "956512218",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org",
+    "nota_ubicacion": null
+  },
+  {
+    "id": "51-51000019",
+    "cofm_id": "51000019",
+    "direccion": "PUYA (BARRIADAS). C/Tte. Crl. Gautier, 10",
+    "localidad": "Ceuta",
+    "sector": "",
+    "zona": "Ceuta",
+    "provincia": "Ceuta",
+    "guardia": true,
+    "guardia_franja": "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono. · Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre.",
+    "fecha_guardia": "2026-11-24",
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": null,
+    "lng": null,
+    "localidades_atendidas": [
+      "Ceuta"
+    ],
+    "guardia_franjas": [
+      "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono.",
+      "Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre."
+    ],
+    "nombre": "Puya C.B.",
+    "telefono": "956512309"
+  }
+]

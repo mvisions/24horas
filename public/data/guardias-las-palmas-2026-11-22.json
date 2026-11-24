@@ -1,0 +1,841 @@
+[
+  {
+    "id": "cof-laspalmas-ee6879e3-781b-412d-9030-2dc190c8f57f",
+    "nombre": "Charola Ramos, Irma Beatriz",
+    "direccion": "Francisco Palomares, 16 CC Puerto Nieves",
+    "localidad": "Agaete",
+    "provincia": "Las Palmas",
+    "telefono": "928886004",
+    "lat": 28.1021111,
+    "lng": -15.7116296,
+    "guardia": true,
+    "guardia_franja": "09:00 - 20:00 · 20:00 - 09:00 (+1)",
+    "guardia_franjas": [
+      "09:00 - 20:00",
+      "20:00 - 09:00 (+1)"
+    ],
+    "fecha_guardia": "2026-11-22",
+    "fuente": "https://www.coflaspalmas.es",
+    "fuentes": [
+      "https://www.coflaspalmas.es"
+    ],
+    "hora_inicio": "2026-11-22 09:00:00",
+    "hora_fin": "2026-11-22 20:00:00"
+  },
+  {
+    "id": "cof-laspalmas-94c90531-1e0e-46be-bbb6-d4051d937bfe",
+    "nombre": "Fuente Valerón, Jesús Guillermo",
+    "direccion": "Avenida Ansite, 80 (Cruce de Arinaga)",
+    "localidad": "Agüimes",
+    "provincia": "Las Palmas",
+    "telefono": "928181042",
+    "lat": 27.877687,
+    "lng": -15.427757,
+    "guardia": true,
+    "guardia_franja": "09:00 - 09:00 (+1)",
+    "guardia_franjas": [
+      "09:00 - 09:00 (+1)"
+    ],
+    "fecha_guardia": "2026-11-22",
+    "fuente": "https://www.coflaspalmas.es",
+    "fuentes": [
+      "https://www.coflaspalmas.es"
+    ],
+    "hora_inicio": "2026-11-22 09:00:00",
+    "hora_fin": "2026-11-23 09:00:00"
+  },
+  {
+    "id": "cof-laspalmas-0e343797-f39a-4d1b-b6ad-fb2494bd84e9",
+    "nombre": "Artiles Campelo, Antonio",
+    "direccion": "Calle Carlos V, 83 (Carrizal)",
+    "localidad": "Ingenio",
+    "provincia": "Las Palmas",
+    "telefono": "928780675",
+    "lat": 27.912538,
+    "lng": -15.403723,
+    "guardia": true,
+    "guardia_franja": "09:00 - 22:00",
+    "guardia_franjas": [
+      "09:00 - 22:00"
+    ],
+    "fecha_guardia": "2026-11-22",
+    "fuente": "https://www.coflaspalmas.es",
+    "fuentes": [
+      "https://www.coflaspalmas.es"
+    ],
+    "hora_inicio": "2026-11-22 09:00:00",
+    "hora_fin": "2026-11-22 22:00:00"
+  },
+  {
+    "id": "cof-laspalmas-ac9d50a9-a003-4470-a03d-271dbfb630d1",
+    "nombre": "Guadalupe Cabrera, Yolanda / Hernández Guadalupe, Pablo y Hernández Guadalupe, Tomás",
+    "direccion": "Ctra. Gral. San Bartolomé, 54 - Argana Alta",
+    "localidad": "Arrecife",
+    "provincia": "Las Palmas",
+    "telefono": "928803994",
+    "lat": 28.977341,
+    "lng": -13.572314,
+    "guardia": true,
+    "guardia_franja": "09:00 - 09:00 (+1)",
+    "guardia_franjas": [
+      "09:00 - 09:00 (+1)"
+    ],
+    "fecha_guardia": "2026-11-22",
+    "fuente": "https://www.coflaspalmas.es",
+    "fuentes": [
+      "https://www.coflaspalmas.es"
+    ],
+    "hora_inicio": "2026-11-22 09:00:00",
+    "hora_fin": "2026-11-23 09:00:00"
+  },
+  {
+    "id": "cof-laspalmas-934405f4-5ff5-45af-9f14-87da055c627d",
+    "nombre": "Perera Bordes, Ana",
+    "direccion": "Carretera General del Norte, 52 (San Andrés)",
+    "localidad": "Arucas",
+    "provincia": "Las Palmas",
+    "telefono": "928627099",
+    "lat": 28.145278,
+    "lng": -15.5558678,
+    "guardia": true,
+    "guardia_franja": "09:00 - 09:00 (+1)",
+    "guardia_franjas": [
+      "09:00 - 09:00 (+1)"
+    ],
+    "fecha_guardia": "2026-11-22",
+    "fuente": "https://www.coflaspalmas.es",
+    "fuentes": [
+      "https://www.coflaspalmas.es"
+    ],
+    "hora_inicio": "2026-11-22 09:00:00",
+    "hora_fin": "2026-11-23 09:00:00"
+  },
+  {
+    "id": "cof-laspalmas-5972411e-8da2-489e-a5dc-cb89b9b106ae",
+    "nombre": "Martín Almeida, Óscar Manuel",
+    "direccion": "Avenida de la Constitución, 29",
+    "localidad": "Firgas",
+    "provincia": "Las Palmas",
+    "telefono": "928625208",
+    "lat": 28.107252,
+    "lng": -15.563074,
+    "guardia": true,
+    "guardia_franja": "09:00 - 09:00 (+1)",
+    "guardia_franjas": [
+      "09:00 - 09:00 (+1)"
+    ],
+    "fecha_guardia": "2026-11-22",
+    "fuente": "https://www.coflaspalmas.es",
+    "fuentes": [
+      "https://www.coflaspalmas.es"
+    ],
+    "hora_inicio": "2026-11-22 09:00:00",
+    "hora_fin": "2026-11-23 09:00:00"
+  },
+  {
+    "id": "cof-laspalmas-856accd6-818b-4302-8793-fe371e89d059",
+    "nombre": "Merino Barber, Luisa y Díaz Merino, Nayra María C.B.",
+    "direccion": "C/ Párroco Hernández Benítez, 41 (San Isidro)",
+    "localidad": "Gáldar",
+    "provincia": "Las Palmas",
+    "telefono": "928552498",
+    "lat": 28.130441,
+    "lng": -15.66085,
+    "guardia": true,
+    "guardia_franja": "09:00 - 22:00",
+    "guardia_franjas": [
+      "09:00 - 22:00"
+    ],
+    "fecha_guardia": "2026-11-22",
+    "fuente": "https://www.coflaspalmas.es",
+    "fuentes": [
+      "https://www.coflaspalmas.es"
+    ],
+    "hora_inicio": "2026-11-22 09:00:00",
+    "hora_fin": "2026-11-22 22:00:00"
+  },
+  {
+    "id": "cof-laspalmas-1ffdbfdf-1ebf-4eca-a581-91d4ce5806a5",
+    "nombre": "Velázquez Millares, Manuel y Velázquez de Funes, Manuel C.B.",
+    "direccion": "Plaza San Roque, 1",
+    "localidad": "Santa María de Guía",
+    "provincia": "Las Palmas",
+    "telefono": "928551944",
+    "lat": 28.137899,
+    "lng": -15.630126,
+    "guardia": true,
+    "guardia_franja": "09:00 - 09:00 (+1)",
+    "guardia_franjas": [
+      "09:00 - 09:00 (+1)"
+    ],
+    "fecha_guardia": "2026-11-22",
+    "fuente": "https://www.coflaspalmas.es",
+    "fuentes": [
+      "https://www.coflaspalmas.es"
+    ],
+    "hora_inicio": "2026-11-22 09:00:00",
+    "hora_fin": "2026-11-23 09:00:00"
+  },
+  {
+    "id": "cof-laspalmas-45c1fadf-ed7e-4422-83b5-28329ee45d7d",
+    "nombre": "Izquierdo Bello, Pedro",
+    "direccion": "Villanueva, 17",
+    "localidad": "Haría",
+    "provincia": "Las Palmas",
+    "telefono": "928529675",
+    "lat": 29.0960117,
+    "lng": -13.4699311,
+    "guardia": true,
+    "guardia_franja": "09:00 - 22:00",
+    "guardia_franjas": [
+      "09:00 - 22:00"
+    ],
+    "fecha_guardia": "2026-11-22",
+    "fuente": "https://www.coflaspalmas.es",
+    "fuentes": [
+      "https://www.coflaspalmas.es"
+    ],
+    "hora_inicio": "2026-11-22 09:00:00",
+    "hora_fin": "2026-11-22 22:00:00"
+  },
+  {
+    "id": "cof-laspalmas-33da7e4c-17c2-455b-a110-f2c361a9dbf5",
+    "nombre": "Sánchez Acebes, Juan Carlos",
+    "direccion": "Dr.Fleming, 123",
+    "localidad": "La Aldea de San Nicolás",
+    "provincia": "Las Palmas",
+    "telefono": "928892317",
+    "lat": 27.988157,
+    "lng": -15.792968,
+    "guardia": true,
+    "guardia_franja": "09:00 - 09:00 (+1)",
+    "guardia_franjas": [
+      "09:00 - 09:00 (+1)"
+    ],
+    "fecha_guardia": "2026-11-22",
+    "fuente": "https://www.coflaspalmas.es",
+    "fuentes": [
+      "https://www.coflaspalmas.es"
+    ],
+    "hora_inicio": "2026-11-22 09:00:00",
+    "hora_fin": "2026-11-23 09:00:00"
+  },
+  {
+    "id": "cof-laspalmas-e44ff9f1-8fe8-4d94-a23a-bb4801cd4f29",
+    "nombre": "González Pérez, María Jesús / Reboso Castañeda, Lidia y Funes Lorenzo, María del  Carmen C.B.",
+    "direccion": "Isaac Peral, 40  -Corralejo-",
+    "localidad": "La Oliva",
+    "provincia": "Las Palmas",
+    "telefono": "928535562",
+    "lat": 28.739894,
+    "lng": -13.868848,
+    "guardia": true,
+    "guardia_franja": "09:00 - 09:00 (+1)",
+    "guardia_franjas": [
+      "09:00 - 09:00 (+1)"
+    ],
+    "fecha_guardia": "2026-11-22",
+    "fuente": "https://www.coflaspalmas.es",
+    "fuentes": [
+      "https://www.coflaspalmas.es"
+    ],
+    "hora_inicio": "2026-11-22 09:00:00",
+    "hora_fin": "2026-11-23 09:00:00"
+  },
+  {
+    "id": "cof-laspalmas-17418fe1-80a1-4d5a-8beb-84fbe1fb14b7",
+    "nombre": "Burgaña Bilbao, Lorea",
+    "direccion": "Calle Obispo Codina, 5",
+    "localidad": "Las Palmas de Gran Canaria",
+    "provincia": "Las Palmas",
+    "telefono": "928311311",
+    "lat": 28.101567,
+    "lng": -15.415674,
+    "guardia": true,
+    "guardia_franja": "09:00 - 09:00 (+1)",
+    "guardia_franjas": [
+      "09:00 - 09:00 (+1)"
+    ],
+    "fecha_guardia": "2026-11-22",
+    "fuente": "https://www.coflaspalmas.es",
+    "fuentes": [
+      "https://www.coflaspalmas.es"
+    ],
+    "hora_inicio": "2026-11-22 09:00:00",
+    "hora_fin": "2026-11-23 09:00:00"
+  },
+  {
+    "id": "cof-laspalmas-0688f4df-f01e-49ef-85d9-1002ac75e044",
+    "nombre": "Bitar Sayfan, Maha",
+    "direccion": "Calle Simancas, 76",
+    "localidad": "Las Palmas de Gran Canaria",
+    "provincia": "Las Palmas",
+    "telefono": "928264574",
+    "lat": 28.129663,
+    "lng": -15.444359,
+    "guardia": true,
+    "guardia_franja": "09:00 - 09:00 (+1)",
+    "guardia_franjas": [
+      "09:00 - 09:00 (+1)"
+    ],
+    "fecha_guardia": "2026-11-22",
+    "fuente": "https://www.coflaspalmas.es",
+    "fuentes": [
+      "https://www.coflaspalmas.es"
+    ],
+    "hora_inicio": "2026-11-22 09:00:00",
+    "hora_fin": "2026-11-23 09:00:00"
+  },
+  {
+    "id": "cof-laspalmas-1c932314-c653-40a9-9d0b-55e3b475b104",
+    "nombre": "Álvarez Pérez, Rafael",
+    "direccion": "Carretera de Mata, 70",
+    "localidad": "Las Palmas de Gran Canaria",
+    "provincia": "Las Palmas",
+    "telefono": "928369509",
+    "lat": 28.105975,
+    "lng": -15.426312,
+    "guardia": true,
+    "guardia_franja": "09:00 - 09:00 (+1)",
+    "guardia_franjas": [
+      "09:00 - 09:00 (+1)"
+    ],
+    "fecha_guardia": "2026-11-22",
+    "fuente": "https://www.coflaspalmas.es",
+    "fuentes": [
+      "https://www.coflaspalmas.es"
+    ],
+    "hora_inicio": "2026-11-22 09:00:00",
+    "hora_fin": "2026-11-23 09:00:00"
+  },
+  {
+    "id": "cof-laspalmas-d9ce23d2-66c2-4865-89ac-8ba79453bdc6",
+    "nombre": "Barroso Amador, Juan de Dios",
+    "direccion": "Calle Otoño, 5 - Hoya Andrea",
+    "localidad": "Las Palmas de Gran Canaria",
+    "provincia": "Las Palmas",
+    "telefono": "928439964",
+    "lat": 28.090391,
+    "lng": -15.461694,
+    "guardia": true,
+    "guardia_franja": "09:00 - 09:00 (+1)",
+    "guardia_franjas": [
+      "09:00 - 09:00 (+1)"
+    ],
+    "fecha_guardia": "2026-11-22",
+    "fuente": "https://www.coflaspalmas.es",
+    "fuentes": [
+      "https://www.coflaspalmas.es"
+    ],
+    "hora_inicio": "2026-11-22 09:00:00",
+    "hora_fin": "2026-11-23 09:00:00"
+  },
+  {
+    "id": "cof-laspalmas-4c1a1204-516b-4d9b-b82c-de22d27c02a6",
+    "nombre": "López-Puertas Garrido, Ana",
+    "direccion": "Calle León y Castillo, 111",
+    "localidad": "Las Palmas de Gran Canaria",
+    "provincia": "Las Palmas",
+    "telefono": "928245627",
+    "lat": 28.115173,
+    "lng": -15.421398,
+    "guardia": true,
+    "guardia_franja": "09:00 - 22:00",
+    "guardia_franjas": [
+      "09:00 - 22:00"
+    ],
+    "fecha_guardia": "2026-11-22",
+    "fuente": "https://www.coflaspalmas.es",
+    "fuentes": [
+      "https://www.coflaspalmas.es"
+    ],
+    "hora_inicio": "2026-11-22 09:00:00",
+    "hora_fin": "2026-11-22 22:00:00"
+  },
+  {
+    "id": "cof-laspalmas-e56ae500-461f-421a-b28d-fb25b62fdaf6",
+    "nombre": "Torres Romero, Carmen",
+    "direccion": "Calle Luis Antúnez, 39",
+    "localidad": "Las Palmas de Gran Canaria",
+    "provincia": "Las Palmas",
+    "telefono": "928241614",
+    "lat": 28.131663,
+    "lng": -15.430659,
+    "guardia": true,
+    "guardia_franja": "09:00 - 22:00",
+    "guardia_franjas": [
+      "09:00 - 22:00"
+    ],
+    "fecha_guardia": "2026-11-22",
+    "fuente": "https://www.coflaspalmas.es",
+    "fuentes": [
+      "https://www.coflaspalmas.es"
+    ],
+    "hora_inicio": "2026-11-22 09:00:00",
+    "hora_fin": "2026-11-22 22:00:00"
+  },
+  {
+    "id": "cof-laspalmas-46ab9eb7-6aff-431d-aacc-c30a3fbde4b9",
+    "nombre": "Artiles Albelda, José Luis",
+    "direccion": "Calle Henry Dunant, 23",
+    "localidad": "Las Palmas de Gran Canaria",
+    "provincia": "Las Palmas",
+    "telefono": "928255820",
+    "lat": 28.110083,
+    "lng": -15.439507,
+    "guardia": true,
+    "guardia_franja": "09:00 - 22:00",
+    "guardia_franjas": [
+      "09:00 - 22:00"
+    ],
+    "fecha_guardia": "2026-11-22",
+    "fuente": "https://www.coflaspalmas.es",
+    "fuentes": [
+      "https://www.coflaspalmas.es"
+    ],
+    "hora_inicio": "2026-11-22 09:00:00",
+    "hora_fin": "2026-11-22 22:00:00"
+  },
+  {
+    "id": "cof-laspalmas-13a450e1-ebd3-418f-84a9-72c8a0531660",
+    "nombre": "Vázquez Hurtado, Pilar Sara",
+    "direccion": "Avenida Juan Carlos I, 18",
+    "localidad": "Las Palmas de Gran Canaria",
+    "provincia": "Las Palmas",
+    "telefono": "928484077",
+    "lat": 28.116466,
+    "lng": -15.447427,
+    "guardia": true,
+    "guardia_franja": "09:00 - 22:00",
+    "guardia_franjas": [
+      "09:00 - 22:00"
+    ],
+    "fecha_guardia": "2026-11-22",
+    "fuente": "https://www.coflaspalmas.es",
+    "fuentes": [
+      "https://www.coflaspalmas.es"
+    ],
+    "hora_inicio": "2026-11-22 09:00:00",
+    "hora_fin": "2026-11-22 22:00:00"
+  },
+  {
+    "id": "cof-laspalmas-3b858fbe-bf7f-4fb6-a2ee-8d18e46075fa",
+    "nombre": "Acosta Artiles, María Pilar",
+    "direccion": "Calle Vía 8010, 9 - Bajo",
+    "localidad": "Las Palmas de Gran Canaria",
+    "provincia": "Las Palmas",
+    "telefono": "928397921",
+    "lat": 28.1119069,
+    "lng": -15.476192,
+    "guardia": true,
+    "guardia_franja": "09:00 - 22:00",
+    "guardia_franjas": [
+      "09:00 - 22:00"
+    ],
+    "fecha_guardia": "2026-11-22",
+    "fuente": "https://www.coflaspalmas.es",
+    "fuentes": [
+      "https://www.coflaspalmas.es"
+    ],
+    "hora_inicio": "2026-11-22 09:00:00",
+    "hora_fin": "2026-11-22 22:00:00"
+  },
+  {
+    "id": "cof-laspalmas-e7d25786-de4d-4472-84bc-138d69d19f35",
+    "nombre": "Delgado Tordera, Francisco",
+    "direccion": "Calle Alonso Quesada, 1 (Arguineguín)",
+    "localidad": "Mogán",
+    "provincia": "Las Palmas",
+    "telefono": "928736838",
+    "lat": 27.757788,
+    "lng": -15.681388,
+    "guardia": true,
+    "guardia_franja": "09:00 - 09:00 (+1)",
+    "guardia_franjas": [
+      "09:00 - 09:00 (+1)"
+    ],
+    "fecha_guardia": "2026-11-22",
+    "fuente": "https://www.coflaspalmas.es",
+    "fuentes": [
+      "https://www.coflaspalmas.es"
+    ],
+    "hora_inicio": "2026-11-22 09:00:00",
+    "hora_fin": "2026-11-23 09:00:00"
+  },
+  {
+    "id": "cof-laspalmas-fef92e57-82cb-4c27-8980-0ab432694be2",
+    "nombre": "Martínez Berriel, María Rosario",
+    "direccion": "Calle Miguel Hernández, 14",
+    "localidad": "Moya",
+    "provincia": "Las Palmas",
+    "telefono": "928620501",
+    "lat": 28.110455,
+    "lng": -15.582923,
+    "guardia": true,
+    "guardia_franja": "09:00 - 09:00 (+1)",
+    "guardia_franjas": [
+      "09:00 - 09:00 (+1)"
+    ],
+    "fecha_guardia": "2026-11-22",
+    "fuente": "https://www.coflaspalmas.es",
+    "fuentes": [
+      "https://www.coflaspalmas.es"
+    ],
+    "hora_inicio": "2026-11-22 09:00:00",
+    "hora_fin": "2026-11-23 09:00:00"
+  },
+  {
+    "id": "cof-laspalmas-ae576b25-2ac8-4882-bf09-2774cb50e12a",
+    "nombre": "Herrera García, María Teresa",
+    "direccion": "Montaña de La Muda, 6 - Esquinzo-Butihondo",
+    "localidad": "Pájara",
+    "provincia": "Las Palmas",
+    "telefono": "928544267",
+    "lat": 28.078413,
+    "lng": -14.300325,
+    "guardia": true,
+    "guardia_franja": "09:00 - 20:00 · 20:00 - 09:00 (+1)",
+    "guardia_franjas": [
+      "09:00 - 20:00",
+      "20:00 - 09:00 (+1)"
+    ],
+    "fecha_guardia": "2026-11-22",
+    "fuente": "https://www.coflaspalmas.es",
+    "fuentes": [
+      "https://www.coflaspalmas.es"
+    ],
+    "hora_inicio": "2026-11-22 09:00:00",
+    "hora_fin": "2026-11-22 20:00:00"
+  },
+  {
+    "id": "cof-laspalmas-e53fc70a-8c46-406f-9dd6-47924702d9b2",
+    "nombre": "González Felipe, Olga Hortensia y Márquez Rodríguez, Bruno C.B.",
+    "direccion": "Calle Primero de Mayo, 43",
+    "localidad": "Puerto del Rosario",
+    "provincia": "Las Palmas",
+    "telefono": "928531721",
+    "lat": 28.499304,
+    "lng": -13.860306,
+    "guardia": true,
+    "guardia_franja": "09:00 - 09:00 (+1)",
+    "guardia_franjas": [
+      "09:00 - 09:00 (+1)"
+    ],
+    "fecha_guardia": "2026-11-22",
+    "fuente": "https://www.coflaspalmas.es",
+    "fuentes": [
+      "https://www.coflaspalmas.es"
+    ],
+    "hora_inicio": "2026-11-22 09:00:00",
+    "hora_fin": "2026-11-23 09:00:00"
+  },
+  {
+    "id": "cof-laspalmas-2f23c527-8e66-4bb7-9f45-ddeabf84ce9e",
+    "nombre": "Poza Mendoza, Pilar",
+    "direccion": "Avenida Los Volcanes, 3",
+    "localidad": "Tinajo",
+    "provincia": "Las Palmas",
+    "telefono": "928840065",
+    "lat": 29.065748,
+    "lng": -13.677161,
+    "guardia": true,
+    "guardia_franja": "09:00 - 22:00",
+    "guardia_franjas": [
+      "09:00 - 22:00"
+    ],
+    "fecha_guardia": "2026-11-22",
+    "fuente": "https://www.coflaspalmas.es",
+    "fuentes": [
+      "https://www.coflaspalmas.es"
+    ],
+    "hora_inicio": "2026-11-22 09:00:00",
+    "hora_fin": "2026-11-22 22:00:00"
+  },
+  {
+    "id": "cof-laspalmas-5919025b-1c5f-48c6-981c-5c6296279c7f",
+    "nombre": "Sánchez Sánchez, Sebastián",
+    "direccion": "Avenida Gáldar, 44 (San Fernando)",
+    "localidad": "San Bartolomé de Tirajana",
+    "provincia": "Las Palmas",
+    "telefono": "928761498",
+    "lat": 27.767115,
+    "lng": -15.576181,
+    "guardia": true,
+    "guardia_franja": "09:00 - 09:00 (+1)",
+    "guardia_franjas": [
+      "09:00 - 09:00 (+1)"
+    ],
+    "fecha_guardia": "2026-11-22",
+    "fuente": "https://www.coflaspalmas.es",
+    "fuentes": [
+      "https://www.coflaspalmas.es"
+    ],
+    "hora_inicio": "2026-11-22 09:00:00",
+    "hora_fin": "2026-11-23 09:00:00"
+  },
+  {
+    "id": "cof-laspalmas-3e76d4ad-0e48-4e0f-b2d0-dcf34a88ce12",
+    "nombre": "Lucendo Marañés, Carlota",
+    "direccion": "Ctro. Cial. Boulevard Beach, Maspalomas, Local 118",
+    "localidad": "San Bartolomé de Tirajana",
+    "provincia": "Las Palmas",
+    "telefono": "928148352",
+    "lat": 27.7387371,
+    "lng": -15.5988324,
+    "guardia": true,
+    "guardia_franja": "09:00 - 22:00",
+    "guardia_franjas": [
+      "09:00 - 22:00"
+    ],
+    "fecha_guardia": "2026-11-22",
+    "fuente": "https://www.coflaspalmas.es",
+    "fuentes": [
+      "https://www.coflaspalmas.es"
+    ],
+    "hora_inicio": "2026-11-22 09:00:00",
+    "hora_fin": "2026-11-22 22:00:00"
+  },
+  {
+    "id": "cof-laspalmas-9deac2f1-a206-4671-a9aa-38ba326c5a7e",
+    "nombre": "Vírseda Bravo, José Manuel",
+    "direccion": "Avenida El Galeón, 6",
+    "localidad": "Santa Brígida",
+    "provincia": "Las Palmas",
+    "telefono": "928640075",
+    "lat": 28.037768,
+    "lng": -15.496569,
+    "guardia": true,
+    "guardia_franja": "09:00 - 09:00 (+1)",
+    "guardia_franjas": [
+      "09:00 - 09:00 (+1)"
+    ],
+    "fecha_guardia": "2026-11-22",
+    "fuente": "https://www.coflaspalmas.es",
+    "fuentes": [
+      "https://www.coflaspalmas.es"
+    ],
+    "hora_inicio": "2026-11-22 09:00:00",
+    "hora_fin": "2026-11-23 09:00:00"
+  },
+  {
+    "id": "cof-laspalmas-0b34aa8c-a2cc-4896-8851-554ce3b1b94c",
+    "nombre": "Martín Sánchez, Maite",
+    "direccion": "Avenida de La Unión, 109 (Vecindario)",
+    "localidad": "Santa Lucía de Tirajana",
+    "provincia": "Las Palmas",
+    "telefono": "928754789",
+    "lat": 27.850789,
+    "lng": -15.453317,
+    "guardia": true,
+    "guardia_franja": "09:00 - 09:00 (+1)",
+    "guardia_franjas": [
+      "09:00 - 09:00 (+1)"
+    ],
+    "fecha_guardia": "2026-11-22",
+    "fuente": "https://www.coflaspalmas.es",
+    "fuentes": [
+      "https://www.coflaspalmas.es"
+    ],
+    "hora_inicio": "2026-11-22 09:00:00",
+    "hora_fin": "2026-11-23 09:00:00"
+  },
+  {
+    "id": "cof-laspalmas-8836e968-088a-46e6-acc6-98778470de2b",
+    "nombre": "Martín Tenorio, Isabel y Romero Rodríguez, Ángel C.B.",
+    "direccion": "Avenida Gran Aldea, 67",
+    "localidad": "Teguise",
+    "provincia": "Las Palmas",
+    "telefono": "928845284",
+    "lat": 29.059292,
+    "lng": -13.557358,
+    "guardia": true,
+    "guardia_franja": "09:00 - 15:00 · 15:00 - 22:00",
+    "guardia_franjas": [
+      "09:00 - 15:00",
+      "15:00 - 22:00"
+    ],
+    "fecha_guardia": "2026-11-22",
+    "fuente": "https://www.coflaspalmas.es",
+    "fuentes": [
+      "https://www.coflaspalmas.es"
+    ],
+    "hora_inicio": "2026-11-22 09:00:00",
+    "hora_fin": "2026-11-22 15:00:00"
+  },
+  {
+    "id": "cof-laspalmas-01da248a-33c6-4b65-b106-99b139eca3fd",
+    "nombre": "San Andrés Padrón, Guillermo",
+    "direccion": "Luis Morote, 9 (Melenara)",
+    "localidad": "Telde",
+    "provincia": "Las Palmas",
+    "telefono": "928132361",
+    "lat": 27.9889355,
+    "lng": -15.3768655,
+    "guardia": true,
+    "guardia_franja": "09:00 - 09:00 (+1)",
+    "guardia_franjas": [
+      "09:00 - 09:00 (+1)"
+    ],
+    "fecha_guardia": "2026-11-22",
+    "fuente": "https://www.coflaspalmas.es",
+    "fuentes": [
+      "https://www.coflaspalmas.es"
+    ],
+    "hora_inicio": "2026-11-22 09:00:00",
+    "hora_fin": "2026-11-23 09:00:00"
+  },
+  {
+    "id": "cof-laspalmas-5019bab3-29e2-43a0-a0a2-7f1eb2db9951",
+    "nombre": "Melián Santana, Lorena Davinia",
+    "direccion": "Callejón del Castillo, 153 (Calero Alto)",
+    "localidad": "Telde",
+    "provincia": "Las Palmas",
+    "telefono": "928694006",
+    "lat": 27.998706,
+    "lng": -15.404574,
+    "guardia": true,
+    "guardia_franja": "09:00 - 22:00",
+    "guardia_franjas": [
+      "09:00 - 22:00"
+    ],
+    "fecha_guardia": "2026-11-22",
+    "fuente": "https://www.coflaspalmas.es",
+    "fuentes": [
+      "https://www.coflaspalmas.es"
+    ],
+    "hora_inicio": "2026-11-22 09:00:00",
+    "hora_fin": "2026-11-22 22:00:00"
+  },
+  {
+    "id": "cof-laspalmas-a2d4e462-89ce-470f-af3c-f3120f482e39",
+    "nombre": "Rodríguez Medina, María Elba",
+    "direccion": "José Miranda Guerra, 4",
+    "localidad": "Teror",
+    "provincia": "Las Palmas",
+    "telefono": "928630016",
+    "lat": 28.059254,
+    "lng": -15.545416,
+    "guardia": true,
+    "guardia_franja": "09:00 - 09:00 (+1)",
+    "guardia_franjas": [
+      "09:00 - 09:00 (+1)"
+    ],
+    "fecha_guardia": "2026-11-22",
+    "fuente": "https://www.coflaspalmas.es",
+    "fuentes": [
+      "https://www.coflaspalmas.es"
+    ],
+    "hora_inicio": "2026-11-22 09:00:00",
+    "hora_fin": "2026-11-23 09:00:00"
+  },
+  {
+    "id": "cof-laspalmas-4ab3d30d-41f2-4a87-ac7e-527010469d29",
+    "nombre": "Salas Nuez, María del Rosario",
+    "direccion": "Avenida Las Playas, 1  - Puerto del Carmen",
+    "localidad": "Tías",
+    "provincia": "Las Palmas",
+    "telefono": "928515588",
+    "lat": 28.921369,
+    "lng": -13.666507,
+    "guardia": true,
+    "guardia_franja": "09:00 - 09:00 (+1)",
+    "guardia_franjas": [
+      "09:00 - 09:00 (+1)"
+    ],
+    "fecha_guardia": "2026-11-22",
+    "fuente": "https://www.coflaspalmas.es",
+    "fuentes": [
+      "https://www.coflaspalmas.es"
+    ],
+    "hora_inicio": "2026-11-22 09:00:00",
+    "hora_fin": "2026-11-23 09:00:00"
+  },
+  {
+    "id": "cof-laspalmas-960311da-6a85-40eb-83f3-54604abcd691",
+    "nombre": "Martín Balmes, Rosario Olga y Rodríguez Martín, Iván Luis C.B.",
+    "direccion": "Calle Atis Tirma, 11 (Gran Tarajal)",
+    "localidad": "Tuineje",
+    "provincia": "Las Palmas",
+    "telefono": "928870839",
+    "lat": 28.2122905,
+    "lng": -14.0201655,
+    "guardia": true,
+    "guardia_franja": "09:00 - 09:00 (+1)",
+    "guardia_franjas": [
+      "09:00 - 09:00 (+1)"
+    ],
+    "fecha_guardia": "2026-11-22",
+    "fuente": "https://www.coflaspalmas.es",
+    "fuentes": [
+      "https://www.coflaspalmas.es"
+    ],
+    "hora_inicio": "2026-11-22 09:00:00",
+    "hora_fin": "2026-11-23 09:00:00"
+  },
+  {
+    "id": "cof-laspalmas-2e9e970e-e99a-4a54-8895-f29cabf2ab9b",
+    "nombre": "Llagostera Ollé, María Candela",
+    "direccion": "Calle León y Castillo, 22",
+    "localidad": "Valleseco",
+    "provincia": "Las Palmas",
+    "telefono": "928618029",
+    "lat": 28.049843,
+    "lng": -15.574601,
+    "guardia": true,
+    "guardia_franja": "09:00 - 09:00 (+1)",
+    "guardia_franjas": [
+      "09:00 - 09:00 (+1)"
+    ],
+    "fecha_guardia": "2026-11-22",
+    "fuente": "https://www.coflaspalmas.es",
+    "fuentes": [
+      "https://www.coflaspalmas.es"
+    ],
+    "hora_inicio": "2026-11-22 09:00:00",
+    "hora_fin": "2026-11-23 09:00:00"
+  },
+  {
+    "id": "cof-laspalmas-0da6156e-96dd-4613-8de9-6ac403aea73c",
+    "nombre": "Paul Piat, Louis y Maíz Gregores, Helena C.B.",
+    "direccion": "Avenida de Los Almendros, 18 (La Barrera)",
+    "localidad": "Valsequillo",
+    "provincia": "Las Palmas",
+    "telefono": "928570012",
+    "lat": 27.9948213,
+    "lng": -15.4691769,
+    "guardia": true,
+    "guardia_franja": "09:00 - 09:00 (+1)",
+    "guardia_franjas": [
+      "09:00 - 09:00 (+1)"
+    ],
+    "fecha_guardia": "2026-11-22",
+    "fuente": "https://www.coflaspalmas.es",
+    "fuentes": [
+      "https://www.coflaspalmas.es"
+    ],
+    "hora_inicio": "2026-11-22 09:00:00",
+    "hora_fin": "2026-11-23 09:00:00"
+  },
+  {
+    "id": "cof-laspalmas-a8739a7e-0a50-4d7b-a650-12f27d269534",
+    "nombre": "Ojeda del Pino, María de los Ángeles",
+    "direccion": "Calle Cifuentes, 8",
+    "localidad": "Vega de San Mateo",
+    "provincia": "Las Palmas",
+    "telefono": "928661480",
+    "lat": 28.009767,
+    "lng": -15.533806,
+    "guardia": true,
+    "guardia_franja": "09:00 - 09:00 (+1)",
+    "guardia_franjas": [
+      "09:00 - 09:00 (+1)"
+    ],
+    "fecha_guardia": "2026-11-22",
+    "fuente": "https://www.coflaspalmas.es",
+    "fuentes": [
+      "https://www.coflaspalmas.es"
+    ],
+    "hora_inicio": "2026-11-22 09:00:00",
+    "hora_fin": "2026-11-23 09:00:00"
+  }
+]

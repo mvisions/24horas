@@ -1,0 +1,964 @@
+[
+  {
+    "id": "cof-guadalajara-GU-1095-F",
+    "nombre": "Mª JESÚS FERNÁNDEZ HERNÁNDEZ",
+    "direccion": "CALLE TRAVESÍA, 8",
+    "localidad": "Anguita",
+    "sector": "",
+    "provincia": "Guadalajara",
+    "telefono": "949304553",
+    "telefonos_adicionales": [
+      "610364392"
+    ],
+    "zona": "ALCOLEA DEL PINAR",
+    "localidades_atendidas": [
+      "Anguita"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-07",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-07T00:00:00",
+        "fin": "2026-11-07T10:00:00",
+        "inicio_original": "2026-11-06T10:00:00",
+        "fin_original": "2026-11-07T10:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "06/11/2026 10:00–07/11/2026 10:00"
+    ],
+    "lat": 41.026867,
+    "lng": -2.368216,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "06/11/2026 10:00–07/11/2026 10:00"
+  },
+  {
+    "id": "cof-guadalajara-GU-1082-F",
+    "nombre": "EVELIA HERREROS ZORITA",
+    "direccion": "CALLE DEL CURA, 32",
+    "localidad": "Aranzueque",
+    "sector": "",
+    "provincia": "Guadalajara",
+    "telefono": "949292337",
+    "telefonos_adicionales": [
+      "677388304"
+    ],
+    "zona": "HORCHE",
+    "localidades_atendidas": [
+      "Aranzueque"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-07",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-07T00:00:00",
+        "fin": "2026-11-07T10:00:00",
+        "inicio_original": "2026-11-06T10:00:00",
+        "fin_original": "2026-11-07T10:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "06/11/2026 10:00–07/11/2026 10:00"
+    ],
+    "lat": 40.4930723,
+    "lng": -3.0779579,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "06/11/2026 10:00–07/11/2026 10:00"
+  },
+  {
+    "id": "cof-guadalajara-GU-2048-F",
+    "nombre": "ANA MARÍA GUILLÉN TORREGROSA",
+    "direccion": "PLAZA DE ESPAÑA, 11",
+    "localidad": "Atienza",
+    "sector": "",
+    "provincia": "Guadalajara",
+    "telefono": "949399012",
+    "telefonos_adicionales": [
+      "605030011"
+    ],
+    "zona": "ATIENZA",
+    "localidades_atendidas": [
+      "Atienza"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-07",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-07T00:00:00",
+        "fin": "2026-11-07T10:00:00",
+        "inicio_original": "2026-11-06T10:00:00",
+        "fin_original": "2026-11-07T10:00:00"
+      },
+      {
+        "inicio": "2026-11-07T10:00:00",
+        "fin": "2026-11-08T00:00:00",
+        "inicio_original": "2026-11-07T10:00:00",
+        "fin_original": "2026-11-08T10:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "06/11/2026 10:00–07/11/2026 10:00",
+      "07/11/2026 10:00–08/11/2026 10:00"
+    ],
+    "lat": 41.19991,
+    "lng": -2.87105,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "06/11/2026 10:00–07/11/2026 10:00 · 07/11/2026 10:00–08/11/2026 10:00"
+  },
+  {
+    "id": "cof-guadalajara-GU-1118-F",
+    "nombre": "JAVIER ELÍCEGUI ORTIZ",
+    "direccion": "CALLE TRINIDAD TORTUERO, 1",
+    "localidad": "Azuqueca De Henares",
+    "sector": "",
+    "provincia": "Guadalajara",
+    "telefono": "949255362",
+    "telefonos_adicionales": [
+      "607238106"
+    ],
+    "zona": "AZUQUECA DE HENARES",
+    "localidades_atendidas": [
+      "Azuqueca De Henares"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-07",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-07T00:00:00",
+        "fin": "2026-11-07T09:00:00",
+        "inicio_original": "2026-11-06T21:00:00",
+        "fin_original": "2026-11-07T09:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "06/11/2026 21:00–07/11/2026 09:00"
+    ],
+    "lat": 40.5688572,
+    "lng": -3.2644609,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "06/11/2026 21:00–07/11/2026 09:00"
+  },
+  {
+    "id": "cof-guadalajara-GU-0153-F",
+    "nombre": "MARÍA DEL PILAR PALACIOS SÁNCHEZ",
+    "direccion": "AVENIDA DE LA INDUSTRIA, 6",
+    "localidad": "Azuqueca De Henares",
+    "sector": "",
+    "provincia": "Guadalajara",
+    "telefono": "949224070",
+    "telefonos_adicionales": [],
+    "zona": "AZUQUECA DE HENARES",
+    "localidades_atendidas": [
+      "Azuqueca De Henares"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-07",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-07T09:00:00",
+        "fin": "2026-11-07T21:00:00",
+        "inicio_original": "2026-11-07T09:00:00",
+        "fin_original": "2026-11-07T21:00:00"
+      },
+      {
+        "inicio": "2026-11-07T21:00:00",
+        "fin": "2026-11-08T00:00:00",
+        "inicio_original": "2026-11-07T21:00:00",
+        "fin_original": "2026-11-08T09:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "07/11/2026 09:00–07/11/2026 21:00",
+      "07/11/2026 21:00–08/11/2026 09:00"
+    ],
+    "lat": 40.5683808,
+    "lng": -3.2627134,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "07/11/2026 09:00–07/11/2026 21:00 · 07/11/2026 21:00–08/11/2026 09:00"
+  },
+  {
+    "id": "cof-guadalajara-GU-0158-F",
+    "nombre": "MARTA GIL GIL",
+    "direccion": "AVENIDA LOS ALMENDROS, 6",
+    "localidad": "Cabanillas Del Campo",
+    "sector": "",
+    "provincia": "Guadalajara",
+    "telefono": "679853424",
+    "telefonos_adicionales": [
+      "949221816"
+    ],
+    "zona": "CABANILLAS DEL CAMPO",
+    "localidades_atendidas": [
+      "Cabanillas Del Campo"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-07",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-07T00:00:00",
+        "fin": "2026-11-07T09:15:00",
+        "inicio_original": "2026-11-06T21:15:00",
+        "fin_original": "2026-11-07T09:15:00"
+      },
+      {
+        "inicio": "2026-11-07T09:15:00",
+        "fin": "2026-11-07T21:15:00",
+        "inicio_original": "2026-11-07T09:15:00",
+        "fin_original": "2026-11-07T21:15:00"
+      },
+      {
+        "inicio": "2026-11-07T21:15:00",
+        "fin": "2026-11-08T00:00:00",
+        "inicio_original": "2026-11-07T21:15:00",
+        "fin_original": "2026-11-08T09:15:00"
+      }
+    ],
+    "guardia_franjas": [
+      "06/11/2026 21:15–07/11/2026 09:15",
+      "07/11/2026 09:15–07/11/2026 21:15",
+      "07/11/2026 21:15–08/11/2026 09:15"
+    ],
+    "lat": 40.6435549,
+    "lng": -3.2318037,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "06/11/2026 21:15–07/11/2026 09:15 · 07/11/2026 09:15–07/11/2026 21:15 · 07/11/2026 21:15–08/11/2026 09:15"
+  },
+  {
+    "id": "cof-guadalajara-GU-2112-F",
+    "nombre": "MARÍA PEREA GARCÍA",
+    "direccion": "CALLE VIRGEN DE LAS ANGUSTIAS, 5",
+    "localidad": "Escariche",
+    "sector": "",
+    "provincia": "Guadalajara",
+    "telefono": "949379101",
+    "telefonos_adicionales": [
+      "623949455"
+    ],
+    "zona": "PASTRANA",
+    "localidades_atendidas": [
+      "Escariche"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-07",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-07T10:00:00",
+        "fin": "2026-11-08T00:00:00",
+        "inicio_original": "2026-11-07T10:00:00",
+        "fin_original": "2026-11-08T10:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "07/11/2026 10:00–08/11/2026 10:00"
+    ],
+    "lat": 40.4078599,
+    "lng": -3.0565169,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "07/11/2026 10:00–08/11/2026 10:00"
+  },
+  {
+    "id": "cof-guadalajara-GU-1088-F",
+    "nombre": "GEMA HERRANZ RUIZ",
+    "direccion": "CALLE JOSÉ Mª BRIS, 2",
+    "localidad": "Espinosa De Henares",
+    "sector": "",
+    "provincia": "Guadalajara",
+    "telefono": "949858663",
+    "telefonos_adicionales": [],
+    "zona": "YUNQUERA - JADRAQUE",
+    "localidades_atendidas": [
+      "Espinosa De Henares"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-07",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-07T00:00:00",
+        "fin": "2026-11-07T10:00:00",
+        "inicio_original": "2026-11-06T10:00:00",
+        "fin_original": "2026-11-07T10:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "06/11/2026 10:00–07/11/2026 10:00"
+    ],
+    "lat": 40.9049276,
+    "lng": -3.0747779,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "06/11/2026 10:00–07/11/2026 10:00"
+  },
+  {
+    "id": "cof-guadalajara-GU-1149-F",
+    "nombre": "BEGOÑA RUIZ DOMÍNGUEZ",
+    "direccion": "CALLE HUMANES DE MOHERNANDO, 10",
+    "localidad": "Guadalajara",
+    "sector": "",
+    "provincia": "Guadalajara",
+    "telefono": "949222032",
+    "telefonos_adicionales": [
+      "651008112"
+    ],
+    "zona": "GUADALAJARA",
+    "localidades_atendidas": [
+      "Guadalajara"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-07",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-07T21:15:00",
+        "fin": "2026-11-08T00:00:00",
+        "inicio_original": "2026-11-07T21:15:00",
+        "fin_original": "2026-11-08T09:15:00"
+      }
+    ],
+    "guardia_franjas": [
+      "07/11/2026 21:15–08/11/2026 09:15"
+    ],
+    "lat": 40.624746,
+    "lng": -3.156735,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "07/11/2026 21:15–08/11/2026 09:15"
+  },
+  {
+    "id": "cof-guadalajara-GU-0056-F",
+    "nombre": "ESPERANZA GIMENEZ ARTIEDA",
+    "direccion": "CALLE FERIAL, 64",
+    "localidad": "Guadalajara",
+    "sector": "",
+    "provincia": "Guadalajara",
+    "telefono": "949221099",
+    "telefonos_adicionales": [
+      "649735890"
+    ],
+    "zona": "GUADALAJARA",
+    "localidades_atendidas": [
+      "Guadalajara"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-07",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-07T09:15:00",
+        "fin": "2026-11-07T21:15:00",
+        "inicio_original": "2026-11-07T09:15:00",
+        "fin_original": "2026-11-07T21:15:00"
+      }
+    ],
+    "guardia_franjas": [
+      "07/11/2026 09:15–07/11/2026 21:15"
+    ],
+    "lat": 40.6250359,
+    "lng": -3.1589294,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "07/11/2026 09:15–07/11/2026 21:15"
+  },
+  {
+    "id": "cof-guadalajara-GU-1071-F",
+    "nombre": "FRANCISCO J. RODRÍGUEZ ARRANZ",
+    "direccion": "CALLE ISABELA, 14",
+    "localidad": "Guadalajara",
+    "sector": "",
+    "provincia": "Guadalajara",
+    "telefono": "949201993",
+    "telefonos_adicionales": [
+      "646809764"
+    ],
+    "zona": "GUADALAJARA",
+    "localidades_atendidas": [
+      "Guadalajara"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-07",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-07T00:00:00",
+        "fin": "2026-11-07T09:15:00",
+        "inicio_original": "2026-11-06T21:15:00",
+        "fin_original": "2026-11-07T09:15:00"
+      }
+    ],
+    "guardia_franjas": [
+      "06/11/2026 21:15–07/11/2026 09:15"
+    ],
+    "lat": 40.6324948,
+    "lng": -3.1920928,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "06/11/2026 21:15–07/11/2026 09:15"
+  },
+  {
+    "id": "cof-guadalajara-GU-2143-F",
+    "nombre": "INÉS DE LUZ PONTÓN",
+    "direccion": "AVENIDA EDUARDO GUITIÁN, 13-19",
+    "localidad": "Guadalajara",
+    "sector": "",
+    "provincia": "Guadalajara",
+    "telefono": "949315702",
+    "telefonos_adicionales": [],
+    "zona": "GUADALAJARA",
+    "localidades_atendidas": [
+      "Guadalajara"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-07",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-07T09:15:00",
+        "fin": "2026-11-07T21:15:00",
+        "inicio_original": "2026-11-07T09:15:00",
+        "fin_original": "2026-11-07T21:15:00"
+      }
+    ],
+    "guardia_franjas": [
+      "07/11/2026 09:15–07/11/2026 21:15"
+    ],
+    "lat": 40.6234486,
+    "lng": -3.1671414,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "07/11/2026 09:15–07/11/2026 21:15"
+  },
+  {
+    "id": "cof-guadalajara-GU-1015-F",
+    "nombre": "ANA DORADO BRIS",
+    "direccion": "PASEO DE LA ESTACIÓN, 2",
+    "localidad": "Jadraque",
+    "sector": "",
+    "provincia": "Guadalajara",
+    "telefono": "949890054",
+    "telefonos_adicionales": [
+      "659464610"
+    ],
+    "zona": "YUNQUERA - JADRAQUE",
+    "localidades_atendidas": [
+      "Jadraque"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-07",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-07T10:00:00",
+        "fin": "2026-11-08T00:00:00",
+        "inicio_original": "2026-11-07T10:00:00",
+        "fin_original": "2026-11-08T10:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "07/11/2026 10:00–08/11/2026 10:00"
+    ],
+    "lat": 40.9266864,
+    "lng": -2.9283679,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "07/11/2026 10:00–08/11/2026 10:00"
+  },
+  {
+    "id": "cof-guadalajara-GU-1027-F",
+    "nombre": "MIGUEL ÁNGEL GARCÍA GAY",
+    "direccion": "CALLE ALAMEDA, 13",
+    "localidad": "Marchamalo",
+    "sector": "",
+    "provincia": "Guadalajara",
+    "telefono": "949250885",
+    "telefonos_adicionales": [
+      "679245189"
+    ],
+    "zona": "MARCHAMALO",
+    "localidades_atendidas": [
+      "Marchamalo"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-07",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-07T00:00:00",
+        "fin": "2026-11-07T09:30:00",
+        "inicio_original": "2026-11-06T09:30:00",
+        "fin_original": "2026-11-07T09:30:00"
+      },
+      {
+        "inicio": "2026-11-07T09:30:00",
+        "fin": "2026-11-08T00:00:00",
+        "inicio_original": "2026-11-07T09:30:00",
+        "fin_original": "2026-11-08T09:30:00"
+      }
+    ],
+    "guardia_franjas": [
+      "06/11/2026 09:30–07/11/2026 09:30",
+      "07/11/2026 09:30–08/11/2026 09:30"
+    ],
+    "lat": 40.668632,
+    "lng": -3.201168,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "06/11/2026 09:30–07/11/2026 09:30 · 07/11/2026 09:30–08/11/2026 09:30"
+  },
+  {
+    "id": "cof-guadalajara-GU-0087-F",
+    "nombre": "Mª PAZ GARCÍA GARCÍA",
+    "direccion": "CALLE ROSARIO S/N",
+    "localidad": "Mazuecos",
+    "sector": "",
+    "provincia": "Guadalajara",
+    "telefono": "949389082",
+    "telefonos_adicionales": [
+      "679959133"
+    ],
+    "zona": "MONDEJAR",
+    "localidades_atendidas": [
+      "Mazuecos"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-07",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-07T00:00:00",
+        "fin": "2026-11-07T10:00:00",
+        "inicio_original": "2026-11-06T10:00:00",
+        "fin_original": "2026-11-07T10:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "06/11/2026 10:00–07/11/2026 10:00"
+    ],
+    "lat": 40.261934,
+    "lng": -3.00902,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "06/11/2026 10:00–07/11/2026 10:00"
+  },
+  {
+    "id": "cof-guadalajara-GU-1109-F",
+    "nombre": "MARIANO GARCÍA SAGRADO",
+    "direccion": "CALLE LAS TIENDAS, 67",
+    "localidad": "Molina De Aragón",
+    "sector": "",
+    "provincia": "Guadalajara",
+    "telefono": "949830428",
+    "telefonos_adicionales": [
+      "600461293"
+    ],
+    "zona": "MOLINA DE ARAGÓN",
+    "localidades_atendidas": [
+      "Molina De Aragón"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-07",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-07T00:00:00",
+        "fin": "2026-11-07T10:00:00",
+        "inicio_original": "2026-11-06T10:00:00",
+        "fin_original": "2026-11-07T10:00:00"
+      },
+      {
+        "inicio": "2026-11-07T10:00:00",
+        "fin": "2026-11-08T00:00:00",
+        "inicio_original": "2026-11-07T10:00:00",
+        "fin_original": "2026-11-08T10:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "06/11/2026 10:00–07/11/2026 10:00",
+      "07/11/2026 10:00–08/11/2026 10:00"
+    ],
+    "lat": 40.8434172,
+    "lng": -1.8854796,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "06/11/2026 10:00–07/11/2026 10:00 · 07/11/2026 10:00–08/11/2026 10:00"
+  },
+  {
+    "id": "cof-guadalajara-GU-1028-F",
+    "nombre": "JULIA Mª DEL CASTILLO ABANADES",
+    "direccion": "PLAZA MAYOR S/N",
+    "localidad": "Sacecorbo",
+    "sector": "",
+    "provincia": "Guadalajara",
+    "telefono": "949814013",
+    "telefonos_adicionales": [
+      "686290177"
+    ],
+    "zona": "CIFUENTES",
+    "localidades_atendidas": [
+      "Sacecorbo"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-07",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-07T00:00:00",
+        "fin": "2026-11-07T10:00:00",
+        "inicio_original": "2026-11-06T10:00:00",
+        "fin_original": "2026-11-07T10:00:00"
+      },
+      {
+        "inicio": "2026-11-07T10:00:00",
+        "fin": "2026-11-08T00:00:00",
+        "inicio_original": "2026-11-07T10:00:00",
+        "fin_original": "2026-11-08T10:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "06/11/2026 10:00–07/11/2026 10:00",
+      "07/11/2026 10:00–08/11/2026 10:00"
+    ],
+    "lat": 40.832612,
+    "lng": -2.416981,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "06/11/2026 10:00–07/11/2026 10:00 · 07/11/2026 10:00–08/11/2026 10:00"
+  },
+  {
+    "id": "cof-guadalajara-GU-0026-F",
+    "nombre": "JOSÉ LUIS SOTILLO MEMBIBRE",
+    "direccion": "CALLE ÚNICA, S/N",
+    "localidad": "Saelices De La Sal",
+    "sector": "",
+    "provincia": "Guadalajara",
+    "telefono": "949304123",
+    "telefonos_adicionales": [
+      "669581457"
+    ],
+    "zona": "ALCOLEA DEL PINAR",
+    "localidades_atendidas": [
+      "Saelices De La Sal"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-07",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-07T10:00:00",
+        "fin": "2026-11-08T00:00:00",
+        "inicio_original": "2026-11-07T10:00:00",
+        "fin_original": "2026-11-08T10:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "07/11/2026 10:00–08/11/2026 10:00"
+    ],
+    "lat": 40.906102,
+    "lng": -2.324595,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "07/11/2026 10:00–08/11/2026 10:00"
+  },
+  {
+    "id": "cof-guadalajara-GU-2042-F",
+    "nombre": "RICARDO ASENSI MORENO",
+    "direccion": "CALLE DEL ARCO, 3",
+    "localidad": "Salmerón",
+    "sector": "",
+    "provincia": "Guadalajara",
+    "telefono": "620745636",
+    "telefonos_adicionales": [
+      "949254775"
+    ],
+    "zona": "SACEDÓN",
+    "localidades_atendidas": [
+      "Salmerón"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-07",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-07T00:00:00",
+        "fin": "2026-11-07T10:00:00",
+        "inicio_original": "2026-11-06T10:00:00",
+        "fin_original": "2026-11-07T10:00:00"
+      },
+      {
+        "inicio": "2026-11-07T10:00:00",
+        "fin": "2026-11-08T00:00:00",
+        "inicio_original": "2026-11-07T10:00:00",
+        "fin_original": "2026-11-08T10:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "06/11/2026 10:00–07/11/2026 10:00",
+      "07/11/2026 10:00–08/11/2026 10:00"
+    ],
+    "lat": 40.5451013,
+    "lng": -2.4944279,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "06/11/2026 10:00–07/11/2026 10:00 · 07/11/2026 10:00–08/11/2026 10:00"
+  },
+  {
+    "id": "cof-guadalajara-GU-3069-F",
+    "nombre": "ELENA MARCOS BENEDI",
+    "direccion": "Avenida PIO XII, 2",
+    "localidad": "Sigüenza",
+    "sector": "",
+    "provincia": "Guadalajara",
+    "telefono": "949390798",
+    "telefonos_adicionales": [
+      "639731068"
+    ],
+    "zona": "SIGÜENZA",
+    "localidades_atendidas": [
+      "Sigüenza"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-07",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-07T00:00:00",
+        "fin": "2026-11-07T10:00:00",
+        "inicio_original": "2026-11-06T10:00:00",
+        "fin_original": "2026-11-07T10:00:00"
+      },
+      {
+        "inicio": "2026-11-07T10:00:00",
+        "fin": "2026-11-08T00:00:00",
+        "inicio_original": "2026-11-07T10:00:00",
+        "fin_original": "2026-11-08T10:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "06/11/2026 10:00–07/11/2026 10:00",
+      "07/11/2026 10:00–08/11/2026 10:00"
+    ],
+    "lat": 41.0688165,
+    "lng": -2.6443095,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "06/11/2026 10:00–07/11/2026 10:00 · 07/11/2026 10:00–08/11/2026 10:00"
+  },
+  {
+    "id": "cof-guadalajara-GU-0089-F",
+    "nombre": "Mª DOLORES PÉREZ TORRALBA",
+    "direccion": "CALLE NORTE, 2",
+    "localidad": "Uceda",
+    "sector": "",
+    "provincia": "Guadalajara",
+    "telefono": "949856096",
+    "telefonos_adicionales": [
+      "629043232"
+    ],
+    "zona": "EL CASAR",
+    "localidades_atendidas": [
+      "Uceda"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-07",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-07T21:00:00",
+        "fin": "2026-11-08T00:00:00",
+        "inicio_original": "2026-11-07T21:00:00",
+        "fin_original": "2026-11-08T09:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "07/11/2026 21:00–08/11/2026 09:00"
+    ],
+    "lat": 40.843903,
+    "lng": -3.464942,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "07/11/2026 21:00–08/11/2026 09:00"
+  },
+  {
+    "id": "cof-guadalajara-GU-1092-F",
+    "nombre": "MARÍA ESTHER FONSECA GONZÁLEZ",
+    "direccion": "CALLE DEL OLMO S/N",
+    "localidad": "Urb. Caraquiz (Uceda)",
+    "sector": "",
+    "provincia": "Guadalajara",
+    "telefono": "949857943",
+    "telefonos_adicionales": [
+      "629252035"
+    ],
+    "zona": "EL CASAR",
+    "localidades_atendidas": [
+      "Urb. Caraquiz (Uceda)"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-07",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-07T00:00:00",
+        "fin": "2026-11-07T09:00:00",
+        "inicio_original": "2026-11-06T21:00:00",
+        "fin_original": "2026-11-07T09:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "06/11/2026 21:00–07/11/2026 09:00"
+    ],
+    "lat": 40.78798865,
+    "lng": -3.48977735,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "06/11/2026 21:00–07/11/2026 09:00"
+  },
+  {
+    "id": "cof-guadalajara-GU-1041-F",
+    "nombre": "SANTIAGO CORTÉS MÉNDEZ",
+    "direccion": "Avenida DEL SAUCE, 200",
+    "localidad": "Urb. La Beltraneja Trijueque",
+    "sector": "",
+    "provincia": "Guadalajara",
+    "telefono": "949321044",
+    "telefonos_adicionales": [
+      "645761686"
+    ],
+    "zona": "BRIHUEGA",
+    "localidades_atendidas": [
+      "Urb. La Beltraneja Trijueque"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-07",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-07T00:00:00",
+        "fin": "2026-11-07T10:00:00",
+        "inicio_original": "2026-11-06T10:00:00",
+        "fin_original": "2026-11-07T10:00:00"
+      },
+      {
+        "inicio": "2026-11-07T10:00:00",
+        "fin": "2026-11-08T00:00:00",
+        "inicio_original": "2026-11-07T10:00:00",
+        "fin_original": "2026-11-08T10:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "06/11/2026 10:00–07/11/2026 10:00",
+      "07/11/2026 10:00–08/11/2026 10:00"
+    ],
+    "lat": 40.7908712,
+    "lng": -2.9547155,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "06/11/2026 10:00–07/11/2026 10:00 · 07/11/2026 10:00–08/11/2026 10:00"
+  },
+  {
+    "id": "cof-guadalajara-GU-3135-F",
+    "nombre": "CLAUDIA CAMINO FRIAS",
+    "direccion": "CRT. FUENTELSAZ KM 8 LOCAL 4",
+    "localidad": "Urb. Los Arenales (El Casar)",
+    "sector": "",
+    "provincia": "Guadalajara",
+    "telefono": "949326602",
+    "telefonos_adicionales": [],
+    "zona": "EL CASAR",
+    "localidades_atendidas": [
+      "Urb. Los Arenales (El Casar)"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-07",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-07T09:00:00",
+        "fin": "2026-11-07T21:00:00",
+        "inicio_original": "2026-11-07T09:00:00",
+        "fin_original": "2026-11-07T21:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "07/11/2026 09:00–07/11/2026 21:00"
+    ],
+    "lat": 40.6929334,
+    "lng": -3.4580269,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "07/11/2026 09:00–07/11/2026 21:00"
+  },
+  {
+    "id": "cof-guadalajara-GU-0157-F",
+    "nombre": "Mª DEL CARMEN ADÁN OLIVER",
+    "direccion": "Calle ENCINA, 4",
+    "localidad": "Valdeluz",
+    "sector": "",
+    "provincia": "Guadalajara",
+    "telefono": "630027453",
+    "telefonos_adicionales": [
+      "619427188"
+    ],
+    "zona": "HORCHE",
+    "localidades_atendidas": [
+      "Valdeluz"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-07",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-07T10:00:00",
+        "fin": "2026-11-08T00:00:00",
+        "inicio_original": "2026-11-07T10:00:00",
+        "fin_original": "2026-11-08T10:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "07/11/2026 10:00–08/11/2026 10:00"
+    ],
+    "lat": 40.5922965,
+    "lng": -3.1062161,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "07/11/2026 10:00–08/11/2026 10:00"
+  }
+]

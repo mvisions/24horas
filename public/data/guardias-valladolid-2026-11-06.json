@@ -1,0 +1,595 @@
+[
+  {
+    "id": "cof-valladolid-guardia-296",
+    "nombre": "",
+    "direccion": "Calle Manuel Azaña , 22",
+    "localidad": "Valladolid",
+    "sector": "PARQUESOL",
+    "provincia": "Valladolid",
+    "telefono": "983338144",
+    "guardia": true,
+    "fecha_guardia": "2026-11-06",
+    "guardia_franjas": [
+      "Diurna capital: laborables 09:30–22:00; sábados, domingos y festivos 10:00–22:00",
+      "Nocturna capital: 22:00–09:30; sábados, domingos y festivos hasta 10:00 del día siguiente"
+    ],
+    "localidades_atendidas": [
+      "Valladolid"
+    ],
+    "lat": 41.6366,
+    "lng": -4.7684,
+    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "guardia_franja": "Diurna capital: laborables 09:30–22:00; sábados, domingos y festivos 10:00–22:00 · Nocturna capital: 22:00–09:30; sábados, domingos y festivos hasta 10:00 del día siguiente"
+  },
+  {
+    "id": "cof-valladolid-guardia-145",
+    "nombre": "",
+    "direccion": "Calle Santiago, 19 - 21 , 19",
+    "localidad": "Valladolid",
+    "sector": "CENTRO-GAMAZO",
+    "provincia": "Valladolid",
+    "telefono": "983352082",
+    "guardia": true,
+    "fecha_guardia": "2026-11-06",
+    "guardia_franjas": [
+      "Diurna capital: laborables 09:30–22:00; sábados, domingos y festivos 10:00–22:00"
+    ],
+    "localidades_atendidas": [
+      "Valladolid"
+    ],
+    "lat": 41.6497,
+    "lng": -4.7291,
+    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "guardia_franja": "Diurna capital: laborables 09:30–22:00; sábados, domingos y festivos 10:00–22:00"
+  },
+  {
+    "id": "cof-valladolid-guardia-182",
+    "nombre": "",
+    "direccion": "Calle Trabajo , 8",
+    "localidad": "Valladolid",
+    "sector": "CANTERAC",
+    "provincia": "Valladolid",
+    "telefono": "983298305",
+    "guardia": true,
+    "fecha_guardia": "2026-11-06",
+    "guardia_franjas": [
+      "Diurna capital: laborables 09:30–22:00; sábados, domingos y festivos 10:00–22:00"
+    ],
+    "localidades_atendidas": [
+      "Valladolid"
+    ],
+    "lat": 41.6421,
+    "lng": -4.7205,
+    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "guardia_franja": "Diurna capital: laborables 09:30–22:00; sábados, domingos y festivos 10:00–22:00"
+  },
+  {
+    "id": "cof-valladolid-guardia-68",
+    "nombre": "",
+    "direccion": "Paseo de Zorrilla , 5",
+    "localidad": "Valladolid",
+    "sector": "CAMPO GRANDE",
+    "provincia": "Valladolid",
+    "telefono": "983232828",
+    "guardia": true,
+    "fecha_guardia": "2026-11-06",
+    "guardia_franjas": [
+      "Diurna capital: laborables 09:30–22:00; sábados, domingos y festivos 10:00–22:00"
+    ],
+    "localidades_atendidas": [
+      "Valladolid"
+    ],
+    "lat": 41.6434,
+    "lng": -4.7352,
+    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "guardia_franja": "Diurna capital: laborables 09:30–22:00; sábados, domingos y festivos 10:00–22:00"
+  },
+  {
+    "id": "cof-valladolid-guardia-195",
+    "nombre": "",
+    "direccion": "Calle Tórtola , 15",
+    "localidad": "Valladolid",
+    "sector": "SAN ISIDRO-PAJARILLOS",
+    "provincia": "Valladolid",
+    "telefono": "670621199",
+    "guardia": true,
+    "fecha_guardia": "2026-11-06",
+    "guardia_franjas": [
+      "Diurna capital: laborables 09:30–22:00; sábados, domingos y festivos 10:00–22:00"
+    ],
+    "localidades_atendidas": [
+      "Valladolid"
+    ],
+    "lat": 41.6461,
+    "lng": -4.7113,
+    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "guardia_franja": "Diurna capital: laborables 09:30–22:00; sábados, domingos y festivos 10:00–22:00"
+  },
+  {
+    "id": "cof-valladolid-guardia-48",
+    "nombre": "",
+    "direccion": "Calle Conde Benavente 6-8",
+    "localidad": "Valladolid",
+    "sector": "SAN PABLO",
+    "provincia": "Valladolid",
+    "telefono": "983181079",
+    "guardia": true,
+    "fecha_guardia": "2026-11-06",
+    "guardia_franjas": [
+      "Diurna capital: laborables 09:30–22:00; sábados, domingos y festivos 10:00–22:00"
+    ],
+    "localidades_atendidas": [
+      "Valladolid"
+    ],
+    "lat": 41.6582,
+    "lng": -4.7308,
+    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "guardia_franja": "Diurna capital: laborables 09:30–22:00; sábados, domingos y festivos 10:00–22:00"
+  },
+  {
+    "id": "cof-valladolid-guardia-178",
+    "nombre": "",
+    "direccion": "Calle San Lorenzo , 5",
+    "localidad": "Valladolid",
+    "sector": "CENTRO-GAMAZO",
+    "provincia": "Valladolid",
+    "telefono": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-06",
+    "guardia_franjas": [
+      "Nocturna capital: 22:00–09:30; sábados, domingos y festivos hasta 10:00 del día siguiente"
+    ],
+    "localidades_atendidas": [
+      "Valladolid"
+    ],
+    "lat": 41.6521,
+    "lng": -4.7313,
+    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "guardia_franja": "Nocturna capital: 22:00–09:30; sábados, domingos y festivos hasta 10:00 del día siguiente"
+  },
+  {
+    "id": "cof-valladolid-guardia-326",
+    "nombre": "",
+    "direccion": "Paseo del Cauce , 59",
+    "localidad": "Valladolid",
+    "sector": "PILARICA",
+    "provincia": "Valladolid",
+    "telefono": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-06",
+    "guardia_franjas": [
+      "Nocturna capital: 22:00–09:30; sábados, domingos y festivos hasta 10:00 del día siguiente"
+    ],
+    "localidades_atendidas": [
+      "Valladolid"
+    ],
+    "lat": 41.6543,
+    "lng": -4.7113,
+    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "guardia_franja": "Nocturna capital: 22:00–09:30; sábados, domingos y festivos hasta 10:00 del día siguiente"
+  },
+  {
+    "id": "cof-valladolid-guardia-84",
+    "nombre": "",
+    "direccion": "Plaza Mayor , 13",
+    "localidad": "Alaejos",
+    "sector": "ALAEJOS",
+    "provincia": "Valladolid",
+    "telefono": "630633840",
+    "guardia": true,
+    "fecha_guardia": "2026-11-06",
+    "guardia_franjas": [
+      "Diurna provincial: hasta las 22:00; confirmar hora de inicio. Guardia localizada/no presencial; llamar antes de acudir."
+    ],
+    "localidades_atendidas": [
+      "Alaejos"
+    ],
+    "lat": 41.3081,
+    "lng": -5.215,
+    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "guardia_franja": "Diurna provincial: hasta las 22:00; confirmar hora de inicio. Guardia localizada/no presencial; llamar antes de acudir."
+  },
+  {
+    "id": "cof-valladolid-guardia-310",
+    "nombre": "",
+    "direccion": "Carretera León , 24",
+    "localidad": "Albires (León)",
+    "sector": "MAYORGA",
+    "provincia": "Valladolid",
+    "telefono": "666545427",
+    "guardia": true,
+    "fecha_guardia": "2026-11-06",
+    "guardia_franjas": [
+      "Diurna provincial: hasta las 22:00; confirmar hora de inicio. Guardia localizada/no presencial; llamar antes de acudir."
+    ],
+    "localidades_atendidas": [
+      "Albires (León)"
+    ],
+    "lat": null,
+    "lng": null,
+    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "guardia_franja": "Diurna provincial: hasta las 22:00; confirmar hora de inicio. Guardia localizada/no presencial; llamar antes de acudir."
+  },
+  {
+    "id": "cof-valladolid-guardia-221",
+    "nombre": "",
+    "direccion": "Calle Conde Vallellano , 39",
+    "localidad": "Alcazarén",
+    "sector": "OLMEDO",
+    "provincia": "Valladolid",
+    "telefono": "983609024",
+    "guardia": true,
+    "fecha_guardia": "2026-11-06",
+    "guardia_franjas": [
+      "Diurna provincial: hasta las 22:00; confirmar hora de inicio. Guardia localizada/no presencial; llamar antes de acudir."
+    ],
+    "localidades_atendidas": [
+      "Alcazarén"
+    ],
+    "lat": 41.3696,
+    "lng": -4.675,
+    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "guardia_franja": "Diurna provincial: hasta las 22:00; confirmar hora de inicio. Guardia localizada/no presencial; llamar antes de acudir."
+  },
+  {
+    "id": "cof-valladolid-guardia-305",
+    "nombre": "",
+    "direccion": "Calle Carromajada , 9",
+    "localidad": "Arroyo de la Encomienda",
+    "sector": "PISUERGA",
+    "provincia": "Valladolid",
+    "telefono": "983409335",
+    "guardia": true,
+    "fecha_guardia": "2026-11-06",
+    "guardia_franjas": [
+      "Diurna provincial: hasta las 22:00; confirmar hora de inicio. Guardia localizada/no presencial; llamar antes de acudir."
+    ],
+    "localidades_atendidas": [
+      "Arroyo de la Encomienda"
+    ],
+    "lat": 41.6253,
+    "lng": -4.7773,
+    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "guardia_franja": "Diurna provincial: hasta las 22:00; confirmar hora de inicio. Guardia localizada/no presencial; llamar antes de acudir."
+  },
+  {
+    "id": "cof-valladolid-guardia-312",
+    "nombre": "",
+    "direccion": "Calle Derecha , 3",
+    "localidad": "Bolaños de Campos",
+    "sector": "VILLAFRECHOS",
+    "provincia": "Valladolid",
+    "telefono": "618471598",
+    "guardia": true,
+    "fecha_guardia": "2026-11-06",
+    "guardia_franjas": [
+      "Diurna provincial: hasta las 22:00; confirmar hora de inicio. Guardia localizada/no presencial; llamar antes de acudir."
+    ],
+    "localidades_atendidas": [
+      "Bolaños de Campos"
+    ],
+    "lat": 42.0063,
+    "lng": -5.2841,
+    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "guardia_franja": "Diurna provincial: hasta las 22:00; confirmar hora de inicio. Guardia localizada/no presencial; llamar antes de acudir."
+  },
+  {
+    "id": "cof-valladolid-guardia-301",
+    "nombre": "",
+    "direccion": "Calle Mesones (c/v Cristo del Arroyo) , 31",
+    "localidad": "Iscar",
+    "sector": "ISCAR",
+    "provincia": "Valladolid",
+    "telefono": "633757701",
+    "guardia": true,
+    "fecha_guardia": "2026-11-06",
+    "guardia_franjas": [
+      "Día y noche: 24 horas según el cuadro provincial. Guardia localizada/no presencial; llamar antes de acudir."
+    ],
+    "localidades_atendidas": [
+      "Iscar"
+    ],
+    "lat": 41.3598,
+    "lng": -4.5345,
+    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "guardia_franja": "Día y noche: 24 horas según el cuadro provincial. Guardia localizada/no presencial; llamar antes de acudir."
+  },
+  {
+    "id": "cof-valladolid-guardia-288",
+    "nombre": "",
+    "direccion": "Avenida de la Estación s/n",
+    "localidad": "Laguna de Duero",
+    "sector": "LAGUNA DE DUERO",
+    "provincia": "Valladolid",
+    "telefono": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-06",
+    "guardia_franjas": [
+      "Día y noche: 24 horas según el cuadro provincial."
+    ],
+    "localidades_atendidas": [
+      "Laguna de Duero"
+    ],
+    "lat": null,
+    "lng": null,
+    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "guardia_franja": "Día y noche: 24 horas según el cuadro provincial."
+  },
+  {
+    "id": "cof-valladolid-guardia-159",
+    "nombre": "",
+    "direccion": "Calle San Juan , 2",
+    "localidad": "Medina de Rioseco",
+    "sector": "MEDINA DE RIOSECO",
+    "provincia": "Valladolid",
+    "telefono": "676825736",
+    "guardia": true,
+    "fecha_guardia": "2026-11-06",
+    "guardia_franjas": [
+      "Día y noche: 24 horas según el cuadro provincial. Guardia localizada/no presencial; llamar antes de acudir."
+    ],
+    "localidades_atendidas": [
+      "Medina de Rioseco"
+    ],
+    "lat": 41.8836,
+    "lng": -5.0451,
+    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "guardia_franja": "Día y noche: 24 horas según el cuadro provincial. Guardia localizada/no presencial; llamar antes de acudir."
+  },
+  {
+    "id": "cof-valladolid-guardia-108",
+    "nombre": "",
+    "direccion": "Calle Claudio Moyano , 1",
+    "localidad": "Medina del Campo",
+    "sector": "MEDINA DEL CAMPO URBANO",
+    "provincia": "Valladolid",
+    "telefono": "983811391",
+    "guardia": true,
+    "fecha_guardia": "2026-11-06",
+    "guardia_franjas": [
+      "Día y noche: 24 horas según el cuadro provincial."
+    ],
+    "localidades_atendidas": [
+      "Medina del Campo"
+    ],
+    "lat": 41.312,
+    "lng": -4.9124,
+    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "guardia_franja": "Día y noche: 24 horas según el cuadro provincial."
+  },
+  {
+    "id": "cof-valladolid-guardia-53",
+    "nombre": "",
+    "direccion": "Calle Fray Juan de la Mota , 11",
+    "localidad": "Mota del Marqués",
+    "sector": "MOTA DEL MARQUES",
+    "provincia": "Valladolid",
+    "telefono": "646637421",
+    "guardia": true,
+    "fecha_guardia": "2026-11-06",
+    "guardia_franjas": [
+      "Diurna provincial: hasta las 22:00; confirmar hora de inicio. Guardia localizada/no presencial; llamar antes de acudir."
+    ],
+    "localidades_atendidas": [
+      "Mota del Marqués"
+    ],
+    "lat": 41.632,
+    "lng": -5.177,
+    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "guardia_franja": "Diurna provincial: hasta las 22:00; confirmar hora de inicio. Guardia localizada/no presencial; llamar antes de acudir."
+  },
+  {
+    "id": "cof-valladolid-guardia-224",
+    "nombre": "",
+    "direccion": "Ronda de las Huertas , 1",
+    "localidad": "Mucientes",
+    "sector": "CIGALES",
+    "provincia": "Valladolid",
+    "telefono": "645925764",
+    "guardia": true,
+    "fecha_guardia": "2026-11-06",
+    "guardia_franjas": [
+      "Diurna provincial: hasta las 22:00; confirmar hora de inicio. Guardia localizada/no presencial; llamar antes de acudir."
+    ],
+    "localidades_atendidas": [
+      "Mucientes"
+    ],
+    "lat": 41.7426,
+    "lng": -4.7619,
+    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "guardia_franja": "Diurna provincial: hasta las 22:00; confirmar hora de inicio. Guardia localizada/no presencial; llamar antes de acudir."
+  },
+  {
+    "id": "cof-valladolid-guardia-50",
+    "nombre": "",
+    "direccion": "Calle Mercado Viejo , 27",
+    "localidad": "Peñafiel",
+    "sector": "PEÑAFIEL",
+    "provincia": "Valladolid",
+    "telefono": "660951414",
+    "guardia": true,
+    "fecha_guardia": "2026-11-06",
+    "guardia_franjas": [
+      "Día y noche: 24 horas según el cuadro provincial. Guardia localizada/no presencial; llamar antes de acudir."
+    ],
+    "localidades_atendidas": [
+      "Peñafiel"
+    ],
+    "lat": 41.5963,
+    "lng": -4.125,
+    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "guardia_franja": "Día y noche: 24 horas según el cuadro provincial. Guardia localizada/no presencial; llamar antes de acudir."
+  },
+  {
+    "id": "cof-valladolid-guardia-269",
+    "nombre": "",
+    "direccion": "Calle Onésimo Redondo , 2",
+    "localidad": "Piña de Esgueva",
+    "sector": "ESGUEVILLAS DE ESGUEVA",
+    "provincia": "Valladolid",
+    "telefono": "643505187",
+    "guardia": true,
+    "fecha_guardia": "2026-11-06",
+    "guardia_franjas": [
+      "Diurna provincial: hasta las 22:00; confirmar hora de inicio. Guardia localizada/no presencial; llamar antes de acudir."
+    ],
+    "localidades_atendidas": [
+      "Piña de Esgueva"
+    ],
+    "lat": 41.7284,
+    "lng": -4.4283,
+    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "guardia_franja": "Diurna provincial: hasta las 22:00; confirmar hora de inicio. Guardia localizada/no presencial; llamar antes de acudir."
+  },
+  {
+    "id": "cof-valladolid-guardia-38",
+    "nombre": "",
+    "direccion": "Avenida Segovia , 18",
+    "localidad": "Portillo",
+    "sector": "PORTILLO",
+    "provincia": "Valladolid",
+    "telefono": "628983369",
+    "guardia": true,
+    "fecha_guardia": "2026-11-06",
+    "guardia_franjas": [
+      "Diurna provincial: hasta las 22:00; confirmar hora de inicio. Guardia localizada/no presencial; llamar antes de acudir."
+    ],
+    "localidades_atendidas": [
+      "Portillo"
+    ],
+    "lat": 41.4744,
+    "lng": -4.5912,
+    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "guardia_franja": "Diurna provincial: hasta las 22:00; confirmar hora de inicio. Guardia localizada/no presencial; llamar antes de acudir."
+  },
+  {
+    "id": "cof-valladolid-guardia-266",
+    "nombre": "",
+    "direccion": "Carretera Madrid-Coruña , 7",
+    "localidad": "Tordesillas",
+    "sector": "TORDESILLAS",
+    "provincia": "Valladolid",
+    "telefono": "615953266",
+    "guardia": true,
+    "fecha_guardia": "2026-11-06",
+    "guardia_franjas": [
+      "Día y noche: 24 horas según el cuadro provincial. Guardia localizada/no presencial; llamar antes de acudir."
+    ],
+    "localidades_atendidas": [
+      "Tordesillas"
+    ],
+    "lat": 41.5016,
+    "lng": -5.0048,
+    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "guardia_franja": "Día y noche: 24 horas según el cuadro provincial. Guardia localizada/no presencial; llamar antes de acudir."
+  },
+  {
+    "id": "cof-valladolid-guardia-8",
+    "nombre": "",
+    "direccion": "Avenida Valladolid , 7",
+    "localidad": "Tudela de Duero",
+    "sector": "TUDELA DE DUERO",
+    "provincia": "Valladolid",
+    "telefono": "663170883",
+    "guardia": true,
+    "fecha_guardia": "2026-11-06",
+    "guardia_franjas": [
+      "Día y noche: 24 horas según el cuadro provincial. Guardia localizada/no presencial; llamar antes de acudir."
+    ],
+    "localidades_atendidas": [
+      "Tudela de Duero"
+    ],
+    "lat": 41.5877,
+    "lng": -4.5864,
+    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "guardia_franja": "Día y noche: 24 horas según el cuadro provincial. Guardia localizada/no presencial; llamar antes de acudir."
+  },
+  {
+    "id": "cof-valladolid-guardia-35",
+    "nombre": "",
+    "direccion": "Paseo de la Ribera, 2 bis",
+    "localidad": "Valdestillas",
+    "sector": "SERRADA",
+    "provincia": "Valladolid",
+    "telefono": "983551024",
+    "guardia": true,
+    "fecha_guardia": "2026-11-06",
+    "guardia_franjas": [
+      "Diurna provincial: hasta las 22:00; confirmar hora de inicio. Guardia localizada/no presencial; llamar antes de acudir."
+    ],
+    "localidades_atendidas": [
+      "Valdestillas"
+    ],
+    "lat": 41.4741,
+    "lng": -4.7701,
+    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "guardia_franja": "Diurna provincial: hasta las 22:00; confirmar hora de inicio. Guardia localizada/no presencial; llamar antes de acudir."
+  },
+  {
+    "id": "cof-valladolid-guardia-311",
+    "nombre": "",
+    "direccion": "Plaza Dos de Mayo , 21",
+    "localidad": "Villarramiel (Palencia)",
+    "sector": "VILLALON",
+    "provincia": "Valladolid",
+    "telefono": null,
+    "guardia": true,
+    "fecha_guardia": "2026-11-06",
+    "guardia_franjas": [
+      "Diurna provincial: hasta las 22:00; confirmar hora de inicio."
+    ],
+    "localidades_atendidas": [
+      "Villarramiel (Palencia)"
+    ],
+    "lat": null,
+    "lng": null,
+    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "guardia_franja": "Diurna provincial: hasta las 22:00; confirmar hora de inicio."
+  }
+]

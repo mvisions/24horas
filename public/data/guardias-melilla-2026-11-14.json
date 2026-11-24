@@ -1,0 +1,54 @@
+[
+  {
+    "id": "52-52000006",
+    "cofm_id": "52000006",
+    "direccion": "Avda. Juan Carlos I Rey, 19",
+    "localidad": "MELILLA",
+    "sector": "",
+    "zona": "MELILLA",
+    "provincia": "Melilla",
+    "guardia": true,
+    "guardia_franja": "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono.",
+    "fecha_guardia": "2026-11-14",
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": 35.2939109,
+    "lng": -2.9406973,
+    "localidades_atendidas": [
+      "MELILLA"
+    ],
+    "guardia_franjas": [
+      "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono."
+    ],
+    "nombre": "Farmacia del Centro C.B.",
+    "telefono": "952682123",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/369828942",
+    "nota_ubicacion": "Ubicación contrastada: la dirección y una farmacia de OpenStreetMap coinciden a 12 m.",
+    "osm_id": "osm-369828942",
+    "ajuste_ubicacion_m": 12.2
+  },
+  {
+    "id": "52-52000022",
+    "cofm_id": "52000022",
+    "direccion": "General Aizpuru, 29",
+    "localidad": "MELILLA",
+    "sector": "",
+    "zona": "MELILLA",
+    "provincia": "Melilla",
+    "guardia": true,
+    "guardia_franja": "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono. · Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre.",
+    "fecha_guardia": "2026-11-14",
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": null,
+    "lng": null,
+    "localidades_atendidas": [
+      "MELILLA"
+    ],
+    "guardia_franjas": [
+      "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono.",
+      "Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre."
+    ],
+    "nombre": "Servicio Nocturno Farmaceutico de Urgencias",
+    "telefono": "952677526"
+  }
+]

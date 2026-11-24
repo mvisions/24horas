@@ -1,0 +1,18 @@
+{
+  "fecha": "2026-11-11",
+  "provincia": "Valladolid",
+  "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+  "completa": false,
+  "consultas": [
+    {
+      "nombre": "Fuente provincial",
+      "estado": "error",
+      "error": "'fuente_coordenadas'"
+    }
+  ],
+  "farmacias": 27,
+  "farmacias_confirmadas": 27,
+  "con_coordenadas": 26,
+  "calendario_actualizado": true,
+  "guardias_conservadas_no_reconfirmadas": 0
+}

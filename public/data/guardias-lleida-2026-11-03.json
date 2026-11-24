@@ -1,0 +1,1044 @@
+[
+  {
+    "id": "cof-lleida-17",
+    "nombre": "Lladonosa Sapiens, Josep M.",
+    "direccion": "Major, 17",
+    "localidad": "Almacelles",
+    "provincia": "Lleida",
+    "cp": "",
+    "telefono": "973740086",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": true,
+    "fecha_guardia": "2026-11-03",
+    "guardia_franja": "DIA I NIT (guardia localizada: llamar antes de acudir)",
+    "guardia_franjas": [
+      "DIA I NIT (guardia localizada: llamar antes de acudir)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-03T00:00:00",
+        "fin": "2026-11-04T00:00:00",
+        "inicio_original": "2026-11-03T00:00:00",
+        "fin_original": "2026-11-04T00:00:00",
+        "tipo": "DIA I NIT",
+        "publicado": "2026-11-03"
+      }
+    ],
+    "localidades_atendidas": [
+      "Alfarràs",
+      "Algerri",
+      "Alguaire",
+      "Almacelles",
+      "Almenar",
+      "Gimenells"
+    ],
+    "fuente": "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+    "fuentes": [
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Farmacia&IdFarmacia=17"
+    ]
+  },
+  {
+    "id": "cof-lleida-25",
+    "nombre": "March, Ester-March, Montserrat",
+    "direccion": "Barcelona, 10 (Cda. Sant Crist)",
+    "localidad": "Balaguer",
+    "provincia": "Lleida",
+    "cp": "",
+    "telefono": "973445280",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": true,
+    "fecha_guardia": "2026-11-03",
+    "guardia_franja": "DIA I NIT (guardia localizada: llamar antes de acudir)",
+    "guardia_franjas": [
+      "DIA I NIT (guardia localizada: llamar antes de acudir)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-03T00:00:00",
+        "fin": "2026-11-04T00:00:00",
+        "inicio_original": "2026-11-03T00:00:00",
+        "fin_original": "2026-11-04T00:00:00",
+        "tipo": "DIA I NIT",
+        "publicado": "2026-11-03"
+      }
+    ],
+    "localidades_atendidas": [
+      "Àger",
+      "Balaguer",
+      "Bellcaire d'Urgell",
+      "Camarasa",
+      "Castelló de Farfanya",
+      "Cubells",
+      "La Sentiu",
+      "Menàrguens",
+      "Montgai",
+      "Os de Balaguer",
+      "Penelles",
+      "Térmens",
+      "Torrelameu",
+      "Vallfogona de Balaguer"
+    ],
+    "fuente": "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+    "fuentes": [
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Farmacia&IdFarmacia=25"
+    ]
+  },
+  {
+    "id": "cof-lleida-33",
+    "nombre": "Colom Gras, Marta",
+    "direccion": "Sant Roc, 16",
+    "localidad": "Bellpuig",
+    "provincia": "Lleida",
+    "cp": "",
+    "telefono": "973320087",
+    "lat": 41.625346,
+    "lng": 1.010456,
+    "ubicacion_pendiente_verificacion": false,
+    "guardia": true,
+    "fecha_guardia": "2026-11-03",
+    "guardia_franja": "DIA de 9 a 22 hores (guardia localizada: llamar antes de acudir)",
+    "guardia_franjas": [
+      "DIA de 9 a 22 hores (guardia localizada: llamar antes de acudir)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-03T09:00:00",
+        "fin": "2026-11-03T22:00:00",
+        "inicio_original": "2026-11-03T09:00:00",
+        "fin_original": "2026-11-03T22:00:00",
+        "tipo": "DIA de 9 a 22 hores",
+        "publicado": "2026-11-03"
+      }
+    ],
+    "localidades_atendidas": [
+      "Belianes",
+      "Bellpuig",
+      "Preixana"
+    ],
+    "fuente": "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+    "fuentes": [
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Farmacia&IdFarmacia=33"
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Farmacia&IdFarmacia=33",
+    "ajuste_ubicacion_m": 11.0,
+    "osm_id": "osm-7296725435",
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/7296725435",
+    "nota_ubicacion": "Marcador del Colegio contrastado con una farmacia OSM a 11.0 m."
+  },
+  {
+    "id": "cof-lleida-51",
+    "nombre": "Almansa, Margarita-Margenet, Susana",
+    "direccion": "Pl. Querimonia, s/n",
+    "localidad": "Les",
+    "provincia": "Lleida",
+    "cp": "",
+    "telefono": "",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": true,
+    "fecha_guardia": "2026-11-03",
+    "guardia_franja": "DIA I NIT (guardia localizada: llamar antes de acudir)",
+    "guardia_franjas": [
+      "DIA I NIT (guardia localizada: llamar antes de acudir)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-03T00:00:00",
+        "fin": "2026-11-04T00:00:00",
+        "inicio_original": "2026-11-03T00:00:00",
+        "fin_original": "2026-11-04T00:00:00",
+        "tipo": "DIA I NIT",
+        "publicado": "2026-11-03"
+      }
+    ],
+    "localidades_atendidas": [
+      "Baqueira-Beret (Naut Aran)",
+      "Bossòst",
+      "Les",
+      "Vielha"
+    ],
+    "fuente": "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+    "fuentes": [
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Farmacia&IdFarmacia=51"
+    ]
+  },
+  {
+    "id": "cof-lleida-58",
+    "nombre": "Ros Simó, Clara",
+    "direccion": "Pl. Major, 12",
+    "localidad": "Mollerussa",
+    "provincia": "Lleida",
+    "cp": "",
+    "telefono": "973600174",
+    "lat": 41.6289464,
+    "lng": 0.8939734,
+    "ubicacion_pendiente_verificacion": false,
+    "guardia": true,
+    "fecha_guardia": "2026-11-03",
+    "guardia_franja": "DIA I NIT (guardia localizada: llamar antes de acudir)",
+    "guardia_franjas": [
+      "DIA I NIT (guardia localizada: llamar antes de acudir)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-03T00:00:00",
+        "fin": "2026-11-04T00:00:00",
+        "inicio_original": "2026-11-03T00:00:00",
+        "fin_original": "2026-11-04T00:00:00",
+        "tipo": "DIA I NIT",
+        "publicado": "2026-11-03"
+      }
+    ],
+    "localidades_atendidas": [
+      "Barbens",
+      "Bell-lloc d'Urgell",
+      "Bellvís",
+      "Castellnou de Seana",
+      "El Palau d'Anglesola",
+      "El Poal",
+      "Els Alamús",
+      "Fondarella",
+      "Golmés",
+      "Ivars d'Urgell",
+      "Linyola",
+      "Miralcamp",
+      "Mollerussa",
+      "Sidamon",
+      "Torregrossa",
+      "Vila-sana",
+      "Vilanova de Bellpuig"
+    ],
+    "fuente": "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+    "fuentes": [
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Farmacia&IdFarmacia=58"
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Farmacia&IdFarmacia=58",
+    "ajuste_ubicacion_m": 8.0,
+    "osm_id": "osm-7297735341",
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/7297735341",
+    "nota_ubicacion": "Marcador del Colegio contrastado con una farmacia OSM a 8.0 m."
+  },
+  {
+    "id": "cof-lleida-63",
+    "nombre": "Solduga Tartera, Tuixent",
+    "direccion": "Av. de Verdaguer, 23",
+    "localidad": "La Pobla de Segur",
+    "provincia": "Lleida",
+    "cp": "",
+    "telefono": "973680407",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": true,
+    "fecha_guardia": "2026-11-03",
+    "guardia_franja": "DIA de 9 a 21 hores (guardia localizada: llamar antes de acudir)",
+    "guardia_franjas": [
+      "DIA de 9 a 21 hores (guardia localizada: llamar antes de acudir)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-03T09:00:00",
+        "fin": "2026-11-03T21:00:00",
+        "inicio_original": "2026-11-03T09:00:00",
+        "fin_original": "2026-11-03T21:00:00",
+        "tipo": "DIA de 9 a 21 hores",
+        "publicado": "2026-11-03"
+      }
+    ],
+    "localidades_atendidas": [
+      "La Pobla de Segur",
+      "Senterada"
+    ],
+    "fuente": "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+    "fuentes": [
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Farmacia&IdFarmacia=63"
+    ]
+  },
+  {
+    "id": "cof-lleida-75",
+    "nombre": "Mallorques Vilanova, Teresa",
+    "direccion": "Major, 40",
+    "localidad": "Sort",
+    "provincia": "Lleida",
+    "cp": "",
+    "telefono": "973620065",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": true,
+    "fecha_guardia": "2026-11-03",
+    "guardia_franja": "DIA I NIT (guardia localizada: llamar antes de acudir)",
+    "guardia_franjas": [
+      "DIA I NIT (guardia localizada: llamar antes de acudir)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-03T00:00:00",
+        "fin": "2026-11-04T00:00:00",
+        "inicio_original": "2026-11-03T00:00:00",
+        "fin_original": "2026-11-04T00:00:00",
+        "tipo": "DIA I NIT",
+        "publicado": "2026-11-03"
+      }
+    ],
+    "localidades_atendidas": [
+      "Esterri d'Àneu",
+      "Llavorsí",
+      "Rialp",
+      "Sort"
+    ],
+    "fuente": "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+    "fuentes": [
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Farmacia&IdFarmacia=75"
+    ]
+  },
+  {
+    "id": "cof-lleida-77",
+    "nombre": "Mestres Duran, Anna",
+    "direccion": "Av. de Catalunya, 11",
+    "localidad": "Tàrrega",
+    "provincia": "Lleida",
+    "cp": "",
+    "telefono": "973500036",
+    "lat": 41.6483664,
+    "lng": 1.1395284,
+    "ubicacion_pendiente_verificacion": false,
+    "guardia": true,
+    "fecha_guardia": "2026-11-03",
+    "guardia_franja": "DIA I NIT (guardia localizada: llamar antes de acudir)",
+    "guardia_franjas": [
+      "DIA I NIT (guardia localizada: llamar antes de acudir)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-03T00:00:00",
+        "fin": "2026-11-04T00:00:00",
+        "inicio_original": "2026-11-03T00:00:00",
+        "fin_original": "2026-11-04T00:00:00",
+        "tipo": "DIA I NIT",
+        "publicado": "2026-11-03"
+      }
+    ],
+    "localidades_atendidas": [
+      "Agramunt",
+      "Anglesola",
+      "Bellpuig",
+      "Castellserà",
+      "La Fuliola",
+      "Tàrrega",
+      "Verdú",
+      "Vilagrassa"
+    ],
+    "fuente": "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+    "fuentes": [
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Farmacia&IdFarmacia=77"
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Farmacia&IdFarmacia=77",
+    "ajuste_ubicacion_m": 13.2,
+    "osm_id": "osm-1746797660",
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/1746797660",
+    "nota_ubicacion": "Marcador del Colegio contrastado con una farmacia OSM a 13.2 m."
+  },
+  {
+    "id": "cof-lleida-83",
+    "nombre": "Martinez Borràs, Núria",
+    "direccion": "Soldevila, 11",
+    "localidad": "Tremp",
+    "provincia": "Lleida",
+    "cp": "",
+    "telefono": "973650032",
+    "lat": 42.1664614,
+    "lng": 0.8949076,
+    "ubicacion_pendiente_verificacion": false,
+    "guardia": true,
+    "fecha_guardia": "2026-11-03",
+    "guardia_franja": "DIA I NIT (guardia localizada: llamar antes de acudir)",
+    "guardia_franjas": [
+      "DIA I NIT (guardia localizada: llamar antes de acudir)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-03T00:00:00",
+        "fin": "2026-11-04T00:00:00",
+        "inicio_original": "2026-11-03T00:00:00",
+        "fin_original": "2026-11-04T00:00:00",
+        "tipo": "DIA I NIT",
+        "publicado": "2026-11-03"
+      }
+    ],
+    "localidades_atendidas": [
+      "Isona",
+      "Tremp"
+    ],
+    "fuente": "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+    "fuentes": [
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Farmacia&IdFarmacia=83"
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Farmacia&IdFarmacia=83",
+    "ajuste_ubicacion_m": 9.5,
+    "osm_id": "osm-5525168436",
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/5525168436",
+    "nota_ubicacion": "Marcador del Colegio contrastado con una farmacia OSM a 9.5 m."
+  },
+  {
+    "id": "cof-lleida-93",
+    "nombre": "Freixinet Fondevila, Joan",
+    "direccion": "Passeig de Ronda, 70",
+    "localidad": "Lleida",
+    "provincia": "Lleida",
+    "cp": "",
+    "telefono": "973261125",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": true,
+    "fecha_guardia": "2026-11-03",
+    "guardia_franja": "DIA de 9 a 22 hores",
+    "guardia_franjas": [
+      "DIA de 9 a 22 hores"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-03T09:00:00",
+        "fin": "2026-11-03T22:00:00",
+        "inicio_original": "2026-11-03T09:00:00",
+        "fin_original": "2026-11-03T22:00:00",
+        "tipo": "DIA de 9 a 22 hores",
+        "publicado": "2026-11-03"
+      }
+    ],
+    "localidades_atendidas": [
+      "Albatàrrec",
+      "Albesa",
+      "Alcoletge",
+      "Alpicat",
+      "Artesa de Lleida",
+      "Benavent de Segrià",
+      "Corbins",
+      "La Portella",
+      "Lleida",
+      "Montoliu",
+      "Puigverd de Lleida",
+      "Rosselló",
+      "Sudanell",
+      "Torrefarrera",
+      "Vilanova de la Barca",
+      "Vilanova de Segrià"
+    ],
+    "fuente": "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+    "fuentes": [
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Farmacia&IdFarmacia=93"
+    ]
+  },
+  {
+    "id": "cof-lleida-102",
+    "nombre": "Garrós Iglesias, Esther",
+    "direccion": "Prat de la Riba, 53",
+    "localidad": "Lleida",
+    "provincia": "Lleida",
+    "cp": "",
+    "telefono": "973232112",
+    "lat": 41.6214262,
+    "lng": 0.6245456,
+    "ubicacion_pendiente_verificacion": false,
+    "guardia": true,
+    "fecha_guardia": "2026-11-03",
+    "guardia_franja": "DIA de 9 a 22 hores · NIT de 22 a 9 hores · Madrugada del turno anterior: NIT de 22 a 9 hores",
+    "guardia_franjas": [
+      "DIA de 9 a 22 hores",
+      "NIT de 22 a 9 hores",
+      "Madrugada del turno anterior: NIT de 22 a 9 hores"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-03T00:00:00",
+        "fin": "2026-11-03T09:00:00",
+        "inicio_original": "2026-11-02T22:00:00",
+        "fin_original": "2026-11-03T09:00:00",
+        "tipo": "NIT de 22 a 9 hores",
+        "publicado": "2026-11-02"
+      },
+      {
+        "inicio": "2026-11-03T09:00:00",
+        "fin": "2026-11-03T22:00:00",
+        "inicio_original": "2026-11-03T09:00:00",
+        "fin_original": "2026-11-03T22:00:00",
+        "tipo": "DIA de 9 a 22 hores",
+        "publicado": "2026-11-03"
+      },
+      {
+        "inicio": "2026-11-03T22:00:00",
+        "fin": "2026-11-04T00:00:00",
+        "inicio_original": "2026-11-03T22:00:00",
+        "fin_original": "2026-11-04T09:00:00",
+        "tipo": "NIT de 22 a 9 hores",
+        "publicado": "2026-11-03"
+      }
+    ],
+    "localidades_atendidas": [
+      "Albatàrrec",
+      "Albesa",
+      "Alcoletge",
+      "Alpicat",
+      "Artesa de Lleida",
+      "Benavent de Segrià",
+      "Corbins",
+      "La Portella",
+      "Lleida",
+      "Montoliu",
+      "Puigverd de Lleida",
+      "Rosselló",
+      "Sudanell",
+      "Torrefarrera",
+      "Vilanova de la Barca",
+      "Vilanova de Segrià"
+    ],
+    "fuente": "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+    "fuentes": [
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Farmacia&IdFarmacia=102"
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Farmacia&IdFarmacia=102",
+    "ajuste_ubicacion_m": 12.9,
+    "osm_id": "osm-4279217694",
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/4279217694",
+    "nota_ubicacion": "Marcador del Colegio contrastado con una farmacia OSM a 12.9 m."
+  },
+  {
+    "id": "cof-lleida-143",
+    "nombre": "Barrull Becerra, Núria",
+    "direccion": "Plaça Pla de la Vila, 16",
+    "localidad": "La Granadella",
+    "provincia": "Lleida",
+    "cp": "",
+    "telefono": "973133341",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": true,
+    "fecha_guardia": "2026-11-03",
+    "guardia_franja": "DIA I NIT (guardia localizada: llamar antes de acudir)",
+    "guardia_franjas": [
+      "DIA I NIT (guardia localizada: llamar antes de acudir)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-03T00:00:00",
+        "fin": "2026-11-04T00:00:00",
+        "inicio_original": "2026-11-03T00:00:00",
+        "fin_original": "2026-11-04T00:00:00",
+        "tipo": "DIA I NIT",
+        "publicado": "2026-11-03"
+      }
+    ],
+    "localidades_atendidas": [
+      "Aitona",
+      "Juncosa",
+      "La Granadella",
+      "La Granja d'Escarp",
+      "Llardecans",
+      "Maials",
+      "Massalcoreig",
+      "Sarroca de Lleida",
+      "Seròs"
+    ],
+    "fuente": "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+    "fuentes": [
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Farmacia&IdFarmacia=143"
+    ]
+  },
+  {
+    "id": "cof-lleida-200",
+    "nombre": "Alonso Berdun, Rosa",
+    "direccion": "Del Puig, 1",
+    "localidad": "Prullans",
+    "provincia": "Lleida",
+    "cp": "",
+    "telefono": "973511158",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": true,
+    "fecha_guardia": "2026-11-03",
+    "guardia_franja": "DIA de 9 a 22 hores (guardia localizada: llamar antes de acudir)",
+    "guardia_franjas": [
+      "DIA de 9 a 22 hores (guardia localizada: llamar antes de acudir)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-03T09:00:00",
+        "fin": "2026-11-03T22:00:00",
+        "inicio_original": "2026-11-03T09:00:00",
+        "fin_original": "2026-11-03T22:00:00",
+        "tipo": "DIA de 9 a 22 hores",
+        "publicado": "2026-11-03"
+      }
+    ],
+    "localidades_atendidas": [
+      "Alp",
+      "Bellver de Cerdanya",
+      "Ger",
+      "Martinet",
+      "Prullans"
+    ],
+    "fuente": "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+    "fuentes": [
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Farmacia&IdFarmacia=200"
+    ]
+  },
+  {
+    "id": "cof-lleida-205",
+    "nombre": "Pujol Grau, Climent",
+    "direccion": "Sant Climent, 53",
+    "localidad": "Coll de Nargó",
+    "provincia": "Lleida",
+    "cp": "",
+    "telefono": "973383386",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": true,
+    "fecha_guardia": "2026-11-03",
+    "guardia_franja": "DIA de 9 a 22 hores (guardia localizada: llamar antes de acudir)",
+    "guardia_franjas": [
+      "DIA de 9 a 22 hores (guardia localizada: llamar antes de acudir)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-03T09:00:00",
+        "fin": "2026-11-03T22:00:00",
+        "inicio_original": "2026-11-03T09:00:00",
+        "fin_original": "2026-11-03T22:00:00",
+        "tipo": "DIA de 9 a 22 hores",
+        "publicado": "2026-11-03"
+      }
+    ],
+    "localidades_atendidas": [
+      "Coll de Nargó",
+      "La Seu d'Urgell",
+      "Oliana",
+      "Organyà"
+    ],
+    "fuente": "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+    "fuentes": [
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Farmacia&IdFarmacia=205"
+    ]
+  },
+  {
+    "id": "cof-lleida-220",
+    "nombre": "Cinca Codina, Rosa",
+    "direccion": "Generalitat, 45",
+    "localidad": "Guissona",
+    "provincia": "Lleida",
+    "cp": "",
+    "telefono": "973552506",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": true,
+    "fecha_guardia": "2026-11-03",
+    "guardia_franja": "DIA I NIT (guardia localizada: llamar antes de acudir)",
+    "guardia_franjas": [
+      "DIA I NIT (guardia localizada: llamar antes de acudir)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-03T00:00:00",
+        "fin": "2026-11-04T00:00:00",
+        "inicio_original": "2026-11-03T00:00:00",
+        "fin_original": "2026-11-04T00:00:00",
+        "tipo": "DIA I NIT",
+        "publicado": "2026-11-03"
+      }
+    ],
+    "localidades_atendidas": [
+      "Guissona"
+    ],
+    "fuente": "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+    "fuentes": [
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Farmacia&IdFarmacia=220"
+    ]
+  },
+  {
+    "id": "cof-lleida-227",
+    "nombre": "Guilanyà Feliu, Mireia Rosa",
+    "direccion": "Av. Guillem Graells, 16",
+    "localidad": "La Seu d'Urgell",
+    "provincia": "Lleida",
+    "cp": "",
+    "telefono": "973355891",
+    "lat": 42.3603388,
+    "lng": 1.4594783,
+    "ubicacion_pendiente_verificacion": false,
+    "guardia": true,
+    "fecha_guardia": "2026-11-03",
+    "guardia_franja": "DIA I NIT (guardia localizada: llamar antes de acudir)",
+    "guardia_franjas": [
+      "DIA I NIT (guardia localizada: llamar antes de acudir)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-03T00:00:00",
+        "fin": "2026-11-04T00:00:00",
+        "inicio_original": "2026-11-03T00:00:00",
+        "fin_original": "2026-11-04T00:00:00",
+        "tipo": "DIA I NIT",
+        "publicado": "2026-11-03"
+      }
+    ],
+    "localidades_atendidas": [
+      "Adrall",
+      "Coll de Nargó",
+      "La Seu d'Urgell",
+      "Montferrer i Castellbó",
+      "Oliana",
+      "Organyà"
+    ],
+    "fuente": "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+    "fuentes": [
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Farmacia&IdFarmacia=227"
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Farmacia&IdFarmacia=227",
+    "ajuste_ubicacion_m": 2.5,
+    "osm_id": "osm-7297115727",
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/7297115727",
+    "nota_ubicacion": "Marcador del Colegio contrastado con una farmacia OSM a 2.5 m."
+  },
+  {
+    "id": "cof-lleida-243",
+    "nombre": "Riu Vilalta, Maria",
+    "direccion": "Ctra. Manresa, 22",
+    "localidad": "Solsona",
+    "provincia": "Lleida",
+    "cp": "",
+    "telefono": "973480148",
+    "lat": 41.9943763,
+    "lng": 1.5225817,
+    "ubicacion_pendiente_verificacion": false,
+    "guardia": true,
+    "fecha_guardia": "2026-11-03",
+    "guardia_franja": "DIA I NIT (guardia localizada: llamar antes de acudir)",
+    "guardia_franjas": [
+      "DIA I NIT (guardia localizada: llamar antes de acudir)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-03T00:00:00",
+        "fin": "2026-11-04T00:00:00",
+        "inicio_original": "2026-11-03T00:00:00",
+        "fin_original": "2026-11-04T00:00:00",
+        "tipo": "DIA I NIT",
+        "publicado": "2026-11-03"
+      }
+    ],
+    "localidades_atendidas": [
+      "Olius",
+      "Sant Llorenç de Morunys",
+      "Solsona"
+    ],
+    "fuente": "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+    "fuentes": [
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Farmacia&IdFarmacia=243"
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Farmacia&IdFarmacia=243",
+    "ajuste_ubicacion_m": 3.5,
+    "osm_id": "osm-7296748286",
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/7296748286",
+    "nota_ubicacion": "Marcador del Colegio contrastado con una farmacia OSM a 3.5 m."
+  },
+  {
+    "id": "cof-lleida-261",
+    "nombre": "Esteve Gatnau, Gilbert",
+    "direccion": "Institut, 2",
+    "localidad": "Agramunt",
+    "provincia": "Lleida",
+    "cp": "25310",
+    "telefono": "973390695",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": true,
+    "fecha_guardia": "2026-11-03",
+    "guardia_franja": "DIA de 9 a 24 hores (guardia localizada: llamar antes de acudir)",
+    "guardia_franjas": [
+      "DIA de 9 a 24 hores (guardia localizada: llamar antes de acudir)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-03T09:00:00",
+        "fin": "2026-11-04T00:00:00",
+        "inicio_original": "2026-11-03T09:00:00",
+        "fin_original": "2026-11-04T00:00:00",
+        "tipo": "DIA de 9 a 24 hores",
+        "publicado": "2026-11-03"
+      }
+    ],
+    "localidades_atendidas": [
+      "Agramunt"
+    ],
+    "fuente": "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+    "fuentes": [
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Farmacia&IdFarmacia=261"
+    ]
+  },
+  {
+    "id": "cof-lleida-293",
+    "nombre": "Pintó Guilamany, Anna",
+    "direccion": "Av. Maria Anzizu, 31",
+    "localidad": "Artesa de Segre",
+    "provincia": "Lleida",
+    "cp": "",
+    "telefono": "973400062",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": true,
+    "fecha_guardia": "2026-11-03",
+    "guardia_franja": "DIA I NIT (guardia localizada: llamar antes de acudir)",
+    "guardia_franjas": [
+      "DIA I NIT (guardia localizada: llamar antes de acudir)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-03T00:00:00",
+        "fin": "2026-11-04T00:00:00",
+        "inicio_original": "2026-11-03T00:00:00",
+        "fin_original": "2026-11-04T00:00:00",
+        "tipo": "DIA I NIT",
+        "publicado": "2026-11-03"
+      }
+    ],
+    "localidades_atendidas": [
+      "Artesa de Segre",
+      "Ponts",
+      "Sanaüja"
+    ],
+    "fuente": "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+    "fuentes": [
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Farmacia&IdFarmacia=293"
+    ]
+  },
+  {
+    "id": "cof-lleida-314",
+    "nombre": "Anadon Valero, Mariona",
+    "direccion": "PL. Major, 3",
+    "localidad": "Alcarràs",
+    "provincia": "Lleida",
+    "cp": "",
+    "telefono": "973790022",
+    "lat": 41.5629599,
+    "lng": 0.525,
+    "ubicacion_pendiente_verificacion": false,
+    "guardia": true,
+    "fecha_guardia": "2026-11-03",
+    "guardia_franja": "DIA I NIT (guardia localizada: llamar antes de acudir)",
+    "guardia_franjas": [
+      "DIA I NIT (guardia localizada: llamar antes de acudir)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-03T00:00:00",
+        "fin": "2026-11-04T00:00:00",
+        "inicio_original": "2026-11-03T00:00:00",
+        "fin_original": "2026-11-04T00:00:00",
+        "tipo": "DIA I NIT",
+        "publicado": "2026-11-03"
+      }
+    ],
+    "localidades_atendidas": [
+      "Aitona",
+      "Alcarràs",
+      "Juncosa",
+      "La Granadella",
+      "La Granja d'Escarp",
+      "Llardecans",
+      "Maials",
+      "Massalcoreig",
+      "Sarroca de Lleida",
+      "Seròs",
+      "Soses",
+      "Torres de Segre"
+    ],
+    "fuente": "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+    "fuentes": [
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Farmacia&IdFarmacia=314"
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Farmacia&IdFarmacia=314",
+    "ajuste_ubicacion_m": 10.8,
+    "osm_id": "osm-1626621696",
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/1626621696",
+    "nota_ubicacion": "Marcador del Colegio contrastado con una farmacia OSM a 10.8 m."
+  },
+  {
+    "id": "cof-lleida-319",
+    "nombre": "Solsona Rosell, Xavier",
+    "direccion": "Av. Catalunya, 13",
+    "localidad": "Cervera",
+    "provincia": "Lleida",
+    "cp": "",
+    "telefono": "973530226",
+    "lat": 41.6720908,
+    "lng": 1.2738127,
+    "ubicacion_pendiente_verificacion": false,
+    "guardia": true,
+    "fecha_guardia": "2026-11-03",
+    "guardia_franja": "DIA I NIT (guardia localizada: llamar antes de acudir)",
+    "guardia_franjas": [
+      "DIA I NIT (guardia localizada: llamar antes de acudir)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-03T00:00:00",
+        "fin": "2026-11-04T00:00:00",
+        "inicio_original": "2026-11-03T00:00:00",
+        "fin_original": "2026-11-04T00:00:00",
+        "tipo": "DIA I NIT",
+        "publicado": "2026-11-03"
+      }
+    ],
+    "localidades_atendidas": [
+      "Cervera",
+      "Sant Antolí",
+      "Sant Guim de Freixenet",
+      "Sant Ramon"
+    ],
+    "fuente": "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+    "fuentes": [
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Farmacia&IdFarmacia=319"
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Farmacia&IdFarmacia=319",
+    "ajuste_ubicacion_m": 2.9,
+    "osm_id": "osm-5922291275",
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/5922291275",
+    "nota_ubicacion": "Marcador del Colegio contrastado con una farmacia OSM a 2.9 m."
+  },
+  {
+    "id": "cof-lleida-326",
+    "nombre": "Niubò Aragüés, Eugènia - Pagés Niubò, Laura",
+    "direccion": "Plaça de l'1 d'Octubre, 3",
+    "localidad": "Les Borges Blanques",
+    "provincia": "Lleida",
+    "cp": "",
+    "telefono": "973142068",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": true,
+    "fecha_guardia": "2026-11-03",
+    "guardia_franja": "DIA I NIT (guardia localizada: llamar antes de acudir)",
+    "guardia_franjas": [
+      "DIA I NIT (guardia localizada: llamar antes de acudir)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-03T00:00:00",
+        "fin": "2026-11-04T00:00:00",
+        "inicio_original": "2026-11-03T00:00:00",
+        "fin_original": "2026-11-04T00:00:00",
+        "tipo": "DIA I NIT",
+        "publicado": "2026-11-03"
+      }
+    ],
+    "localidades_atendidas": [
+      "Arbeca",
+      "Castelldans",
+      "Cervià",
+      "Juneda",
+      "L'Albagès",
+      "L'Albi",
+      "L'Espluga Calba",
+      "Les Borges Blanques",
+      "Vinaixa"
+    ],
+    "fuente": "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+    "fuentes": [
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Farmacia&IdFarmacia=326"
+    ]
+  },
+  {
+    "id": "cof-lleida-336",
+    "nombre": "Barios Baquero, Rosalía",
+    "direccion": "Riu Ebre, 10 (Dra. Castells)",
+    "localidad": "Lleida",
+    "provincia": "Lleida",
+    "cp": "",
+    "telefono": "973211855",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": true,
+    "fecha_guardia": "2026-11-03",
+    "guardia_franja": "DIA de 9 a 22 hores",
+    "guardia_franjas": [
+      "DIA de 9 a 22 hores"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-03T09:00:00",
+        "fin": "2026-11-03T22:00:00",
+        "inicio_original": "2026-11-03T09:00:00",
+        "fin_original": "2026-11-03T22:00:00",
+        "tipo": "DIA de 9 a 22 hores",
+        "publicado": "2026-11-03"
+      }
+    ],
+    "localidades_atendidas": [
+      "Albatàrrec",
+      "Albesa",
+      "Alcoletge",
+      "Alpicat",
+      "Artesa de Lleida",
+      "Benavent de Segrià",
+      "Corbins",
+      "La Portella",
+      "Lleida",
+      "Montoliu",
+      "Puigverd de Lleida",
+      "Rosselló",
+      "Sudanell",
+      "Torrefarrera",
+      "Vilanova de la Barca",
+      "Vilanova de Segrià"
+    ],
+    "fuente": "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+    "fuentes": [
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Farmacia&IdFarmacia=336"
+    ]
+  }
+]

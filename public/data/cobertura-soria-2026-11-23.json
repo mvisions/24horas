@@ -1,0 +1,18 @@
+{
+  "fecha": "2026-11-23",
+  "provincia": "Soria",
+  "fuente": "https://www.cofsoria.es/ciudadanos/farmacias-de-guardia/",
+  "completa": false,
+  "consultas": [
+    {
+      "nombre": "Guardias COF Soria",
+      "estado": "error",
+      "error": "No se identifica de forma única en el registro oficial JCyL: San Leonardo de Yagüe · Calle SAN PEDRO VIEJO 6 · ANA GRISELDA RUIZ DOMINGUEZ"
+    }
+  ],
+  "farmacias": 0,
+  "farmacias_confirmadas": 0,
+  "con_coordenadas": 0,
+  "calendario_actualizado": false,
+  "guardias_conservadas_no_reconfirmadas": 0
+}

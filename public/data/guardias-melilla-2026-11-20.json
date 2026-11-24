@@ -1,0 +1,49 @@
+[
+  {
+    "id": "52-52000008",
+    "cofm_id": "52000008",
+    "direccion": "Marques de Montemar, 37",
+    "localidad": "MELILLA",
+    "sector": "",
+    "zona": "MELILLA",
+    "provincia": "Melilla",
+    "guardia": true,
+    "guardia_franja": "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono.",
+    "fecha_guardia": "2026-11-20",
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": null,
+    "lng": null,
+    "localidades_atendidas": [
+      "MELILLA"
+    ],
+    "guardia_franjas": [
+      "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono."
+    ],
+    "nombre": "Julio Bassets Patricio",
+    "telefono": "952672515"
+  },
+  {
+    "id": "52-52000022",
+    "cofm_id": "52000022",
+    "direccion": "General Aizpuru, 29",
+    "localidad": "MELILLA",
+    "sector": "",
+    "zona": "MELILLA",
+    "provincia": "Melilla",
+    "guardia": true,
+    "guardia_franja": "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono. · Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre.",
+    "fecha_guardia": "2026-11-20",
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": null,
+    "lng": null,
+    "localidades_atendidas": [
+      "MELILLA"
+    ],
+    "guardia_franjas": [
+      "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono.",
+      "Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre."
+    ],
+    "nombre": "Servicio Nocturno Farmaceutico de Urgencias",
+    "telefono": "952677526"
+  }
+]

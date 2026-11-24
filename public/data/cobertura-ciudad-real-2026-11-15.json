@@ -1,0 +1,246 @@
+{
+  "fecha": "2026-11-15",
+  "provincia": "Ciudad Real",
+  "fuente": "https://farmaciasdeguardia.cofcam.es/",
+  "completa": false,
+  "consultas": [
+    {
+      "nombre": "Agudo",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Alcazar De San Juan",
+      "estado": "disponible",
+      "farmacias": 2,
+      "error": ""
+    },
+    {
+      "nombre": "Almaden",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Almagro",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Almodovar Del Campo",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Argamasilla De Alba",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Argamasilla De Calatrava",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Ballesteros De Calatrava",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Bolaños De Calatrava",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Calzada De Calatrava",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Campo De Criptana",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Ciudad Real",
+      "estado": "disponible",
+      "farmacias": 4,
+      "error": ""
+    },
+    {
+      "nombre": "Daimiel",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Fontanarejo",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Fuencaliente",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Herencia",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "La Solana",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Malagon",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Manzanares",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Miguelturra",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Moral De Calatrava",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Pedro Muñoz",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Piedrabuena",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Porzuna",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Puertollano",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Retuerta Del Bullaque",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Saceruela",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "San Lorenzo De Calatrava",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Santa Cruz De Los Cañamos",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Santa Cruz De Mudela",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Socuellamos",
+      "estado": "disponible",
+      "farmacias": 2,
+      "error": ""
+    },
+    {
+      "nombre": "Tomelloso",
+      "estado": "disponible",
+      "farmacias": 2,
+      "error": ""
+    },
+    {
+      "nombre": "Torralba De Calatrava",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Valdepeñas",
+      "estado": "disponible",
+      "farmacias": 2,
+      "error": ""
+    },
+    {
+      "nombre": "Villanueva De La Fuente",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Villanueva De Los Infantes",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Villarrubia De Los Ojos",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Villarta De San Juan",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Cobertura municipal provincial",
+      "estado": "parcial",
+      "error": "Listado provincial completo consultado sin filtro horario; no es un censo de todos los municipios ni confirma derivaciones. El catálogo azul conserva las farmacias OSM y las observadas en guardias."
+    }
+  ],
+  "farmacias": 45,
+  "farmacias_confirmadas": 45,
+  "con_coordenadas": 45,
+  "calendario_actualizado": true,
+  "guardias_conservadas_no_reconfirmadas": 0
+}

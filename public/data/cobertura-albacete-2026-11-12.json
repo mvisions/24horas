@@ -1,0 +1,228 @@
+{
+  "fecha": "2026-11-12",
+  "provincia": "Albacete",
+  "fuente": "https://farmaciasdeguardia.cofcam.es/",
+  "completa": false,
+  "consultas": [
+    {
+      "nombre": "Agramon",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Albacete",
+      "estado": "disponible",
+      "farmacias": 6,
+      "error": ""
+    },
+    {
+      "nombre": "Alcadozo",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Almansa",
+      "estado": "disponible",
+      "farmacias": 2,
+      "error": ""
+    },
+    {
+      "nombre": "Balazote",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Bienservida",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Bogarra",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Casas De Lazaro",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Casas De Ves",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Casas Ibañez",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Caudete",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Cotillas",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "El Bonillo",
+      "estado": "disponible",
+      "farmacias": 2,
+      "error": ""
+    },
+    {
+      "nombre": "Elche De La Sierra",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Ferez",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Fuentealamo",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Hellin",
+      "estado": "disponible",
+      "farmacias": 2,
+      "error": ""
+    },
+    {
+      "nombre": "Higueruela",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Jorquera",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "La Gineta",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "La Roda",
+      "estado": "disponible",
+      "farmacias": 2,
+      "error": ""
+    },
+    {
+      "nombre": "Madrigueras",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Molinicos",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Motilleja",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Munera",
+      "estado": "disponible",
+      "farmacias": 2,
+      "error": ""
+    },
+    {
+      "nombre": "Nerpio",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Ossa De Montiel",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Pozo-Bueno (Pozo-Cañada)",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Robledo",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Socovos",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Tarazona De La Mancha",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Tobarra",
+      "estado": "disponible",
+      "farmacias": 2,
+      "error": ""
+    },
+    {
+      "nombre": "Villamalea",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Villarrobledo",
+      "estado": "disponible",
+      "farmacias": 2,
+      "error": ""
+    },
+    {
+      "nombre": "Yeste",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Cobertura municipal provincial",
+      "estado": "parcial",
+      "error": "Listado provincial completo consultado sin filtro horario; no es un censo de todos los municipios ni confirma derivaciones. El catálogo azul conserva las farmacias OSM y las observadas en guardias."
+    }
+  ],
+  "farmacias": 47,
+  "farmacias_confirmadas": 47,
+  "con_coordenadas": 46,
+  "calendario_actualizado": true,
+  "guardias_conservadas_no_reconfirmadas": 0
+}

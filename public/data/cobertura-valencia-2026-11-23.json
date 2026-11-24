@@ -1,0 +1,18 @@
+{
+  "fecha": "2026-11-23",
+  "provincia": "Valencia",
+  "fuente": "https://www.micof.es/ver/124/",
+  "completa": false,
+  "consultas": [
+    {
+      "nombre": "Índice provincial",
+      "estado": "error",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    }
+  ],
+  "farmacias": 0,
+  "farmacias_confirmadas": 0,
+  "con_coordenadas": 0,
+  "calendario_actualizado": false,
+  "guardias_conservadas_no_reconfirmadas": 0
+}
