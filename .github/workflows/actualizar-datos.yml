@@ -1,0 +1,141 @@
+name: Actualizar y publicar guardias
+
+on:
+  schedule:
+    - cron: '0 5 * * *'
+    - cron: '0 10 * * *'
+    - cron: '0 23 * * *'
+  workflow_dispatch:
+    inputs:
+      modo:
+        description: Fecha de las guardias que se van a actualizar
+        type: choice
+        options:
+          - hoy
+          - manana
+        default: hoy
+        required: true
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: update-guardias
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
+      refresh_failed: ${{ steps.refresh.outcome == 'failure' }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Instalar herramientas PDF
+        run: |
+          sudo apt-get update
+          sudo apt-get install --yes --no-install-recommends poppler-utils
+
+      - uses: actions/cache/restore@v4
+        id: restore-cache
+        with:
+          path: ~/.local/state/farmacia
+          key: farmacia-state-${{ runner.os }}-${{ github.run_id }}
+          restore-keys: |
+            farmacia-state-${{ runner.os }}-
+
+      - name: Actualizar datos de guardias
+        id: refresh
+        continue-on-error: true
+        env:
+          TZ: Europe/Madrid
+          UPDATE_MODE: ${{ inputs.modo }}
+          UPDATE_SCHEDULE: ${{ github.event.schedule }}
+        run: |
+          if [[ "$GITHUB_EVENT_NAME" == schedule ]]; then
+            if [[ "$UPDATE_SCHEDULE" == '0 10 * * *' ]]; then
+              ./scripts/daily_update.sh
+            else
+              ./scripts/daily_update.sh --hoy
+            fi
+          elif [[ "$UPDATE_MODE" == manana ]]; then
+            ./scripts/daily_update.sh
+          else
+            ./scripts/daily_update.sh --hoy
+          fi
+
+      - name: Guardar cachés de las fuentes
+        if: always() && steps.restore-cache.outcome == 'success'
+        uses: actions/cache/save@v4
+        with:
+          path: ~/.local/state/farmacia
+          key: farmacia-state-${{ runner.os }}-${{ github.run_id }}
+
+      - name: Publicar datos actualizados en main
+        id: commit
+        run: |
+          git add data public/data
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No hay cambios de datos para publicar."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -m "Actualizar datos de guardias $(date -u +%F)"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Instalar dependencias web
+        if: steps.commit.outputs.changed == 'true'
+        run: npm ci
+
+      - name: Construir web para GitHub Pages
+        if: steps.commit.outputs.changed == 'true'
+        run: npm run build -- --base=/24horas/
+
+      - name: Preparar publicación
+        if: steps.commit.outputs.changed == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  desplegar:
+    needs: actualizar
+    if: needs.actualizar.outputs.changed == 'true'
+    concurrency:
+      group: pages
+      cancel-in-progress: false
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/deploy-pages@v4
+        id: deployment
+
+  informar:
+    needs:
+      - actualizar
+      - desplegar
+    if: always() && needs.actualizar.result == 'success'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Informar de errores en las fuentes
+        if: needs.actualizar.outputs.refresh_failed == 'true'
+        run: |
+          echo "::error::La actualización terminó con errores. Se publicaron los cambios disponibles; revisa el registro del paso de actualización."
+          exit 1

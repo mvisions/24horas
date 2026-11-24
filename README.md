@@ -3,11 +3,14 @@
 ## Publicación en GitHub Pages
 
 La web pública se construye con `npm run build -- --base=/24horas/` y se
-despliega desde la rama `main` mediante GitHub Actions. GitHub Pages sirve
-únicamente archivos estáticos: las guardias no se actualizan automáticamente
-con el cron local; hay que subir los datos actualizados al repositorio para
-publicarlos. Las funciones de administración requieren un servidor PocketBase
-independiente y no están disponibles en GitHub Pages.
+despliega desde la rama `main` mediante GitHub Actions. El workflow
+`.github/workflows/actualizar-datos.yml` actualiza las fuentes a diario:
+prepara las guardias de mañana a las 10:00 UTC y comprueba las de hoy a las
+05:00 y 23:00 UTC. Conserva las cachés entre ejecuciones, sube los JSON nuevos a
+`main` y publica la web cuando hay cambios. GitHub puede retrasar la hora de
+inicio; también se puede lanzar manualmente desde la pestaña **Actions**.
+GitHub Pages sirve archivos estáticos; las funciones de administración
+requieren un servidor PocketBase independiente y no están disponibles en esta web.
 
 Mapa interactivo de farmacias de guardia en España, con datos oficiales del Consejo General de Colegios Farmacéuticos.
 
@@ -1294,10 +1297,10 @@ devuelve un error si cualquiera de las dos consultas falla.
 `daily_update.sh` consulta automáticamente el trimestre y año vigentes, vuelve
 a descargar los carteles para detectar cambios y solo reutiliza su conversión
 cuando coincide el SHA-256. Después reconstruye la aplicación para incluir los
-JSON actualizados en `dist/`. La tarea existente de cron la ejecuta a las 02:00
-(zona horaria local del servidor; el scraper usa `Europe/Madrid`).
-El equipo y el servicio cron deben estar encendidos; cron no recupera por sí
-solo una ejecución perdida mientras el equipo estaba apagado.
+JSON actualizados en `dist/`. En el sitio público, GitHub Actions ejecuta este
+proceso sin depender de que el ordenador local esté encendido. Para una
+instalación local, se puede seguir usando cron a las 02:00 (zona horaria del
+servidor; el scraper usa `Europe/Madrid`).
 
 El script usa `flock` para impedir solapamientos. Registra errores y salida en
 `${XDG_STATE_HOME:-$HOME/.local/state}/farmacia/daily-update.log`, y el resultado
