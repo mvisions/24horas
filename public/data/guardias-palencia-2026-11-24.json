@@ -232,8 +232,8 @@
     "localidad": "Palencia",
     "provincia": "Palencia",
     "fuente": "https://www.cofpalencia.org/PUBLICO/CALENDARIOS%20DE%20GUARDIA/calendarios%20de%20guardias%2025.pdf",
-    "lat": null,
-    "lng": null,
+    "lat": 42.0074447,
+    "lng": -4.531163,
     "guardia": true,
     "fecha_guardia": "2026-11-24",
     "localidades_atendidas": [
@@ -247,7 +247,9 @@
       "Guardia diurna · Palencia · Horario exacto pendiente; confirmar por teléfono"
     ],
     "guardia_franja": "Guardia diurna · Palencia · Horario exacto pendiente; confirmar por teléfono",
-    "telefono": "979706277"
+    "telefono": "979706277",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org"
   },
   {
     "id": "cof-palencia-dab995d72da7471e",

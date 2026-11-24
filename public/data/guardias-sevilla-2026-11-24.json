@@ -4027,11 +4027,13 @@
     ],
     "fecha_guardia": "2026-11-24",
     "fuente": "https://servicios.farmaceuticosdesevilla.es/images/farmaciasguardia/T4/moron-osuna-estepa.pdf",
-    "lat": null,
-    "lng": null,
+    "lat": 37.3636128,
+    "lng": -4.8484515,
     "fuentes": [
       "https://servicios.farmaceuticosdesevilla.es/images/farmaciasguardia/T4/moron-osuna-estepa.pdf"
-    ]
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org"
   },
   {
     "id": "cof-sevilla-ee5423e8cb1393fa",

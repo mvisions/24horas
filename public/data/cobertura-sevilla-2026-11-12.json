@@ -2,8 +2,8 @@
   "fecha": "2026-11-12",
   "provincia": "Sevilla",
   "fuente": "https://www.farmaceuticosdesevilla.es/ciudadanos/utilidades/localizador-de-farmacias/",
-  "consultado": "2026-11-23T11:05:30.977382+00:00",
-  "completa": true,
+  "consultado": "2026-11-24T20:33:32.671812+00:00",
+  "completa": false,
   "municipios": [
     {
       "municipio": "Aguadulce",
@@ -1635,8 +1635,8 @@
   "consultas": [
     {
       "url": "https://servicios.farmaceuticosdesevilla.es/images/farmaciasguardia/T4/Aljarafe.pdf",
-      "estado": "disponible",
-      "farmacias": 44,
+      "estado": "sin_fecha",
+      "farmacias": 0,
       "revision_visual": false
     },
     {
@@ -1647,14 +1647,14 @@
     },
     {
       "url": "https://servicios.farmaceuticosdesevilla.es/images/farmaciasguardia/T4/Sevilla.pdf",
-      "estado": "disponible",
-      "farmacias": 63,
+      "estado": "sin_fecha",
+      "farmacias": 0,
       "revision_visual": false
     },
     {
       "url": "https://servicios.farmaceuticosdesevilla.es/images/farmaciasguardia/T4/alcaladeguadaira.pdf",
-      "estado": "disponible",
-      "farmacias": 5,
+      "estado": "sin_fecha",
+      "farmacias": 0,
       "revision_visual": false
     },
     {
@@ -1755,8 +1755,8 @@
     },
     {
       "url": "https://servicios.farmaceuticosdesevilla.es/images/farmaciasguardia/T4/moron-osuna-estepa.pdf",
-      "estado": "disponible",
-      "farmacias": 28,
+      "estado": "sin_fecha",
+      "farmacias": 0,
       "revision_visual": false
     },
     {
@@ -1767,8 +1767,8 @@
     },
     {
       "url": "https://servicios.farmaceuticosdesevilla.es/images/farmaciasguardia/T4/sierranorte.pdf",
-      "estado": "disponible",
-      "farmacias": 22,
+      "estado": "sin_fecha",
+      "farmacias": 0,
       "revision_visual": false
     },
     {
@@ -1790,7 +1790,7 @@
       "revision_visual": false
     }
   ],
-  "farmacias": 196,
-  "con_coordenadas": 173,
-  "calendario_actualizado": true
+  "farmacias": 34,
+  "con_coordenadas": 174,
+  "calendario_actualizado": false
 }

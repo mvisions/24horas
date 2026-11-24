@@ -2,7 +2,7 @@
   "fecha": "2026-11-14",
   "provincia": "Sevilla",
   "fuente": "https://www.farmaceuticosdesevilla.es/ciudadanos/utilidades/localizador-de-farmacias/",
-  "consultado": "2026-11-23T11:05:30.983746+00:00",
+  "consultado": "2026-11-24T20:33:32.675308+00:00",
   "completa": false,
   "municipios": [
     {
@@ -1635,8 +1635,9 @@
   "consultas": [
     {
       "url": "https://servicios.farmaceuticosdesevilla.es/images/farmaciasguardia/T4/Aljarafe.pdf",
-      "estado": "error",
-      "error": "Registro sin dirección: (954770170)"
+      "estado": "sin_fecha",
+      "farmacias": 0,
+      "revision_visual": false
     },
     {
       "url": "https://servicios.farmaceuticosdesevilla.es/images/farmaciasguardia/T4/ModificacionesSevilla.pdf",
@@ -1646,14 +1647,14 @@
     },
     {
       "url": "https://servicios.farmaceuticosdesevilla.es/images/farmaciasguardia/T4/Sevilla.pdf",
-      "estado": "disponible",
-      "farmacias": 66,
+      "estado": "sin_fecha",
+      "farmacias": 0,
       "revision_visual": false
     },
     {
       "url": "https://servicios.farmaceuticosdesevilla.es/images/farmaciasguardia/T4/alcaladeguadaira.pdf",
-      "estado": "disponible",
-      "farmacias": 5,
+      "estado": "sin_fecha",
+      "farmacias": 0,
       "revision_visual": false
     },
     {
@@ -1754,8 +1755,8 @@
     },
     {
       "url": "https://servicios.farmaceuticosdesevilla.es/images/farmaciasguardia/T4/moron-osuna-estepa.pdf",
-      "estado": "disponible",
-      "farmacias": 26,
+      "estado": "sin_fecha",
+      "farmacias": 0,
       "revision_visual": false
     },
     {
@@ -1766,8 +1767,8 @@
     },
     {
       "url": "https://servicios.farmaceuticosdesevilla.es/images/farmaciasguardia/T4/sierranorte.pdf",
-      "estado": "disponible",
-      "farmacias": 23,
+      "estado": "sin_fecha",
+      "farmacias": 0,
       "revision_visual": false
     },
     {
@@ -1789,7 +1790,7 @@
       "revision_visual": false
     }
   ],
-  "farmacias": 157,
-  "con_coordenadas": 141,
+  "farmacias": 37,
+  "con_coordenadas": 29,
   "calendario_actualizado": false
 }

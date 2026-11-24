@@ -1107,34 +1107,6 @@
     ]
   },
   {
-    "id": "cof-sevilla-57d2f562ccd5f0d1",
-    "cofm_id": null,
-    "nombre": "",
-    "direccion": "(De 22:00 a 23:59 h) - Urb. Aljamar, manz. 3,casa 88",
-    "localidad": "Tomares http://www.farmaceuticosdesevilla.es",
-    "provincia": "Sevilla",
-    "sector": "",
-    "telefono": "954151466",
-    "telefonos": [
-      "954151466"
-    ],
-    "guardia": true,
-    "guardia_franja": "Noche (de 22:00 a 09:30); (De 22:00 a 23:59 h)",
-    "guardia_franjas": [
-      "Noche (de 22:00 a 09:30); (De 22:00 a 23:59 h)"
-    ],
-    "fecha_guardia": "2026-11-23",
-    "fuente": "https://servicios.farmaceuticosdesevilla.es/images/farmaciasguardia/T4/Aljarafe.pdf",
-    "lat": 37.3715321,
-    "lng": -6.0465566,
-    "fuentes": [
-      "https://servicios.farmaceuticosdesevilla.es/images/farmaciasguardia/T4/Aljarafe.pdf"
-    ],
-    "precision_ubicacion": "farmacia",
-    "fuente_coordenadas": "https://solofarmacias.es/sevilla/tomares/farmacia-aljamar-maria-jesus-pariente-cornejo",
-    "nota_ubicacion": ""
-  },
-  {
     "id": "cof-sevilla-04f3bf118c65564a",
     "cofm_id": null,
     "nombre": "",
@@ -4022,11 +3994,13 @@
     ],
     "fecha_guardia": "2026-11-23",
     "fuente": "https://servicios.farmaceuticosdesevilla.es/images/farmaciasguardia/T4/moron-osuna-estepa.pdf",
-    "lat": null,
-    "lng": null,
+    "lat": 37.3636128,
+    "lng": -4.8484515,
     "fuentes": [
       "https://servicios.farmaceuticosdesevilla.es/images/farmaciasguardia/T4/moron-osuna-estepa.pdf"
-    ]
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org"
   },
   {
     "id": "cof-sevilla-ee5423e8cb1393fa",
@@ -4462,34 +4436,6 @@
     "fuentes": [
       "https://servicios.farmaceuticosdesevilla.es/images/farmaciasguardia/T4/moron-osuna-estepa.pdf"
     ]
-  },
-  {
-    "id": "cof-sevilla-d12ac20a661dda48",
-    "cofm_id": null,
-    "nombre": "",
-    "direccion": "Marchena, 10",
-    "localidad": "Puebla de Cazalla http://www.farmaceuticosdesevilla.es",
-    "provincia": "Sevilla",
-    "sector": "",
-    "telefono": "955843818",
-    "telefonos": [
-      "955843818"
-    ],
-    "guardia": true,
-    "guardia_franja": "Noche (de 22:00 a 09:30)",
-    "guardia_franjas": [
-      "Noche (de 22:00 a 09:30)"
-    ],
-    "fecha_guardia": "2026-11-23",
-    "fuente": "https://servicios.farmaceuticosdesevilla.es/images/farmaciasguardia/T4/moron-osuna-estepa.pdf",
-    "lat": 37.2225162,
-    "lng": -5.3102754,
-    "fuentes": [
-      "https://servicios.farmaceuticosdesevilla.es/images/farmaciasguardia/T4/moron-osuna-estepa.pdf"
-    ],
-    "precision_ubicacion": "farmacia",
-    "fuente_coordenadas": "https://www.openstreetmap.org/node/11502721344",
-    "nota_ubicacion": ""
   },
   {
     "id": "cof-sevilla-b42d8016461773df",
@@ -5098,33 +5044,6 @@
     "fuentes": [
       "https://servicios.farmaceuticosdesevilla.es/images/farmaciasguardia/T4/sierranorte.pdf"
     ]
-  },
-  {
-    "id": "cof-sevilla-b829243426432abf",
-    "cofm_id": null,
-    "nombre": "",
-    "direccion": "Cruz,2",
-    "localidad": "San Nicolás del Puerto http://www.farmaceuticosdesevilla.es",
-    "provincia": "Sevilla",
-    "sector": "",
-    "telefono": "955886625",
-    "telefonos": [
-      "955886625"
-    ],
-    "guardia": true,
-    "guardia_franja": "Noche (de 22:00 a 09:30)",
-    "guardia_franjas": [
-      "Noche (de 22:00 a 09:30)"
-    ],
-    "fecha_guardia": "2026-11-23",
-    "fuente": "https://servicios.farmaceuticosdesevilla.es/images/farmaciasguardia/T4/sierranorte.pdf",
-    "lat": 37.9940073,
-    "lng": -5.6527904,
-    "fuentes": [
-      "https://servicios.farmaceuticosdesevilla.es/images/farmaciasguardia/T4/sierranorte.pdf"
-    ],
-    "precision_ubicacion": "aproximada",
-    "fuente_coordenadas": "https://www.openstreetmap.org"
   },
   {
     "id": "cof-sevilla-9273e366c6d2e3b6",

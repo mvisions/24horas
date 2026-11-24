@@ -119,25 +119,32 @@
       "Albacete"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T21:30:00",
-        "fin": "2026-11-25T00:00:00",
+        "inicio": "2026-11-25T00:00:00",
+        "fin": "2026-11-25T09:30:00",
         "inicio_original": "2026-11-24T21:30:00",
         "fin_original": "2026-11-25T09:30:00"
+      },
+      {
+        "inicio": "2026-11-25T09:30:00",
+        "fin": "2026-11-26T00:00:00",
+        "inicio_original": "2026-11-25T09:30:00",
+        "fin_original": "2026-11-27T09:30:00"
       }
     ],
     "guardia_franjas": [
-      "24/11/2026 21:30–25/11/2026 09:30"
+      "24/11/2026 21:30–25/11/2026 09:30",
+      "25/11/2026 09:30–27/11/2026 09:30"
     ],
     "lat": 38.988688,
     "lng": -1.853709,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "24/11/2026 21:30–25/11/2026 09:30"
+    "guardia_franja": "24/11/2026 21:30–25/11/2026 09:30 · 25/11/2026 09:30–27/11/2026 09:30"
   },
   {
     "id": "cof-albacete-AB-0130-F",
@@ -153,25 +160,25 @@
       "Albacete"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-23",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-23T09:30:00",
-        "fin": "2026-11-23T21:30:00",
-        "inicio_original": "2026-11-23T09:30:00",
-        "fin_original": "2026-11-23T21:30:00"
+        "inicio": "2026-11-25T09:30:00",
+        "fin": "2026-11-25T21:30:00",
+        "inicio_original": "2026-11-25T09:30:00",
+        "fin_original": "2026-11-25T21:30:00"
       }
     ],
     "guardia_franjas": [
-      "23/11/2026 09:30–23/11/2026 21:30"
+      "25/11/2026 09:30–25/11/2026 21:30"
     ],
     "lat": 38.9880025,
     "lng": -1.8675119,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "23/11/2026 09:30–23/11/2026 21:30"
+    "guardia_franja": "25/11/2026 09:30–25/11/2026 21:30"
   },
   {
     "id": "cof-albacete-AB-0087-F",
@@ -189,32 +196,32 @@
       "Albacete"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T00:00:00",
-        "fin": "2026-11-24T09:30:00",
-        "inicio_original": "2026-11-23T21:30:00",
-        "fin_original": "2026-11-24T09:30:00"
-      },
-      {
-        "inicio": "2026-11-24T21:30:00",
-        "fin": "2026-11-25T00:00:00",
+        "inicio": "2026-11-25T00:00:00",
+        "fin": "2026-11-25T09:30:00",
         "inicio_original": "2026-11-24T21:30:00",
         "fin_original": "2026-11-25T09:30:00"
+      },
+      {
+        "inicio": "2026-11-25T21:30:00",
+        "fin": "2026-11-26T00:00:00",
+        "inicio_original": "2026-11-25T21:30:00",
+        "fin_original": "2026-11-26T09:30:00"
       }
     ],
     "guardia_franjas": [
-      "23/11/2026 21:30–24/11/2026 09:30",
-      "24/11/2026 21:30–25/11/2026 09:30"
+      "24/11/2026 21:30–25/11/2026 09:30",
+      "25/11/2026 21:30–26/11/2026 09:30"
     ],
     "lat": 38.983724,
     "lng": -1.853938,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "23/11/2026 21:30–24/11/2026 09:30 · 24/11/2026 21:30–25/11/2026 09:30"
+    "guardia_franja": "24/11/2026 21:30–25/11/2026 09:30 · 25/11/2026 21:30–26/11/2026 09:30"
   },
   {
     "id": "cof-albacete-AB-0175-F",
@@ -336,13 +343,13 @@
       "Bonete"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T00:00:00",
-        "fin": "2026-11-25T00:00:00",
+        "inicio": "2026-11-25T00:00:00",
+        "fin": "2026-11-26T00:00:00",
         "inicio_original": "2026-11-23T10:00:00",
         "fin_original": "2026-11-30T10:00:00"
       }
@@ -372,25 +379,25 @@
       "Casas De Lazaro"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-20",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-20T00:00:00",
-        "fin": "2026-11-20T10:00:00",
-        "inicio_original": "2026-11-19T10:00:00",
-        "fin_original": "2026-11-20T10:00:00"
+        "inicio": "2026-11-25T10:00:00",
+        "fin": "2026-11-26T00:00:00",
+        "inicio_original": "2026-11-25T10:00:00",
+        "fin_original": "2026-11-26T10:00:00"
       }
     ],
     "guardia_franjas": [
-      "19/11/2026 10:00–20/11/2026 10:00"
+      "25/11/2026 10:00–26/11/2026 10:00"
     ],
     "lat": 38.769707,
     "lng": -2.240888,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "19/11/2026 10:00–20/11/2026 10:00"
+    "guardia_franja": "25/11/2026 10:00–26/11/2026 10:00"
   },
   {
     "id": "cof-albacete-AB-0071-F",
@@ -406,13 +413,13 @@
       "Casas Ibañez"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T00:00:00",
-        "fin": "2026-11-25T00:00:00",
+        "inicio": "2026-11-25T00:00:00",
+        "fin": "2026-11-26T00:00:00",
         "inicio_original": "2026-11-23T09:30:00",
         "fin_original": "2026-11-30T09:30:00"
       }
@@ -476,25 +483,25 @@
       "El Bonillo"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T00:00:00",
-        "fin": "2026-11-24T09:30:00",
-        "inicio_original": "2026-11-23T09:30:00",
-        "fin_original": "2026-11-24T09:30:00"
+        "inicio": "2026-11-25T09:30:00",
+        "fin": "2026-11-26T00:00:00",
+        "inicio_original": "2026-11-25T09:30:00",
+        "fin_original": "2026-11-26T09:30:00"
       }
     ],
     "guardia_franjas": [
-      "23/11/2026 09:30–24/11/2026 09:30"
+      "25/11/2026 09:30–26/11/2026 09:30"
     ],
     "lat": 38.9516575,
     "lng": -2.5376845,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "23/11/2026 09:30–24/11/2026 09:30"
+    "guardia_franja": "25/11/2026 09:30–26/11/2026 09:30"
   },
   {
     "id": "cof-albacete-AB-0221-F",
@@ -510,13 +517,13 @@
       "Elche De La Sierra"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T00:00:00",
-        "fin": "2026-11-25T00:00:00",
+        "inicio": "2026-11-25T00:00:00",
+        "fin": "2026-11-26T00:00:00",
         "inicio_original": "2026-11-23T09:00:00",
         "fin_original": "2026-11-30T09:00:00"
       }
@@ -650,13 +657,13 @@
       "Madrigueras"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T00:00:00",
-        "fin": "2026-11-25T00:00:00",
+        "inicio": "2026-11-25T00:00:00",
+        "fin": "2026-11-26T00:00:00",
         "inicio_original": "2026-11-23T09:30:00",
         "fin_original": "2026-11-30T09:30:00"
       }
@@ -684,13 +691,13 @@
       "Molinicos"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T00:00:00",
-        "fin": "2026-11-25T00:00:00",
+        "inicio": "2026-11-25T00:00:00",
+        "fin": "2026-11-26T00:00:00",
         "inicio_original": "2026-07-01T09:30:00",
         "fin_original": "2027-01-01T09:30:00"
       }
@@ -720,25 +727,25 @@
       "Munera"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T00:00:00",
-        "fin": "2026-11-24T09:30:00",
-        "inicio_original": "2026-11-23T09:30:00",
-        "fin_original": "2026-11-24T09:30:00"
+        "inicio": "2026-11-25T09:30:00",
+        "fin": "2026-11-26T00:00:00",
+        "inicio_original": "2026-11-25T09:30:00",
+        "fin_original": "2026-11-26T09:30:00"
       }
     ],
     "guardia_franjas": [
-      "23/11/2026 09:30–24/11/2026 09:30"
+      "25/11/2026 09:30–26/11/2026 09:30"
     ],
     "lat": 39.0403372,
     "lng": -2.4801381,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "23/11/2026 09:30–24/11/2026 09:30"
+    "guardia_franja": "25/11/2026 09:30–26/11/2026 09:30"
   },
   {
     "id": "cof-albacete-AB-0136-F",
@@ -754,13 +761,13 @@
       "Nerpio"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T00:00:00",
-        "fin": "2026-11-25T00:00:00",
+        "inicio": "2026-11-25T00:00:00",
+        "fin": "2026-11-26T00:00:00",
         "inicio_original": "2026-07-01T10:00:00",
         "fin_original": "2027-01-01T10:00:00"
       }
@@ -822,13 +829,13 @@
       "Ossa De Montiel"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T00:00:00",
-        "fin": "2026-11-25T00:00:00",
+        "inicio": "2026-11-25T00:00:00",
+        "fin": "2026-11-26T00:00:00",
         "inicio_original": "2026-11-23T10:00:00",
         "fin_original": "2026-11-30T10:00:00"
       }
@@ -926,25 +933,25 @@
       "Salobre"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-18",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-18T00:00:00",
-        "fin": "2026-11-18T10:00:00",
-        "inicio_original": "2026-11-17T10:00:00",
-        "fin_original": "2026-11-18T10:00:00"
+        "inicio": "2026-11-25T10:00:00",
+        "fin": "2026-11-26T00:00:00",
+        "inicio_original": "2026-11-25T10:00:00",
+        "fin_original": "2026-11-26T10:00:00"
       }
     ],
     "guardia_franjas": [
-      "17/11/2026 10:00–18/11/2026 10:00"
+      "25/11/2026 10:00–26/11/2026 10:00"
     ],
     "lat": 38.5931364,
     "lng": -2.5491504,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "17/11/2026 10:00–18/11/2026 10:00"
+    "guardia_franja": "25/11/2026 10:00–26/11/2026 10:00"
   },
   {
     "id": "cof-albacete-AB-0118-F",
@@ -962,13 +969,13 @@
       "Tarazona De La Mancha"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T00:00:00",
-        "fin": "2026-11-25T00:00:00",
+        "inicio": "2026-11-25T00:00:00",
+        "fin": "2026-11-26T00:00:00",
         "inicio_original": "2026-11-23T09:00:00",
         "fin_original": "2026-11-30T09:00:00"
       }
@@ -1106,13 +1113,13 @@
       "Villamalea"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T00:00:00",
-        "fin": "2026-11-25T00:00:00",
+        "inicio": "2026-11-25T00:00:00",
+        "fin": "2026-11-26T00:00:00",
         "inicio_original": "2026-11-23T09:30:00",
         "fin_original": "2026-11-30T09:30:00"
       }
@@ -1210,25 +1217,25 @@
       "Villarrobledo"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-20",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-20T00:00:00",
-        "fin": "2026-11-20T09:30:00",
-        "inicio_original": "2026-11-19T09:30:00",
-        "fin_original": "2026-11-20T09:30:00"
+        "inicio": "2026-11-25T09:30:00",
+        "fin": "2026-11-25T21:30:00",
+        "inicio_original": "2026-11-25T09:30:00",
+        "fin_original": "2026-11-25T21:30:00"
       }
     ],
     "guardia_franjas": [
-      "19/11/2026 09:30–20/11/2026 09:30"
+      "25/11/2026 09:30–25/11/2026 21:30"
     ],
     "lat": 39.265303,
     "lng": -2.597211,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "19/11/2026 09:30–20/11/2026 09:30"
+    "guardia_franja": "25/11/2026 09:30–25/11/2026 21:30"
   },
   {
     "id": "cof-albacete-AB-0131-F",
@@ -1246,13 +1253,13 @@
       "Yeste"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T00:00:00",
-        "fin": "2026-11-25T00:00:00",
+        "inicio": "2026-11-25T00:00:00",
+        "fin": "2026-11-26T00:00:00",
         "inicio_original": "2026-07-01T09:30:00",
         "fin_original": "2027-01-01T09:30:00"
       }
@@ -1354,13 +1361,13 @@
       "Albatana"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T00:00:00",
-        "fin": "2026-11-25T00:00:00",
+        "inicio": "2026-11-25T00:00:00",
+        "fin": "2026-11-26T00:00:00",
         "inicio_original": "2026-11-23T10:00:00",
         "fin_original": "2026-11-30T10:00:00"
       }
@@ -1458,13 +1465,13 @@
       "Cotillas"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T00:00:00",
-        "fin": "2026-11-25T00:00:00",
+        "inicio": "2026-11-25T00:00:00",
+        "fin": "2026-11-26T00:00:00",
         "inicio_original": "2026-11-23T10:00:00",
         "fin_original": "2026-11-27T10:00:00"
       }
@@ -1670,13 +1677,13 @@
       "Munera"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T09:30:00",
-        "fin": "2026-11-25T00:00:00",
+        "inicio": "2026-11-25T00:00:00",
+        "fin": "2026-11-25T09:30:00",
         "inicio_original": "2026-11-24T09:30:00",
         "fin_original": "2026-11-25T09:30:00"
       }
@@ -1706,25 +1713,25 @@
       "Peñas De San Pedro"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-20",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-20T00:00:00",
-        "fin": "2026-11-20T10:00:00",
-        "inicio_original": "2026-11-19T10:00:00",
-        "fin_original": "2026-11-20T10:00:00"
+        "inicio": "2026-11-25T10:00:00",
+        "fin": "2026-11-26T00:00:00",
+        "inicio_original": "2026-11-25T10:00:00",
+        "fin_original": "2026-11-26T10:00:00"
       }
     ],
     "guardia_franjas": [
-      "19/11/2026 10:00–20/11/2026 10:00"
+      "25/11/2026 10:00–26/11/2026 10:00"
     ],
     "lat": 38.7266169,
     "lng": -2.0019637,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "19/11/2026 10:00–20/11/2026 10:00"
+    "guardia_franja": "25/11/2026 10:00–26/11/2026 10:00"
   },
   {
     "id": "cof-albacete-AB-0227-F",
@@ -2024,25 +2031,25 @@
       "Albacete"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-10",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-10T09:30:00",
-        "fin": "2026-11-10T21:30:00",
-        "inicio_original": "2026-11-10T09:30:00",
-        "fin_original": "2026-11-10T21:30:00"
+        "inicio": "2026-11-25T09:30:00",
+        "fin": "2026-11-25T21:30:00",
+        "inicio_original": "2026-11-25T09:30:00",
+        "fin_original": "2026-11-25T21:30:00"
       }
     ],
     "guardia_franjas": [
-      "10/11/2026 09:30–10/11/2026 21:30"
+      "25/11/2026 09:30–25/11/2026 21:30"
     ],
     "lat": 38.99595,
     "lng": -1.86756,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "10/11/2026 09:30–10/11/2026 21:30"
+    "guardia_franja": "25/11/2026 09:30–25/11/2026 21:30"
   },
   {
     "id": "cof-albacete-AB-0004-F",
@@ -2590,13 +2597,13 @@
       "Tobarra"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T09:30:00",
-        "fin": "2026-11-25T00:00:00",
+        "inicio": "2026-11-25T00:00:00",
+        "fin": "2026-11-26T00:00:00",
         "inicio_original": "2026-11-24T09:30:00",
         "fin_original": "2026-11-26T09:30:00"
       }
@@ -2798,13 +2805,13 @@
       "El Bonillo"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T09:30:00",
-        "fin": "2026-11-25T00:00:00",
+        "inicio": "2026-11-25T00:00:00",
+        "fin": "2026-11-25T09:30:00",
         "inicio_original": "2026-11-24T09:30:00",
         "fin_original": "2026-11-25T09:30:00"
       }
@@ -2938,25 +2945,25 @@
       "Mahora"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-18",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-18T09:30:00",
-        "fin": "2026-11-18T21:30:00",
-        "inicio_original": "2026-11-18T09:30:00",
-        "fin_original": "2026-11-18T21:30:00"
+        "inicio": "2026-11-25T09:30:00",
+        "fin": "2026-11-25T21:30:00",
+        "inicio_original": "2026-11-25T09:30:00",
+        "fin_original": "2026-11-25T21:30:00"
       }
     ],
     "guardia_franjas": [
-      "18/11/2026 09:30–18/11/2026 21:30"
+      "25/11/2026 09:30–25/11/2026 21:30"
     ],
     "lat": 39.2115947,
     "lng": -1.7223941,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "18/11/2026 09:30–18/11/2026 21:30"
+    "guardia_franja": "25/11/2026 09:30–25/11/2026 21:30"
   },
   {
     "id": "cof-albacete-AB-0084-F",
@@ -3080,25 +3087,25 @@
       "Santiago Mora"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-18",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-18T10:00:00",
-        "fin": "2026-11-18T22:00:00",
-        "inicio_original": "2026-11-18T10:00:00",
-        "fin_original": "2026-11-18T22:00:00"
+        "inicio": "2026-11-25T10:00:00",
+        "fin": "2026-11-25T22:00:00",
+        "inicio_original": "2026-11-25T10:00:00",
+        "fin_original": "2026-11-25T22:00:00"
       }
     ],
     "guardia_franjas": [
-      "18/11/2026 10:00–18/11/2026 22:00"
+      "25/11/2026 10:00–25/11/2026 22:00"
     ],
     "lat": 38.569597,
     "lng": -1.597816,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "18/11/2026 10:00–18/11/2026 22:00"
+    "guardia_franja": "25/11/2026 10:00–25/11/2026 22:00"
   },
   {
     "id": "cof-albacete-AB-0230-F",
@@ -3326,25 +3333,25 @@
       "La Roda"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-23",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-23T00:00:00",
-        "fin": "2026-11-23T09:30:00",
-        "inicio_original": "2026-11-21T09:30:00",
-        "fin_original": "2026-11-23T09:30:00"
+        "inicio": "2026-11-25T09:30:00",
+        "fin": "2026-11-26T00:00:00",
+        "inicio_original": "2026-11-25T09:30:00",
+        "fin_original": "2026-11-26T09:30:00"
       }
     ],
     "guardia_franjas": [
-      "21/11/2026 09:30–23/11/2026 09:30"
+      "25/11/2026 09:30–26/11/2026 09:30"
     ],
     "lat": 39.2075066,
     "lng": -2.1603427,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "21/11/2026 09:30–23/11/2026 09:30"
+    "guardia_franja": "25/11/2026 09:30–26/11/2026 09:30"
   },
   {
     "id": "cof-albacete-AB-0056-F",
@@ -3502,25 +3509,25 @@
       "Villatoya"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-16",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-16T10:00:00",
-        "fin": "2026-11-16T22:00:00",
-        "inicio_original": "2026-11-16T10:00:00",
-        "fin_original": "2026-11-16T22:00:00"
+        "inicio": "2026-11-25T10:00:00",
+        "fin": "2026-11-25T22:00:00",
+        "inicio_original": "2026-11-25T10:00:00",
+        "fin_original": "2026-11-25T22:00:00"
       }
     ],
     "guardia_franjas": [
-      "16/11/2026 10:00–16/11/2026 22:00"
+      "25/11/2026 10:00–25/11/2026 22:00"
     ],
     "lat": 39.333578,
     "lng": -1.3405339,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "16/11/2026 10:00–16/11/2026 22:00"
+    "guardia_franja": "25/11/2026 10:00–25/11/2026 22:00"
   },
   {
     "id": "cof-albacete-AB-0108-F",
@@ -3678,13 +3685,13 @@
       "Alcadozo"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T10:00:00",
-        "fin": "2026-11-25T00:00:00",
+        "inicio": "2026-11-25T00:00:00",
+        "fin": "2026-11-25T10:00:00",
         "inicio_original": "2026-11-24T10:00:00",
         "fin_original": "2026-11-25T10:00:00"
       }
@@ -3782,13 +3789,13 @@
       "Balazote"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T10:00:00",
-        "fin": "2026-11-25T00:00:00",
+        "inicio": "2026-11-25T00:00:00",
+        "fin": "2026-11-25T10:00:00",
         "inicio_original": "2026-11-24T10:00:00",
         "fin_original": "2026-11-25T10:00:00"
       }
@@ -3918,13 +3925,13 @@
       "Socovos"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T00:00:00",
-        "fin": "2026-11-25T00:00:00",
+        "inicio": "2026-11-25T00:00:00",
+        "fin": "2026-11-26T00:00:00",
         "inicio_original": "2026-11-23T10:00:00",
         "fin_original": "2026-11-30T10:00:00"
       }
@@ -4096,13 +4103,13 @@
       "Almansa"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T09:30:00",
-        "fin": "2026-11-25T00:00:00",
+        "inicio": "2026-11-25T00:00:00",
+        "fin": "2026-11-25T09:30:00",
         "inicio_original": "2026-11-24T09:30:00",
         "fin_original": "2026-11-25T09:30:00"
       }
@@ -4236,13 +4243,13 @@
       "Villarrobledo"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T21:30:00",
-        "fin": "2026-11-25T00:00:00",
+        "inicio": "2026-11-25T00:00:00",
+        "fin": "2026-11-25T09:30:00",
         "inicio_original": "2026-11-24T21:30:00",
         "fin_original": "2026-11-25T09:30:00"
       }
@@ -4270,23 +4277,23 @@
       "Almansa"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-09",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-09T00:00:00",
-        "fin": "2026-11-09T09:30:00",
-        "inicio_original": "2026-11-08T09:30:00",
-        "fin_original": "2026-11-09T09:30:00"
+        "inicio": "2026-11-25T09:30:00",
+        "fin": "2026-11-26T00:00:00",
+        "inicio_original": "2026-11-25T09:30:00",
+        "fin_original": "2026-11-26T09:30:00"
       }
     ],
     "guardia_franjas": [
-      "08/11/2026 09:30–09/11/2026 09:30"
+      "25/11/2026 09:30–26/11/2026 09:30"
     ],
     "lat": null,
     "lng": null,
-    "guardia_franja": "08/11/2026 09:30–09/11/2026 09:30"
+    "guardia_franja": "25/11/2026 09:30–26/11/2026 09:30"
   },
   {
     "id": "cof-albacete-AB-0094-F",
@@ -5012,25 +5019,25 @@
       "Villarrobledo"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-11",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-11T00:00:00",
-        "fin": "2026-11-11T09:30:00",
-        "inicio_original": "2026-11-10T21:30:00",
-        "fin_original": "2026-11-11T09:30:00"
+        "inicio": "2026-11-25T21:30:00",
+        "fin": "2026-11-26T00:00:00",
+        "inicio_original": "2026-11-25T21:30:00",
+        "fin_original": "2026-11-26T09:30:00"
       }
     ],
     "guardia_franjas": [
-      "10/11/2026 21:30–11/11/2026 09:30"
+      "25/11/2026 21:30–26/11/2026 09:30"
     ],
     "lat": 39.2739534,
     "lng": -2.5963566,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "10/11/2026 21:30–11/11/2026 09:30"
+    "guardia_franja": "25/11/2026 21:30–26/11/2026 09:30"
   },
   {
     "id": "cof-albacete-AB-0096-F",
@@ -5150,13 +5157,13 @@
       "Hellin"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T09:00:00",
-        "fin": "2026-11-25T00:00:00",
+        "inicio": "2026-11-25T00:00:00",
+        "fin": "2026-11-25T09:00:00",
         "inicio_original": "2026-11-24T09:00:00",
         "fin_original": "2026-11-25T09:00:00"
       }
@@ -5290,25 +5297,25 @@
       "Hellin"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-13",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-13T00:00:00",
-        "fin": "2026-11-13T09:00:00",
-        "inicio_original": "2026-11-12T09:00:00",
-        "fin_original": "2026-11-13T09:00:00"
+        "inicio": "2026-11-25T09:00:00",
+        "fin": "2026-11-26T00:00:00",
+        "inicio_original": "2026-11-25T09:00:00",
+        "fin_original": "2026-11-26T09:00:00"
       }
     ],
     "guardia_franjas": [
-      "12/11/2026 09:00–13/11/2026 09:00"
+      "25/11/2026 09:00–26/11/2026 09:00"
     ],
     "lat": 38.5058794,
     "lng": -1.6979692,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "12/11/2026 09:00–13/11/2026 09:00"
+    "guardia_franja": "25/11/2026 09:00–26/11/2026 09:00"
   },
   {
     "id": "cof-albacete-AB-0180-F",
@@ -5891,13 +5898,13 @@
       "La Roda"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T09:30:00",
-        "fin": "2026-11-25T00:00:00",
+        "inicio": "2026-11-25T00:00:00",
+        "fin": "2026-11-25T09:30:00",
         "inicio_original": "2026-11-24T09:30:00",
         "fin_original": "2026-11-25T09:30:00"
       }
@@ -6031,13 +6038,13 @@
       "Povedilla"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T10:00:00",
-        "fin": "2026-11-25T00:00:00",
+        "inicio": "2026-11-25T00:00:00",
+        "fin": "2026-11-25T10:00:00",
         "inicio_original": "2026-11-24T10:00:00",
         "fin_original": "2026-11-25T10:00:00"
       }
@@ -6237,25 +6244,25 @@
       "Albacete"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-20",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-20T09:30:00",
-        "fin": "2026-11-20T21:30:00",
-        "inicio_original": "2026-11-20T09:30:00",
-        "fin_original": "2026-11-20T21:30:00"
+        "inicio": "2026-11-25T09:30:00",
+        "fin": "2026-11-25T21:30:00",
+        "inicio_original": "2026-11-25T09:30:00",
+        "fin_original": "2026-11-25T21:30:00"
       }
     ],
     "guardia_franjas": [
-      "20/11/2026 09:30–20/11/2026 21:30"
+      "25/11/2026 09:30–25/11/2026 21:30"
     ],
     "lat": 38.9830543,
     "lng": -1.8418482,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "20/11/2026 09:30–20/11/2026 21:30"
+    "guardia_franja": "25/11/2026 09:30–25/11/2026 21:30"
   },
   {
     "id": "cof-albacete-AB-0065-F",
@@ -6271,13 +6278,13 @@
       "Caudete"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T00:00:00",
-        "fin": "2026-11-25T00:00:00",
+        "inicio": "2026-11-25T00:00:00",
+        "fin": "2026-11-26T00:00:00",
         "inicio_original": "2026-11-20T09:30:00",
         "fin_original": "2026-11-27T09:30:00"
       }
@@ -6340,13 +6347,13 @@
       "Barrax"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T00:00:00",
-        "fin": "2026-11-25T00:00:00",
+        "inicio": "2026-11-25T00:00:00",
+        "fin": "2026-11-26T00:00:00",
         "inicio_original": "2026-11-23T09:30:00",
         "fin_original": "2026-11-30T09:30:00"
       }
@@ -6376,13 +6383,13 @@
       "Casas De Juan Nuñez"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T00:00:00",
-        "fin": "2026-11-25T00:00:00",
+        "inicio": "2026-11-25T00:00:00",
+        "fin": "2026-11-26T00:00:00",
         "inicio_original": "2026-11-23T10:00:00",
         "fin_original": "2026-11-30T10:00:00"
       }
@@ -6412,13 +6419,13 @@
       "Chinchilla"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T00:00:00",
-        "fin": "2026-11-25T00:00:00",
+        "inicio": "2026-11-25T00:00:00",
+        "fin": "2026-11-26T00:00:00",
         "inicio_original": "2026-11-23T10:00:00",
         "fin_original": "2026-11-30T10:00:00"
       }
@@ -6448,13 +6455,13 @@
       "Isso"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T00:00:00",
-        "fin": "2026-11-25T00:00:00",
+        "inicio": "2026-11-25T00:00:00",
+        "fin": "2026-11-26T00:00:00",
         "inicio_original": "2026-11-23T09:30:00",
         "fin_original": "2026-11-27T21:30:00"
       }

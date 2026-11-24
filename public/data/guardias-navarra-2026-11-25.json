@@ -1,0 +1,224 @@
+[
+  {
+    "id": "navarra-f00393",
+    "cofm_id": null,
+    "nombre": "Andueza Diaz, Oihane",
+    "direccion": "C/ Espoz y Mina, 1 . Barrio de San Miguel",
+    "localidad": "Estella-Lizarra",
+    "provincia": "Navarra",
+    "telefono": "948546284",
+    "guardia": true,
+    "fecha_guardia": "2026-11-25",
+    "fuente": "https://datosabiertos.navarra.es/es/dataset/farmacias-de-guardia",
+    "fuente_licencia": "https://creativecommons.org/licenses/by/4.0/",
+    "localidades_atendidas": [
+      "Estella-Lizarra"
+    ],
+    "lat": 42.6707539,
+    "lng": -2.026824,
+    "guardia_franjas": [
+      "Fuente: desde 9, hasta 21; horario y cambio de fecha pendientes de confirmar.",
+      "Fuente: desde 21, hasta 9; horario y cambio de fecha pendientes de confirmar."
+    ],
+    "horarios_fuente": [
+      {
+        "desde": "9",
+        "hasta": "21"
+      },
+      {
+        "desde": "21",
+        "hasta": "9"
+      }
+    ],
+    "guardia_franja": "Fuente: desde 9, hasta 21; horario y cambio de fecha pendientes de confirmar. · Fuente: desde 21, hasta 9; horario y cambio de fecha pendientes de confirmar.",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/4329742595",
+    "nota_ubicacion": "Teléfono, dirección y portal CartoCiudad coinciden a 2.1 m.",
+    "ajuste_ubicacion_m": 2.1,
+    "referencia_ubicacion": "https://www.cartociudad.es/geocoder/api/geocoder/reverseGeocode?lon=-2.026824&lat=42.6707539"
+  },
+  {
+    "id": "navarra-f00201",
+    "cofm_id": null,
+    "nombre": "Aragon Marin, Alba",
+    "direccion": "Pº Enamorados, 31 . Rochapea",
+    "localidad": "Pamplona / Iruña",
+    "provincia": "Navarra",
+    "telefono": "948125901",
+    "guardia": true,
+    "fecha_guardia": "2026-11-25",
+    "fuente": "https://datosabiertos.navarra.es/es/dataset/farmacias-de-guardia",
+    "fuente_licencia": "https://creativecommons.org/licenses/by/4.0/",
+    "localidades_atendidas": [
+      "Pamplona / Iruña"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_franjas": [
+      "Fuente: desde 10, hasta 21; horario y cambio de fecha pendientes de confirmar."
+    ],
+    "horarios_fuente": [
+      {
+        "desde": "10",
+        "hasta": "21"
+      }
+    ],
+    "guardia_franja": "Fuente: desde 10, hasta 21; horario y cambio de fecha pendientes de confirmar."
+  },
+  {
+    "id": "navarra-f00542",
+    "cofm_id": null,
+    "nombre": "Celdran Lazaro, Carmen",
+    "direccion": "C/ Del Lago, 13 . Junto al lago. Mendillorri - Fase 2",
+    "localidad": "Pamplona / Iruña",
+    "provincia": "Navarra",
+    "telefono": "948163733",
+    "guardia": true,
+    "fecha_guardia": "2026-11-25",
+    "fuente": "https://datosabiertos.navarra.es/es/dataset/farmacias-de-guardia",
+    "fuente_licencia": "https://creativecommons.org/licenses/by/4.0/",
+    "localidades_atendidas": [
+      "Pamplona / Iruña"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_franjas": [
+      "Fuente: desde 10, hasta 21; horario y cambio de fecha pendientes de confirmar."
+    ],
+    "horarios_fuente": [
+      {
+        "desde": "10",
+        "hasta": "21"
+      }
+    ],
+    "guardia_franja": "Fuente: desde 10, hasta 21; horario y cambio de fecha pendientes de confirmar."
+  },
+  {
+    "id": "navarra-f00205",
+    "cofm_id": null,
+    "nombre": "Marfil Garcia, Alberto",
+    "direccion": "C/ Yanguas y Miranda, 17",
+    "localidad": "Pamplona / Iruña",
+    "provincia": "Navarra",
+    "telefono": "948245030",
+    "guardia": true,
+    "fecha_guardia": "2026-11-25",
+    "fuente": "https://datosabiertos.navarra.es/es/dataset/farmacias-de-guardia",
+    "fuente_licencia": "https://creativecommons.org/licenses/by/4.0/",
+    "localidades_atendidas": [
+      "Pamplona / Iruña"
+    ],
+    "lat": 42.8121504,
+    "lng": -1.6449965,
+    "guardia_franjas": [
+      "Fuente: desde 10, hasta 21; horario y cambio de fecha pendientes de confirmar.",
+      "Fuente: desde 21, hasta 10; horario y cambio de fecha pendientes de confirmar."
+    ],
+    "horarios_fuente": [
+      {
+        "desde": "10",
+        "hasta": "21"
+      },
+      {
+        "desde": "21",
+        "hasta": "10"
+      }
+    ],
+    "guardia_franja": "Fuente: desde 10, hasta 21; horario y cambio de fecha pendientes de confirmar. · Fuente: desde 21, hasta 10; horario y cambio de fecha pendientes de confirmar.",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/2585013618",
+    "nota_ubicacion": "Ubicación contrastada: la dirección y una farmacia de OpenStreetMap coinciden a 6 m.",
+    "osm_id": "osm-2585013618",
+    "ajuste_ubicacion_m": 6.3,
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/9176040415"
+  },
+  {
+    "id": "navarra-f00550",
+    "cofm_id": null,
+    "nombre": "Menendez Garcia, Graciela",
+    "direccion": "C/ Irunlarrea, 19 . Próx. Virgen del Camino. Mendebaldea",
+    "localidad": "Pamplona / Iruña",
+    "provincia": "Navarra",
+    "telefono": "948198191",
+    "guardia": true,
+    "fecha_guardia": "2026-11-25",
+    "fuente": "https://datosabiertos.navarra.es/es/dataset/farmacias-de-guardia",
+    "fuente_licencia": "https://creativecommons.org/licenses/by/4.0/",
+    "localidades_atendidas": [
+      "Pamplona / Iruña"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_franjas": [
+      "Fuente: desde 10, hasta 21; horario y cambio de fecha pendientes de confirmar.",
+      "Fuente: desde 21, hasta 10; horario y cambio de fecha pendientes de confirmar."
+    ],
+    "horarios_fuente": [
+      {
+        "desde": "10",
+        "hasta": "21"
+      },
+      {
+        "desde": "21",
+        "hasta": "10"
+      }
+    ],
+    "guardia_franja": "Fuente: desde 10, hasta 21; horario y cambio de fecha pendientes de confirmar. · Fuente: desde 21, hasta 10; horario y cambio de fecha pendientes de confirmar."
+  },
+  {
+    "id": "navarra-f00761",
+    "cofm_id": null,
+    "nombre": "Morte Casado, Leticia Alba",
+    "direccion": "Pº Capuchinas, 33 (Mercadona) . Frente a Mercadona.",
+    "localidad": "Tudela",
+    "provincia": "Navarra",
+    "telefono": "948415298",
+    "guardia": true,
+    "fecha_guardia": "2026-11-25",
+    "fuente": "https://datosabiertos.navarra.es/es/dataset/farmacias-de-guardia",
+    "fuente_licencia": "https://creativecommons.org/licenses/by/4.0/",
+    "localidades_atendidas": [
+      "Tudela"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_franjas": [
+      "Fuente: desde 9, hasta 21; horario y cambio de fecha pendientes de confirmar."
+    ],
+    "horarios_fuente": [
+      {
+        "desde": "9",
+        "hasta": "21"
+      }
+    ],
+    "guardia_franja": "Fuente: desde 9, hasta 21; horario y cambio de fecha pendientes de confirmar."
+  },
+  {
+    "id": "navarra-f00048",
+    "cofm_id": null,
+    "nombre": "Viera Rivas, Raul Alejandro",
+    "direccion": "C/ Amigos del País, 2 . Esq. Díaz Bravo, 27",
+    "localidad": "Tudela",
+    "provincia": "Navarra",
+    "telefono": "948411649",
+    "guardia": true,
+    "fecha_guardia": "2026-11-25",
+    "fuente": "https://datosabiertos.navarra.es/es/dataset/farmacias-de-guardia",
+    "fuente_licencia": "https://creativecommons.org/licenses/by/4.0/",
+    "localidades_atendidas": [
+      "Tudela"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_franjas": [
+      "Fuente: desde 21, hasta 9; horario y cambio de fecha pendientes de confirmar."
+    ],
+    "horarios_fuente": [
+      {
+        "desde": "21",
+        "hasta": "9"
+      }
+    ],
+    "guardia_franja": "Fuente: desde 21, hasta 9; horario y cambio de fecha pendientes de confirmar."
+  }
+]

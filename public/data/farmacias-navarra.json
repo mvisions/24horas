@@ -36,7 +36,7 @@
     "provincia": "Navarra",
     "telefono": "948245030",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://datosabiertos.navarra.es/es/dataset/farmacias-de-guardia",
     "fuente_licencia": "https://creativecommons.org/licenses/by/4.0/",
     "localidades_atendidas": [
@@ -45,15 +45,20 @@
     "lat": 42.8121504,
     "lng": -1.6449965,
     "guardia_franjas": [
+      "Fuente: desde 10, hasta 21; horario y cambio de fecha pendientes de confirmar.",
       "Fuente: desde 21, hasta 10; horario y cambio de fecha pendientes de confirmar."
     ],
     "horarios_fuente": [
+      {
+        "desde": "10",
+        "hasta": "21"
+      },
       {
         "desde": "21",
         "hasta": "10"
       }
     ],
-    "guardia_franja": "Fuente: desde 21, hasta 10; horario y cambio de fecha pendientes de confirmar.",
+    "guardia_franja": "Fuente: desde 10, hasta 21; horario y cambio de fecha pendientes de confirmar. · Fuente: desde 21, hasta 10; horario y cambio de fecha pendientes de confirmar.",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/2585013618",
     "nota_ubicacion": "Ubicación contrastada: la dirección y una farmacia de OpenStreetMap coinciden a 6 m.",
@@ -70,7 +75,7 @@
     "provincia": "Navarra",
     "telefono": "948198191",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://datosabiertos.navarra.es/es/dataset/farmacias-de-guardia",
     "fuente_licencia": "https://creativecommons.org/licenses/by/4.0/",
     "localidades_atendidas": [
@@ -79,15 +84,20 @@
     "lat": null,
     "lng": null,
     "guardia_franjas": [
+      "Fuente: desde 10, hasta 21; horario y cambio de fecha pendientes de confirmar.",
       "Fuente: desde 21, hasta 10; horario y cambio de fecha pendientes de confirmar."
     ],
     "horarios_fuente": [
+      {
+        "desde": "10",
+        "hasta": "21"
+      },
       {
         "desde": "21",
         "hasta": "10"
       }
     ],
-    "guardia_franja": "Fuente: desde 21, hasta 10; horario y cambio de fecha pendientes de confirmar."
+    "guardia_franja": "Fuente: desde 10, hasta 21; horario y cambio de fecha pendientes de confirmar. · Fuente: desde 21, hasta 10; horario y cambio de fecha pendientes de confirmar."
   },
   {
     "id": "navarra-f00060",
@@ -197,7 +207,7 @@
     "provincia": "Navarra",
     "telefono": "948125901",
     "guardia": false,
-    "fecha_guardia": "2026-11-20",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://datosabiertos.navarra.es/es/dataset/farmacias-de-guardia",
     "fuente_licencia": "https://creativecommons.org/licenses/by/4.0/",
     "localidades_atendidas": [
@@ -375,7 +385,7 @@
     "provincia": "Navarra",
     "telefono": "948415298",
     "guardia": false,
-    "fecha_guardia": "2026-11-23",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://datosabiertos.navarra.es/es/dataset/farmacias-de-guardia",
     "fuente_licencia": "https://creativecommons.org/licenses/by/4.0/",
     "localidades_atendidas": [
@@ -802,7 +812,7 @@
     "provincia": "Navarra",
     "telefono": "948546284",
     "guardia": false,
-    "fecha_guardia": "2026-11-18",
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://datosabiertos.navarra.es/es/dataset/farmacias-de-guardia",
     "fuente_licencia": "https://creativecommons.org/licenses/by/4.0/",
     "localidades_atendidas": [
@@ -1728,6 +1738,62 @@
     "telefono": "948847026",
     "guardia": false,
     "fecha_guardia": "2026-11-24",
+    "fuente": "https://datosabiertos.navarra.es/es/dataset/farmacias-de-guardia",
+    "fuente_licencia": "https://creativecommons.org/licenses/by/4.0/",
+    "localidades_atendidas": [
+      "Tudela"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_franjas": [
+      "Fuente: desde 21, hasta 9; horario y cambio de fecha pendientes de confirmar."
+    ],
+    "horarios_fuente": [
+      {
+        "desde": "21",
+        "hasta": "9"
+      }
+    ],
+    "guardia_franja": "Fuente: desde 21, hasta 9; horario y cambio de fecha pendientes de confirmar."
+  },
+  {
+    "id": "navarra-f00542",
+    "cofm_id": null,
+    "nombre": "Celdran Lazaro, Carmen",
+    "direccion": "C/ Del Lago, 13 . Junto al lago. Mendillorri - Fase 2",
+    "localidad": "Pamplona / Iruña",
+    "provincia": "Navarra",
+    "telefono": "948163733",
+    "guardia": false,
+    "fecha_guardia": "2026-11-25",
+    "fuente": "https://datosabiertos.navarra.es/es/dataset/farmacias-de-guardia",
+    "fuente_licencia": "https://creativecommons.org/licenses/by/4.0/",
+    "localidades_atendidas": [
+      "Pamplona / Iruña"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_franjas": [
+      "Fuente: desde 10, hasta 21; horario y cambio de fecha pendientes de confirmar."
+    ],
+    "horarios_fuente": [
+      {
+        "desde": "10",
+        "hasta": "21"
+      }
+    ],
+    "guardia_franja": "Fuente: desde 10, hasta 21; horario y cambio de fecha pendientes de confirmar."
+  },
+  {
+    "id": "navarra-f00048",
+    "cofm_id": null,
+    "nombre": "Viera Rivas, Raul Alejandro",
+    "direccion": "C/ Amigos del País, 2 . Esq. Díaz Bravo, 27",
+    "localidad": "Tudela",
+    "provincia": "Navarra",
+    "telefono": "948411649",
+    "guardia": false,
+    "fecha_guardia": "2026-11-25",
     "fuente": "https://datosabiertos.navarra.es/es/dataset/farmacias-de-guardia",
     "fuente_licencia": "https://creativecommons.org/licenses/by/4.0/",
     "localidades_atendidas": [

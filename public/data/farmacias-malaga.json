@@ -1447,14 +1447,15 @@
     "cofm_id": "29000061",
     "direccion": "PLAZA SAN FRANCISCO, 1",
     "localidad": "Antequera",
+    "sector": "",
     "zona": "Antequera",
     "provincia": "Málaga",
     "guardia": false,
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
     "lat": 37.0191003,
     "lng": -4.558134,
     "precision_ubicacion": "aproximada",
-    "fuente_coordenadas": "https://www.openstreetmap.org",
-    "sector": ""
+    "fuente_coordenadas": "https://www.openstreetmap.org"
   },
   {
     "id": "29-29000625",
@@ -1536,12 +1537,13 @@
     "cofm_id": "29000396",
     "direccion": "RUPERTO ANDUEZ, 11",
     "localidad": "Nerja",
+    "sector": "",
     "zona": "Nerja",
     "provincia": "Málaga",
     "guardia": false,
-    "lat": null,
-    "lng": null,
-    "sector": ""
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": 36.750519,
+    "lng": -3.8739113
   },
   {
     "id": "29-29010088",
@@ -1646,12 +1648,13 @@
     "cofm_id": "29000098",
     "direccion": "CARRERA, 54",
     "localidad": "Archidona",
+    "sector": "",
     "zona": "Archidona",
     "provincia": "Málaga",
     "guardia": false,
-    "lat": null,
-    "lng": null,
-    "sector": ""
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": 37.0959599,
+    "lng": -4.3901426
   },
   {
     "id": "29-29000550",
@@ -1720,13 +1723,14 @@
     "cofm_id": "29010053",
     "direccion": "C/ MANUEL ALTOLAGUIRRE NUM. 1 ESQUINA C/ ILDEFONSO MARZO (JUNTO CENTRO DE SALUD LAS DELICIAS)",
     "localidad": "Málaga",
+    "sector": "SECTOR CARRETERA DE CADIZ",
     "zona": "Málaga capital",
     "provincia": "Málaga",
     "guardia": false,
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
     "lat": 36.6971134,
     "lng": -4.4440595,
-    "precision_ubicacion": "aproximada",
-    "sector": "SECTOR CARRETERA DE CADIZ"
+    "precision_ubicacion": "aproximada"
   },
   {
     "id": "29-29010233",
@@ -2470,14 +2474,15 @@
   {
     "id": "29-29000607",
     "cofm_id": "29000607",
-    "direccion": "SEVERO OCHOA, 9",
-    "localidad": "Cártama",
+    "direccion": "SEVERO OCHOA, 9 - Cartama",
+    "localidad": "Estacion",
+    "sector": "",
     "zona": "Cartama",
     "provincia": "Málaga",
     "guardia": false,
-    "lat": null,
-    "lng": null,
-    "sector": "Cartama - Estacion"
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": 36.7334999,
+    "lng": -4.6141272
   },
   {
     "id": "29-29000130",
@@ -2671,12 +2676,13 @@
     "cofm_id": "29000162",
     "direccion": "C/ ANTONIO POZO SOLIS, 2",
     "localidad": "Coin",
+    "sector": "",
     "zona": "Coin",
     "provincia": "Málaga",
     "guardia": false,
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
     "lat": null,
-    "lng": null,
-    "sector": ""
+    "lng": null
   },
   {
     "id": "29-29010157",
@@ -2787,24 +2793,26 @@
     "cofm_id": "29000470",
     "direccion": "DR. MARAÑON EDF. CARACOLA N  8",
     "localidad": "Vélez-Málaga",
+    "sector": "TORRE DEL MAR",
     "zona": "Torre del Mar",
     "provincia": "Málaga",
     "guardia": false,
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
     "lat": null,
-    "lng": null,
-    "sector": "TORRE DEL MAR"
+    "lng": null
   },
   {
     "id": "29-29000299",
     "cofm_id": "29000299",
     "direccion": "AVDA VIVAR TELLE, 73",
     "localidad": "Velez-Malaga",
+    "sector": "",
     "zona": "Velez - Malaga",
     "provincia": "Málaga",
     "guardia": false,
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
     "lat": null,
-    "lng": null,
-    "sector": ""
+    "lng": null
   },
   {
     "id": "29-29000142",
@@ -2940,26 +2948,28 @@
     "cofm_id": "29000516",
     "direccion": "AV. MEDITERRANEO, 143    EDF. BELLAMAR",
     "localidad": "Rincon de la Victoria",
+    "sector": "",
     "zona": "Ricon de la Victoria",
     "provincia": "Málaga",
     "guardia": false,
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
     "lat": null,
-    "lng": null,
-    "sector": ""
+    "lng": null
   },
   {
     "id": "29-29000473",
     "cofm_id": "29000473",
     "direccion": "PLAZA RUEDO ALAMEDA, 1",
     "localidad": "Ronda",
+    "sector": "",
     "zona": "Ronda",
     "provincia": "Málaga",
     "guardia": false,
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
     "lat": 36.7344204,
     "lng": -5.1642909,
     "precision_ubicacion": "farmacia",
-    "fuente_coordenadas": "https://www.openstreetmap.org",
-    "sector": ""
+    "fuente_coordenadas": "https://www.openstreetmap.org"
   },
   {
     "id": "29-29000032",
@@ -3555,12 +3565,13 @@
     "cofm_id": "29000336",
     "direccion": "AV. JUAN CARLOS I, 6",
     "localidad": "Estepona",
+    "sector": "",
     "zona": "Estepona",
     "provincia": "Málaga",
     "guardia": false,
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
     "lat": null,
-    "lng": null,
-    "sector": ""
+    "lng": null
   },
   {
     "id": "29-29010004",
@@ -4903,13 +4914,27 @@
   {
     "id": "29-29000177",
     "cofm_id": "29000177",
-    "direccion": "AVDA ANTONIO MACHADO, 12",
-    "localidad": "Benalmadena - Costa",
+    "direccion": "AVDA ANTONIO MACHADO, 12 - Benalmadena",
+    "localidad": "Costa",
+    "sector": "",
     "zona": "Benalmadena",
     "provincia": "Málaga",
     "guardia": false,
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
     "lat": null,
-    "lng": null,
-    "sector": ""
+    "lng": null
+  },
+  {
+    "id": "29-29000186",
+    "cofm_id": "29000186",
+    "direccion": "DON JUAN DE AUSTRIA, 22",
+    "localidad": "Málaga",
+    "sector": "SECTOR BAILEN-HOSPITAL CIVIL",
+    "zona": "Málaga capital",
+    "provincia": "Málaga",
+    "guardia": false,
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": null,
+    "lng": null
   }
 ]

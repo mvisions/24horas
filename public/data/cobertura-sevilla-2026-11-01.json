@@ -2,7 +2,7 @@
   "fecha": "2026-11-01",
   "provincia": "Sevilla",
   "fuente": "https://www.farmaceuticosdesevilla.es/ciudadanos/utilidades/localizador-de-farmacias/",
-  "consultado": "2026-11-23T11:05:30.958704+00:00",
+  "consultado": "2026-11-24T20:33:32.652510+00:00",
   "completa": false,
   "municipios": [
     {
@@ -1647,14 +1647,14 @@
     },
     {
       "url": "https://servicios.farmaceuticosdesevilla.es/images/farmaciasguardia/T4/Sevilla.pdf",
-      "estado": "disponible",
-      "farmacias": 54,
+      "estado": "sin_fecha",
+      "farmacias": 0,
       "revision_visual": false
     },
     {
       "url": "https://servicios.farmaceuticosdesevilla.es/images/farmaciasguardia/T4/alcaladeguadaira.pdf",
-      "estado": "disponible",
-      "farmacias": 4,
+      "estado": "sin_fecha",
+      "farmacias": 0,
       "revision_visual": false
     },
     {
@@ -1755,8 +1755,8 @@
     },
     {
       "url": "https://servicios.farmaceuticosdesevilla.es/images/farmaciasguardia/T4/moron-osuna-estepa.pdf",
-      "estado": "disponible",
-      "farmacias": 22,
+      "estado": "sin_fecha",
+      "farmacias": 0,
       "revision_visual": false
     },
     {
@@ -1767,8 +1767,8 @@
     },
     {
       "url": "https://servicios.farmaceuticosdesevilla.es/images/farmaciasguardia/T4/sierranorte.pdf",
-      "estado": "disponible",
-      "farmacias": 18,
+      "estado": "sin_fecha",
+      "farmacias": 0,
       "revision_visual": false
     },
     {
@@ -1790,7 +1790,7 @@
       "revision_visual": false
     }
   ],
-  "farmacias": 127,
-  "con_coordenadas": 124,
+  "farmacias": 29,
+  "con_coordenadas": 29,
   "calendario_actualizado": false
 }

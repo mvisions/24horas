@@ -2,8 +2,8 @@
   "fecha": "2026-11-30",
   "provincia": "Sevilla",
   "fuente": "https://www.farmaceuticosdesevilla.es/ciudadanos/utilidades/localizador-de-farmacias/",
-  "consultado": "2026-11-23T11:05:31.033024+00:00",
-  "completa": false,
+  "consultado": "2026-11-24T20:33:32.736758+00:00",
+  "completa": true,
   "municipios": [
     {
       "municipio": "Aguadulce",
@@ -1636,7 +1636,7 @@
     {
       "url": "https://servicios.farmaceuticosdesevilla.es/images/farmaciasguardia/T4/Aljarafe.pdf",
       "estado": "disponible",
-      "farmacias": 43,
+      "farmacias": 44,
       "revision_visual": false
     },
     {
@@ -1647,8 +1647,8 @@
     },
     {
       "url": "https://servicios.farmaceuticosdesevilla.es/images/farmaciasguardia/T4/Sevilla.pdf",
-      "estado": "sin_fecha",
-      "farmacias": 0,
+      "estado": "disponible",
+      "farmacias": 63,
       "revision_visual": false
     },
     {
@@ -1756,7 +1756,7 @@
     {
       "url": "https://servicios.farmaceuticosdesevilla.es/images/farmaciasguardia/T4/moron-osuna-estepa.pdf",
       "estado": "disponible",
-      "farmacias": 28,
+      "farmacias": 29,
       "revision_visual": false
     },
     {
@@ -1768,7 +1768,7 @@
     {
       "url": "https://servicios.farmaceuticosdesevilla.es/images/farmaciasguardia/T4/sierranorte.pdf",
       "estado": "disponible",
-      "farmacias": 21,
+      "farmacias": 22,
       "revision_visual": false
     },
     {
@@ -1790,7 +1790,7 @@
       "revision_visual": false
     }
   ],
-  "farmacias": 131,
-  "con_coordenadas": 112,
-  "calendario_actualizado": false
+  "farmacias": 197,
+  "con_coordenadas": 178,
+  "calendario_actualizado": true
 }
