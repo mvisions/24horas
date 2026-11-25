@@ -1857,11 +1857,16 @@
     "guardia_franja": "noche (22:00-9:30)",
     "fecha_guardia": "2026-11-25",
     "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
-    "lat": null,
-    "lng": null,
+    "lat": 36.7252056,
+    "lng": -4.4286669,
     "guardia_franjas": [
       "noche (22:00-9:30)"
-    ]
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/5635555924",
+    "nota_ubicacion": "Ubicación contrastada: una farmacia de OpenStreetMap y una fuente independiente coinciden a 3.8 m.",
+    "osm_id": "osm-5635555924",
+    "ajuste_ubicacion_m": 3.8
   },
   {
     "id": "29-29010053",

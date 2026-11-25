@@ -1,0 +1,499 @@
+{
+  "fecha": "2026-11-26",
+  "provincia": "Córdoba",
+  "fuente": "https://www.cofco.org/aplicaciones/guardias/farmacias2026.php",
+  "completa": false,
+  "consultas": [
+    {
+      "codigo": "31",
+      "nombre": "ADAMUZ",
+      "estado": "disponible",
+      "farmacias": 1
+    },
+    {
+      "codigo": "20",
+      "nombre": "AGUILAR DE LA FRONTERA",
+      "estado": "disponible",
+      "farmacias": 1
+    },
+    {
+      "codigo": "77",
+      "nombre": "ALBENDIN",
+      "estado": "disponible",
+      "farmacias": 1
+    },
+    {
+      "codigo": "92",
+      "nombre": "ALCARACEJOS",
+      "estado": "disponible",
+      "farmacias": 1
+    },
+    {
+      "codigo": "28",
+      "nombre": "ALMEDINILLA",
+      "estado": "disponible",
+      "farmacias": 1
+    },
+    {
+      "codigo": "21",
+      "nombre": "ALMODOVAR DEL RIO",
+      "estado": "disponible",
+      "farmacias": 1
+    },
+    {
+      "codigo": "94",
+      "nombre": "AÑORA",
+      "estado": "disponible",
+      "farmacias": 1
+    },
+    {
+      "codigo": "35",
+      "nombre": "BAENA",
+      "estado": "disponible",
+      "farmacias": 1
+    },
+    {
+      "codigo": "30",
+      "nombre": "BELALCAZAR",
+      "estado": "disponible",
+      "farmacias": 1
+    },
+    {
+      "codigo": "27",
+      "nombre": "BELMEZ",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "48",
+      "nombre": "BENAMEJI",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "36",
+      "nombre": "BUJALANCE",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "98",
+      "nombre": "CABRA",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "78",
+      "nombre": "CAÑADA DEL RABADAN",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "87",
+      "nombre": "CAÑETE DE LAS TORRES",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "3",
+      "nombre": "CARCABUEY",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "91",
+      "nombre": "CARDEÑA",
+      "estado": "disponible",
+      "farmacias": 1
+    },
+    {
+      "codigo": "40",
+      "nombre": "CASTRO DEL RIO",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "41",
+      "nombre": "CONQUISTA",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "4",
+      "nombre": "CORDOBA",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "93",
+      "nombre": "CORDOBA (ALCOLEA)",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "89",
+      "nombre": "CORDOBA (ENCINAREJO)",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "38",
+      "nombre": "CORDOBA (SANTA CRUZ)",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "32",
+      "nombre": "DOÑA MENCIA",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "51",
+      "nombre": "DOS TORRES",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "2",
+      "nombre": "EL CARPIO",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "46",
+      "nombre": "EL GUIJO",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "11",
+      "nombre": "EL VISO",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "47",
+      "nombre": "ENCINAS REALES",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "61",
+      "nombre": "ESPEJO",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "59",
+      "nombre": "ESPIEL",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "6",
+      "nombre": "FERNAN NUÑEZ",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "82",
+      "nombre": "FUENTE LA LANCHA",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "68",
+      "nombre": "FUENTE OBEJUNA",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "80",
+      "nombre": "FUENTE PALMERA",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "83",
+      "nombre": "FUENTE TOJAR",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "54",
+      "nombre": "GUADALCAZAR",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "17",
+      "nombre": "HINOJOSA DEL DUQUE",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "23",
+      "nombre": "HORNACHUELOS",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "14",
+      "nombre": "IZNAJAR",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "39",
+      "nombre": "LA CARLOTA",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "85",
+      "nombre": "LA GRANJUELA",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "9",
+      "nombre": "LA RAMBLA",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "74",
+      "nombre": "LA VICTORIA",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "97",
+      "nombre": "LLANOS DEL ESPINAR",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "22",
+      "nombre": "LOS BLAZQUEZ",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "13",
+      "nombre": "LUCENA",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "29",
+      "nombre": "LUQUE",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "42",
+      "nombre": "MONTALBAN",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "33",
+      "nombre": "MONTEMAYOR",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "10",
+      "nombre": "MONTILLA",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "18",
+      "nombre": "MONTORO",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "24",
+      "nombre": "MONTURQUE",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "69",
+      "nombre": "MORILES",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "12",
+      "nombre": "NUEVA CARTEYA",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "96",
+      "nombre": "OBEJO",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "88",
+      "nombre": "PALENCIANA",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "5",
+      "nombre": "PALMA DEL RIO",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "66",
+      "nombre": "PEDRO ABAD",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "71",
+      "nombre": "PEDROCHE",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "25",
+      "nombre": "PEÑARROYA-PNVO",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "26",
+      "nombre": "POSADAS",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "45",
+      "nombre": "POZOBLANCO",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "1",
+      "nombre": "PRIEGO",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "7",
+      "nombre": "PUENTE GENIL",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "50",
+      "nombre": "RUTE",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "19",
+      "nombre": "S.SEBASTIAN BALLLESTEROS",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "37",
+      "nombre": "SANTA EUFEMIA",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "56",
+      "nombre": "SANTAELLA",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "81",
+      "nombre": "TORRECAMPO",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "34",
+      "nombre": "VALENZUELA",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "58",
+      "nombre": "VALSEQUILLO",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "8",
+      "nombre": "VILLA DEL RIO",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "60",
+      "nombre": "VILLAFRANCA",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "84",
+      "nombre": "VILLAHARTA",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "15",
+      "nombre": "VILLANUEVA DE CORDOBA",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "72",
+      "nombre": "VILLANUEVA DEL DUQUE",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "16",
+      "nombre": "VILLANUEVA DEL REY",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "63",
+      "nombre": "VILLARALTO",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "75",
+      "nombre": "VILLAVICIOSA",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "codigo": "67",
+      "nombre": "ZUHEROS",
+      "estado": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    }
+  ],
+  "farmacias": 9,
+  "farmacias_confirmadas": 9,
+  "con_coordenadas": 2,
+  "calendario_actualizado": true,
+  "guardias_conservadas_no_reconfirmadas": 0
+}

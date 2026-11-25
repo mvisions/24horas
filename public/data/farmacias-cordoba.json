@@ -15,7 +15,7 @@
       "FARMACIA DE GUARDIA HASTA LAS 22:00 HORAS",
       "FARMACIA DE GUARDIA TODA LA NOCHE"
     ],
-    "fecha_guardia": "2026-11-18",
+    "fecha_guardia": "2026-11-26",
     "lat": 38.0267633,
     "lng": -4.5247404,
     "fuente": "https://www.cofco.org/aplicaciones/guardias/farmacias2026.php",
@@ -62,7 +62,7 @@
       "FARMACIA DE GUARDIA HASTA LAS 22:00 HORAS",
       "FARMACIA DE GUARDIA TODA LA NOCHE"
     ],
-    "fecha_guardia": "2026-11-25",
+    "fecha_guardia": "2026-11-26",
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofco.org/aplicaciones/guardias/farmacias2026.php",
@@ -111,7 +111,7 @@
       "FARMACIA DE GUARDIA HASTA LAS 22:00 HORAS",
       "FARMACIA DE GUARDIA TODA LA NOCHE"
     ],
-    "fecha_guardia": "2026-11-25",
+    "fecha_guardia": "2026-11-26",
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofco.org/aplicaciones/guardias/farmacias2026.php",
@@ -176,7 +176,7 @@
       "FARMACIA DE GUARDIA HASTA LAS 22:00 HORAS",
       "FARMACIA DE GUARDIA TODA LA NOCHE"
     ],
-    "fecha_guardia": "2026-11-18",
+    "fecha_guardia": "2026-11-26",
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofco.org/aplicaciones/guardias/farmacias2026.php",
@@ -314,7 +314,7 @@
       "FARMACIA DE GUARDIA HASTA LAS 22:00 HORAS",
       "FARMACIA DE GUARDIA TODA LA NOCHE"
     ],
-    "fecha_guardia": "2026-11-25",
+    "fecha_guardia": "2026-11-26",
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofco.org/aplicaciones/guardias/farmacias2026.php",
@@ -1853,7 +1853,7 @@
       "FARMACIA DE GUARDIA HASTA LAS 22:00 HORAS",
       "FARMACIA DE GUARDIA TODA LA NOCHE"
     ],
-    "fecha_guardia": "2026-11-14",
+    "fecha_guardia": "2026-11-26",
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofco.org/aplicaciones/guardias/farmacias2026.php",
@@ -1902,13 +1902,14 @@
     "telefono": "957670162",
     "guardia": false,
     "guardia_franjas": [
-      "FARMACIA DE GUARDIA HASTA LAS 22:00 HORAS"
+      "FARMACIA DE GUARDIA HASTA LAS 22:00 HORAS",
+      "FARMACIA DE GUARDIA TODA LA NOCHE"
     ],
-    "fecha_guardia": "2026-11-25",
+    "fecha_guardia": "2026-11-26",
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofco.org/aplicaciones/guardias/farmacias2026.php",
-    "guardia_franja": "FARMACIA DE GUARDIA HASTA LAS 22:00 HORAS"
+    "guardia_franja": "FARMACIA DE GUARDIA HASTA LAS 22:00 HORAS · FARMACIA DE GUARDIA TODA LA NOCHE"
   },
   {
     "id": "cof-cordoba-53",
@@ -3847,7 +3848,7 @@
       "FARMACIA DE GUARDIA HASTA LAS 22:00 HORAS",
       "FARMACIA DE GUARDIA TODA LA NOCHE"
     ],
-    "fecha_guardia": "2026-11-25",
+    "fecha_guardia": "2026-11-26",
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofco.org/aplicaciones/guardias/farmacias2026.php",
@@ -5107,7 +5108,7 @@
       "FARMACIA DE GUARDIA HASTA LAS 22:00 HORAS",
       "FARMACIA DE GUARDIA TODA LA NOCHE"
     ],
-    "fecha_guardia": "2026-11-25",
+    "fecha_guardia": "2026-11-26",
     "lat": 38.411254,
     "lng": -4.8973864,
     "fuente": "https://www.cofco.org/aplicaciones/guardias/farmacias2026.php",

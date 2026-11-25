@@ -1,0 +1,19 @@
+{
+  "fecha": "2026-11-26",
+  "provincia": "Zamora",
+  "fuente": "https://cofzamora.es/admin/config/media/ver_mes_completo",
+  "completa": false,
+  "consultas": [
+    {
+      "nombre": "Zamora Capital",
+      "estado": "parcial",
+      "farmacias": 1,
+      "error": "El calendario mensual confirma los turnos de Zamora Capital, pero no publica horarios exactos ni confirma las otras zonas de la provincia."
+    }
+  ],
+  "farmacias": 1,
+  "farmacias_confirmadas": 1,
+  "con_coordenadas": 0,
+  "calendario_actualizado": true,
+  "guardias_conservadas_no_reconfirmadas": 0
+}

@@ -1790,12 +1790,13 @@
     "cofm_id": "29000490",
     "direccion": "CARLOS MILLON, 4   EDF. MORA",
     "localidad": "Nerja",
+    "sector": "",
     "zona": "Nerja",
     "provincia": "Málaga",
     "guardia": false,
-    "lat": null,
-    "lng": null,
-    "sector": ""
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": 36.7554258,
+    "lng": -3.8745051
   },
   {
     "id": "29-29010089",
@@ -1850,14 +1851,15 @@
     "cofm_id": "29000303",
     "direccion": "AVDA DEL MEDITERRANEO, 16",
     "localidad": "Alhaurin de la Torre",
+    "sector": "",
     "zona": "Alhaurin de la Torre",
     "provincia": "Málaga",
     "guardia": false,
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
     "lat": 36.6598128,
     "lng": -4.5587693,
     "precision_ubicacion": "farmacia",
-    "fuente_coordenadas": "https://www.openstreetmap.org",
-    "sector": ""
+    "fuente_coordenadas": "https://www.openstreetmap.org"
   },
   {
     "id": "29-29000116",
@@ -2087,13 +2089,14 @@
     "cofm_id": "29010054",
     "direccion": "AV. EUROPA NUM. 51 ED. ESPAÑA",
     "localidad": "Málaga",
+    "sector": "SECTOR CARRETERA DE CADIZ",
     "zona": "Málaga capital",
     "provincia": "Málaga",
     "guardia": false,
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
     "lat": 36.6971988,
     "lng": -4.4573417,
-    "precision_ubicacion": "aproximada",
-    "sector": "SECTOR CARRETERA DE CADIZ"
+    "precision_ubicacion": "aproximada"
   },
   {
     "id": "29-29010036",
@@ -2335,13 +2338,14 @@
     "cofm_id": "29010186",
     "direccion": "C/ SAN ANDRES NUM. 19 (JUNTO A GIMNASIO LUCENA)",
     "localidad": "Málaga",
+    "sector": "SECTOR ESTACION DE RENFE",
     "zona": "Málaga capital",
     "provincia": "Málaga",
     "guardia": false,
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
     "lat": 36.7121757,
     "lng": -4.4281478,
-    "precision_ubicacion": "aproximada",
-    "sector": "SECTOR ESTACION DE RENFE"
+    "precision_ubicacion": "aproximada"
   },
   {
     "id": "29-29010099",
@@ -2398,12 +2402,13 @@
     "cofm_id": "29010203",
     "direccion": "CARRETERA NACIONAL 340KM 282 (JUNTO GASOLINERA DEL MORCHE)",
     "localidad": "Torrox",
+    "sector": "Torrox - Torrox Costa",
     "zona": "Torrox - Torrox Costa",
     "provincia": "Málaga",
     "guardia": false,
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
     "lat": null,
-    "lng": null,
-    "sector": "Torrox - Torrox Costa"
+    "lng": null
   },
   {
     "id": "29-29000118",
@@ -2612,24 +2617,26 @@
     "cofm_id": "29010109",
     "direccion": "CTRA. DE MALAGA NUM. 105",
     "localidad": "Alhaurin el Grande",
+    "sector": "",
     "zona": "Alhaurin el Grande",
     "provincia": "Málaga",
     "guardia": false,
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
     "lat": null,
-    "lng": null,
-    "sector": ""
+    "lng": null
   },
   {
     "id": "29-29000006",
     "cofm_id": "29000006",
     "direccion": "FUENTE DE ARRIBA, 1",
     "localidad": "Alora",
+    "sector": "",
     "zona": "Alora",
     "provincia": "Málaga",
     "guardia": false,
-    "lat": null,
-    "lng": null,
-    "sector": ""
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": 36.823145,
+    "lng": -4.7066042
   },
   {
     "id": "29-29000141",
@@ -2662,14 +2669,15 @@
   {
     "id": "29-29000594",
     "cofm_id": "29000594",
-    "direccion": "AV. ANDALUCIA, 53",
-    "localidad": "Cártama",
+    "direccion": "AV. ANDALUCIA, 53 - Cartama",
+    "localidad": "Estacion",
+    "sector": "",
     "zona": "Cartama",
     "provincia": "Málaga",
     "guardia": false,
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
     "lat": null,
-    "lng": null,
-    "sector": "Cartama - Estacion"
+    "lng": null
   },
   {
     "id": "29-29000162",
@@ -2871,12 +2879,13 @@
     "cofm_id": "29000120",
     "direccion": "FERIA, 6",
     "localidad": "Coin",
+    "sector": "",
     "zona": "Coin",
     "provincia": "Málaga",
     "guardia": false,
-    "lat": null,
-    "lng": null,
-    "sector": ""
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": 36.6589208,
+    "lng": -4.7597847
   },
   {
     "id": "29-29000147",
@@ -2976,29 +2985,28 @@
     "cofm_id": "29000032",
     "direccion": "AVDA MOSCATEL (URB. VIÑA MALAGA)",
     "localidad": "Vélez-Málaga",
+    "sector": "TORRE DEL MAR",
     "zona": "Torre del Mar",
     "provincia": "Málaga",
     "guardia": false,
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
     "lat": null,
-    "lng": null,
-    "sector": "TORRE DEL MAR"
+    "lng": null
   },
   {
     "id": "29-29000469",
     "cofm_id": "29000469",
     "direccion": "CAMINO VIEJO DE MALAGA, 21",
     "localidad": "Velez-Malaga",
+    "sector": "",
     "zona": "Velez - Malaga",
     "provincia": "Málaga",
     "guardia": false,
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
     "lat": 36.7754483,
     "lng": -4.1033312,
     "precision_ubicacion": "farmacia",
-    "fuente_coordenadas": "https://www.openstreetmap.org/node/10821686477",
-    "nota_ubicacion": "Ubicación contrastada: la dirección y una farmacia de OpenStreetMap coinciden a 2 m.",
-    "osm_id": "osm-10821686477",
-    "ajuste_ubicacion_m": 2.0,
-    "sector": ""
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/10821686477"
   },
   {
     "id": "29-29010115",
@@ -3096,28 +3104,30 @@
     "cofm_id": "29000521",
     "direccion": "AV. DE LA TORRE, 41 LC 2 (T. BENAGALBON)",
     "localidad": "Rincon de la Victoria",
+    "sector": "Torre de Benagalbón",
     "zona": "Ricon de la Victoria",
     "provincia": "Málaga",
     "guardia": false,
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
     "lat": 36.7122598,
     "lng": -4.261026,
     "precision_ubicacion": "aproximada",
-    "fuente_coordenadas": "https://www.openstreetmap.org",
-    "sector": "Torre de Benagalbón"
+    "fuente_coordenadas": "https://www.openstreetmap.org"
   },
   {
     "id": "29-29000475",
     "cofm_id": "29000475",
     "direccion": "SEVILLA, 129      EDIFICIO  PARQUE SUR",
     "localidad": "Ronda",
+    "sector": "",
     "zona": "Ronda",
     "provincia": "Málaga",
     "guardia": false,
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
     "lat": 36.7699738,
     "lng": -5.2048652,
     "precision_ubicacion": "aproximada",
-    "fuente_coordenadas": "https://www.openstreetmap.org",
-    "sector": ""
+    "fuente_coordenadas": "https://www.openstreetmap.org"
   },
   {
     "id": "29-29000591",
@@ -3408,13 +3418,14 @@
     "cofm_id": "29010066",
     "direccion": "C/ FRANZ KAFKA NÚM. 15 LCAL. 3",
     "localidad": "Málaga",
+    "sector": "SECTOR CONSUL-TEATINOS",
     "zona": "Málaga capital",
     "provincia": "Málaga",
     "guardia": false,
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
     "lat": 36.7164517,
     "lng": -4.4653748,
-    "precision_ubicacion": "aproximada",
-    "sector": "SECTOR CONSUL-TEATINOS"
+    "precision_ubicacion": "aproximada"
   },
   {
     "id": "29-29000573",
@@ -3693,12 +3704,13 @@
     "cofm_id": "29000465",
     "direccion": "PILAR DE FARINOS, 1-1 (CONJ.LA VI A",
     "localidad": "Estepona",
+    "sector": "",
     "zona": "Estepona",
     "provincia": "Málaga",
     "guardia": false,
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
     "lat": null,
-    "lng": null,
-    "sector": ""
+    "lng": null
   },
   {
     "id": "29-29010007",
@@ -4095,13 +4107,14 @@
     "cofm_id": "29010013",
     "direccion": "C/ VILLAFUERTE NUM. 35",
     "localidad": "Málaga",
+    "sector": "SECTOR EL PALO",
     "zona": "Málaga capital",
     "provincia": "Málaga",
     "guardia": false,
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
     "lat": 36.7234516,
     "lng": -4.3599275,
-    "precision_ubicacion": "aproximada",
-    "sector": "SECTOR EL PALO"
+    "precision_ubicacion": "aproximada"
   },
   {
     "id": "29-29000540",
@@ -4373,14 +4386,15 @@
     "cofm_id": "29000626",
     "direccion": "LAS ERAS LOCAL 3 (URB. CORTIJOS DEL SOL)",
     "localidad": "Alhaurin de la Torre",
+    "sector": "",
     "zona": "Alhaurin de la Torre",
     "provincia": "Málaga",
     "guardia": false,
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
     "lat": 36.6584376,
     "lng": -4.5455816,
     "precision_ubicacion": "aproximada",
-    "fuente_coordenadas": "https://www.openstreetmap.org",
-    "sector": ""
+    "fuente_coordenadas": "https://www.openstreetmap.org"
   },
   {
     "id": "29-29000406",
@@ -4400,14 +4414,15 @@
     "cofm_id": "29000253",
     "direccion": "BLAS INFANTE, 1 (PZA. PRINCIPAL)",
     "localidad": "Benalmádena",
+    "sector": "ARROYO DE LA MIEL",
     "zona": "Benalmadena",
     "provincia": "Málaga",
     "guardia": false,
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
     "lat": 36.597339,
     "lng": -4.5357362,
     "precision_ubicacion": "aproximada",
-    "fuente_coordenadas": "https://www.openstreetmap.org",
-    "sector": "ARROYO DE LA MIEL"
+    "fuente_coordenadas": "https://www.openstreetmap.org"
   },
   {
     "id": "29-29010184",
@@ -4934,7 +4949,28 @@
     "provincia": "Málaga",
     "guardia": false,
     "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
-    "lat": null,
-    "lng": null
+    "lat": 36.7252056,
+    "lng": -4.4286669,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/5635555924",
+    "nota_ubicacion": "Ubicación contrastada: una farmacia de OpenStreetMap y una fuente independiente coinciden a 3.8 m.",
+    "osm_id": "osm-5635555924",
+    "ajuste_ubicacion_m": 3.8
+  },
+  {
+    "id": "29-29010210",
+    "cofm_id": "29010210",
+    "direccion": "C/ CONDE TORENO NÚM. 8 (URB. MARTIRICOS)",
+    "localidad": "Málaga",
+    "sector": "SECTOR ARROYO DE LOS ANGELES",
+    "zona": "Málaga capital",
+    "provincia": "Málaga",
+    "guardia": false,
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": 36.7330005,
+    "lng": -4.4298208,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org",
+    "osm_id": "osm-5621204421"
   }
 ]

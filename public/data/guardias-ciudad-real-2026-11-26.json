@@ -1,0 +1,2435 @@
+[
+  {
+    "id": "cof-ciudad-real-1",
+    "nombre": "MILLAN NAVAJAS, JOAQUÍN",
+    "direccion": "DEL RIO, 29",
+    "localidad": "Abenojar",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926835016",
+    "telefonos_adicionales": [],
+    "zona": "301",
+    "localidades_atendidas": [
+      "Abenojar"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T10:00:00",
+        "inicio_original": "2026-11-25T10:00:00",
+        "fin_original": "2026-11-26T10:00:00"
+      },
+      {
+        "inicio": "2026-11-26T10:00:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T10:00:00",
+        "fin_original": "2026-11-27T10:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "25/11/2026 10:00–26/11/2026 10:00",
+      "26/11/2026 10:00–27/11/2026 10:00"
+    ],
+    "lat": 38.87918253,
+    "lng": -4.35516023,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "25/11/2026 10:00–26/11/2026 10:00 · 26/11/2026 10:00–27/11/2026 10:00"
+  },
+  {
+    "id": "cof-ciudad-real-2002",
+    "nombre": "HERRERA GARCÍA, Mª FRANCISCA",
+    "direccion": "CERVANTES 45",
+    "localidad": "Agudo",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926730082",
+    "telefonos_adicionales": [],
+    "zona": "302",
+    "localidades_atendidas": [
+      "Agudo"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T09:30:00",
+        "inicio_original": "2026-11-25T09:30:00",
+        "fin_original": "2026-11-26T09:30:00"
+      },
+      {
+        "inicio": "2026-11-26T09:30:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T09:30:00",
+        "fin_original": "2026-11-27T09:30:00"
+      }
+    ],
+    "guardia_franjas": [
+      "25/11/2026 09:30–26/11/2026 09:30",
+      "26/11/2026 09:30–27/11/2026 09:30"
+    ],
+    "lat": 38.9810432,
+    "lng": -4.8719217,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "25/11/2026 09:30–26/11/2026 09:30 · 26/11/2026 09:30–27/11/2026 09:30"
+  },
+  {
+    "id": "cof-ciudad-real-1281",
+    "nombre": "RUIZ RUIZ, MARIA",
+    "direccion": "Calle SANTA BEATRIZ DE SILVA, 1",
+    "localidad": "Alcazar De San Juan",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926550654",
+    "telefonos_adicionales": [],
+    "zona": "201",
+    "localidades_atendidas": [
+      "Alcazar De San Juan"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T09:15:00",
+        "inicio_original": "2026-11-25T09:15:00",
+        "fin_original": "2026-11-26T09:15:00"
+      }
+    ],
+    "guardia_franjas": [
+      "25/11/2026 09:15–26/11/2026 09:15"
+    ],
+    "lat": 39.3886395,
+    "lng": -3.2000245,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "25/11/2026 09:15–26/11/2026 09:15"
+  },
+  {
+    "id": "cof-ciudad-real-1235",
+    "nombre": "VAQUERIZO GADEA,  MARTA TERESA",
+    "direccion": "PIO III, 19",
+    "localidad": "Alcazar De San Juan",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926551133",
+    "telefonos_adicionales": [],
+    "zona": "201",
+    "localidades_atendidas": [
+      "Alcazar De San Juan"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T09:15:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T09:15:00",
+        "fin_original": "2026-11-27T09:15:00"
+      }
+    ],
+    "guardia_franjas": [
+      "26/11/2026 09:15–27/11/2026 09:15"
+    ],
+    "lat": 39.3868307,
+    "lng": -3.21651317,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "26/11/2026 09:15–27/11/2026 09:15"
+  },
+  {
+    "id": "cof-ciudad-real-2014",
+    "nombre": "FERNANDEZ BULLIDO, MIGUEL ÁNGEL",
+    "direccion": "Calle REAL, 45",
+    "localidad": "Alcubillas",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926356010",
+    "telefonos_adicionales": [],
+    "zona": "322",
+    "localidades_atendidas": [
+      "Alcubillas"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T10:00:00",
+        "fin": "2026-11-26T22:00:00",
+        "inicio_original": "2026-11-26T10:00:00",
+        "fin_original": "2026-11-26T22:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "26/11/2026 10:00–26/11/2026 22:00"
+    ],
+    "lat": 38.7539646,
+    "lng": -3.1312924,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "26/11/2026 10:00–26/11/2026 22:00"
+  },
+  {
+    "id": "cof-ciudad-real-1018",
+    "nombre": "SALIDO ROMAN, CARMEN",
+    "direccion": "MAYOR, 68",
+    "localidad": "Almaden",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926711235",
+    "telefonos_adicionales": [],
+    "zona": "801",
+    "localidades_atendidas": [
+      "Almaden"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T09:30:00",
+        "inicio_original": "2026-11-25T09:30:00",
+        "fin_original": "2026-11-26T09:30:00"
+      },
+      {
+        "inicio": "2026-11-26T09:30:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T09:30:00",
+        "fin_original": "2026-11-27T09:30:00"
+      }
+    ],
+    "guardia_franjas": [
+      "25/11/2026 09:30–26/11/2026 09:30",
+      "26/11/2026 09:30–27/11/2026 09:30"
+    ],
+    "lat": 38.77575841,
+    "lng": -4.8340129,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "25/11/2026 09:30–26/11/2026 09:30 · 26/11/2026 09:30–27/11/2026 09:30"
+  },
+  {
+    "id": "cof-ciudad-real-1023",
+    "nombre": "CARRION CARDENAS, MARTA",
+    "direccion": "SAN BARTOLOME, 6",
+    "localidad": "Almagro",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926860242",
+    "telefonos_adicionales": [],
+    "zona": "305",
+    "localidades_atendidas": [
+      "Almagro"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T09:30:00",
+        "inicio_original": "2026-11-25T09:30:00",
+        "fin_original": "2026-11-26T09:30:00"
+      },
+      {
+        "inicio": "2026-11-26T09:30:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T09:30:00",
+        "fin_original": "2026-11-27T09:30:00"
+      }
+    ],
+    "guardia_franjas": [
+      "25/11/2026 09:30–26/11/2026 09:30",
+      "26/11/2026 09:30–27/11/2026 09:30"
+    ],
+    "lat": 38.88972704,
+    "lng": -3.71360278,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "25/11/2026 09:30–26/11/2026 09:30 · 26/11/2026 09:30–27/11/2026 09:30"
+  },
+  {
+    "id": "cof-ciudad-real-1026",
+    "nombre": "PUEBLA RODRÍGUEZ, MARTA",
+    "direccion": "Calle DARRO , 36",
+    "localidad": "Almodovar Del Campo",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926483096",
+    "telefonos_adicionales": [],
+    "zona": "802",
+    "localidades_atendidas": [
+      "Almodovar Del Campo"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T09:30:00",
+        "inicio_original": "2026-11-25T09:30:00",
+        "fin_original": "2026-11-26T09:30:00"
+      },
+      {
+        "inicio": "2026-11-26T09:30:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T09:30:00",
+        "fin_original": "2026-11-27T09:30:00"
+      }
+    ],
+    "guardia_franjas": [
+      "25/11/2026 09:30–26/11/2026 09:30",
+      "26/11/2026 09:30–27/11/2026 09:30"
+    ],
+    "lat": 38.7077493,
+    "lng": -4.1783358,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "25/11/2026 09:30–26/11/2026 09:30 · 26/11/2026 09:30–27/11/2026 09:30"
+  },
+  {
+    "id": "cof-ciudad-real-1177",
+    "nombre": "RODRIGUEZ VELASCO, MARIA TERESA",
+    "direccion": "SAN BERNABE APOSTOL, 18",
+    "localidad": "Arenas De San Juan",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926893049",
+    "telefonos_adicionales": [],
+    "zona": "216",
+    "localidades_atendidas": [
+      "Arenas De San Juan"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T10:00:00",
+        "fin": "2026-11-26T22:00:00",
+        "inicio_original": "2026-11-26T10:00:00",
+        "fin_original": "2026-11-26T22:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "26/11/2026 10:00–26/11/2026 22:00"
+    ],
+    "lat": 39.2184152,
+    "lng": -3.5036346,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "26/11/2026 10:00–26/11/2026 22:00"
+  },
+  {
+    "id": "cof-ciudad-real-3183",
+    "nombre": "FERNANDEZ CARRETON, MERCEDES",
+    "direccion": "Calle JUAN DE ZUÑIGA, 68",
+    "localidad": "Argamasilla De Alba",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926521051",
+    "telefonos_adicionales": [],
+    "zona": "202",
+    "localidades_atendidas": [
+      "Argamasilla De Alba"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T10:00:00",
+        "inicio_original": "2026-11-25T10:00:00",
+        "fin_original": "2026-11-26T10:00:00"
+      },
+      {
+        "inicio": "2026-11-26T10:00:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T10:00:00",
+        "fin_original": "2026-11-27T10:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "25/11/2026 10:00–26/11/2026 10:00",
+      "26/11/2026 10:00–27/11/2026 10:00"
+    ],
+    "lat": 39.1285513,
+    "lng": -3.0960182,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "25/11/2026 10:00–26/11/2026 10:00 · 26/11/2026 10:00–27/11/2026 10:00"
+  },
+  {
+    "id": "cof-ciudad-real-1171",
+    "nombre": "BLANCO PASCUAL, MARÍA JOSÉ",
+    "direccion": "Calle NOMENCLÁTOR, 3",
+    "localidad": "Argamasilla De Calatrava",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926477213",
+    "telefonos_adicionales": [],
+    "zona": "803",
+    "localidades_atendidas": [
+      "Argamasilla De Calatrava"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T10:00:00",
+        "inicio_original": "2026-11-25T10:00:00",
+        "fin_original": "2026-11-26T10:00:00"
+      },
+      {
+        "inicio": "2026-11-26T10:00:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T10:00:00",
+        "fin_original": "2026-11-27T10:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "25/11/2026 10:00–26/11/2026 10:00",
+      "26/11/2026 10:00–27/11/2026 10:00"
+    ],
+    "lat": 38.72761745,
+    "lng": -4.0800592,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "25/11/2026 10:00–26/11/2026 10:00 · 26/11/2026 10:00–27/11/2026 10:00"
+  },
+  {
+    "id": "cof-ciudad-real-1206",
+    "nombre": "PEÑA MALDONADO,  JUAN JOSÉ",
+    "direccion": "MARIA TELO NUÑEZ, 1",
+    "localidad": "Arroba De Los Montes",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926771569",
+    "telefonos_adicionales": [],
+    "zona": "304",
+    "localidades_atendidas": [
+      "Arroba De Los Montes"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T10:00:00",
+        "inicio_original": "2026-11-25T10:00:00",
+        "fin_original": "2026-11-26T10:00:00"
+      },
+      {
+        "inicio": "2026-11-26T10:00:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T10:00:00",
+        "fin_original": "2026-11-27T10:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "25/11/2026 10:00–26/11/2026 10:00",
+      "26/11/2026 10:00–27/11/2026 10:00"
+    ],
+    "lat": 39.1531377,
+    "lng": -4.5431032,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "25/11/2026 10:00–26/11/2026 10:00 · 26/11/2026 10:00–27/11/2026 10:00"
+  },
+  {
+    "id": "cof-ciudad-real-1267",
+    "nombre": "BOTICA ARANDA-ROMERO ESPJ",
+    "direccion": "Calle CRISTO, 9",
+    "localidad": "Bolaños De Calatrava",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926884505",
+    "telefonos_adicionales": [],
+    "zona": "306",
+    "localidades_atendidas": [
+      "Bolaños De Calatrava"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T09:30:00",
+        "fin": "2026-11-26T21:30:00",
+        "inicio_original": "2026-11-26T09:30:00",
+        "fin_original": "2026-11-26T21:30:00"
+      }
+    ],
+    "guardia_franjas": [
+      "26/11/2026 09:30–26/11/2026 21:30"
+    ],
+    "lat": 38.9069336,
+    "lng": -3.6685738,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "26/11/2026 09:30–26/11/2026 21:30"
+  },
+  {
+    "id": "cof-ciudad-real-1033",
+    "nombre": "SANCHEZ TORRES, CARLOS",
+    "direccion": "Calle LIBERTAD, 5",
+    "localidad": "Bolaños De Calatrava",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926870133",
+    "telefonos_adicionales": [],
+    "zona": "306",
+    "localidades_atendidas": [
+      "Bolaños De Calatrava"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T21:30:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T21:30:00",
+        "fin_original": "2026-11-27T09:30:00"
+      }
+    ],
+    "guardia_franjas": [
+      "26/11/2026 21:30–27/11/2026 09:30"
+    ],
+    "lat": 38.90637425,
+    "lng": -3.6658651,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "26/11/2026 21:30–27/11/2026 09:30"
+  },
+  {
+    "id": "cof-ciudad-real-1032",
+    "nombre": "SANCHEZ VALDIVIA Mª PILAR",
+    "direccion": "ALMAGRO, 23",
+    "localidad": "Bolaños De Calatrava",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926870041",
+    "telefonos_adicionales": [],
+    "zona": "306",
+    "localidades_atendidas": [
+      "Bolaños De Calatrava"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T09:30:00",
+        "inicio_original": "2026-11-25T21:30:00",
+        "fin_original": "2026-11-26T09:30:00"
+      }
+    ],
+    "guardia_franjas": [
+      "25/11/2026 21:30–26/11/2026 09:30"
+    ],
+    "lat": 38.9055938,
+    "lng": -3.6692336,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "25/11/2026 21:30–26/11/2026 09:30"
+  },
+  {
+    "id": "cof-ciudad-real-1036",
+    "nombre": "CIUDAD CIUDAD JESUS ANASTASIO",
+    "direccion": "Calle REAL, 83",
+    "localidad": "Calzada De Calatrava",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926875363",
+    "telefonos_adicionales": [],
+    "zona": "307",
+    "localidades_atendidas": [
+      "Calzada De Calatrava"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T09:30:00",
+        "inicio_original": "2026-11-25T09:30:00",
+        "fin_original": "2026-11-26T09:30:00"
+      },
+      {
+        "inicio": "2026-11-26T09:30:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T09:30:00",
+        "fin_original": "2026-11-27T09:30:00"
+      }
+    ],
+    "guardia_franjas": [
+      "25/11/2026 09:30–26/11/2026 09:30",
+      "26/11/2026 09:30–27/11/2026 09:30"
+    ],
+    "lat": 38.702766,
+    "lng": -3.7754291,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "25/11/2026 09:30–26/11/2026 09:30 · 26/11/2026 09:30–27/11/2026 09:30"
+  },
+  {
+    "id": "cof-ciudad-real-1298",
+    "nombre": "CASTILLO SARMIENTO, MARIA",
+    "direccion": "REINA CRISTINA, 71",
+    "localidad": "Campo De Criptana",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926562331",
+    "telefonos_adicionales": [],
+    "zona": "203",
+    "localidades_atendidas": [
+      "Campo De Criptana"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T09:00:00",
+        "inicio_original": "2026-11-25T09:00:00",
+        "fin_original": "2026-11-26T09:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "25/11/2026 09:00–26/11/2026 09:00"
+    ],
+    "lat": 39.40505148,
+    "lng": -3.12152497,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "25/11/2026 09:00–26/11/2026 09:00"
+  },
+  {
+    "id": "cof-ciudad-real-225",
+    "nombre": "NEIRA LEAL MARIA JOSE",
+    "direccion": "ISAAC PERAL 23",
+    "localidad": "Campo De Criptana",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926562672",
+    "telefonos_adicionales": [],
+    "zona": "203",
+    "localidades_atendidas": [
+      "Campo De Criptana"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T09:00:00",
+        "fin": "2026-11-26T21:00:00",
+        "inicio_original": "2026-11-26T09:00:00",
+        "fin_original": "2026-11-26T21:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "26/11/2026 09:00–26/11/2026 21:00"
+    ],
+    "lat": 39.4014676,
+    "lng": -3.1265372,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "26/11/2026 09:00–26/11/2026 21:00"
+  },
+  {
+    "id": "cof-ciudad-real-43",
+    "nombre": "NIEVES CARRASCOSA JOSE JULIO",
+    "direccion": "CALLE DE LAS HERAS, 41",
+    "localidad": "Castellar De Santiago",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926340011",
+    "telefonos_adicionales": [],
+    "zona": "318",
+    "localidades_atendidas": [
+      "Castellar De Santiago"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T09:30:00",
+        "fin": "2026-11-26T21:30:00",
+        "inicio_original": "2026-11-26T09:30:00",
+        "fin_original": "2026-11-26T21:30:00"
+      }
+    ],
+    "guardia_franjas": [
+      "26/11/2026 09:30–26/11/2026 21:30"
+    ],
+    "lat": 38.537768,
+    "lng": -3.2772247,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "26/11/2026 09:30–26/11/2026 21:30"
+  },
+  {
+    "id": "cof-ciudad-real-1229",
+    "nombre": "GARCÍA SÁNCHEZ, SOFÍA",
+    "direccion": "Calle DON QUIJOTE, 41",
+    "localidad": "Cinco Casas",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926526053",
+    "telefonos_adicionales": [],
+    "zona": "202",
+    "localidades_atendidas": [
+      "Cinco Casas"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T10:00:00",
+        "fin": "2026-11-26T22:00:00",
+        "inicio_original": "2026-11-26T10:00:00",
+        "fin_original": "2026-11-26T22:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "26/11/2026 10:00–26/11/2026 22:00"
+    ],
+    "lat": 39.17663432,
+    "lng": -3.23536634,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "26/11/2026 10:00–26/11/2026 22:00"
+  },
+  {
+    "id": "cof-ciudad-real-1304",
+    "nombre": "ALVAREZ C.B.",
+    "direccion": "Calle DIEGO DE MAZARIEGOS, 1",
+    "localidad": "Ciudad Real",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926822285",
+    "telefonos_adicionales": [],
+    "zona": "309",
+    "localidades_atendidas": [
+      "Ciudad Real"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T09:30:00",
+        "fin": "2026-11-26T21:30:00",
+        "inicio_original": "2026-11-26T09:30:00",
+        "fin_original": "2026-11-26T21:30:00"
+      }
+    ],
+    "guardia_franjas": [
+      "26/11/2026 09:30–26/11/2026 21:30"
+    ],
+    "lat": 38.96849915,
+    "lng": -3.93531139,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "26/11/2026 09:30–26/11/2026 21:30"
+  },
+  {
+    "id": "cof-ciudad-real-3068",
+    "nombre": "MATA ANTON C.B.",
+    "direccion": "Avenida DE LA MANCHA, 1",
+    "localidad": "Ciudad Real",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926274384",
+    "telefonos_adicionales": [],
+    "zona": "309",
+    "localidades_atendidas": [
+      "Ciudad Real"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T09:30:00",
+        "fin": "2026-11-26T21:30:00",
+        "inicio_original": "2026-11-26T09:30:00",
+        "fin_original": "2026-11-26T21:30:00"
+      },
+      {
+        "inicio": "2026-11-26T21:30:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T21:30:00",
+        "fin_original": "2026-11-27T09:30:00"
+      }
+    ],
+    "guardia_franjas": [
+      "26/11/2026 09:30–26/11/2026 21:30",
+      "26/11/2026 21:30–27/11/2026 09:30"
+    ],
+    "lat": 38.9816947,
+    "lng": -3.9299549,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "26/11/2026 09:30–26/11/2026 21:30 · 26/11/2026 21:30–27/11/2026 09:30"
+  },
+  {
+    "id": "cof-ciudad-real-1273",
+    "nombre": "TORRES MARTÍNEZ, ROSENDO",
+    "direccion": "PLAZA PUERTA DE ALARCOS, 2",
+    "localidad": "Ciudad Real",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926224705",
+    "telefonos_adicionales": [],
+    "zona": "309",
+    "localidades_atendidas": [
+      "Ciudad Real"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T09:30:00",
+        "inicio_original": "2026-11-25T21:30:00",
+        "fin_original": "2026-11-26T09:30:00"
+      }
+    ],
+    "guardia_franjas": [
+      "25/11/2026 21:30–26/11/2026 09:30"
+    ],
+    "lat": 38.98155135,
+    "lng": -3.93244982,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "25/11/2026 21:30–26/11/2026 09:30"
+  },
+  {
+    "id": "cof-ciudad-real-1056",
+    "nombre": "SANCHEZ GARRIDO CALVO, HILARIO",
+    "direccion": "VALVERDE 1",
+    "localidad": "Corral De Calatrava",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926830405",
+    "telefonos_adicionales": [],
+    "zona": "310",
+    "localidades_atendidas": [
+      "Corral De Calatrava"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T10:00:00",
+        "inicio_original": "2026-11-25T10:00:00",
+        "fin_original": "2026-11-26T10:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "25/11/2026 10:00–26/11/2026 10:00"
+    ],
+    "lat": 38.85863092,
+    "lng": -4.0810944,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "25/11/2026 10:00–26/11/2026 10:00"
+  },
+  {
+    "id": "cof-ciudad-real-1059",
+    "nombre": "FISAC Mª ELENA Y CUBILLO VANESA",
+    "direccion": "VIRGEN CRUCES, 13",
+    "localidad": "Daimiel",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926850053",
+    "telefonos_adicionales": [],
+    "zona": "311",
+    "localidades_atendidas": [
+      "Daimiel"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T09:30:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T09:30:00",
+        "fin_original": "2026-11-27T09:30:00"
+      }
+    ],
+    "guardia_franjas": [
+      "26/11/2026 09:30–27/11/2026 09:30"
+    ],
+    "lat": 39.0698425,
+    "lng": -3.6137058,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "26/11/2026 09:30–27/11/2026 09:30"
+  },
+  {
+    "id": "cof-ciudad-real-3062",
+    "nombre": "LOZANO FISAC, FILIBERTO Y ANGELES",
+    "direccion": "Calle ARENAS, 19",
+    "localidad": "Daimiel",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926850142",
+    "telefonos_adicionales": [],
+    "zona": "311",
+    "localidades_atendidas": [
+      "Daimiel"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T09:30:00",
+        "inicio_original": "2026-11-25T09:30:00",
+        "fin_original": "2026-11-26T09:30:00"
+      }
+    ],
+    "guardia_franjas": [
+      "25/11/2026 09:30–26/11/2026 09:30"
+    ],
+    "lat": 39.0711723,
+    "lng": -3.6118473,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "25/11/2026 09:30–26/11/2026 09:30"
+  },
+  {
+    "id": "cof-ciudad-real-2067",
+    "nombre": "FERNANDEZ  MARTIN, GUILLERMO",
+    "direccion": "PLAZA DE LOS PORTALES, 11",
+    "localidad": "Fuencaliente",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926470010",
+    "telefonos_adicionales": [],
+    "zona": "804",
+    "localidades_atendidas": [
+      "Fuencaliente"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T10:00:00",
+        "inicio_original": "2026-11-25T10:00:00",
+        "fin_original": "2026-11-26T10:00:00"
+      },
+      {
+        "inicio": "2026-11-26T10:00:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T10:00:00",
+        "fin_original": "2026-11-27T10:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "25/11/2026 10:00–26/11/2026 10:00",
+      "26/11/2026 10:00–27/11/2026 10:00"
+    ],
+    "lat": 38.4059,
+    "lng": -4.305835,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "25/11/2026 10:00–26/11/2026 10:00 · 26/11/2026 10:00–27/11/2026 10:00"
+  },
+  {
+    "id": "cof-ciudad-real-1247",
+    "nombre": "LÓPEZ MARTÍNEZ, CARLOS JESÚS",
+    "direccion": "Calle PIO XII, 5",
+    "localidad": "Fuente El Fresno",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926804325",
+    "telefonos_adicionales": [],
+    "zona": "312",
+    "localidades_atendidas": [
+      "Fuente El Fresno"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T09:30:00",
+        "fin": "2026-11-26T21:30:00",
+        "inicio_original": "2026-11-26T09:30:00",
+        "fin_original": "2026-11-26T21:30:00"
+      }
+    ],
+    "guardia_franjas": [
+      "26/11/2026 09:30–26/11/2026 21:30"
+    ],
+    "lat": 39.22824132,
+    "lng": -3.77442244,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "26/11/2026 09:30–26/11/2026 21:30"
+  },
+  {
+    "id": "cof-ciudad-real-2070",
+    "nombre": "RIVERA LOPEZ, ROCIO",
+    "direccion": "Calle CARMEN, 4",
+    "localidad": "Granatula De Calatrava",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926868065",
+    "telefonos_adicionales": [],
+    "zona": "307",
+    "localidades_atendidas": [
+      "Granatula De Calatrava"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T10:00:00",
+        "fin": "2026-11-26T22:00:00",
+        "inicio_original": "2026-11-26T10:00:00",
+        "fin_original": "2026-11-26T22:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "26/11/2026 10:00–26/11/2026 22:00"
+    ],
+    "lat": 38.7968352,
+    "lng": -3.7448566,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "26/11/2026 10:00–26/11/2026 22:00"
+  },
+  {
+    "id": "cof-ciudad-real-2071",
+    "nombre": "SÁEZ FERNÁNDEZ, EVA ANTONIA",
+    "direccion": "PLAZA DE LA CONSTITUCION, 3",
+    "localidad": "Guadalmez",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926742285",
+    "telefonos_adicionales": [],
+    "zona": "801",
+    "localidades_atendidas": [
+      "Guadalmez"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T09:30:00",
+        "fin": "2026-11-26T21:30:00",
+        "inicio_original": "2026-11-26T09:30:00",
+        "fin_original": "2026-11-26T21:30:00"
+      }
+    ],
+    "guardia_franjas": [
+      "26/11/2026 09:30–26/11/2026 21:30"
+    ],
+    "lat": 38.72644133,
+    "lng": -4.97116645,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "26/11/2026 09:30–26/11/2026 21:30"
+  },
+  {
+    "id": "cof-ciudad-real-74",
+    "nombre": "RODRIGUEZ MORALEDA FRANCISCO J",
+    "direccion": "PLAZA DE ESPAÑA 16",
+    "localidad": "Herencia",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926571066",
+    "telefonos_adicionales": [],
+    "zona": "204",
+    "localidades_atendidas": [
+      "Herencia"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T10:00:00",
+        "inicio_original": "2026-11-25T10:00:00",
+        "fin_original": "2026-11-26T10:00:00"
+      },
+      {
+        "inicio": "2026-11-26T10:00:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T10:00:00",
+        "fin_original": "2026-11-27T10:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "25/11/2026 10:00–26/11/2026 10:00",
+      "26/11/2026 10:00–27/11/2026 10:00"
+    ],
+    "lat": 39.3673913,
+    "lng": -3.3552224,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "25/11/2026 10:00–26/11/2026 10:00 · 26/11/2026 10:00–27/11/2026 10:00"
+  },
+  {
+    "id": "cof-ciudad-real-254",
+    "nombre": "CARVAJAL PARRONDO, ALFREDO",
+    "direccion": "CALLE DON RODRIGO 50",
+    "localidad": "La Solana",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926633813",
+    "telefonos_adicionales": [],
+    "zona": "212",
+    "localidades_atendidas": [
+      "La Solana"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T09:30:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T09:30:00",
+        "fin_original": "2026-11-27T09:30:00"
+      }
+    ],
+    "guardia_franjas": [
+      "26/11/2026 09:30–27/11/2026 09:30"
+    ],
+    "lat": 38.94547311,
+    "lng": -3.24107409,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "26/11/2026 09:30–27/11/2026 09:30"
+  },
+  {
+    "id": "cof-ciudad-real-1278",
+    "nombre": "GOMEZ CHAPARRO, MARIA DOLORES",
+    "direccion": "Calle ANTONIA CORTES, 36",
+    "localidad": "La Solana",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926697369",
+    "telefonos_adicionales": [],
+    "zona": "212",
+    "localidades_atendidas": [
+      "La Solana"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T09:30:00",
+        "inicio_original": "2026-11-25T09:30:00",
+        "fin_original": "2026-11-26T09:30:00"
+      }
+    ],
+    "guardia_franjas": [
+      "25/11/2026 09:30–26/11/2026 09:30"
+    ],
+    "lat": 38.94476352,
+    "lng": -3.23589829,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "25/11/2026 09:30–26/11/2026 09:30"
+  },
+  {
+    "id": "cof-ciudad-real-2246",
+    "nombre": "SERIOLA GARCIA-MORALES, MANUEL",
+    "direccion": "Calle VICTORIA, 21",
+    "localidad": "Los Cortijos De Abajo",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926808098",
+    "telefonos_adicionales": [],
+    "zona": "312",
+    "localidades_atendidas": [
+      "Los Cortijos De Abajo"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T09:30:00",
+        "fin": "2026-11-26T21:30:00",
+        "inicio_original": "2026-11-26T09:30:00",
+        "fin_original": "2026-11-26T21:30:00"
+      }
+    ],
+    "guardia_franjas": [
+      "26/11/2026 09:30–26/11/2026 21:30"
+    ],
+    "lat": 39.31357,
+    "lng": -4.03876,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "26/11/2026 09:30–26/11/2026 21:30"
+  },
+  {
+    "id": "cof-ciudad-real-1215",
+    "nombre": "ADAMEZ VILLASEÑOR, TERESA",
+    "direccion": "MARQUESA DE LA GUARDIA, 4",
+    "localidad": "Los Pozuelos",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926832023",
+    "telefonos_adicionales": [],
+    "zona": "310",
+    "localidades_atendidas": [
+      "Los Pozuelos"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T10:00:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T10:00:00",
+        "fin_original": "2026-11-27T10:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "26/11/2026 10:00–27/11/2026 10:00"
+    ],
+    "lat": 38.89910658,
+    "lng": -4.1676432,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "26/11/2026 10:00–27/11/2026 10:00"
+  },
+  {
+    "id": "cof-ciudad-real-1213",
+    "nombre": "DE LA FUENTE CAÑIZARES, PAULA",
+    "direccion": "SANTA MARÍA EGIPCIACA, 7",
+    "localidad": "Luciana",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926769057",
+    "telefonos_adicionales": [],
+    "zona": "315",
+    "localidades_atendidas": [
+      "Luciana"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T10:00:00",
+        "fin": "2026-11-26T22:00:00",
+        "inicio_original": "2026-11-26T10:00:00",
+        "fin_original": "2026-11-26T22:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "26/11/2026 10:00–26/11/2026 22:00"
+    ],
+    "lat": 38.98463649,
+    "lng": -4.29189953,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "26/11/2026 10:00–26/11/2026 22:00"
+  },
+  {
+    "id": "cof-ciudad-real-1087",
+    "nombre": "SALCEDO BARREDA, MANUEL",
+    "direccion": "RONDA DE LAS ERAS, 18",
+    "localidad": "Malagon",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926800690",
+    "telefonos_adicionales": [],
+    "zona": "312",
+    "localidades_atendidas": [
+      "Malagon"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T09:30:00",
+        "inicio_original": "2026-11-25T09:30:00",
+        "fin_original": "2026-11-26T09:30:00"
+      },
+      {
+        "inicio": "2026-11-26T09:30:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T09:30:00",
+        "fin_original": "2026-11-27T09:30:00"
+      }
+    ],
+    "guardia_franjas": [
+      "25/11/2026 09:30–26/11/2026 09:30",
+      "26/11/2026 09:30–27/11/2026 09:30"
+    ],
+    "lat": 39.1697797,
+    "lng": -3.8497813,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "25/11/2026 09:30–26/11/2026 09:30 · 26/11/2026 09:30–27/11/2026 09:30"
+  },
+  {
+    "id": "cof-ciudad-real-1260",
+    "nombre": "PRADO DIAZ-SANTOS, CLARA",
+    "direccion": "Carretera LA SOLANA, 15",
+    "localidad": "Manzanares",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926614819",
+    "telefonos_adicionales": [],
+    "zona": "206",
+    "localidades_atendidas": [
+      "Manzanares"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T09:30:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T09:30:00",
+        "fin_original": "2026-11-27T09:30:00"
+      }
+    ],
+    "guardia_franjas": [
+      "26/11/2026 09:30–27/11/2026 09:30"
+    ],
+    "lat": 39.0017552,
+    "lng": -3.3668994,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "26/11/2026 09:30–27/11/2026 09:30"
+  },
+  {
+    "id": "cof-ciudad-real-4092",
+    "nombre": "ROMERO VAZQUEZ LAURA",
+    "direccion": "Calle SAN MARCOS, 53",
+    "localidad": "Manzanares",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926610999",
+    "telefonos_adicionales": [],
+    "zona": "206",
+    "localidades_atendidas": [
+      "Manzanares"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T09:30:00",
+        "inicio_original": "2026-11-25T09:30:00",
+        "fin_original": "2026-11-26T09:30:00"
+      }
+    ],
+    "guardia_franjas": [
+      "25/11/2026 09:30–26/11/2026 09:30"
+    ],
+    "lat": 38.99945,
+    "lng": -3.36514,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "25/11/2026 09:30–26/11/2026 09:30"
+  },
+  {
+    "id": "cof-ciudad-real-94",
+    "nombre": "MENCHEN FERNANDEZ LUCILA",
+    "direccion": "RAMÓN Y CAJAL, 2",
+    "localidad": "Membrilla",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926636374",
+    "telefonos_adicionales": [],
+    "zona": "206",
+    "localidades_atendidas": [
+      "Membrilla"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T09:00:00",
+        "fin": "2026-11-26T21:00:00",
+        "inicio_original": "2026-11-26T09:00:00",
+        "fin_original": "2026-11-26T21:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "26/11/2026 09:00–26/11/2026 21:00"
+    ],
+    "lat": 38.97567226,
+    "lng": -3.34938655,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "26/11/2026 09:00–26/11/2026 21:00"
+  },
+  {
+    "id": "cof-ciudad-real-2097",
+    "nombre": "AREVALO SERRANO, ANGEL JACINTO",
+    "direccion": "Calle FRANCISCO FERNANDEZ ORDOÑEZ, 4",
+    "localidad": "Miguelturra",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926233462",
+    "telefonos_adicionales": [],
+    "zona": "313",
+    "localidades_atendidas": [
+      "Miguelturra"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T10:00:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T10:00:00",
+        "fin_original": "2026-11-27T10:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "26/11/2026 10:00–27/11/2026 10:00"
+    ],
+    "lat": 38.95982,
+    "lng": -3.88693,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "26/11/2026 10:00–27/11/2026 10:00"
+  },
+  {
+    "id": "cof-ciudad-real-1262",
+    "nombre": "CACHERO SANCHEZ, ANTONIA",
+    "direccion": "Calle REAL, 66",
+    "localidad": "Miguelturra",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926240096",
+    "telefonos_adicionales": [],
+    "zona": "313",
+    "localidades_atendidas": [
+      "Miguelturra"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T10:00:00",
+        "inicio_original": "2026-11-25T10:00:00",
+        "fin_original": "2026-11-26T10:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "25/11/2026 10:00–26/11/2026 10:00"
+    ],
+    "lat": 38.9680828,
+    "lng": -3.8946288,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "25/11/2026 10:00–26/11/2026 10:00"
+  },
+  {
+    "id": "cof-ciudad-real-2100",
+    "nombre": "FERNÁNDEZ MAYORALAS NUÑO, Mª ELENA",
+    "direccion": "Calle AGUSTÍN SALIDO, 25",
+    "localidad": "Moral De Calatrava",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926330023",
+    "telefonos_adicionales": [],
+    "zona": "314",
+    "localidades_atendidas": [
+      "Moral De Calatrava"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T09:30:00",
+        "inicio_original": "2026-11-25T09:30:00",
+        "fin_original": "2026-11-26T09:30:00"
+      },
+      {
+        "inicio": "2026-11-26T09:30:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T09:30:00",
+        "fin_original": "2026-11-27T09:30:00"
+      }
+    ],
+    "guardia_franjas": [
+      "25/11/2026 09:30–26/11/2026 09:30",
+      "26/11/2026 09:30–27/11/2026 09:30"
+    ],
+    "lat": 38.8289936,
+    "lng": -3.5769162,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "25/11/2026 09:30–26/11/2026 09:30 · 26/11/2026 09:30–27/11/2026 09:30"
+  },
+  {
+    "id": "cof-ciudad-real-1101",
+    "nombre": "BETETA LOPEZ, ANTONIO",
+    "direccion": "Calle AMOS OLIVARES, 40",
+    "localidad": "Pedro Muñoz",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926586038",
+    "telefonos_adicionales": [],
+    "zona": "208",
+    "localidades_atendidas": [
+      "Pedro Muñoz"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T09:00:00",
+        "inicio_original": "2026-11-25T09:00:00",
+        "fin_original": "2026-11-26T09:00:00"
+      },
+      {
+        "inicio": "2026-11-26T09:00:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T09:00:00",
+        "fin_original": "2026-11-27T09:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "25/11/2026 09:00–26/11/2026 09:00",
+      "26/11/2026 09:00–27/11/2026 09:00"
+    ],
+    "lat": 39.4044348,
+    "lng": -2.9460544,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "25/11/2026 09:00–26/11/2026 09:00 · 26/11/2026 09:00–27/11/2026 09:00"
+  },
+  {
+    "id": "cof-ciudad-real-2103",
+    "nombre": "BERMEJO ARROYO, TERESA",
+    "direccion": "Calle REAL, 1",
+    "localidad": "Piedrabuena",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926760360",
+    "telefonos_adicionales": [],
+    "zona": "315",
+    "localidades_atendidas": [
+      "Piedrabuena"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T09:30:00",
+        "inicio_original": "2026-11-25T09:30:00",
+        "fin_original": "2026-11-26T09:30:00"
+      },
+      {
+        "inicio": "2026-11-26T09:30:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T09:30:00",
+        "fin_original": "2026-11-27T09:30:00"
+      }
+    ],
+    "guardia_franjas": [
+      "25/11/2026 09:30–26/11/2026 09:30",
+      "26/11/2026 09:30–27/11/2026 09:30"
+    ],
+    "lat": 39.0354146,
+    "lng": -4.1737144,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "25/11/2026 09:30–26/11/2026 09:30 · 26/11/2026 09:30–27/11/2026 09:30"
+  },
+  {
+    "id": "cof-ciudad-real-1105",
+    "nombre": "ARROYO VERA, ASUNCION",
+    "direccion": "ENMEDIO, 6",
+    "localidad": "Porzuna",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926780019",
+    "telefonos_adicionales": [],
+    "zona": "316",
+    "localidades_atendidas": [
+      "Porzuna"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T09:00:00",
+        "inicio_original": "2026-11-25T09:00:00",
+        "fin_original": "2026-11-26T09:00:00"
+      },
+      {
+        "inicio": "2026-11-26T09:00:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T09:00:00",
+        "fin_original": "2026-11-27T09:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "25/11/2026 09:00–26/11/2026 09:00",
+      "26/11/2026 09:00–27/11/2026 09:00"
+    ],
+    "lat": 39.1468186,
+    "lng": -4.1548835,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "25/11/2026 09:00–26/11/2026 09:00 · 26/11/2026 09:00–27/11/2026 09:00"
+  },
+  {
+    "id": "cof-ciudad-real-1109",
+    "nombre": "BAUTISTA MORENO, Mª BELEN",
+    "direccion": "Avenida EMIGRANTES, 45",
+    "localidad": "Puebla Del Principe",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926359111",
+    "telefonos_adicionales": [],
+    "zona": "319",
+    "localidades_atendidas": [
+      "Puebla Del Principe"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T10:00:00",
+        "inicio_original": "2026-11-25T10:00:00",
+        "fin_original": "2026-11-26T10:00:00"
+      },
+      {
+        "inicio": "2026-11-26T10:00:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T10:00:00",
+        "fin_original": "2026-11-27T10:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "25/11/2026 10:00–26/11/2026 10:00",
+      "26/11/2026 10:00–27/11/2026 10:00"
+    ],
+    "lat": 38.5687901,
+    "lng": -2.9259426,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "25/11/2026 10:00–26/11/2026 10:00 · 26/11/2026 10:00–27/11/2026 10:00"
+  },
+  {
+    "id": "cof-ciudad-real-1275",
+    "nombre": "RIVERA CORDERO, ALICIA",
+    "direccion": "Carretera DE ARGAMASILLA, 30",
+    "localidad": "Puertollano",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926412238",
+    "telefonos_adicionales": [],
+    "zona": "805",
+    "localidades_atendidas": [
+      "Puertollano"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T09:30:00",
+        "inicio_original": "2026-11-25T21:30:00",
+        "fin_original": "2026-11-26T09:30:00"
+      },
+      {
+        "inicio": "2026-11-26T09:30:00",
+        "fin": "2026-11-26T21:30:00",
+        "inicio_original": "2026-11-26T09:30:00",
+        "fin_original": "2026-11-26T21:30:00"
+      },
+      {
+        "inicio": "2026-11-26T21:30:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T21:30:00",
+        "fin_original": "2026-11-27T09:30:00"
+      }
+    ],
+    "guardia_franjas": [
+      "25/11/2026 21:30–26/11/2026 09:30",
+      "26/11/2026 09:30–26/11/2026 21:30",
+      "26/11/2026 21:30–27/11/2026 09:30"
+    ],
+    "lat": 38.70022442,
+    "lng": -4.10338146,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "25/11/2026 21:30–26/11/2026 09:30 · 26/11/2026 09:30–26/11/2026 21:30 · 26/11/2026 21:30–27/11/2026 09:30"
+  },
+  {
+    "id": "cof-ciudad-real-1201",
+    "nombre": "RODRIGUEZ VAZQUEZ DEL REY, PABLO BERNARDO",
+    "direccion": "EL PELIGRO, 1",
+    "localidad": "Retuerta Del Bullaque",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "925421838",
+    "telefonos_adicionales": [],
+    "zona": "317",
+    "localidades_atendidas": [
+      "Retuerta Del Bullaque"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T10:00:00",
+        "inicio_original": "2026-11-25T10:00:00",
+        "fin_original": "2026-11-26T10:00:00"
+      },
+      {
+        "inicio": "2026-11-26T10:00:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T10:00:00",
+        "fin_original": "2026-11-27T10:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "25/11/2026 10:00–26/11/2026 10:00",
+      "26/11/2026 10:00–27/11/2026 10:00"
+    ],
+    "lat": 39.46114668,
+    "lng": -4.40974817,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "25/11/2026 10:00–26/11/2026 10:00 · 26/11/2026 10:00–27/11/2026 10:00"
+  },
+  {
+    "id": "cof-ciudad-real-2214",
+    "nombre": "MORÓN UGARTECHE, JANET VINDA",
+    "direccion": "Calle REAL, 46",
+    "localidad": "San Lorenzo De Calatrava",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926335059",
+    "telefonos_adicionales": [],
+    "zona": "806",
+    "localidades_atendidas": [
+      "San Lorenzo De Calatrava"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T09:00:00",
+        "inicio_original": "2026-11-25T09:00:00",
+        "fin_original": "2026-11-26T09:00:00"
+      },
+      {
+        "inicio": "2026-11-26T09:00:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T09:00:00",
+        "fin_original": "2026-11-27T09:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "25/11/2026 09:00–26/11/2026 09:00",
+      "26/11/2026 09:00–27/11/2026 09:00"
+    ],
+    "lat": 38.47685723,
+    "lng": -3.82219425,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "25/11/2026 09:00–26/11/2026 09:00 · 26/11/2026 09:00–27/11/2026 09:00"
+  },
+  {
+    "id": "cof-ciudad-real-4129",
+    "nombre": "SIMON FERNANDEZ, CARMEN MARIA",
+    "direccion": "Calle CAPITAN CASADO, 3",
+    "localidad": "Santa Cruz De Mudela",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926343180",
+    "telefonos_adicionales": [],
+    "zona": "318",
+    "localidades_atendidas": [
+      "Santa Cruz De Mudela"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T09:30:00",
+        "inicio_original": "2026-11-25T09:30:00",
+        "fin_original": "2026-11-26T09:30:00"
+      },
+      {
+        "inicio": "2026-11-26T09:30:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T09:30:00",
+        "fin_original": "2026-11-27T09:30:00"
+      }
+    ],
+    "guardia_franjas": [
+      "25/11/2026 09:30–26/11/2026 09:30",
+      "26/11/2026 09:30–27/11/2026 09:30"
+    ],
+    "lat": 38.6416473,
+    "lng": -3.4666537,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "25/11/2026 09:30–26/11/2026 09:30 · 26/11/2026 09:30–27/11/2026 09:30"
+  },
+  {
+    "id": "cof-ciudad-real-317",
+    "nombre": "ALARCÓN GOZÁLVEZ, RAMÓN",
+    "direccion": "PASEO DE LA CONCORDIA, 66",
+    "localidad": "Socuellamos",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "666957106",
+    "telefonos_adicionales": [],
+    "zona": "211",
+    "localidades_atendidas": [
+      "Socuellamos"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T09:30:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T09:30:00",
+        "fin_original": "2026-11-27T09:30:00"
+      }
+    ],
+    "guardia_franjas": [
+      "26/11/2026 09:30–27/11/2026 09:30"
+    ],
+    "lat": 39.2908754,
+    "lng": -2.7961307,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "26/11/2026 09:30–27/11/2026 09:30"
+  },
+  {
+    "id": "cof-ciudad-real-1131",
+    "nombre": "BARBERÁ SALOM, PABLO",
+    "direccion": "PASEO DE CERVANTES, 18",
+    "localidad": "Socuellamos",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926530298",
+    "telefonos_adicionales": [],
+    "zona": "211",
+    "localidades_atendidas": [
+      "Socuellamos"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T09:30:00",
+        "inicio_original": "2026-11-25T09:30:00",
+        "fin_original": "2026-11-26T09:30:00"
+      }
+    ],
+    "guardia_franjas": [
+      "25/11/2026 09:30–26/11/2026 09:30"
+    ],
+    "lat": 39.2849774,
+    "lng": -2.793718,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "25/11/2026 09:30–26/11/2026 09:30"
+  },
+  {
+    "id": "cof-ciudad-real-290",
+    "nombre": "DE LA FUENTE PIZARRO, MIGUEL JOSE",
+    "direccion": "JUAN CARLOS I, 24",
+    "localidad": "Tomelloso",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926506601",
+    "telefonos_adicionales": [],
+    "zona": "213",
+    "localidades_atendidas": [
+      "Tomelloso"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T09:30:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T09:30:00",
+        "fin_original": "2026-11-27T09:30:00"
+      }
+    ],
+    "guardia_franjas": [
+      "26/11/2026 09:30–27/11/2026 09:30"
+    ],
+    "lat": 39.15428644,
+    "lng": -3.0089243,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "26/11/2026 09:30–27/11/2026 09:30"
+  },
+  {
+    "id": "cof-ciudad-real-1142",
+    "nombre": "MONTOYA PENADES SARA Y BLANCA",
+    "direccion": "Calle VICTOR PEÑASCO, 28",
+    "localidad": "Tomelloso",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926510110",
+    "telefonos_adicionales": [],
+    "zona": "213",
+    "localidades_atendidas": [
+      "Tomelloso"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T09:30:00",
+        "inicio_original": "2026-11-25T09:30:00",
+        "fin_original": "2026-11-26T09:30:00"
+      }
+    ],
+    "guardia_franjas": [
+      "25/11/2026 09:30–26/11/2026 09:30"
+    ],
+    "lat": 39.1568947,
+    "lng": -3.02227075,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "25/11/2026 09:30–26/11/2026 09:30"
+  },
+  {
+    "id": "cof-ciudad-real-2144",
+    "nombre": "HUERTAS DÍAZ DE LOPE-DIAZ, JESÚS ADOLFO",
+    "direccion": "SAN JOSÉ, 1",
+    "localidad": "Torralba De Calatrava",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926811005",
+    "telefonos_adicionales": [],
+    "zona": "308",
+    "localidades_atendidas": [
+      "Torralba De Calatrava"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T10:00:00",
+        "inicio_original": "2026-11-25T10:00:00",
+        "fin_original": "2026-11-26T10:00:00"
+      },
+      {
+        "inicio": "2026-11-26T10:00:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T10:00:00",
+        "fin_original": "2026-11-27T10:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "25/11/2026 10:00–26/11/2026 10:00",
+      "26/11/2026 10:00–27/11/2026 10:00"
+    ],
+    "lat": 39.0158,
+    "lng": -3.75014,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "25/11/2026 10:00–26/11/2026 10:00 · 26/11/2026 10:00–27/11/2026 10:00"
+  },
+  {
+    "id": "cof-ciudad-real-1263",
+    "nombre": "ARROYO HURTADO, GEMA RAQUEL",
+    "direccion": "CONSTITUCION, 68",
+    "localidad": "Torrenueva",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926332209",
+    "telefonos_adicionales": [],
+    "zona": "320",
+    "localidades_atendidas": [
+      "Torrenueva"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T10:00:00",
+        "fin": "2026-11-26T22:00:00",
+        "inicio_original": "2026-11-26T10:00:00",
+        "fin_original": "2026-11-26T22:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "26/11/2026 10:00–26/11/2026 22:00"
+    ],
+    "lat": 38.64008,
+    "lng": -3.36429,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "26/11/2026 10:00–26/11/2026 22:00"
+  },
+  {
+    "id": "cof-ciudad-real-152",
+    "nombre": "CARRASCO MARTÍNEZ, MARINA",
+    "direccion": "Calle CONSTITUCIÓN, 3",
+    "localidad": "Valdepeñas",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926325050",
+    "telefonos_adicionales": [],
+    "zona": "320",
+    "localidades_atendidas": [
+      "Valdepeñas"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T09:30:00",
+        "fin": "2026-11-26T21:30:00",
+        "inicio_original": "2026-11-26T09:30:00",
+        "fin_original": "2026-11-26T21:30:00"
+      }
+    ],
+    "guardia_franjas": [
+      "26/11/2026 09:30–26/11/2026 21:30"
+    ],
+    "lat": 38.7595961,
+    "lng": -3.3908173,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "26/11/2026 09:30–26/11/2026 21:30"
+  },
+  {
+    "id": "cof-ciudad-real-2149",
+    "nombre": "GONZALEZ LOPEZ, MARIANO",
+    "direccion": "VIRGEN, 80",
+    "localidad": "Valdepeñas",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926347912",
+    "telefonos_adicionales": [],
+    "zona": "320",
+    "localidades_atendidas": [
+      "Valdepeñas"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T09:30:00",
+        "inicio_original": "2026-11-25T21:30:00",
+        "fin_original": "2026-11-26T09:30:00"
+      }
+    ],
+    "guardia_franjas": [
+      "25/11/2026 21:30–26/11/2026 09:30"
+    ],
+    "lat": 38.75671,
+    "lng": -3.38677,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "25/11/2026 21:30–26/11/2026 09:30"
+  },
+  {
+    "id": "cof-ciudad-real-153",
+    "nombre": "MENCHEN C.B.",
+    "direccion": "ESCUELAS, 53",
+    "localidad": "Valdepeñas",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926321630",
+    "telefonos_adicionales": [],
+    "zona": "320",
+    "localidades_atendidas": [
+      "Valdepeñas"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T21:30:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T21:30:00",
+        "fin_original": "2026-11-27T09:30:00"
+      }
+    ],
+    "guardia_franjas": [
+      "26/11/2026 21:30–27/11/2026 09:30"
+    ],
+    "lat": 38.7608088,
+    "lng": -3.38690445,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "26/11/2026 21:30–27/11/2026 09:30"
+  },
+  {
+    "id": "cof-ciudad-real-1159",
+    "nombre": "FARMACIA LOZANO Y FUENTES C.B.",
+    "direccion": "FERIA, 24",
+    "localidad": "Villahermosa",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926366148",
+    "telefonos_adicionales": [],
+    "zona": "321",
+    "localidades_atendidas": [
+      "Villahermosa"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T10:00:00",
+        "inicio_original": "2026-11-25T10:00:00",
+        "fin_original": "2026-11-26T10:00:00"
+      },
+      {
+        "inicio": "2026-11-26T10:00:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T10:00:00",
+        "fin_original": "2026-11-27T10:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "25/11/2026 10:00–26/11/2026 10:00",
+      "26/11/2026 10:00–27/11/2026 10:00"
+    ],
+    "lat": 38.7492133,
+    "lng": -2.8713036,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "25/11/2026 10:00–26/11/2026 10:00 · 26/11/2026 10:00–27/11/2026 10:00"
+  },
+  {
+    "id": "cof-ciudad-real-161",
+    "nombre": "HIDALGO GARRIDO , ADELA Mª",
+    "direccion": "REAL 58",
+    "localidad": "Villamayor De Calatrava",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926466129",
+    "telefonos_adicionales": [],
+    "zona": "803",
+    "localidades_atendidas": [
+      "Villamayor De Calatrava"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T10:00:00",
+        "fin": "2026-11-26T22:00:00",
+        "inicio_original": "2026-11-26T10:00:00",
+        "fin_original": "2026-11-26T22:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "26/11/2026 10:00–26/11/2026 22:00"
+    ],
+    "lat": 38.78795811,
+    "lng": -4.13746752,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "26/11/2026 10:00–26/11/2026 22:00"
+  },
+  {
+    "id": "cof-ciudad-real-1077",
+    "nombre": "LOPEZ NIETO, AMELIA",
+    "direccion": "Calle CERVANTES, 1",
+    "localidad": "Villanueva De Los Infantes",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926361519",
+    "telefonos_adicionales": [],
+    "zona": "322",
+    "localidades_atendidas": [
+      "Villanueva De Los Infantes"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T10:00:00",
+        "inicio_original": "2026-11-25T10:00:00",
+        "fin_original": "2026-11-26T10:00:00"
+      },
+      {
+        "inicio": "2026-11-26T10:00:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T10:00:00",
+        "fin_original": "2026-11-27T10:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "25/11/2026 10:00–26/11/2026 10:00",
+      "26/11/2026 10:00–27/11/2026 10:00"
+    ],
+    "lat": 38.736621,
+    "lng": -3.0137807,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "25/11/2026 10:00–26/11/2026 10:00 · 26/11/2026 10:00–27/11/2026 10:00"
+  },
+  {
+    "id": "cof-ciudad-real-1164",
+    "nombre": "ARROYO VERA, RAFAEL",
+    "direccion": "PLAZA CONSTITUCIÓN, 18",
+    "localidad": "Villarrubia De Los Ojos",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926899064",
+    "telefonos_adicionales": [],
+    "zona": "323",
+    "localidades_atendidas": [
+      "Villarrubia De Los Ojos"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T09:00:00",
+        "inicio_original": "2026-11-25T09:00:00",
+        "fin_original": "2026-11-26T09:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "25/11/2026 09:00–26/11/2026 09:00"
+    ],
+    "lat": 39.21807203,
+    "lng": -3.60666186,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "25/11/2026 09:00–26/11/2026 09:00"
+  },
+  {
+    "id": "cof-ciudad-real-2166",
+    "nombre": "SÁNCHEZ DE PABLO RODRIGUEZ, ELISABET",
+    "direccion": "PASEO DEL CORDÓN, 30",
+    "localidad": "Villarrubia De Los Ojos",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926898587",
+    "telefonos_adicionales": [],
+    "zona": "323",
+    "localidades_atendidas": [
+      "Villarrubia De Los Ojos"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T09:00:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T09:00:00",
+        "fin_original": "2026-11-27T09:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "26/11/2026 09:00–27/11/2026 09:00"
+    ],
+    "lat": 39.2230518,
+    "lng": -3.6049623,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "26/11/2026 09:00–27/11/2026 09:00"
+  },
+  {
+    "id": "cof-ciudad-real-269",
+    "nombre": "COBO CASTRO, FRANCISCA",
+    "direccion": "CERVANTES 28",
+    "localidad": "Villarta De San Juan",
+    "sector": "",
+    "provincia": "Ciudad Real",
+    "telefono": "926640258",
+    "telefonos_adicionales": [],
+    "zona": "216",
+    "localidades_atendidas": [
+      "Villarta De San Juan"
+    ],
+    "guardia": true,
+    "fecha_guardia": "2026-11-26",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T09:30:00",
+        "inicio_original": "2026-11-25T09:30:00",
+        "fin_original": "2026-11-26T09:30:00"
+      },
+      {
+        "inicio": "2026-11-26T09:30:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T09:30:00",
+        "fin_original": "2026-11-27T09:30:00"
+      }
+    ],
+    "guardia_franjas": [
+      "25/11/2026 09:30–26/11/2026 09:30",
+      "26/11/2026 09:30–27/11/2026 09:30"
+    ],
+    "lat": 39.23889702,
+    "lng": -3.42417777,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "25/11/2026 09:30–26/11/2026 09:30 · 26/11/2026 09:30–27/11/2026 09:30"
+  }
+]

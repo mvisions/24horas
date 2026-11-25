@@ -1,0 +1,207 @@
+[
+  {
+    "id": "cof-cordoba-37",
+    "nombre": "",
+    "direccion": "IGLESIA,1",
+    "localidad": "Adamuz",
+    "localidades_atendidas": [
+      "ADAMUZ"
+    ],
+    "sector": "",
+    "provincia": "Córdoba",
+    "telefono": "957166037",
+    "guardia": true,
+    "guardia_franjas": [
+      "FARMACIA DE GUARDIA HASTA LAS 22:00 HORAS",
+      "FARMACIA DE GUARDIA TODA LA NOCHE"
+    ],
+    "fecha_guardia": "2026-11-26",
+    "lat": 38.0267633,
+    "lng": -4.5247404,
+    "fuente": "https://www.cofco.org/aplicaciones/guardias/farmacias2026.php",
+    "guardia_franja": "FARMACIA DE GUARDIA HASTA LAS 22:00 HORAS · FARMACIA DE GUARDIA TODA LA NOCHE",
+    "precision_ubicacion": "direccion",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/13469156060",
+    "nota_ubicacion": "Ubicación por dirección exacta; pendiente de verificar como farmacia."
+  },
+  {
+    "id": "cof-cordoba-42",
+    "nombre": "",
+    "direccion": "MORALEJO, 6",
+    "localidad": "Aguilar De La Frontera",
+    "localidades_atendidas": [
+      "AGUILAR DE LA FRONTERA"
+    ],
+    "sector": "",
+    "provincia": "Córdoba",
+    "telefono": "957660195",
+    "guardia": true,
+    "guardia_franjas": [
+      "FARMACIA DE GUARDIA HASTA LAS 22:00 HORAS",
+      "FARMACIA DE GUARDIA TODA LA NOCHE"
+    ],
+    "fecha_guardia": "2026-11-26",
+    "lat": null,
+    "lng": null,
+    "fuente": "https://www.cofco.org/aplicaciones/guardias/farmacias2026.php",
+    "guardia_franja": "FARMACIA DE GUARDIA HASTA LAS 22:00 HORAS · FARMACIA DE GUARDIA TODA LA NOCHE"
+  },
+  {
+    "id": "cof-cordoba-336",
+    "nombre": "",
+    "direccion": "SANTA MARIA DE ALBENDIN, 4",
+    "localidad": "Albendin",
+    "localidades_atendidas": [
+      "ALBENDIN"
+    ],
+    "sector": "",
+    "provincia": "Córdoba",
+    "telefono": "957694009",
+    "guardia": true,
+    "guardia_franjas": [
+      "FARMACIA DE GUARDIA HASTA LAS 22:00 HORAS",
+      "FARMACIA DE GUARDIA TODA LA NOCHE"
+    ],
+    "fecha_guardia": "2026-11-26",
+    "lat": null,
+    "lng": null,
+    "fuente": "https://www.cofco.org/aplicaciones/guardias/farmacias2026.php",
+    "guardia_franja": "FARMACIA DE GUARDIA HASTA LAS 22:00 HORAS · FARMACIA DE GUARDIA TODA LA NOCHE"
+  },
+  {
+    "id": "cof-cordoba-177",
+    "nombre": "",
+    "direccion": "RASTRO, 12",
+    "localidad": "Añora",
+    "localidades_atendidas": [
+      "ALCARACEJOS",
+      "AÑORA"
+    ],
+    "sector": "",
+    "provincia": "Córdoba",
+    "telefono": "957151154",
+    "guardia": true,
+    "guardia_franjas": [
+      "FARMACIA DE GUARDIA HASTA LAS 22:00 HORAS",
+      "FARMACIA DE GUARDIA TODA LA NOCHE"
+    ],
+    "fecha_guardia": "2026-11-26",
+    "lat": 38.411254,
+    "lng": -4.8973864,
+    "fuente": "https://www.cofco.org/aplicaciones/guardias/farmacias2026.php",
+    "guardia_franja": "FARMACIA DE GUARDIA HASTA LAS 22:00 HORAS · FARMACIA DE GUARDIA TODA LA NOCHE",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org",
+    "nota_ubicacion": null
+  },
+  {
+    "id": "cof-cordoba-44",
+    "nombre": "",
+    "direccion": "PASEO DE LAS MORERAS, 39",
+    "localidad": "Almedinilla",
+    "localidades_atendidas": [
+      "ALMEDINILLA"
+    ],
+    "sector": "",
+    "provincia": "Córdoba",
+    "telefono": "957703002",
+    "guardia": true,
+    "guardia_franjas": [
+      "FARMACIA DE GUARDIA HASTA LAS 22:00 HORAS",
+      "FARMACIA DE GUARDIA TODA LA NOCHE"
+    ],
+    "fecha_guardia": "2026-11-26",
+    "lat": null,
+    "lng": null,
+    "fuente": "https://www.cofco.org/aplicaciones/guardias/farmacias2026.php",
+    "guardia_franja": "FARMACIA DE GUARDIA HASTA LAS 22:00 HORAS · FARMACIA DE GUARDIA TODA LA NOCHE"
+  },
+  {
+    "id": "cof-cordoba-94",
+    "nombre": "",
+    "direccion": "PLAZA MEDINA AZAHARA, 23",
+    "localidad": "Almodovar Del Rio",
+    "localidades_atendidas": [
+      "ALMODOVAR DEL RIO"
+    ],
+    "sector": "",
+    "provincia": "Córdoba",
+    "telefono": "957713680",
+    "guardia": true,
+    "guardia_franjas": [
+      "FARMACIA DE GUARDIA HASTA LAS 22:00 HORAS",
+      "FARMACIA DE GUARDIA TODA LA NOCHE"
+    ],
+    "fecha_guardia": "2026-11-26",
+    "lat": null,
+    "lng": null,
+    "fuente": "https://www.cofco.org/aplicaciones/guardias/farmacias2026.php",
+    "guardia_franja": "FARMACIA DE GUARDIA HASTA LAS 22:00 HORAS · FARMACIA DE GUARDIA TODA LA NOCHE"
+  },
+  {
+    "id": "cof-cordoba-50",
+    "nombre": "",
+    "direccion": "PLAZA ESPAÑA, 2",
+    "localidad": "Baena",
+    "localidades_atendidas": [
+      "BAENA"
+    ],
+    "sector": "",
+    "provincia": "Córdoba",
+    "telefono": "957670162",
+    "guardia": true,
+    "guardia_franjas": [
+      "FARMACIA DE GUARDIA HASTA LAS 22:00 HORAS",
+      "FARMACIA DE GUARDIA TODA LA NOCHE"
+    ],
+    "fecha_guardia": "2026-11-26",
+    "lat": null,
+    "lng": null,
+    "fuente": "https://www.cofco.org/aplicaciones/guardias/farmacias2026.php",
+    "guardia_franja": "FARMACIA DE GUARDIA HASTA LAS 22:00 HORAS · FARMACIA DE GUARDIA TODA LA NOCHE"
+  },
+  {
+    "id": "cof-cordoba-51",
+    "nombre": "",
+    "direccion": "PASAJE ROSALES DE CARDENAS, 2",
+    "localidad": "Belalcazar",
+    "localidades_atendidas": [
+      "BELALCAZAR"
+    ],
+    "sector": "",
+    "provincia": "Córdoba",
+    "telefono": "957146077",
+    "guardia": true,
+    "guardia_franjas": [
+      "FARMACIA DE GUARDIA HASTA LAS 22:00 HORAS",
+      "FARMACIA DE GUARDIA TODA LA NOCHE"
+    ],
+    "fecha_guardia": "2026-11-26",
+    "lat": null,
+    "lng": null,
+    "fuente": "https://www.cofco.org/aplicaciones/guardias/farmacias2026.php",
+    "guardia_franja": "FARMACIA DE GUARDIA HASTA LAS 22:00 HORAS · FARMACIA DE GUARDIA TODA LA NOCHE"
+  },
+  {
+    "id": "cof-cordoba-178",
+    "nombre": "",
+    "direccion": "IGLESIA, 4",
+    "localidad": "Cardeña",
+    "localidades_atendidas": [
+      "CARDEÑA"
+    ],
+    "sector": "",
+    "provincia": "Córdoba",
+    "telefono": "957174030",
+    "guardia": true,
+    "guardia_franjas": [
+      "FARMACIA DE GUARDIA HASTA LAS 22:00 HORAS",
+      "FARMACIA DE GUARDIA TODA LA NOCHE"
+    ],
+    "fecha_guardia": "2026-11-26",
+    "lat": null,
+    "lng": null,
+    "fuente": "https://www.cofco.org/aplicaciones/guardias/farmacias2026.php",
+    "guardia_franja": "FARMACIA DE GUARDIA HASTA LAS 22:00 HORAS · FARMACIA DE GUARDIA TODA LA NOCHE"
+  }
+]

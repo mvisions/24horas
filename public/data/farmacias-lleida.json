@@ -52,19 +52,19 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "fecha_guardia": "2026-11-05",
+    "fecha_guardia": "2026-11-26",
     "guardia_franja": "DIA I NIT (guardia localizada: llamar antes de acudir)",
     "guardia_franjas": [
       "DIA I NIT (guardia localizada: llamar antes de acudir)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-05T00:00:00",
-        "fin": "2026-11-05T20:00:00",
-        "inicio_original": "2026-11-05T00:00:00",
-        "fin_original": "2026-11-06T00:00:00",
+        "inicio": "2026-11-26T20:00:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T00:00:00",
+        "fin_original": "2026-11-27T00:00:00",
         "tipo": "DIA I NIT",
-        "publicado": "2026-11-04"
+        "publicado": "2026-11-27"
       }
     ],
     "localidades_atendidas": [
@@ -101,19 +101,19 @@
     "lng": 1.010456,
     "ubicacion_pendiente_verificacion": false,
     "guardia": false,
-    "fecha_guardia": "2026-11-19",
+    "fecha_guardia": "2026-11-26",
     "guardia_franja": "DIA de 9 a 22 hores (guardia localizada: llamar antes de acudir)",
     "guardia_franjas": [
       "DIA de 9 a 22 hores (guardia localizada: llamar antes de acudir)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-19T09:00:00",
-        "fin": "2026-11-19T20:00:00",
-        "inicio_original": "2026-11-19T09:00:00",
-        "fin_original": "2026-11-19T22:00:00",
+        "inicio": "2026-11-26T20:00:00",
+        "fin": "2026-11-26T22:00:00",
+        "inicio_original": "2026-11-26T09:00:00",
+        "fin_original": "2026-11-26T22:00:00",
         "tipo": "DIA de 9 a 22 hores",
-        "publicado": "2026-11-18"
+        "publicado": "2026-11-27"
       }
     ],
     "localidades_atendidas": [
@@ -184,17 +184,17 @@
     "lng": 0.8939734,
     "ubicacion_pendiente_verificacion": false,
     "guardia": false,
-    "fecha_guardia": "2026-11-25",
+    "fecha_guardia": "2026-11-26",
     "guardia_franja": "DIA I NIT (guardia localizada: llamar antes de acudir)",
     "guardia_franjas": [
       "DIA I NIT (guardia localizada: llamar antes de acudir)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-25T00:00:00",
-        "fin": "2026-11-26T00:00:00",
-        "inicio_original": "2026-11-25T00:00:00",
-        "fin_original": "2026-11-26T00:00:00",
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T20:00:00",
+        "inicio_original": "2026-11-26T00:00:00",
+        "fin_original": "2026-11-27T00:00:00",
         "tipo": "DIA I NIT",
         "publicado": "2026-11-25"
       }
@@ -242,19 +242,19 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "fecha_guardia": "2026-11-19",
+    "fecha_guardia": "2026-11-26",
     "guardia_franja": "DIA de 9 a 21 hores (guardia localizada: llamar antes de acudir)",
     "guardia_franjas": [
       "DIA de 9 a 21 hores (guardia localizada: llamar antes de acudir)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-19T09:00:00",
-        "fin": "2026-11-19T20:00:00",
-        "inicio_original": "2026-11-19T09:00:00",
-        "fin_original": "2026-11-19T21:00:00",
+        "inicio": "2026-11-26T20:00:00",
+        "fin": "2026-11-26T21:00:00",
+        "inicio_original": "2026-11-26T09:00:00",
+        "fin_original": "2026-11-26T21:00:00",
         "tipo": "DIA de 9 a 21 hores",
-        "publicado": "2026-11-18"
+        "publicado": "2026-11-27"
       }
     ],
     "localidades_atendidas": [
@@ -279,28 +279,19 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "fecha_guardia": "2026-11-06",
-    "guardia_franja": "Madrugada del turno anterior: NIT de 22 a 9 hores (guardia localizada: llamar antes de acudir) · NIT de 22 a 9 hores (guardia localizada: llamar antes de acudir)",
+    "fecha_guardia": "2026-11-26",
+    "guardia_franja": "DIA I NIT (guardia localizada: llamar antes de acudir)",
     "guardia_franjas": [
-      "Madrugada del turno anterior: NIT de 22 a 9 hores (guardia localizada: llamar antes de acudir)",
-      "NIT de 22 a 9 hores (guardia localizada: llamar antes de acudir)"
+      "DIA I NIT (guardia localizada: llamar antes de acudir)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-06T00:00:00",
-        "fin": "2026-11-06T09:00:00",
-        "inicio_original": "2026-11-05T22:00:00",
-        "fin_original": "2026-11-06T09:00:00",
-        "tipo": "NIT de 22 a 9 hores",
-        "publicado": "2026-11-06"
-      },
-      {
-        "inicio": "2026-11-06T22:00:00",
-        "fin": "2026-11-07T00:00:00",
-        "inicio_original": "2026-11-06T22:00:00",
-        "fin_original": "2026-11-07T09:00:00",
-        "tipo": "NIT de 22 a 9 hores",
-        "publicado": "2026-11-06"
+        "inicio": "2026-11-26T22:00:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T00:00:00",
+        "fin_original": "2026-11-27T00:00:00",
+        "tipo": "DIA I NIT",
+        "publicado": "2026-11-27"
       }
     ],
     "localidades_atendidas": [
@@ -376,17 +367,17 @@
     "lng": 0.8949076,
     "ubicacion_pendiente_verificacion": false,
     "guardia": false,
-    "fecha_guardia": "2026-11-25",
+    "fecha_guardia": "2026-11-26",
     "guardia_franja": "DIA I NIT (guardia localizada: llamar antes de acudir)",
     "guardia_franjas": [
       "DIA I NIT (guardia localizada: llamar antes de acudir)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-25T00:00:00",
-        "fin": "2026-11-26T00:00:00",
-        "inicio_original": "2026-11-25T00:00:00",
-        "fin_original": "2026-11-26T00:00:00",
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T20:00:00",
+        "inicio_original": "2026-11-26T00:00:00",
+        "fin_original": "2026-11-27T00:00:00",
         "tipo": "DIA I NIT",
         "publicado": "2026-11-25"
       }
@@ -419,19 +410,19 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "fecha_guardia": "2026-11-25",
+    "fecha_guardia": "2026-11-26",
     "guardia_franja": "DIA de 9 a 22 hores",
     "guardia_franjas": [
       "DIA de 9 a 22 hores"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-25T09:00:00",
-        "fin": "2026-11-25T22:00:00",
-        "inicio_original": "2026-11-25T09:00:00",
-        "fin_original": "2026-11-25T22:00:00",
+        "inicio": "2026-11-26T09:00:00",
+        "fin": "2026-11-26T22:00:00",
+        "inicio_original": "2026-11-26T09:00:00",
+        "fin_original": "2026-11-26T22:00:00",
         "tipo": "DIA de 9 a 22 hores",
-        "publicado": "2026-11-25"
+        "publicado": "2026-11-26"
       }
     ],
     "localidades_atendidas": [
@@ -470,7 +461,7 @@
     "lng": 0.6245456,
     "ubicacion_pendiente_verificacion": false,
     "guardia": false,
-    "fecha_guardia": "2026-11-25",
+    "fecha_guardia": "2026-11-26",
     "guardia_franja": "DIA de 9 a 22 hores · NIT de 22 a 9 hores · Madrugada del turno anterior: NIT de 22 a 9 hores",
     "guardia_franjas": [
       "DIA de 9 a 22 hores",
@@ -479,28 +470,28 @@
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-25T00:00:00",
-        "fin": "2026-11-25T09:00:00",
-        "inicio_original": "2026-11-24T22:00:00",
-        "fin_original": "2026-11-25T09:00:00",
-        "tipo": "NIT de 22 a 9 hores",
-        "publicado": "2026-11-24"
-      },
-      {
-        "inicio": "2026-11-25T09:00:00",
-        "fin": "2026-11-25T22:00:00",
-        "inicio_original": "2026-11-25T09:00:00",
-        "fin_original": "2026-11-25T22:00:00",
-        "tipo": "DIA de 9 a 22 hores",
-        "publicado": "2026-11-25"
-      },
-      {
-        "inicio": "2026-11-25T22:00:00",
-        "fin": "2026-11-26T00:00:00",
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T09:00:00",
         "inicio_original": "2026-11-25T22:00:00",
         "fin_original": "2026-11-26T09:00:00",
         "tipo": "NIT de 22 a 9 hores",
         "publicado": "2026-11-25"
+      },
+      {
+        "inicio": "2026-11-26T09:00:00",
+        "fin": "2026-11-26T22:00:00",
+        "inicio_original": "2026-11-26T09:00:00",
+        "fin_original": "2026-11-26T22:00:00",
+        "tipo": "DIA de 9 a 22 hores",
+        "publicado": "2026-11-26"
+      },
+      {
+        "inicio": "2026-11-26T22:00:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T22:00:00",
+        "fin_original": "2026-11-27T09:00:00",
+        "tipo": "NIT de 22 a 9 hores",
+        "publicado": "2026-11-26"
       }
     ],
     "localidades_atendidas": [
@@ -668,19 +659,19 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "fecha_guardia": "2026-11-25",
+    "fecha_guardia": "2026-11-26",
     "guardia_franja": "DIA I NIT (guardia localizada: llamar antes de acudir)",
     "guardia_franjas": [
       "DIA I NIT (guardia localizada: llamar antes de acudir)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-25T00:00:00",
-        "fin": "2026-11-26T00:00:00",
-        "inicio_original": "2026-11-25T00:00:00",
-        "fin_original": "2026-11-26T00:00:00",
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T00:00:00",
+        "fin_original": "2026-11-27T00:00:00",
         "tipo": "DIA I NIT",
-        "publicado": "2026-11-25"
+        "publicado": "2026-11-26"
       }
     ],
     "localidades_atendidas": [
@@ -795,17 +786,17 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "fecha_guardia": "2026-11-25",
+    "fecha_guardia": "2026-11-26",
     "guardia_franja": "DIA de 9 a 24 hores (guardia localizada: llamar antes de acudir)",
     "guardia_franjas": [
       "DIA de 9 a 24 hores (guardia localizada: llamar antes de acudir)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-25T09:00:00",
-        "fin": "2026-11-26T00:00:00",
-        "inicio_original": "2026-11-25T09:00:00",
-        "fin_original": "2026-11-26T00:00:00",
+        "inicio": "2026-11-26T09:00:00",
+        "fin": "2026-11-26T20:00:00",
+        "inicio_original": "2026-11-26T09:00:00",
+        "fin_original": "2026-11-27T00:00:00",
         "tipo": "DIA de 9 a 24 hores",
         "publicado": "2026-11-25"
       }
@@ -869,17 +860,17 @@
     "lng": 0.525,
     "ubicacion_pendiente_verificacion": false,
     "guardia": false,
-    "fecha_guardia": "2026-11-25",
+    "fecha_guardia": "2026-11-26",
     "guardia_franja": "DIA I NIT (guardia localizada: llamar antes de acudir)",
     "guardia_franjas": [
       "DIA I NIT (guardia localizada: llamar antes de acudir)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-25T00:00:00",
-        "fin": "2026-11-26T00:00:00",
-        "inicio_original": "2026-11-25T00:00:00",
-        "fin_original": "2026-11-26T00:00:00",
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T20:00:00",
+        "inicio_original": "2026-11-26T00:00:00",
+        "fin_original": "2026-11-27T00:00:00",
         "tipo": "DIA I NIT",
         "publicado": "2026-11-25"
       }
@@ -922,19 +913,19 @@
     "lng": 1.2738127,
     "ubicacion_pendiente_verificacion": false,
     "guardia": false,
-    "fecha_guardia": "2026-11-05",
+    "fecha_guardia": "2026-11-26",
     "guardia_franja": "DIA I NIT (guardia localizada: llamar antes de acudir)",
     "guardia_franjas": [
       "DIA I NIT (guardia localizada: llamar antes de acudir)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-05T00:00:00",
-        "fin": "2026-11-05T20:00:00",
-        "inicio_original": "2026-11-05T00:00:00",
-        "fin_original": "2026-11-06T00:00:00",
+        "inicio": "2026-11-26T20:00:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T00:00:00",
+        "fin_original": "2026-11-27T00:00:00",
         "tipo": "DIA I NIT",
-        "publicado": "2026-11-04"
+        "publicado": "2026-11-27"
       }
     ],
     "localidades_atendidas": [
@@ -1011,19 +1002,19 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "fecha_guardia": "2026-11-25",
+    "fecha_guardia": "2026-11-26",
     "guardia_franja": "DIA de 9 a 22 hores",
     "guardia_franjas": [
       "DIA de 9 a 22 hores"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-25T09:00:00",
-        "fin": "2026-11-25T22:00:00",
-        "inicio_original": "2026-11-25T09:00:00",
-        "fin_original": "2026-11-25T22:00:00",
+        "inicio": "2026-11-26T09:00:00",
+        "fin": "2026-11-26T22:00:00",
+        "inicio_original": "2026-11-26T09:00:00",
+        "fin_original": "2026-11-26T22:00:00",
         "tipo": "DIA de 9 a 22 hores",
-        "publicado": "2026-11-25"
+        "publicado": "2026-11-26"
       }
     ],
     "localidades_atendidas": [
@@ -1158,17 +1149,17 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "fecha_guardia": "2026-11-25",
+    "fecha_guardia": "2026-11-26",
     "guardia_franja": "DIA de 9 a 22 hores (guardia localizada: llamar antes de acudir)",
     "guardia_franjas": [
       "DIA de 9 a 22 hores (guardia localizada: llamar antes de acudir)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-25T09:00:00",
-        "fin": "2026-11-25T22:00:00",
-        "inicio_original": "2026-11-25T09:00:00",
-        "fin_original": "2026-11-25T22:00:00",
+        "inicio": "2026-11-26T09:00:00",
+        "fin": "2026-11-26T20:00:00",
+        "inicio_original": "2026-11-26T09:00:00",
+        "fin_original": "2026-11-26T22:00:00",
         "tipo": "DIA de 9 a 22 hores",
         "publicado": "2026-11-25"
       }
@@ -1235,17 +1226,17 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "fecha_guardia": "2026-11-25",
+    "fecha_guardia": "2026-11-26",
     "guardia_franja": "DIA de 9 a 21 hores (guardia localizada: llamar antes de acudir)",
     "guardia_franjas": [
       "DIA de 9 a 21 hores (guardia localizada: llamar antes de acudir)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-25T09:00:00",
-        "fin": "2026-11-25T21:00:00",
-        "inicio_original": "2026-11-25T09:00:00",
-        "fin_original": "2026-11-25T21:00:00",
+        "inicio": "2026-11-26T09:00:00",
+        "fin": "2026-11-26T20:00:00",
+        "inicio_original": "2026-11-26T09:00:00",
+        "fin_original": "2026-11-26T21:00:00",
         "tipo": "DIA de 9 a 21 hores",
         "publicado": "2026-11-25"
       }
@@ -1272,19 +1263,19 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "fecha_guardia": "2026-11-12",
+    "fecha_guardia": "2026-11-26",
     "guardia_franja": "DIA I NIT (guardia localizada: llamar antes de acudir)",
     "guardia_franjas": [
       "DIA I NIT (guardia localizada: llamar antes de acudir)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-12T00:00:00",
-        "fin": "2026-11-12T20:00:00",
-        "inicio_original": "2026-11-12T00:00:00",
-        "fin_original": "2026-11-13T00:00:00",
+        "inicio": "2026-11-26T20:00:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T00:00:00",
+        "fin_original": "2026-11-27T00:00:00",
         "tipo": "DIA I NIT",
-        "publicado": "2026-11-11"
+        "publicado": "2026-11-27"
       }
     ],
     "localidades_atendidas": [
@@ -1310,17 +1301,17 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "fecha_guardia": "2026-11-25",
+    "fecha_guardia": "2026-11-26",
     "guardia_franja": "DIA I NIT (guardia localizada: llamar antes de acudir)",
     "guardia_franjas": [
       "DIA I NIT (guardia localizada: llamar antes de acudir)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-25T00:00:00",
-        "fin": "2026-11-26T00:00:00",
-        "inicio_original": "2026-11-25T00:00:00",
-        "fin_original": "2026-11-26T00:00:00",
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T20:00:00",
+        "inicio_original": "2026-11-26T00:00:00",
+        "fin_original": "2026-11-27T00:00:00",
         "tipo": "DIA I NIT",
         "publicado": "2026-11-25"
       }
@@ -1348,19 +1339,19 @@
     "lng": 0.8955614,
     "ubicacion_pendiente_verificacion": false,
     "guardia": false,
-    "fecha_guardia": "2026-11-12",
+    "fecha_guardia": "2026-11-26",
     "guardia_franja": "DIA I NIT (guardia localizada: llamar antes de acudir)",
     "guardia_franjas": [
       "DIA I NIT (guardia localizada: llamar antes de acudir)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-12T00:00:00",
-        "fin": "2026-11-12T20:00:00",
-        "inicio_original": "2026-11-12T00:00:00",
-        "fin_original": "2026-11-13T00:00:00",
+        "inicio": "2026-11-26T20:00:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T00:00:00",
+        "fin_original": "2026-11-27T00:00:00",
         "tipo": "DIA I NIT",
-        "publicado": "2026-11-11"
+        "publicado": "2026-11-27"
       }
     ],
     "localidades_atendidas": [
@@ -1391,17 +1382,17 @@
     "lng": 0.7939031,
     "ubicacion_pendiente_verificacion": false,
     "guardia": false,
-    "fecha_guardia": "2026-11-25",
+    "fecha_guardia": "2026-11-26",
     "guardia_franja": "DIA I NIT (guardia localizada: llamar antes de acudir)",
     "guardia_franjas": [
       "DIA I NIT (guardia localizada: llamar antes de acudir)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-25T00:00:00",
-        "fin": "2026-11-26T00:00:00",
-        "inicio_original": "2026-11-25T00:00:00",
-        "fin_original": "2026-11-26T00:00:00",
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T20:00:00",
+        "inicio_original": "2026-11-26T00:00:00",
+        "fin_original": "2026-11-27T00:00:00",
         "tipo": "DIA I NIT",
         "publicado": "2026-11-25"
       }
@@ -1436,19 +1427,19 @@
     "lng": 0.8921564,
     "ubicacion_pendiente_verificacion": false,
     "guardia": false,
-    "fecha_guardia": "2026-11-12",
+    "fecha_guardia": "2026-11-26",
     "guardia_franja": "DIA I NIT (guardia localizada: llamar antes de acudir)",
     "guardia_franjas": [
       "DIA I NIT (guardia localizada: llamar antes de acudir)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-12T00:00:00",
-        "fin": "2026-11-12T20:00:00",
-        "inicio_original": "2026-11-12T00:00:00",
-        "fin_original": "2026-11-13T00:00:00",
+        "inicio": "2026-11-26T20:00:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T00:00:00",
+        "fin_original": "2026-11-27T00:00:00",
         "tipo": "DIA I NIT",
-        "publicado": "2026-11-11"
+        "publicado": "2026-11-27"
       }
     ],
     "localidades_atendidas": [
@@ -1627,19 +1618,19 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "fecha_guardia": "2026-11-12",
+    "fecha_guardia": "2026-11-26",
     "guardia_franja": "DIA de 9 a 24 hores (guardia localizada: llamar antes de acudir)",
     "guardia_franjas": [
       "DIA de 9 a 24 hores (guardia localizada: llamar antes de acudir)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-12T09:00:00",
-        "fin": "2026-11-12T20:00:00",
-        "inicio_original": "2026-11-12T09:00:00",
-        "fin_original": "2026-11-13T00:00:00",
+        "inicio": "2026-11-26T20:00:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T09:00:00",
+        "fin_original": "2026-11-27T00:00:00",
         "tipo": "DIA de 9 a 24 hores",
-        "publicado": "2026-11-11"
+        "publicado": "2026-11-27"
       }
     ],
     "localidades_atendidas": [
@@ -1654,7 +1645,7 @@
   {
     "id": "cof-lleida-272",
     "nombre": "Bonet Notario, Josep M.",
-    "direccion": "Segon Passeig de Ronda, 42",
+    "direccion": "Passeig de Ronda, 42",
     "localidad": "Alcarràs",
     "provincia": "Lleida",
     "cp": "",
@@ -1663,19 +1654,19 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "fecha_guardia": "2026-11-12",
+    "fecha_guardia": "2026-11-26",
     "guardia_franja": "DIA I NIT (guardia localizada: llamar antes de acudir)",
     "guardia_franjas": [
       "DIA I NIT (guardia localizada: llamar antes de acudir)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-12T00:00:00",
-        "fin": "2026-11-12T20:00:00",
-        "inicio_original": "2026-11-12T00:00:00",
-        "fin_original": "2026-11-13T00:00:00",
+        "inicio": "2026-11-26T20:00:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T00:00:00",
+        "fin_original": "2026-11-27T00:00:00",
         "tipo": "DIA I NIT",
-        "publicado": "2026-11-11"
+        "publicado": "2026-11-27"
       }
     ],
     "localidades_atendidas": [
@@ -1796,17 +1787,17 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "fecha_guardia": "2026-11-25",
+    "fecha_guardia": "2026-11-26",
     "guardia_franja": "DIA I NIT (guardia localizada: llamar antes de acudir)",
     "guardia_franjas": [
       "DIA I NIT (guardia localizada: llamar antes de acudir)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-25T00:00:00",
-        "fin": "2026-11-26T00:00:00",
-        "inicio_original": "2026-11-25T00:00:00",
-        "fin_original": "2026-11-26T00:00:00",
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T22:00:00",
+        "inicio_original": "2026-11-26T00:00:00",
+        "fin_original": "2026-11-27T00:00:00",
         "tipo": "DIA I NIT",
         "publicado": "2026-11-25"
       }
@@ -1835,19 +1826,19 @@
     "lng": 0.8694853,
     "ubicacion_pendiente_verificacion": false,
     "guardia": false,
-    "fecha_guardia": "2026-11-25",
+    "fecha_guardia": "2026-11-26",
     "guardia_franja": "DIA I NIT (guardia localizada: llamar antes de acudir)",
     "guardia_franjas": [
       "DIA I NIT (guardia localizada: llamar antes de acudir)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-25T00:00:00",
-        "fin": "2026-11-26T00:00:00",
-        "inicio_original": "2026-11-25T00:00:00",
-        "fin_original": "2026-11-26T00:00:00",
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T00:00:00",
+        "fin_original": "2026-11-27T00:00:00",
         "tipo": "DIA I NIT",
-        "publicado": "2026-11-25"
+        "publicado": "2026-11-26"
       }
     ],
     "localidades_atendidas": [
@@ -2306,19 +2297,19 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "fecha_guardia": "2026-11-19",
+    "fecha_guardia": "2026-11-26",
     "guardia_franja": "DIA I NIT (guardia localizada: llamar antes de acudir)",
     "guardia_franjas": [
       "DIA I NIT (guardia localizada: llamar antes de acudir)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-19T00:00:00",
-        "fin": "2026-11-19T20:00:00",
-        "inicio_original": "2026-11-19T00:00:00",
-        "fin_original": "2026-11-20T00:00:00",
+        "inicio": "2026-11-26T20:00:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T00:00:00",
+        "fin_original": "2026-11-27T00:00:00",
         "tipo": "DIA I NIT",
-        "publicado": "2026-11-18"
+        "publicado": "2026-11-27"
       }
     ],
     "localidades_atendidas": [
@@ -2604,17 +2595,17 @@
     "lng": 0.5700927,
     "ubicacion_pendiente_verificacion": false,
     "guardia": false,
-    "fecha_guardia": "2026-11-25",
+    "fecha_guardia": "2026-11-26",
     "guardia_franja": "DIA I NIT (guardia localizada: llamar antes de acudir)",
     "guardia_franjas": [
       "DIA I NIT (guardia localizada: llamar antes de acudir)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-25T00:00:00",
-        "fin": "2026-11-26T00:00:00",
-        "inicio_original": "2026-11-25T00:00:00",
-        "fin_original": "2026-11-26T00:00:00",
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T20:00:00",
+        "inicio_original": "2026-11-26T00:00:00",
+        "fin_original": "2026-11-27T00:00:00",
         "tipo": "DIA I NIT",
         "publicado": "2026-11-25"
       }
@@ -2651,17 +2642,17 @@
     "lng": 0.805735,
     "ubicacion_pendiente_verificacion": false,
     "guardia": false,
-    "fecha_guardia": "2026-11-25",
+    "fecha_guardia": "2026-11-26",
     "guardia_franja": "DIA I NIT (guardia localizada: llamar antes de acudir)",
     "guardia_franjas": [
       "DIA I NIT (guardia localizada: llamar antes de acudir)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-25T00:00:00",
-        "fin": "2026-11-26T00:00:00",
-        "inicio_original": "2026-11-25T00:00:00",
-        "fin_original": "2026-11-26T00:00:00",
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T20:00:00",
+        "inicio_original": "2026-11-26T00:00:00",
+        "fin_original": "2026-11-27T00:00:00",
         "tipo": "DIA I NIT",
         "publicado": "2026-11-25"
       }
@@ -2706,17 +2697,17 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "fecha_guardia": "2026-11-25",
+    "fecha_guardia": "2026-11-26",
     "guardia_franja": "DIA de 9 a 22 hores (guardia localizada: llamar antes de acudir)",
     "guardia_franjas": [
       "DIA de 9 a 22 hores (guardia localizada: llamar antes de acudir)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-25T09:00:00",
-        "fin": "2026-11-25T22:00:00",
-        "inicio_original": "2026-11-25T09:00:00",
-        "fin_original": "2026-11-25T22:00:00",
+        "inicio": "2026-11-26T09:00:00",
+        "fin": "2026-11-26T20:00:00",
+        "inicio_original": "2026-11-26T09:00:00",
+        "fin_original": "2026-11-26T22:00:00",
         "tipo": "DIA de 9 a 22 hores",
         "publicado": "2026-11-25"
       }
@@ -2746,17 +2737,17 @@
     "lng": 1.2712039,
     "ubicacion_pendiente_verificacion": false,
     "guardia": false,
-    "fecha_guardia": "2026-11-25",
+    "fecha_guardia": "2026-11-26",
     "guardia_franja": "DIA I NIT (guardia localizada: llamar antes de acudir)",
     "guardia_franjas": [
       "DIA I NIT (guardia localizada: llamar antes de acudir)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-25T00:00:00",
-        "fin": "2026-11-26T00:00:00",
-        "inicio_original": "2026-11-25T00:00:00",
-        "fin_original": "2026-11-26T00:00:00",
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T20:00:00",
+        "inicio_original": "2026-11-26T00:00:00",
+        "fin_original": "2026-11-27T00:00:00",
         "tipo": "DIA I NIT",
         "publicado": "2026-11-25"
       }
@@ -2791,17 +2782,17 @@
     "lng": 1.4606817,
     "ubicacion_pendiente_verificacion": false,
     "guardia": false,
-    "fecha_guardia": "2026-11-25",
+    "fecha_guardia": "2026-11-26",
     "guardia_franja": "DIA I NIT (guardia localizada: llamar antes de acudir)",
     "guardia_franjas": [
       "DIA I NIT (guardia localizada: llamar antes de acudir)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-25T00:00:00",
-        "fin": "2026-11-26T00:00:00",
-        "inicio_original": "2026-11-25T00:00:00",
-        "fin_original": "2026-11-26T00:00:00",
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T20:00:00",
+        "inicio_original": "2026-11-26T00:00:00",
+        "fin_original": "2026-11-27T00:00:00",
         "tipo": "DIA I NIT",
         "publicado": "2026-11-25"
       }
@@ -2838,17 +2829,17 @@
     "lng": 1.1399828,
     "ubicacion_pendiente_verificacion": false,
     "guardia": false,
-    "fecha_guardia": "2026-11-25",
+    "fecha_guardia": "2026-11-26",
     "guardia_franja": "DIA I NIT (guardia localizada: llamar antes de acudir)",
     "guardia_franjas": [
       "DIA I NIT (guardia localizada: llamar antes de acudir)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-25T00:00:00",
-        "fin": "2026-11-26T00:00:00",
-        "inicio_original": "2026-11-25T00:00:00",
-        "fin_original": "2026-11-26T00:00:00",
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T20:00:00",
+        "inicio_original": "2026-11-26T00:00:00",
+        "fin_original": "2026-11-27T00:00:00",
         "tipo": "DIA I NIT",
         "publicado": "2026-11-25"
       }
@@ -2887,17 +2878,17 @@
     "lng": 1.0475339,
     "ubicacion_pendiente_verificacion": false,
     "guardia": false,
-    "fecha_guardia": "2026-11-25",
+    "fecha_guardia": "2026-11-26",
     "guardia_franja": "DIA I NIT (guardia localizada: llamar antes de acudir)",
     "guardia_franjas": [
       "DIA I NIT (guardia localizada: llamar antes de acudir)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-25T00:00:00",
-        "fin": "2026-11-26T00:00:00",
-        "inicio_original": "2026-11-25T00:00:00",
-        "fin_original": "2026-11-26T00:00:00",
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T20:00:00",
+        "inicio_original": "2026-11-26T00:00:00",
+        "fin_original": "2026-11-27T00:00:00",
         "tipo": "DIA I NIT",
         "publicado": "2026-11-25"
       }
@@ -2931,17 +2922,17 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "fecha_guardia": "2026-11-25",
+    "fecha_guardia": "2026-11-26",
     "guardia_franja": "DIA I NIT (guardia localizada: llamar antes de acudir)",
     "guardia_franjas": [
       "DIA I NIT (guardia localizada: llamar antes de acudir)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-25T00:00:00",
-        "fin": "2026-11-26T00:00:00",
-        "inicio_original": "2026-11-25T00:00:00",
-        "fin_original": "2026-11-26T00:00:00",
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-26T20:00:00",
+        "inicio_original": "2026-11-26T00:00:00",
+        "fin_original": "2026-11-27T00:00:00",
         "tipo": "DIA I NIT",
         "publicado": "2026-11-25"
       }
@@ -2975,19 +2966,19 @@
     "lng": 1.5146548,
     "ubicacion_pendiente_verificacion": false,
     "guardia": false,
-    "fecha_guardia": "2026-11-25",
+    "fecha_guardia": "2026-11-26",
     "guardia_franja": "DIA I NIT (guardia localizada: llamar antes de acudir)",
     "guardia_franjas": [
       "DIA I NIT (guardia localizada: llamar antes de acudir)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-25T00:00:00",
-        "fin": "2026-11-26T00:00:00",
-        "inicio_original": "2026-11-25T00:00:00",
-        "fin_original": "2026-11-26T00:00:00",
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T00:00:00",
+        "fin_original": "2026-11-27T00:00:00",
         "tipo": "DIA I NIT",
-        "publicado": "2026-11-25"
+        "publicado": "2026-11-26"
       }
     ],
     "localidades_atendidas": [
@@ -3019,19 +3010,19 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "fecha_guardia": "2026-11-25",
+    "fecha_guardia": "2026-11-26",
     "guardia_franja": "DIA I NIT (guardia localizada: llamar antes de acudir)",
     "guardia_franjas": [
       "DIA I NIT (guardia localizada: llamar antes de acudir)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-25T00:00:00",
-        "fin": "2026-11-26T00:00:00",
-        "inicio_original": "2026-11-25T00:00:00",
-        "fin_original": "2026-11-26T00:00:00",
+        "inicio": "2026-11-26T00:00:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T00:00:00",
+        "fin_original": "2026-11-27T00:00:00",
         "tipo": "DIA I NIT",
-        "publicado": "2026-11-25"
+        "publicado": "2026-11-26"
       }
     ],
     "localidades_atendidas": [
@@ -3044,5 +3035,226 @@
       "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
       "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Farmacia&IdFarmacia=198"
     ]
+  },
+  {
+    "id": "cof-lleida-54",
+    "nombre": "Blasco González, Marina",
+    "direccion": "Carrer del Raval, 58-60",
+    "localidad": "Llardecans",
+    "provincia": "Lleida",
+    "cp": "",
+    "telefono": "973130455",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": false,
+    "fecha_guardia": "2026-11-26",
+    "guardia_franja": "DIA I NIT (guardia localizada: llamar antes de acudir)",
+    "guardia_franjas": [
+      "DIA I NIT (guardia localizada: llamar antes de acudir)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T20:00:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T00:00:00",
+        "fin_original": "2026-11-27T00:00:00",
+        "tipo": "DIA I NIT",
+        "publicado": "2026-11-27"
+      }
+    ],
+    "localidades_atendidas": [
+      "Aitona",
+      "Juncosa",
+      "La Granadella",
+      "La Granja d'Escarp",
+      "Llardecans",
+      "Maials",
+      "Massalcoreig",
+      "Sarroca de Lleida",
+      "Seròs"
+    ],
+    "fuente": "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+    "fuentes": [
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Farmacia&IdFarmacia=54"
+    ]
+  },
+  {
+    "id": "cof-lleida-78",
+    "nombre": "Robinat Albareda, Núria",
+    "direccion": "Av. Catalunya, 59",
+    "localidad": "Tàrrega",
+    "provincia": "Lleida",
+    "cp": "",
+    "telefono": "973310451",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": false,
+    "fecha_guardia": "2026-11-26",
+    "guardia_franja": "DIA I NIT (guardia localizada: llamar antes de acudir)",
+    "guardia_franjas": [
+      "DIA I NIT (guardia localizada: llamar antes de acudir)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T20:00:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T00:00:00",
+        "fin_original": "2026-11-27T00:00:00",
+        "tipo": "DIA I NIT",
+        "publicado": "2026-11-27"
+      }
+    ],
+    "localidades_atendidas": [
+      "Agramunt",
+      "Anglesola",
+      "Bellpuig",
+      "Castellserà",
+      "La Fuliola",
+      "Tàrrega",
+      "Verdú",
+      "Vilagrassa"
+    ],
+    "fuente": "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+    "fuentes": [
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Farmacia&IdFarmacia=78"
+    ]
+  },
+  {
+    "id": "cof-lleida-133",
+    "nombre": "Purgimon Feliu, Joan Lluis",
+    "direccion": "Sant Joan Bta. de la Salle, 52",
+    "localidad": "La Seu d'Urgell",
+    "provincia": "Lleida",
+    "cp": "",
+    "telefono": "973351307",
+    "lat": 42.3557762,
+    "lng": 1.4586335,
+    "ubicacion_pendiente_verificacion": false,
+    "guardia": false,
+    "fecha_guardia": "2026-11-26",
+    "guardia_franja": "DIA I NIT (guardia localizada: llamar antes de acudir)",
+    "guardia_franjas": [
+      "DIA I NIT (guardia localizada: llamar antes de acudir)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T20:00:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T00:00:00",
+        "fin_original": "2026-11-27T00:00:00",
+        "tipo": "DIA I NIT",
+        "publicado": "2026-11-27"
+      }
+    ],
+    "localidades_atendidas": [
+      "Adrall",
+      "Coll de Nargó",
+      "La Seu d'Urgell",
+      "Montferrer i Castellbó",
+      "Oliana",
+      "Organyà"
+    ],
+    "fuente": "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+    "fuentes": [
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Farmacia&IdFarmacia=133"
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Farmacia&IdFarmacia=133",
+    "ajuste_ubicacion_m": 10.2,
+    "osm_id": "osm-7297115726",
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/7297115726",
+    "nota_ubicacion": "Marcador del Colegio contrastado con una farmacia OSM a 10.2 m."
+  },
+  {
+    "id": "cof-lleida-246",
+    "nombre": "Ramos",
+    "direccion": "Ctra. Vella, s/n",
+    "localidad": "Ger",
+    "provincia": "Lleida",
+    "cp": "",
+    "telefono": "972147059",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": false,
+    "fecha_guardia": "2026-11-26",
+    "guardia_franja": "DIA de 9 a 22 hores (guardia localizada: llamar antes de acudir)",
+    "guardia_franjas": [
+      "DIA de 9 a 22 hores (guardia localizada: llamar antes de acudir)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T20:00:00",
+        "fin": "2026-11-26T22:00:00",
+        "inicio_original": "2026-11-26T09:00:00",
+        "fin_original": "2026-11-26T22:00:00",
+        "tipo": "DIA de 9 a 22 hores",
+        "publicado": "2026-11-27"
+      }
+    ],
+    "localidades_atendidas": [
+      "Alp",
+      "Bellver de Cerdanya",
+      "Ger",
+      "Martinet",
+      "Prullans"
+    ],
+    "fuente": "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+    "fuentes": [
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Farmacia&IdFarmacia=246"
+    ]
+  },
+  {
+    "id": "cof-lleida-264",
+    "nombre": "Vendrell Roc, Carolina",
+    "direccion": "Major, 74",
+    "localidad": "Almacelles",
+    "provincia": "Lleida",
+    "cp": "",
+    "telefono": "973740268",
+    "lat": 41.728907,
+    "lng": 0.4400624,
+    "ubicacion_pendiente_verificacion": false,
+    "guardia": false,
+    "fecha_guardia": "2026-11-26",
+    "guardia_franja": "DIA I NIT (guardia localizada: llamar antes de acudir)",
+    "guardia_franjas": [
+      "DIA I NIT (guardia localizada: llamar antes de acudir)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-26T20:00:00",
+        "fin": "2026-11-27T00:00:00",
+        "inicio_original": "2026-11-26T00:00:00",
+        "fin_original": "2026-11-27T00:00:00",
+        "tipo": "DIA I NIT",
+        "publicado": "2026-11-27"
+      }
+    ],
+    "localidades_atendidas": [
+      "Alfarràs",
+      "Algerri",
+      "Alguaire",
+      "Almacelles",
+      "Almenar",
+      "Gimenells"
+    ],
+    "fuente": "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+    "fuentes": [
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp",
+      "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Farmacia&IdFarmacia=264"
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.coflleida.cat/cat/farmacies/farmacies.asp?Detall=Farmacia&IdFarmacia=264",
+    "ajuste_ubicacion_m": 11.1,
+    "osm_id": "osm-7295594150",
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/7295594150",
+    "nota_ubicacion": "Marcador del Colegio contrastado con una farmacia OSM a 11.1 m."
   }
 ]
