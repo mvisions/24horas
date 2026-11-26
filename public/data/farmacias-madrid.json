@@ -50390,5 +50390,22 @@
     "servicio_24h": false,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es"
+  },
+  {
+    "id": "cof-madrid-3071",
+    "nombre": "",
+    "direccion": "Calle NARVAEZ, 6 LC 4 C/A POR CL NUÑEZ DE BALBOA",
+    "localidad": "Valdemoro",
+    "provincia": "Madrid",
+    "telefono": "677579251",
+    "codigo_postal": "28342",
+    "guardia": false,
+    "lat": 40.1983722,
+    "lng": -3.6940624,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "08:00–14:30 · 16:00–21:00",
+    "servicio_24h": false,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es"
   }
 ]

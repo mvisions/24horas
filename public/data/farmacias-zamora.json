@@ -59,13 +59,14 @@
     "telefono": "980520060",
     "fuente": "https://cofzamora.es/admin/config/media/ver_mes_completo",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Zamora"
     ],
-    "guardia_franja": "Guardia diurna COF Zamora; horario exacto pendiente, confirmar por teléfono.",
+    "guardia_franja": "Guardia diurna COF Zamora; horario exacto pendiente, confirmar por teléfono. · Guardia nocturna COF Zamora; horario exacto pendiente, confirmar por teléfono.",
     "guardia_franjas": [
-      "Guardia diurna COF Zamora; horario exacto pendiente, confirmar por teléfono."
+      "Guardia diurna COF Zamora; horario exacto pendiente, confirmar por teléfono.",
+      "Guardia nocturna COF Zamora; horario exacto pendiente, confirmar por teléfono."
     ],
     "guardia_intervalos": [],
     "guardia_apertura": "desconocida",

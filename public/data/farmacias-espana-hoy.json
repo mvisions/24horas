@@ -75585,21 +75585,6 @@
     "lng": 1.5420799
   },
   {
-    "id": "osm-7320392674",
-    "cofm_id": null,
-    "nombre": "Farmàcia Sisternes Vernia, Enric Vicenç",
-    "direccion": "Avinguda de Sant Vicenç 37",
-    "localidad": "Vendrell, el",
-    "zona": "",
-    "provincia": "Tarragona",
-    "telefono": "+34977155964",
-    "horario": null,
-    "guardia": false,
-    "guardia_franja": null,
-    "lat": 41.2150716,
-    "lng": 1.5334501
-  },
-  {
     "id": "osm-7320392675",
     "cofm_id": null,
     "nombre": "Farmàcia Juste Diez de Pinos, Josep Lluís",
@@ -225840,21 +225825,6 @@
     "lng": -5.5464714
   },
   {
-    "id": "osm-6587027407",
-    "cofm_id": null,
-    "nombre": "Carmen Vázquez Salom",
-    "direccion": "Plaza 1",
-    "localidad": "Bustillo del Páramo",
-    "zona": "",
-    "provincia": "León",
-    "telefono": "+34 987 364 082",
-    "horario": null,
-    "guardia": false,
-    "guardia_franja": null,
-    "lat": 42.4414173,
-    "lng": -5.7904645
-  },
-  {
     "id": "osm-6587467243",
     "cofm_id": null,
     "nombre": "Pharmacie Sables d'Anglet",
@@ -249015,21 +248985,6 @@
     "provincia": "León",
     "codigo_postal": "24393",
     "telefono": null,
-    "fuente": "https://analisis.datosabiertos.jcyl.es/explore/dataset/registro-de-establecimientos-farmaceuticos-de-castilla-y-leon/",
-    "guardia": false,
-    "guardia_franja": null,
-    "lat": null,
-    "lng": null
-  },
-  {
-    "id": "jcyl-24-e1-00189",
-    "num_reg": "24-E1-00189",
-    "nombre": "Farmacia Del Rio Perez, Pedro",
-    "direccion": "Calle Mayor, s/n",
-    "localidad": "Quintana de Rueda",
-    "provincia": "León",
-    "codigo_postal": "24930",
-    "telefono": "987337151",
     "fuente": "https://analisis.datosabiertos.jcyl.es/explore/dataset/registro-de-establecimientos-farmaceuticos-de-castilla-y-leon/",
     "guardia": false,
     "guardia_franja": null,
@@ -281592,8 +281547,8 @@
     "localidad": "Alicante/Alacant",
     "provincia": "Alicante",
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
-    "lat": null,
-    "lng": null,
+    "lat": 38.3669383,
+    "lng": -0.4887311,
     "guardia": false,
     "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
@@ -281608,7 +281563,11 @@
         "inicio": "2026-11-27T09:30:00+01:00",
         "fin": "2026-11-28T09:30:00+01:00"
       }
-    ]
+    ],
+    "precision_ubicacion": "direccion",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/10834229915",
+    "nota_ubicacion": "OpenStreetMap y CartoCiudad (IGN) sitúan esta dirección a menos de 15 m entre sí.",
+    "ajuste_ubicacion_m": 4.9
   },
   {
     "id": "cof-alicante-110305",
@@ -357309,7 +357268,7 @@
     "telefono": "927160195",
     "fuente": "https://farmacias.cofcaceres.es/",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "ABERTURA",
       "ALBALA",
@@ -357392,7 +357351,7 @@
     "telefono": "927390105",
     "fuente": "https://farmacias.cofcaceres.es/",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "ACEHUCHE",
       "ALCANTARA",
@@ -357420,7 +357379,7 @@
     "telefono": "927430224",
     "fuente": "https://farmacias.cofcaceres.es/",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "ACEITUNA",
       "HERNAN PEREZ",
@@ -357520,7 +357479,7 @@
     "telefono": "927460248",
     "fuente": "https://farmacias.cofcaceres.es/",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "ALDEANUEVA DE LA VERA",
       "ARROYOMOLINOS DE LA VERA",
@@ -357708,7 +357667,7 @@
     "telefono": "927501040",
     "fuente": "https://farmacias.cofcaceres.es/",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "CALZADILLA",
       "CASAS DE DON GOMEZ",
@@ -357822,7 +357781,7 @@
     "telefono": "927570758",
     "fuente": "https://farmacias.cofcaceres.es/",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "GUIJO DE SANTA BARBARA",
       "JARANDILLA",
@@ -357933,7 +357892,7 @@
     "telefono": "927555486",
     "fuente": "https://farmacias.cofcaceres.es/",
     "guardia": false,
-    "fecha_guardia": "2026-11-19",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "CARRASCALEJO",
       "VALDELACASA DE TAJO",
@@ -358003,7 +357962,7 @@
     "telefono": "927515272",
     "fuente": "https://farmacias.cofcaceres.es/",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "DESCARGAMARIA",
       "GATA",
@@ -358168,7 +358127,7 @@
     "telefono": "927360031",
     "fuente": "https://farmacias.cofcaceres.es/",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "ALIA",
       "CAÑAMERO",
@@ -358195,7 +358154,7 @@
     "telefono": "927270048",
     "fuente": "https://farmacias.cofcaceres.es/",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "ALISEDA",
       "ARROYO DE LA LUZ"
@@ -358298,7 +358257,7 @@
     "telefono": "927150045",
     "fuente": "https://farmacias.cofcaceres.es/",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "BERZOCANA",
       "CASTAÑAR DE IBOR",
@@ -358359,7 +358318,7 @@
     "telefono": "927433234",
     "fuente": "https://farmacias.cofcaceres.es/",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "CAMINOMORISCO",
       "CASARES DE HURDES",
@@ -358386,7 +358345,7 @@
     "telefono": "927290023",
     "fuente": "https://farmacias.cofcaceres.es/",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "CAÑAVERAL",
       "CASAR DE CACERES",
@@ -358412,7 +358371,7 @@
     "telefono": "927580124",
     "fuente": "https://farmacias.cofcaceres.es/",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "CARBAJO",
       "CEDILLO",
@@ -358473,7 +358432,7 @@
     "telefono": "927303149",
     "fuente": "https://farmacias.cofcaceres.es/",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "HOLGUERA",
       "TORREJONCILLO"
@@ -358548,7 +358507,7 @@
     "telefono": "927578182",
     "fuente": "https://farmacias.cofcaceres.es/",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "PUEBLONUEVO DE MIRAMONTES",
       "TALAYUELA",
@@ -359451,7 +359410,7 @@
     "telefono": "927514054",
     "fuente": "https://farmacias.cofcaceres.es/",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "ACEBO",
       "CILLEROS",
@@ -359483,7 +359442,7 @@
     "telefono": "927673528",
     "fuente": "https://farmacias.cofcaceres.es/",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "AHIGAL",
       "CASAR DE PALOMERO",
@@ -359514,7 +359473,7 @@
     "telefono": "927323201",
     "fuente": "https://farmacias.cofcaceres.es/",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "ALDEA DEL OBISPO",
       "ALDEACENTENERA",
@@ -359553,13 +359512,12 @@
     "telefono": "927534717",
     "fuente": "https://farmacias.cofcaceres.es/",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "ALMARAZ",
       "BELVIS DE MONROY",
       "BOHONAL DE IBOR",
       "CABAÑAS DEL CASTILLO",
-      "CARRASCALEJO",
       "CASAS DE MIRAVETE",
       "CASATEJADA",
       "CASTAÑAR DE IBOR",
@@ -359574,9 +359532,7 @@
       "PERALEDA DE SAN ROMAN",
       "ROBLEDOLLANO",
       "ROSALEJO",
-      "SAUCEDILLA",
-      "VALDELACASA DE TAJO",
-      "VILLAR DEL PEDROSO"
+      "SAUCEDILLA"
     ],
     "guardia_franja": null,
     "guardia_franjas": [
@@ -359598,7 +359554,7 @@
     "telefono": "927309494",
     "fuente": "https://farmacias.cofcaceres.es/",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "BROZAS",
       "GARROVILLAS",
@@ -359624,7 +359580,7 @@
     "telefono": "927285018",
     "fuente": "https://farmacias.cofcaceres.es/",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "HINOJAL",
       "MONROY",
@@ -359651,7 +359607,7 @@
     "telefono": "927276349",
     "fuente": "https://farmacias.cofcaceres.es/",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "MALPARTIDA DE CACERES"
     ],
@@ -423214,22 +423170,23 @@
     "provincia": "León",
     "telefono": "987261531",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Leon"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:30:00+01:00"
+        "inicio": "2026-11-27T00:00:00+01:00",
+        "fin": "2026-11-27T09:30:00+01:00"
       },
       {
-        "inicio": "2026-11-26T22:00:00+01:00",
-        "fin": "2026-11-27T09:30:00+01:00"
+        "inicio": "2026-11-27T22:00:00+01:00",
+        "fin": "2026-11-28T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
       "Madrugada de guardia nocturna anterior · 00:00–09:30",
+      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
       "Guardia nocturna COF León · 22:00–09:30"
     ],
     "lat": 42.596364,
@@ -423238,6 +423195,7 @@
     "ubicacion_requiere_verificacion": true,
     "guardia_desde_ayer": true,
     "guardia_franja": null,
+    "guardia_apertura": "desconocida",
     "precision_ubicacion": "direccion",
     "fuente_coordenadas": "https://www.openstreetmap.org/way/707917945",
     "nota_ubicacion": "OpenStreetMap y CartoCiudad (IGN) sitúan esta dirección a menos de 15 m entre sí.",
@@ -423251,24 +423209,23 @@
     "provincia": "León",
     "telefono": "987258324",
     "guardia": false,
-    "fecha_guardia": "2026-11-15",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Leon"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-15T00:00:00+01:00",
-        "fin": "2026-11-15T09:30:00+01:00"
+        "inicio": "2026-11-27T22:00:00+01:00",
+        "fin": "2026-11-28T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
-      "Madrugada de guardia nocturna anterior · 00:00–09:30"
+      "Guardia nocturna COF León · 22:00–09:30"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
     "ubicacion_requiere_verificacion": true,
-    "guardia_desde_ayer": true,
     "guardia_franja": null
   },
   {
@@ -423335,7 +423292,7 @@
     "provincia": "León",
     "telefono": "987410070",
     "guardia": false,
-    "fecha_guardia": "2026-11-25",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Ponferrada"
     ],
@@ -423398,18 +423355,18 @@
     "provincia": "León",
     "telefono": "987750072",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Valencia De Don Juan"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:30:00+01:00"
+        "inicio": "2026-11-27T00:00:00+01:00",
+        "fin": "2026-11-27T09:30:00+01:00"
       },
       {
-        "inicio": "2026-11-26T22:00:00+01:00",
-        "fin": "2026-11-27T09:30:00+01:00"
+        "inicio": "2026-11-27T22:00:00+01:00",
+        "fin": "2026-11-28T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
@@ -423580,18 +423537,18 @@
     "provincia": "León",
     "telefono": "987740188",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Boca De Huergano"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:30:00+01:00"
+        "inicio": "2026-11-27T00:00:00+01:00",
+        "fin": "2026-11-27T09:30:00+01:00"
       },
       {
-        "inicio": "2026-11-26T22:00:00+01:00",
-        "fin": "2026-11-27T09:30:00+01:00"
+        "inicio": "2026-11-27T22:00:00+01:00",
+        "fin": "2026-11-28T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
@@ -423615,22 +423572,17 @@
     "provincia": "León",
     "telefono": "987572525",
     "guardia": false,
-    "fecha_guardia": "2026-11-05",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Robla (La)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-05T00:00:00+01:00",
-        "fin": "2026-11-05T09:30:00+01:00"
-      },
-      {
-        "inicio": "2026-11-05T22:00:00+01:00",
-        "fin": "2026-11-06T09:30:00+01:00"
+        "inicio": "2026-11-27T22:00:00+01:00",
+        "fin": "2026-11-28T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
-      "Madrugada de guardia nocturna anterior · 00:00–09:30",
       "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
       "Guardia nocturna COF León · 22:00–09:30"
     ],
@@ -423638,9 +423590,9 @@
     "lng": -5.6285067,
     "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
     "ubicacion_requiere_verificacion": true,
-    "guardia_desde_ayer": true,
-    "guardia_franja": null,
     "guardia_apertura": "desconocida",
+    "guardia_franja": null,
+    "guardia_desde_ayer": false,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/7148192977",
     "nota_ubicacion": "Ubicación contrastada: la dirección y una farmacia de OpenStreetMap coinciden a 12 m.",
@@ -423792,18 +423744,18 @@
     "provincia": "León",
     "telefono": "987780066",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Sahagun"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:30:00+01:00"
+        "inicio": "2026-11-27T00:00:00+01:00",
+        "fin": "2026-11-27T09:30:00+01:00"
       },
       {
-        "inicio": "2026-11-26T22:00:00+01:00",
-        "fin": "2026-11-27T09:30:00+01:00"
+        "inicio": "2026-11-27T22:00:00+01:00",
+        "fin": "2026-11-28T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
@@ -423862,7 +423814,7 @@
     "provincia": "León",
     "telefono": "987546977",
     "guardia": false,
-    "fecha_guardia": "2026-11-19",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Cacabelos"
     ],
@@ -424004,7 +423956,7 @@
     "provincia": "León",
     "telefono": "987762092",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Valderas"
     ],
@@ -424083,23 +424035,22 @@
     "provincia": "León",
     "telefono": "987420809",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Ponferrada"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:30:00+01:00"
+        "inicio": "2026-11-27T00:00:00+01:00",
+        "fin": "2026-11-27T09:30:00+01:00"
       },
       {
-        "inicio": "2026-11-26T22:00:00+01:00",
-        "fin": "2026-11-27T09:30:00+01:00"
+        "inicio": "2026-11-27T22:00:00+01:00",
+        "fin": "2026-11-28T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
       "Madrugada de guardia nocturna anterior · 00:00–09:30",
-      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
       "Guardia nocturna COF León · 22:00–09:30"
     ],
     "lat": null,
@@ -424107,8 +424058,7 @@
     "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
     "ubicacion_requiere_verificacion": true,
     "guardia_desde_ayer": true,
-    "guardia_franja": null,
-    "guardia_apertura": "desconocida"
+    "guardia_franja": null
   },
   {
     "id": "cof-leon-5cb09a7aafc07faf",
@@ -424118,27 +424068,25 @@
     "provincia": "León",
     "telefono": "987616212",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Astorga"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T22:00:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
-      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
-      "Guardia nocturna COF León · 22:00–09:30"
+      "Madrugada de guardia nocturna anterior · 00:00–09:30"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
     "ubicacion_requiere_verificacion": true,
-    "guardia_apertura": "desconocida",
-    "guardia_franja": null,
-    "guardia_desde_ayer": false
+    "guardia_desde_ayer": true,
+    "guardia_franja": null
   },
   {
     "id": "cof-leon-82a54dd4233edc98",
@@ -424148,18 +424096,18 @@
     "provincia": "León",
     "telefono": "987551132",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Fabero"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:30:00+01:00"
+        "inicio": "2026-11-27T00:00:00+01:00",
+        "fin": "2026-11-27T09:30:00+01:00"
       },
       {
-        "inicio": "2026-11-26T22:00:00+01:00",
-        "fin": "2026-11-27T09:30:00+01:00"
+        "inicio": "2026-11-27T22:00:00+01:00",
+        "fin": "2026-11-28T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
@@ -424206,7 +424154,7 @@
     "provincia": "León",
     "telefono": "987525047",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Matarrosa Del Sil"
     ],
@@ -424387,7 +424335,7 @@
     "provincia": "León",
     "telefono": "987413603",
     "guardia": false,
-    "fecha_guardia": "2026-11-25",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Ponferrada"
     ],
@@ -424410,27 +424358,25 @@
     "provincia": "León",
     "telefono": "987640594",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Bañeza (La)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T22:00:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
-      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
-      "Guardia nocturna COF León · 22:00–09:30"
+      "Madrugada de guardia nocturna anterior · 00:00–09:30"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
     "ubicacion_requiere_verificacion": true,
-    "guardia_apertura": "desconocida",
-    "guardia_franja": null,
-    "guardia_desde_ayer": false
+    "guardia_desde_ayer": true,
+    "guardia_franja": null
   },
   {
     "id": "cof-leon-1582f97ceeadfbb8",
@@ -424486,7 +424432,7 @@
     "provincia": "León",
     "telefono": "987420565",
     "guardia": false,
-    "fecha_guardia": "2026-11-25",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Borrenes"
     ],
@@ -424509,25 +424455,27 @@
     "provincia": "León",
     "telefono": "987619153",
     "guardia": false,
-    "fecha_guardia": "2026-11-20",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Astorga"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-20T00:00:00+01:00",
-        "fin": "2026-11-20T09:30:00+01:00"
+        "inicio": "2026-11-27T22:00:00+01:00",
+        "fin": "2026-11-28T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
-      "Madrugada de guardia nocturna anterior · 00:00–09:30"
+      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
+      "Guardia nocturna COF León · 22:00–09:30"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
     "ubicacion_requiere_verificacion": true,
-    "guardia_desde_ayer": true,
-    "guardia_franja": null
+    "guardia_apertura": "desconocida",
+    "guardia_franja": null,
+    "guardia_desde_ayer": false
   },
   {
     "id": "cof-leon-9e5496973852259c",
@@ -424537,7 +424485,7 @@
     "provincia": "León",
     "telefono": "987807673",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Trobajo Del Camino"
     ],
@@ -424583,41 +424531,14 @@
     "provincia": "León",
     "telefono": "987254227",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Leon"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T22:00:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:30:00+01:00"
-      }
-    ],
-    "guardia_franjas": [
-      "Guardia nocturna COF León · 22:00–09:30"
-    ],
-    "lat": null,
-    "lng": null,
-    "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
-    "ubicacion_requiere_verificacion": true,
-    "guardia_franja": null
-  },
-  {
-    "id": "cof-leon-c8d70ccdd844db0d",
-    "nombre": "",
-    "direccion": "ASTORGA, 4",
-    "localidad": "Bañeza (La)",
-    "provincia": "León",
-    "telefono": "987641939",
-    "guardia": false,
-    "fecha_guardia": "2026-11-23",
-    "localidades_atendidas": [
-      "Bañeza (La)"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-23T00:00:00+01:00",
-        "fin": "2026-11-23T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
@@ -424629,6 +424550,36 @@
     "ubicacion_requiere_verificacion": true,
     "guardia_desde_ayer": true,
     "guardia_franja": null
+  },
+  {
+    "id": "cof-leon-c8d70ccdd844db0d",
+    "nombre": "",
+    "direccion": "ASTORGA, 4",
+    "localidad": "Bañeza (La)",
+    "provincia": "León",
+    "telefono": "987641939",
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "Bañeza (La)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T22:00:00+01:00",
+        "fin": "2026-11-28T09:30:00+01:00"
+      }
+    ],
+    "guardia_franjas": [
+      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
+      "Guardia nocturna COF León · 22:00–09:30"
+    ],
+    "lat": null,
+    "lng": null,
+    "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
+    "ubicacion_requiere_verificacion": true,
+    "guardia_apertura": "desconocida",
+    "guardia_franja": null,
+    "guardia_desde_ayer": false
   },
   {
     "id": "jcyl-24-e1-00079",
@@ -424906,25 +424857,27 @@
     "provincia": "León",
     "telefono": "987701264",
     "guardia": false,
-    "fecha_guardia": "2026-11-20",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Cistierna"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-20T00:00:00+01:00",
-        "fin": "2026-11-20T09:30:00+01:00"
+        "inicio": "2026-11-27T22:00:00+01:00",
+        "fin": "2026-11-28T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
-      "Madrugada de guardia nocturna anterior · 00:00–09:30"
+      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
+      "Guardia nocturna COF León · 22:00–09:30"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
     "ubicacion_requiere_verificacion": true,
-    "guardia_desde_ayer": true,
-    "guardia_franja": null
+    "guardia_apertura": "desconocida",
+    "guardia_franja": null,
+    "guardia_desde_ayer": false
   },
   {
     "id": "cof-leon-2c05b2b9f0263042",
@@ -424962,32 +424915,25 @@
     "provincia": "León",
     "telefono": "987591352",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Barrio Estacion"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:30:00+01:00"
-      },
-      {
-        "inicio": "2026-11-26T22:00:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
-      "Madrugada de guardia nocturna anterior · 00:00–09:30",
-      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
-      "Guardia nocturna COF León · 22:00–09:30"
+      "Madrugada de guardia nocturna anterior · 00:00–09:30"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
     "ubicacion_requiere_verificacion": true,
     "guardia_desde_ayer": true,
-    "guardia_franja": null,
-    "guardia_apertura": "desconocida"
+    "guardia_franja": null
   },
   {
     "id": "jcyl-24-e1-00040",
@@ -425109,27 +425055,25 @@
     "provincia": "León",
     "telefono": "987350017",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Santa Maria Del Paramo"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T22:00:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
-      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
-      "Guardia nocturna COF León · 22:00–09:30"
+      "Madrugada de guardia nocturna anterior · 00:00–09:30"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
     "ubicacion_requiere_verificacion": true,
-    "guardia_apertura": "desconocida",
-    "guardia_franja": null,
-    "guardia_desde_ayer": false
+    "guardia_desde_ayer": true,
+    "guardia_franja": null
   },
   {
     "id": "cof-leon-c605f86b2cdb7f3d",
@@ -425325,7 +425269,7 @@
     "provincia": "León",
     "telefono": "987488839",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Cabrillanes"
     ],
@@ -425376,7 +425320,7 @@
     "provincia": "León",
     "telefono": "987246446",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Leon"
     ],
@@ -425835,7 +425779,7 @@
     "provincia": "León",
     "telefono": "987201374",
     "guardia": false,
-    "fecha_guardia": "2026-11-20",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Leon"
     ],
@@ -425998,32 +425942,25 @@
     "provincia": "León",
     "telefono": "987388950",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Hospital De Orbigo"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:30:00+01:00"
-      },
-      {
-        "inicio": "2026-11-26T22:00:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
-      "Madrugada de guardia nocturna anterior · 00:00–09:30",
-      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
-      "Guardia nocturna COF León · 22:00–09:30"
+      "Madrugada de guardia nocturna anterior · 00:00–09:30"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
     "ubicacion_requiere_verificacion": true,
     "guardia_desde_ayer": true,
-    "guardia_franja": null,
-    "guardia_apertura": "desconocida"
+    "guardia_franja": null
   },
   {
     "id": "cof-leon-3fd15946f1265bb6",
@@ -426033,32 +425970,25 @@
     "provincia": "León",
     "telefono": "987588142",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Pola De Gordon (La)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:30:00+01:00"
-      },
-      {
-        "inicio": "2026-11-26T22:00:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
-      "Madrugada de guardia nocturna anterior · 00:00–09:30",
-      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
-      "Guardia nocturna COF León · 22:00–09:30"
+      "Madrugada de guardia nocturna anterior · 00:00–09:30"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
     "ubicacion_requiere_verificacion": true,
     "guardia_desde_ayer": true,
-    "guardia_franja": null,
-    "guardia_apertura": "desconocida"
+    "guardia_franja": null
   },
   {
     "id": "cof-leon-1e6566a07d47716c",
@@ -426068,32 +425998,25 @@
     "provincia": "León",
     "telefono": "987580719",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Riello"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:30:00+01:00"
-      },
-      {
-        "inicio": "2026-11-26T22:00:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
-      "Madrugada de guardia nocturna anterior · 00:00–09:30",
-      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
-      "Guardia nocturna COF León · 22:00–09:30"
+      "Madrugada de guardia nocturna anterior · 00:00–09:30"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
     "ubicacion_requiere_verificacion": true,
     "guardia_desde_ayer": true,
-    "guardia_franja": null,
-    "guardia_apertura": "desconocida"
+    "guardia_franja": null
   },
   {
     "id": "jcyl-24-e1-00215",
@@ -426103,32 +426026,25 @@
     "provincia": "León",
     "telefono": "987711025",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Cremenes"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:30:00+01:00"
-      },
-      {
-        "inicio": "2026-11-26T22:00:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
-      "Madrugada de guardia nocturna anterior · 00:00–09:30",
-      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
-      "Guardia nocturna COF León · 22:00–09:30"
+      "Madrugada de guardia nocturna anterior · 00:00–09:30"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
     "ubicacion_requiere_verificacion": true,
     "guardia_desde_ayer": true,
-    "guardia_franja": null,
-    "guardia_apertura": "desconocida"
+    "guardia_franja": null
   },
   {
     "id": "cof-leon-cecb22be03b92eb7",
@@ -426138,18 +426054,18 @@
     "provincia": "León",
     "telefono": "677408713",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Villablino"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:30:00+01:00"
+        "inicio": "2026-11-27T00:00:00+01:00",
+        "fin": "2026-11-27T09:30:00+01:00"
       },
       {
-        "inicio": "2026-11-26T22:00:00+01:00",
-        "fin": "2026-11-27T09:30:00+01:00"
+        "inicio": "2026-11-27T22:00:00+01:00",
+        "fin": "2026-11-28T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
@@ -426173,18 +426089,18 @@
     "provincia": "León",
     "telefono": "987510582",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Bembibre"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:30:00+01:00"
+        "inicio": "2026-11-27T00:00:00+01:00",
+        "fin": "2026-11-27T09:30:00+01:00"
       },
       {
-        "inicio": "2026-11-26T22:00:00+01:00",
-        "fin": "2026-11-27T09:30:00+01:00"
+        "inicio": "2026-11-27T22:00:00+01:00",
+        "fin": "2026-11-28T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
@@ -426208,7 +426124,7 @@
     "provincia": "León",
     "telefono": "987330011",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Burgo Ranero (El)"
     ],
@@ -426231,18 +426147,18 @@
     "provincia": "León",
     "telefono": "987742101",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Vegaquemada"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:30:00+01:00"
+        "inicio": "2026-11-27T00:00:00+01:00",
+        "fin": "2026-11-27T09:30:00+01:00"
       },
       {
-        "inicio": "2026-11-26T22:00:00+01:00",
-        "fin": "2026-11-27T09:30:00+01:00"
+        "inicio": "2026-11-27T22:00:00+01:00",
+        "fin": "2026-11-28T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
@@ -426294,7 +426210,7 @@
     "provincia": "León",
     "telefono": "987664120",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Baña (La)"
     ],
@@ -426369,6 +426285,112 @@
     "ubicacion_requiere_verificacion": true,
     "guardia_desde_ayer": true,
     "guardia_franja": null
+  },
+  {
+    "id": "cof-leon-e3a5563362a5ca17",
+    "nombre": "",
+    "direccion": "PZ MAYOR, 4",
+    "localidad": "Villafranca Del Bierzo",
+    "provincia": "León",
+    "telefono": "987540737",
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "Villafranca Del Bierzo"
+    ],
+    "guardia_intervalos": [],
+    "guardia_franjas": [
+      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono."
+    ],
+    "lat": null,
+    "lng": null,
+    "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
+    "ubicacion_requiere_verificacion": true,
+    "guardia_apertura": "desconocida",
+    "guardia_franja": null
+  },
+  {
+    "id": "cof-leon-1cbcbfddf2da7fd6",
+    "nombre": "",
+    "direccion": "PADRE ANGEL MTNEZ. FUERTES, 37",
+    "localidad": "Villadangos Del Paramo",
+    "provincia": "León",
+    "telefono": "987390056",
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "Villadangos Del Paramo"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T22:00:00+01:00",
+        "fin": "2026-11-28T09:30:00+01:00"
+      }
+    ],
+    "guardia_franjas": [
+      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
+      "Guardia nocturna COF León · 22:00–09:30"
+    ],
+    "lat": null,
+    "lng": null,
+    "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
+    "ubicacion_requiere_verificacion": true,
+    "guardia_apertura": "desconocida",
+    "guardia_franja": null,
+    "guardia_desde_ayer": false
+  },
+  {
+    "id": "jcyl-24-e1-00189",
+    "nombre": "",
+    "direccion": "CALLE MAYOR, S/N",
+    "localidad": "Quintana De Rueda",
+    "provincia": "León",
+    "telefono": "987337151",
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "Quintana De Rueda"
+    ],
+    "guardia_intervalos": [],
+    "guardia_franjas": [
+      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono."
+    ],
+    "lat": null,
+    "lng": null,
+    "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
+    "ubicacion_requiere_verificacion": true,
+    "guardia_apertura": "desconocida",
+    "guardia_franja": null
+  },
+  {
+    "id": "cof-leon-001e57b58205af9d",
+    "nombre": "",
+    "direccion": "AV DE LA PLAZA, 1",
+    "localidad": "Bustillo Del Paramo",
+    "provincia": "León",
+    "telefono": "987364082",
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "Bustillo Del Paramo"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T22:00:00+01:00",
+        "fin": "2026-11-28T09:30:00+01:00"
+      }
+    ],
+    "guardia_franjas": [
+      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
+      "Guardia nocturna COF León · 22:00–09:30"
+    ],
+    "lat": null,
+    "lng": null,
+    "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
+    "ubicacion_requiere_verificacion": true,
+    "guardia_apertura": "desconocida",
+    "guardia_franja": null,
+    "guardia_desde_ayer": false
   },
   {
     "id": "cof-lleida-17",
@@ -482987,6 +483009,24 @@
     "guardia_franja": null
   },
   {
+    "id": "cof-madrid-3071",
+    "nombre": "",
+    "direccion": "Calle NARVAEZ, 6 LC 4 C/A POR CL NUÑEZ DE BALBOA",
+    "localidad": "Valdemoro",
+    "provincia": "Madrid",
+    "telefono": "677579251",
+    "codigo_postal": "28342",
+    "guardia": false,
+    "lat": 40.1983722,
+    "lng": -3.6940624,
+    "fuente": "https://www.cofm.es/es/buscador-de-farmacias/",
+    "horario_habitual": "08:00–14:30 · 16:00–21:00",
+    "servicio_24h": false,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofm.es/rest/farmacias/es",
+    "guardia_franja": null
+  },
+  {
     "id": "29-29010106",
     "cofm_id": "29010106",
     "direccion": "C/ PEÑUELAS NÚM. 1",
@@ -526898,7 +526938,7 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franja": null,
     "guardia_franjas": [
       "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)",
@@ -526907,24 +526947,24 @@
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00",
-        "fin": "2026-11-26T09:00:00",
-        "inicio_original": "2026-11-25T22:00:00",
-        "fin_original": "2026-11-26T09:00:00",
+        "inicio": "2026-11-27T00:00:00",
+        "fin": "2026-11-27T09:00:00",
+        "inicio_original": "2026-11-26T22:00:00",
+        "fin_original": "2026-11-27T09:00:00",
         "tipo": "Nocturn"
       },
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T22:00:00",
-        "inicio_original": "2026-11-26T09:00:00",
-        "fin_original": "2026-11-26T22:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T22:00:00",
+        "inicio_original": "2026-11-27T09:00:00",
+        "fin_original": "2026-11-27T22:00:00",
         "tipo": "Diürn"
       },
       {
-        "inicio": "2026-11-26T22:00:00",
-        "fin": "2026-11-27T00:00:00",
-        "inicio_original": "2026-11-26T22:00:00",
-        "fin_original": "2026-11-27T09:00:00",
+        "inicio": "2026-11-27T22:00:00",
+        "fin": "2026-11-28T00:00:00",
+        "inicio_original": "2026-11-27T22:00:00",
+        "fin_original": "2026-11-28T09:00:00",
         "tipo": "Nocturn"
       }
     ],
@@ -527133,17 +527173,25 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "fecha_guardia": "2026-11-10",
+    "fecha_guardia": "2026-11-27",
     "guardia_franja": null,
     "guardia_franjas": [
-      "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)"
+      "Servei d'Urgències Diürn (9:00h a 22:00h)",
+      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-10T00:00:00",
-        "fin": "2026-11-10T09:00:00",
-        "inicio_original": "2026-11-09T22:00:00",
-        "fin_original": "2026-11-10T09:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T22:00:00",
+        "inicio_original": "2026-11-27T09:00:00",
+        "fin_original": "2026-11-27T22:00:00",
+        "tipo": "Diürn"
+      },
+      {
+        "inicio": "2026-11-27T22:00:00",
+        "fin": "2026-11-28T00:00:00",
+        "inicio_original": "2026-11-27T22:00:00",
+        "fin_original": "2026-11-28T09:00:00",
         "tipo": "Nocturn"
       }
     ],
@@ -527464,7 +527512,7 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franja": null,
     "guardia_franjas": [
       "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)",
@@ -527473,24 +527521,24 @@
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00",
-        "fin": "2026-11-26T09:00:00",
-        "inicio_original": "2026-11-25T22:00:00",
-        "fin_original": "2026-11-26T09:00:00",
+        "inicio": "2026-11-27T00:00:00",
+        "fin": "2026-11-27T09:00:00",
+        "inicio_original": "2026-11-26T22:00:00",
+        "fin_original": "2026-11-27T09:00:00",
         "tipo": "Nocturn"
       },
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T22:00:00",
-        "inicio_original": "2026-11-26T09:00:00",
-        "fin_original": "2026-11-26T22:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T22:00:00",
+        "inicio_original": "2026-11-27T09:00:00",
+        "fin_original": "2026-11-27T22:00:00",
         "tipo": "Diürn"
       },
       {
-        "inicio": "2026-11-26T22:00:00",
-        "fin": "2026-11-27T00:00:00",
-        "inicio_original": "2026-11-26T22:00:00",
-        "fin_original": "2026-11-27T09:00:00",
+        "inicio": "2026-11-27T22:00:00",
+        "fin": "2026-11-28T00:00:00",
+        "inicio_original": "2026-11-27T22:00:00",
+        "fin_original": "2026-11-28T09:00:00",
         "tipo": "Nocturn"
       }
     ],
@@ -527697,26 +527745,18 @@
     "lng": 0.722823,
     "ubicacion_pendiente_verificacion": false,
     "guardia": false,
-    "fecha_guardia": "2026-11-06",
+    "fecha_guardia": "2026-11-27",
     "guardia_franja": null,
     "guardia_franjas": [
-      "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)",
-      "Servei d'Urgències Diürn (9:00h a 22:00h)"
+      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-06T00:00:00",
-        "fin": "2026-11-06T09:00:00",
-        "inicio_original": "2026-11-05T22:00:00",
-        "fin_original": "2026-11-06T09:00:00",
+        "inicio": "2026-11-27T22:00:00",
+        "fin": "2026-11-28T00:00:00",
+        "inicio_original": "2026-11-27T22:00:00",
+        "fin_original": "2026-11-28T09:00:00",
         "tipo": "Nocturn"
-      },
-      {
-        "inicio": "2026-11-06T09:00:00",
-        "fin": "2026-11-06T22:00:00",
-        "inicio_original": "2026-11-06T09:00:00",
-        "fin_original": "2026-11-06T22:00:00",
-        "tipo": "Diürn"
       }
     ],
     "localidades_atendidas": [
@@ -527798,17 +527838,17 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "fecha_guardia": "2026-11-20",
+    "fecha_guardia": "2026-11-27",
     "guardia_franja": null,
     "guardia_franjas": [
       "Servei d'Urgències Diürn (9:00h a 22:00h)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-20T09:00:00",
-        "fin": "2026-11-20T22:00:00",
-        "inicio_original": "2026-11-20T09:00:00",
-        "fin_original": "2026-11-20T22:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T22:00:00",
+        "inicio_original": "2026-11-27T09:00:00",
+        "fin_original": "2026-11-27T22:00:00",
         "tipo": "Diürn"
       }
     ],
@@ -527919,26 +527959,18 @@
     "lng": 0.8092251,
     "ubicacion_pendiente_verificacion": false,
     "guardia": false,
-    "fecha_guardia": "2026-11-06",
+    "fecha_guardia": "2026-11-27",
     "guardia_franja": null,
     "guardia_franjas": [
-      "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)",
-      "Servei d'Urgències Diürn (9:00h a 22:00h)"
+      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-06T00:00:00",
-        "fin": "2026-11-06T09:00:00",
-        "inicio_original": "2026-11-05T22:00:00",
-        "fin_original": "2026-11-06T09:00:00",
+        "inicio": "2026-11-27T22:00:00",
+        "fin": "2026-11-28T00:00:00",
+        "inicio_original": "2026-11-27T22:00:00",
+        "fin_original": "2026-11-28T09:00:00",
         "tipo": "Nocturn"
-      },
-      {
-        "inicio": "2026-11-06T09:00:00",
-        "fin": "2026-11-06T22:00:00",
-        "inicio_original": "2026-11-06T09:00:00",
-        "fin_original": "2026-11-06T22:00:00",
-        "tipo": "Diürn"
       }
     ],
     "localidades_atendidas": [
@@ -528011,34 +528043,26 @@
     "lng": 0.281235,
     "ubicacion_pendiente_verificacion": false,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franja": null,
     "guardia_franjas": [
       "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)",
-      "Servei d'Urgències Diürn (9:00h a 22:00h)",
-      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
+      "Servei d'Urgències Diürn (9:00h a 22:00h)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00",
-        "fin": "2026-11-26T09:00:00",
-        "inicio_original": "2026-11-25T22:00:00",
-        "fin_original": "2026-11-26T09:00:00",
-        "tipo": "Nocturn"
-      },
-      {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T22:00:00",
-        "inicio_original": "2026-11-26T09:00:00",
-        "fin_original": "2026-11-26T22:00:00",
-        "tipo": "Diürn"
-      },
-      {
-        "inicio": "2026-11-26T22:00:00",
-        "fin": "2026-11-27T00:00:00",
+        "inicio": "2026-11-27T00:00:00",
+        "fin": "2026-11-27T09:00:00",
         "inicio_original": "2026-11-26T22:00:00",
         "fin_original": "2026-11-27T09:00:00",
         "tipo": "Nocturn"
+      },
+      {
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T22:00:00",
+        "inicio_original": "2026-11-27T09:00:00",
+        "fin_original": "2026-11-27T22:00:00",
+        "tipo": "Diürn"
       }
     ],
     "localidades_atendidas": [
@@ -528127,17 +528151,17 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franja": null,
     "guardia_franjas": [
       "Servei d'Urgències Diürn (9:00h a 22:00h)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T22:00:00",
-        "inicio_original": "2026-11-26T09:00:00",
-        "fin_original": "2026-11-26T22:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T22:00:00",
+        "inicio_original": "2026-11-27T09:00:00",
+        "fin_original": "2026-11-27T22:00:00",
         "tipo": "Diürn"
       }
     ],
@@ -528251,7 +528275,7 @@
     "lng": 0.446223,
     "ubicacion_pendiente_verificacion": false,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franja": null,
     "guardia_franjas": [
       "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)",
@@ -528260,24 +528284,24 @@
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00",
-        "fin": "2026-11-26T09:00:00",
-        "inicio_original": "2026-11-25T22:00:00",
-        "fin_original": "2026-11-26T09:00:00",
+        "inicio": "2026-11-27T00:00:00",
+        "fin": "2026-11-27T09:00:00",
+        "inicio_original": "2026-11-26T22:00:00",
+        "fin_original": "2026-11-27T09:00:00",
         "tipo": "Nocturn"
       },
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T22:00:00",
-        "inicio_original": "2026-11-26T09:00:00",
-        "fin_original": "2026-11-26T22:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T22:00:00",
+        "inicio_original": "2026-11-27T09:00:00",
+        "fin_original": "2026-11-27T22:00:00",
         "tipo": "Diürn"
       },
       {
-        "inicio": "2026-11-26T22:00:00",
-        "fin": "2026-11-27T00:00:00",
-        "inicio_original": "2026-11-26T22:00:00",
-        "fin_original": "2026-11-27T09:00:00",
+        "inicio": "2026-11-27T22:00:00",
+        "fin": "2026-11-28T00:00:00",
+        "inicio_original": "2026-11-27T22:00:00",
+        "fin_original": "2026-11-28T09:00:00",
         "tipo": "Nocturn"
       }
     ],
@@ -528629,23 +528653,15 @@
     "lng": 1.4047832,
     "ubicacion_pendiente_verificacion": false,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franja": null,
     "guardia_franjas": [
-      "Servei d'Urgències Diürn (9:00h a 22:00h)",
-      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
+      "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T22:00:00",
-        "inicio_original": "2026-11-26T09:00:00",
-        "fin_original": "2026-11-26T22:00:00",
-        "tipo": "Diürn"
-      },
-      {
-        "inicio": "2026-11-26T22:00:00",
-        "fin": "2026-11-27T00:00:00",
+        "inicio": "2026-11-27T00:00:00",
+        "fin": "2026-11-27T09:00:00",
         "inicio_original": "2026-11-26T22:00:00",
         "fin_original": "2026-11-27T09:00:00",
         "tipo": "Nocturn"
@@ -528784,17 +528800,25 @@
     "lng": 1.133256,
     "ubicacion_pendiente_verificacion": false,
     "guardia": false,
-    "fecha_guardia": "2026-11-03",
+    "fecha_guardia": "2026-11-27",
     "guardia_franja": null,
     "guardia_franjas": [
-      "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)"
+      "Servei d'Urgències Diürn (9:00h a 22:00h)",
+      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-03T00:00:00",
-        "fin": "2026-11-03T09:00:00",
-        "inicio_original": "2026-11-02T22:00:00",
-        "fin_original": "2026-11-03T09:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T22:00:00",
+        "inicio_original": "2026-11-27T09:00:00",
+        "fin_original": "2026-11-27T22:00:00",
+        "tipo": "Diürn"
+      },
+      {
+        "inicio": "2026-11-27T22:00:00",
+        "fin": "2026-11-28T00:00:00",
+        "inicio_original": "2026-11-27T22:00:00",
+        "fin_original": "2026-11-28T09:00:00",
         "tipo": "Nocturn"
       }
     ],
@@ -529461,17 +529485,17 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "fecha_guardia": "2026-11-10",
+    "fecha_guardia": "2026-11-27",
     "guardia_franja": null,
     "guardia_franjas": [
       "Servei d'Urgències Diürn (9:00h a 22:00h)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-10T09:00:00",
-        "fin": "2026-11-10T22:00:00",
-        "inicio_original": "2026-11-10T09:00:00",
-        "fin_original": "2026-11-10T22:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T22:00:00",
+        "inicio_original": "2026-11-27T09:00:00",
+        "fin_original": "2026-11-27T22:00:00",
         "tipo": "Diürn"
       }
     ],
@@ -530222,23 +530246,15 @@
     "lng": 1.2547123,
     "ubicacion_pendiente_verificacion": false,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franja": null,
     "guardia_franjas": [
-      "Servei d'Urgències Diürn (9:00h a 22:00h)",
-      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
+      "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T22:00:00",
-        "inicio_original": "2026-11-26T09:00:00",
-        "fin_original": "2026-11-26T22:00:00",
-        "tipo": "Diürn"
-      },
-      {
-        "inicio": "2026-11-26T22:00:00",
-        "fin": "2026-11-27T00:00:00",
+        "inicio": "2026-11-27T00:00:00",
+        "fin": "2026-11-27T09:00:00",
         "inicio_original": "2026-11-26T22:00:00",
         "fin_original": "2026-11-27T09:00:00",
         "tipo": "Nocturn"
@@ -530458,17 +530474,17 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "fecha_guardia": "2026-11-20",
+    "fecha_guardia": "2026-11-27",
     "guardia_franja": null,
     "guardia_franjas": [
       "Servei d'Urgències Diürn (9:00h a 22:00h)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-20T09:00:00",
-        "fin": "2026-11-20T22:00:00",
-        "inicio_original": "2026-11-20T09:00:00",
-        "fin_original": "2026-11-20T22:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T22:00:00",
+        "inicio_original": "2026-11-27T09:00:00",
+        "fin_original": "2026-11-27T22:00:00",
         "tipo": "Diürn"
       }
     ],
@@ -530733,23 +530749,15 @@
     "lng": 0.5798587,
     "ubicacion_pendiente_verificacion": false,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franja": null,
     "guardia_franjas": [
-      "Servei d'Urgències Diürn (9:00h a 22:00h)",
-      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
+      "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T22:00:00",
-        "inicio_original": "2026-11-26T09:00:00",
-        "fin_original": "2026-11-26T22:00:00",
-        "tipo": "Diürn"
-      },
-      {
-        "inicio": "2026-11-26T22:00:00",
-        "fin": "2026-11-27T00:00:00",
+        "inicio": "2026-11-27T00:00:00",
+        "fin": "2026-11-27T09:00:00",
         "inicio_original": "2026-11-26T22:00:00",
         "fin_original": "2026-11-27T09:00:00",
         "tipo": "Nocturn"
@@ -531018,26 +531026,18 @@
     "lng": 0.281503,
     "ubicacion_pendiente_verificacion": false,
     "guardia": false,
-    "fecha_guardia": "2026-11-13",
+    "fecha_guardia": "2026-11-27",
     "guardia_franja": null,
     "guardia_franjas": [
-      "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)",
-      "Servei d'Urgències Diürn (9:00h a 22:00h)"
+      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-13T00:00:00",
-        "fin": "2026-11-13T09:00:00",
-        "inicio_original": "2026-11-12T22:00:00",
-        "fin_original": "2026-11-13T09:00:00",
+        "inicio": "2026-11-27T22:00:00",
+        "fin": "2026-11-28T00:00:00",
+        "inicio_original": "2026-11-27T22:00:00",
+        "fin_original": "2026-11-28T09:00:00",
         "tipo": "Nocturn"
-      },
-      {
-        "inicio": "2026-11-13T09:00:00",
-        "fin": "2026-11-13T22:00:00",
-        "inicio_original": "2026-11-13T09:00:00",
-        "fin_original": "2026-11-13T22:00:00",
-        "tipo": "Diürn"
       }
     ],
     "localidades_atendidas": [
@@ -531311,7 +531311,7 @@
     "lng": 0.480748,
     "ubicacion_pendiente_verificacion": false,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franja": null,
     "guardia_franjas": [
       "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)",
@@ -531320,24 +531320,24 @@
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00",
-        "fin": "2026-11-26T09:00:00",
-        "inicio_original": "2026-11-25T22:00:00",
-        "fin_original": "2026-11-26T09:00:00",
+        "inicio": "2026-11-27T00:00:00",
+        "fin": "2026-11-27T09:00:00",
+        "inicio_original": "2026-11-26T22:00:00",
+        "fin_original": "2026-11-27T09:00:00",
         "tipo": "Nocturn"
       },
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T22:00:00",
-        "inicio_original": "2026-11-26T09:00:00",
-        "fin_original": "2026-11-26T22:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T22:00:00",
+        "inicio_original": "2026-11-27T09:00:00",
+        "fin_original": "2026-11-27T22:00:00",
         "tipo": "Diürn"
       },
       {
-        "inicio": "2026-11-26T22:00:00",
-        "fin": "2026-11-27T00:00:00",
-        "inicio_original": "2026-11-26T22:00:00",
-        "fin_original": "2026-11-27T09:00:00",
+        "inicio": "2026-11-27T22:00:00",
+        "fin": "2026-11-28T00:00:00",
+        "inicio_original": "2026-11-27T22:00:00",
+        "fin_original": "2026-11-28T09:00:00",
         "tipo": "Nocturn"
       }
     ],
@@ -531752,17 +531752,17 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franja": null,
     "guardia_franjas": [
       "Servei d'Urgències Diürn (9:00h a 22:00h)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T22:00:00",
-        "inicio_original": "2026-11-26T09:00:00",
-        "fin_original": "2026-11-26T22:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T22:00:00",
+        "inicio_original": "2026-11-27T09:00:00",
+        "fin_original": "2026-11-27T22:00:00",
         "tipo": "Diürn"
       }
     ],
@@ -531794,7 +531794,7 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franja": null,
     "guardia_franjas": [
       "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)",
@@ -531803,24 +531803,24 @@
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00",
-        "fin": "2026-11-26T09:00:00",
-        "inicio_original": "2026-11-25T22:00:00",
-        "fin_original": "2026-11-26T09:00:00",
+        "inicio": "2026-11-27T00:00:00",
+        "fin": "2026-11-27T09:00:00",
+        "inicio_original": "2026-11-26T22:00:00",
+        "fin_original": "2026-11-27T09:00:00",
         "tipo": "Nocturn"
       },
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T22:00:00",
-        "inicio_original": "2026-11-26T09:00:00",
-        "fin_original": "2026-11-26T22:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T22:00:00",
+        "inicio_original": "2026-11-27T09:00:00",
+        "fin_original": "2026-11-27T22:00:00",
         "tipo": "Diürn"
       },
       {
-        "inicio": "2026-11-26T22:00:00",
-        "fin": "2026-11-27T00:00:00",
-        "inicio_original": "2026-11-26T22:00:00",
-        "fin_original": "2026-11-27T09:00:00",
+        "inicio": "2026-11-27T22:00:00",
+        "fin": "2026-11-28T00:00:00",
+        "inicio_original": "2026-11-27T22:00:00",
+        "fin_original": "2026-11-28T09:00:00",
         "tipo": "Nocturn"
       }
     ],
@@ -532276,7 +532276,7 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franja": null,
     "guardia_franjas": [
       "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)",
@@ -532285,24 +532285,24 @@
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00",
-        "fin": "2026-11-26T09:00:00",
-        "inicio_original": "2026-11-25T22:00:00",
-        "fin_original": "2026-11-26T09:00:00",
+        "inicio": "2026-11-27T00:00:00",
+        "fin": "2026-11-27T09:00:00",
+        "inicio_original": "2026-11-26T22:00:00",
+        "fin_original": "2026-11-27T09:00:00",
         "tipo": "Nocturn"
       },
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T22:00:00",
-        "inicio_original": "2026-11-26T09:00:00",
-        "fin_original": "2026-11-26T22:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T22:00:00",
+        "inicio_original": "2026-11-27T09:00:00",
+        "fin_original": "2026-11-27T22:00:00",
         "tipo": "Diürn"
       },
       {
-        "inicio": "2026-11-26T22:00:00",
-        "fin": "2026-11-27T00:00:00",
-        "inicio_original": "2026-11-26T22:00:00",
-        "fin_original": "2026-11-27T09:00:00",
+        "inicio": "2026-11-27T22:00:00",
+        "fin": "2026-11-28T00:00:00",
+        "inicio_original": "2026-11-27T22:00:00",
+        "fin_original": "2026-11-28T09:00:00",
         "tipo": "Nocturn"
       }
     ],
@@ -532590,18 +532590,26 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "fecha_guardia": "2026-11-20",
+    "fecha_guardia": "2026-11-27",
     "guardia_franja": null,
     "guardia_franjas": [
-      "Servei d'Urgències Diürn (9:00h a 22:00h)"
+      "Servei d'Urgències Diürn (9:00h a 22:00h)",
+      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-20T09:00:00",
-        "fin": "2026-11-20T22:00:00",
-        "inicio_original": "2026-11-20T09:00:00",
-        "fin_original": "2026-11-20T22:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T22:00:00",
+        "inicio_original": "2026-11-27T09:00:00",
+        "fin_original": "2026-11-27T22:00:00",
         "tipo": "Diürn"
+      },
+      {
+        "inicio": "2026-11-27T22:00:00",
+        "fin": "2026-11-28T00:00:00",
+        "inicio_original": "2026-11-27T22:00:00",
+        "fin_original": "2026-11-28T09:00:00",
+        "tipo": "Nocturn"
       }
     ],
     "localidades_atendidas": [
@@ -533020,15 +533028,15 @@
     "lng": 1.3629586,
     "ubicacion_pendiente_verificacion": false,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franja": null,
     "guardia_franjas": [
-      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
+      "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T22:00:00",
-        "fin": "2026-11-27T00:00:00",
+        "inicio": "2026-11-27T00:00:00",
+        "fin": "2026-11-27T09:00:00",
         "inicio_original": "2026-11-26T22:00:00",
         "fin_original": "2026-11-27T09:00:00",
         "tipo": "Nocturn"
@@ -533074,17 +533082,17 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "fecha_guardia": "2026-11-12",
+    "fecha_guardia": "2026-11-27",
     "guardia_franja": null,
     "guardia_franjas": [
       "Servei d'Urgències Diürn (9:00h a 22:00h)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-12T09:00:00",
-        "fin": "2026-11-12T22:00:00",
-        "inicio_original": "2026-11-12T09:00:00",
-        "fin_original": "2026-11-12T22:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T22:00:00",
+        "inicio_original": "2026-11-27T09:00:00",
+        "fin_original": "2026-11-27T22:00:00",
         "tipo": "Diürn"
       }
     ],
@@ -533294,17 +533302,17 @@
     "lng": 1.330048,
     "ubicacion_pendiente_verificacion": false,
     "guardia": false,
-    "fecha_guardia": "2026-11-13",
+    "fecha_guardia": "2026-11-27",
     "guardia_franja": null,
     "guardia_franjas": [
       "Servei d'Urgències Nocturn (22:00h a 9:00h)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-13T22:00:00",
-        "fin": "2026-11-14T00:00:00",
-        "inicio_original": "2026-11-13T22:00:00",
-        "fin_original": "2026-11-14T09:00:00",
+        "inicio": "2026-11-27T22:00:00",
+        "fin": "2026-11-28T00:00:00",
+        "inicio_original": "2026-11-27T22:00:00",
+        "fin_original": "2026-11-28T09:00:00",
         "tipo": "Nocturn"
       }
     ],
@@ -533888,17 +533896,25 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "fecha_guardia": "2026-11-18",
+    "fecha_guardia": "2026-11-27",
     "guardia_franja": null,
     "guardia_franjas": [
-      "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)"
+      "Servei d'Urgències Diürn (9:00h a 22:00h)",
+      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-18T00:00:00",
-        "fin": "2026-11-18T09:00:00",
-        "inicio_original": "2026-11-17T22:00:00",
-        "fin_original": "2026-11-18T09:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T22:00:00",
+        "inicio_original": "2026-11-27T09:00:00",
+        "fin_original": "2026-11-27T22:00:00",
+        "tipo": "Diürn"
+      },
+      {
+        "inicio": "2026-11-27T22:00:00",
+        "fin": "2026-11-28T00:00:00",
+        "inicio_original": "2026-11-27T22:00:00",
+        "fin_original": "2026-11-28T09:00:00",
         "tipo": "Nocturn"
       }
     ],
@@ -533953,17 +533969,17 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franja": null,
     "guardia_franjas": [
       "Servei d'Urgències Diürn (9:00h a 22:00h)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T22:00:00",
-        "inicio_original": "2026-11-26T09:00:00",
-        "fin_original": "2026-11-26T22:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T22:00:00",
+        "inicio_original": "2026-11-27T09:00:00",
+        "fin_original": "2026-11-27T22:00:00",
         "tipo": "Diürn"
       }
     ],
@@ -535207,23 +535223,15 @@
     "lng": 1.535962,
     "ubicacion_pendiente_verificacion": false,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franja": null,
     "guardia_franjas": [
-      "Servei d'Urgències Diürn (9:00h a 22:00h)",
-      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
+      "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T22:00:00",
-        "inicio_original": "2026-11-26T09:00:00",
-        "fin_original": "2026-11-26T22:00:00",
-        "tipo": "Diürn"
-      },
-      {
-        "inicio": "2026-11-26T22:00:00",
-        "fin": "2026-11-27T00:00:00",
+        "inicio": "2026-11-27T00:00:00",
+        "fin": "2026-11-27T09:00:00",
         "inicio_original": "2026-11-26T22:00:00",
         "fin_original": "2026-11-27T09:00:00",
         "tipo": "Nocturn"
@@ -535326,23 +535334,15 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franja": null,
     "guardia_franjas": [
-      "Servei d'Urgències Diürn (9:00h a 22:00h)",
-      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
+      "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T22:00:00",
-        "inicio_original": "2026-11-26T09:00:00",
-        "fin_original": "2026-11-26T22:00:00",
-        "tipo": "Diürn"
-      },
-      {
-        "inicio": "2026-11-26T22:00:00",
-        "fin": "2026-11-27T00:00:00",
+        "inicio": "2026-11-27T00:00:00",
+        "fin": "2026-11-27T09:00:00",
         "inicio_original": "2026-11-26T22:00:00",
         "fin_original": "2026-11-27T09:00:00",
         "tipo": "Nocturn"
@@ -535386,34 +535386,26 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franja": null,
     "guardia_franjas": [
       "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)",
-      "Servei d'Urgències Diürn (9:00h a 22:00h)",
-      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
+      "Servei d'Urgències Diürn (9:00h a 22:00h)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00",
-        "fin": "2026-11-26T09:00:00",
-        "inicio_original": "2026-11-25T22:00:00",
-        "fin_original": "2026-11-26T09:00:00",
-        "tipo": "Nocturn"
-      },
-      {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T22:00:00",
-        "inicio_original": "2026-11-26T09:00:00",
-        "fin_original": "2026-11-26T22:00:00",
-        "tipo": "Diürn"
-      },
-      {
-        "inicio": "2026-11-26T22:00:00",
-        "fin": "2026-11-27T00:00:00",
+        "inicio": "2026-11-27T00:00:00",
+        "fin": "2026-11-27T09:00:00",
         "inicio_original": "2026-11-26T22:00:00",
         "fin_original": "2026-11-27T09:00:00",
         "tipo": "Nocturn"
+      },
+      {
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T22:00:00",
+        "inicio_original": "2026-11-27T09:00:00",
+        "fin_original": "2026-11-27T22:00:00",
+        "tipo": "Diürn"
       }
     ],
     "localidades_atendidas": [
@@ -535491,34 +535483,26 @@
     "lng": 0.7989702,
     "ubicacion_pendiente_verificacion": false,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franja": null,
     "guardia_franjas": [
       "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)",
-      "Servei d'Urgències Diürn (9:00h a 22:00h)",
-      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
+      "Servei d'Urgències Diürn (9:00h a 22:00h)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00",
-        "fin": "2026-11-26T09:00:00",
-        "inicio_original": "2026-11-25T22:00:00",
-        "fin_original": "2026-11-26T09:00:00",
-        "tipo": "Nocturn"
-      },
-      {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T22:00:00",
-        "inicio_original": "2026-11-26T09:00:00",
-        "fin_original": "2026-11-26T22:00:00",
-        "tipo": "Diürn"
-      },
-      {
-        "inicio": "2026-11-26T22:00:00",
-        "fin": "2026-11-27T00:00:00",
+        "inicio": "2026-11-27T00:00:00",
+        "fin": "2026-11-27T09:00:00",
         "inicio_original": "2026-11-26T22:00:00",
         "fin_original": "2026-11-27T09:00:00",
         "tipo": "Nocturn"
+      },
+      {
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T22:00:00",
+        "inicio_original": "2026-11-27T09:00:00",
+        "fin_original": "2026-11-27T22:00:00",
+        "tipo": "Diürn"
       }
     ],
     "localidades_atendidas": [
@@ -535551,23 +535535,15 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franja": null,
     "guardia_franjas": [
-      "Servei d'Urgències Diürn (9:00h a 22:00h)",
-      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
+      "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T22:00:00",
-        "inicio_original": "2026-11-26T09:00:00",
-        "fin_original": "2026-11-26T22:00:00",
-        "tipo": "Diürn"
-      },
-      {
-        "inicio": "2026-11-26T22:00:00",
-        "fin": "2026-11-27T00:00:00",
+        "inicio": "2026-11-27T00:00:00",
+        "fin": "2026-11-27T09:00:00",
         "inicio_original": "2026-11-26T22:00:00",
         "fin_original": "2026-11-27T09:00:00",
         "tipo": "Nocturn"
@@ -535773,17 +535749,17 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franja": null,
     "guardia_franjas": [
       "Servei d'Urgències Diürn (9:00h a 22:00h)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T22:00:00",
-        "inicio_original": "2026-11-26T09:00:00",
-        "fin_original": "2026-11-26T22:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T22:00:00",
+        "inicio_original": "2026-11-27T09:00:00",
+        "fin_original": "2026-11-27T22:00:00",
         "tipo": "Diürn"
       }
     ],
@@ -535819,7 +535795,7 @@
     "lng": 0.3123495,
     "ubicacion_pendiente_verificacion": false,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franja": null,
     "guardia_franjas": [
       "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)",
@@ -535828,24 +535804,24 @@
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00",
-        "fin": "2026-11-26T09:00:00",
-        "inicio_original": "2026-11-25T22:00:00",
-        "fin_original": "2026-11-26T09:00:00",
+        "inicio": "2026-11-27T00:00:00",
+        "fin": "2026-11-27T09:00:00",
+        "inicio_original": "2026-11-26T22:00:00",
+        "fin_original": "2026-11-27T09:00:00",
         "tipo": "Nocturn"
       },
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T22:00:00",
-        "inicio_original": "2026-11-26T09:00:00",
-        "fin_original": "2026-11-26T22:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T22:00:00",
+        "inicio_original": "2026-11-27T09:00:00",
+        "fin_original": "2026-11-27T22:00:00",
         "tipo": "Diürn"
       },
       {
-        "inicio": "2026-11-26T22:00:00",
-        "fin": "2026-11-27T00:00:00",
-        "inicio_original": "2026-11-26T22:00:00",
-        "fin_original": "2026-11-27T09:00:00",
+        "inicio": "2026-11-27T22:00:00",
+        "fin": "2026-11-28T00:00:00",
+        "inicio_original": "2026-11-27T22:00:00",
+        "fin_original": "2026-11-28T09:00:00",
         "tipo": "Nocturn"
       }
     ],
@@ -535889,7 +535865,7 @@
     "lng": 0.5506637,
     "ubicacion_pendiente_verificacion": false,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franja": null,
     "guardia_franjas": [
       "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)",
@@ -535898,24 +535874,24 @@
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00",
-        "fin": "2026-11-26T09:00:00",
-        "inicio_original": "2026-11-25T22:00:00",
-        "fin_original": "2026-11-26T09:00:00",
+        "inicio": "2026-11-27T00:00:00",
+        "fin": "2026-11-27T09:00:00",
+        "inicio_original": "2026-11-26T22:00:00",
+        "fin_original": "2026-11-27T09:00:00",
         "tipo": "Nocturn"
       },
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T22:00:00",
-        "inicio_original": "2026-11-26T09:00:00",
-        "fin_original": "2026-11-26T22:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T22:00:00",
+        "inicio_original": "2026-11-27T09:00:00",
+        "fin_original": "2026-11-27T22:00:00",
         "tipo": "Diürn"
       },
       {
-        "inicio": "2026-11-26T22:00:00",
-        "fin": "2026-11-27T00:00:00",
-        "inicio_original": "2026-11-26T22:00:00",
-        "fin_original": "2026-11-27T09:00:00",
+        "inicio": "2026-11-27T22:00:00",
+        "fin": "2026-11-28T00:00:00",
+        "inicio_original": "2026-11-27T22:00:00",
+        "fin_original": "2026-11-28T09:00:00",
         "tipo": "Nocturn"
       }
     ],
@@ -535952,7 +535928,7 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franja": null,
     "guardia_franjas": [
       "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)",
@@ -535961,24 +535937,24 @@
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00",
-        "fin": "2026-11-26T09:00:00",
-        "inicio_original": "2026-11-25T22:00:00",
-        "fin_original": "2026-11-26T09:00:00",
+        "inicio": "2026-11-27T00:00:00",
+        "fin": "2026-11-27T09:00:00",
+        "inicio_original": "2026-11-26T22:00:00",
+        "fin_original": "2026-11-27T09:00:00",
         "tipo": "Nocturn"
       },
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T22:00:00",
-        "inicio_original": "2026-11-26T09:00:00",
-        "fin_original": "2026-11-26T22:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T22:00:00",
+        "inicio_original": "2026-11-27T09:00:00",
+        "fin_original": "2026-11-27T22:00:00",
         "tipo": "Diürn"
       },
       {
-        "inicio": "2026-11-26T22:00:00",
-        "fin": "2026-11-27T00:00:00",
-        "inicio_original": "2026-11-26T22:00:00",
-        "fin_original": "2026-11-27T09:00:00",
+        "inicio": "2026-11-27T22:00:00",
+        "fin": "2026-11-28T00:00:00",
+        "inicio_original": "2026-11-27T22:00:00",
+        "fin_original": "2026-11-28T09:00:00",
         "tipo": "Nocturn"
       }
     ],
@@ -536012,7 +535988,7 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franja": null,
     "guardia_franjas": [
       "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)",
@@ -536021,24 +535997,24 @@
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00",
-        "fin": "2026-11-26T09:00:00",
-        "inicio_original": "2026-11-25T22:00:00",
-        "fin_original": "2026-11-26T09:00:00",
+        "inicio": "2026-11-27T00:00:00",
+        "fin": "2026-11-27T09:00:00",
+        "inicio_original": "2026-11-26T22:00:00",
+        "fin_original": "2026-11-27T09:00:00",
         "tipo": "Nocturn"
       },
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T22:00:00",
-        "inicio_original": "2026-11-26T09:00:00",
-        "fin_original": "2026-11-26T22:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T22:00:00",
+        "inicio_original": "2026-11-27T09:00:00",
+        "fin_original": "2026-11-27T22:00:00",
         "tipo": "Diürn"
       },
       {
-        "inicio": "2026-11-26T22:00:00",
-        "fin": "2026-11-27T00:00:00",
-        "inicio_original": "2026-11-26T22:00:00",
-        "fin_original": "2026-11-27T09:00:00",
+        "inicio": "2026-11-27T22:00:00",
+        "fin": "2026-11-28T00:00:00",
+        "inicio_original": "2026-11-27T22:00:00",
+        "fin_original": "2026-11-28T09:00:00",
         "tipo": "Nocturn"
       }
     ],
@@ -536066,17 +536042,17 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franja": null,
     "guardia_franjas": [
       "Servei d'Urgències Diürn (9:00h a 22:00h)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T22:00:00",
-        "inicio_original": "2026-11-26T09:00:00",
-        "fin_original": "2026-11-26T22:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T22:00:00",
+        "inicio_original": "2026-11-27T09:00:00",
+        "fin_original": "2026-11-27T22:00:00",
         "tipo": "Diürn"
       }
     ],
@@ -536104,17 +536080,17 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franja": null,
     "guardia_franjas": [
       "Servei d'Urgències Diürn (9:00h a 22:00h)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T22:00:00",
-        "inicio_original": "2026-11-26T09:00:00",
-        "fin_original": "2026-11-26T22:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T22:00:00",
+        "inicio_original": "2026-11-27T09:00:00",
+        "fin_original": "2026-11-27T22:00:00",
         "tipo": "Diürn"
       }
     ],
@@ -536188,7 +536164,7 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franja": null,
     "guardia_franjas": [
       "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)",
@@ -536197,24 +536173,24 @@
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00",
-        "fin": "2026-11-26T09:00:00",
-        "inicio_original": "2026-11-25T22:00:00",
-        "fin_original": "2026-11-26T09:00:00",
+        "inicio": "2026-11-27T00:00:00",
+        "fin": "2026-11-27T09:00:00",
+        "inicio_original": "2026-11-26T22:00:00",
+        "fin_original": "2026-11-27T09:00:00",
         "tipo": "Nocturn"
       },
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T22:00:00",
-        "inicio_original": "2026-11-26T09:00:00",
-        "fin_original": "2026-11-26T22:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T22:00:00",
+        "inicio_original": "2026-11-27T09:00:00",
+        "fin_original": "2026-11-27T22:00:00",
         "tipo": "Diürn"
       },
       {
-        "inicio": "2026-11-26T22:00:00",
-        "fin": "2026-11-27T00:00:00",
-        "inicio_original": "2026-11-26T22:00:00",
-        "fin_original": "2026-11-27T09:00:00",
+        "inicio": "2026-11-27T22:00:00",
+        "fin": "2026-11-28T00:00:00",
+        "inicio_original": "2026-11-27T22:00:00",
+        "fin_original": "2026-11-28T09:00:00",
         "tipo": "Nocturn"
       }
     ],
@@ -536240,7 +536216,7 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franja": null,
     "guardia_franjas": [
       "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)",
@@ -536249,24 +536225,24 @@
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00",
-        "fin": "2026-11-26T09:00:00",
-        "inicio_original": "2026-11-25T22:00:00",
-        "fin_original": "2026-11-26T09:00:00",
+        "inicio": "2026-11-27T00:00:00",
+        "fin": "2026-11-27T09:00:00",
+        "inicio_original": "2026-11-26T22:00:00",
+        "fin_original": "2026-11-27T09:00:00",
         "tipo": "Nocturn"
       },
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T22:00:00",
-        "inicio_original": "2026-11-26T09:00:00",
-        "fin_original": "2026-11-26T22:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T22:00:00",
+        "inicio_original": "2026-11-27T09:00:00",
+        "fin_original": "2026-11-27T22:00:00",
         "tipo": "Diürn"
       },
       {
-        "inicio": "2026-11-26T22:00:00",
-        "fin": "2026-11-27T00:00:00",
-        "inicio_original": "2026-11-26T22:00:00",
-        "fin_original": "2026-11-27T09:00:00",
+        "inicio": "2026-11-27T22:00:00",
+        "fin": "2026-11-28T00:00:00",
+        "inicio_original": "2026-11-27T22:00:00",
+        "fin_original": "2026-11-28T09:00:00",
         "tipo": "Nocturn"
       }
     ],
@@ -536522,23 +536498,15 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franja": null,
     "guardia_franjas": [
-      "Servei d'Urgències Diürn (9:00h a 22:00h)",
-      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
+      "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T22:00:00",
-        "inicio_original": "2026-11-26T09:00:00",
-        "fin_original": "2026-11-26T22:00:00",
-        "tipo": "Diürn"
-      },
-      {
-        "inicio": "2026-11-26T22:00:00",
-        "fin": "2026-11-27T00:00:00",
+        "inicio": "2026-11-27T00:00:00",
+        "fin": "2026-11-27T09:00:00",
         "inicio_original": "2026-11-26T22:00:00",
         "fin_original": "2026-11-27T09:00:00",
         "tipo": "Nocturn"
@@ -536575,23 +536543,15 @@
     "lng": 1.2527421,
     "ubicacion_pendiente_verificacion": false,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franja": null,
     "guardia_franjas": [
-      "Servei d'Urgències Diürn (9:00h a 22:00h)",
-      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
+      "Servei d'Urgències Nocturn (22:00h a 9:00h) (madrugada del día anterior)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T22:00:00",
-        "inicio_original": "2026-11-26T09:00:00",
-        "fin_original": "2026-11-26T22:00:00",
-        "tipo": "Diürn"
-      },
-      {
-        "inicio": "2026-11-26T22:00:00",
-        "fin": "2026-11-27T00:00:00",
+        "inicio": "2026-11-27T00:00:00",
+        "fin": "2026-11-27T09:00:00",
         "inicio_original": "2026-11-26T22:00:00",
         "fin_original": "2026-11-27T09:00:00",
         "tipo": "Nocturn"
@@ -536617,6 +536577,223 @@
     "osm_id": "osm-7343775940",
     "referencia_ubicacion": "https://www.openstreetmap.org/node/7343775940",
     "nota_ubicacion": "Marcador del Colegio contrastado con una farmacia OSM a 8.4 m."
+  },
+  {
+    "id": "cof-tarragona-342",
+    "nombre": "Sisternes Vernia, Enrique Vicente",
+    "direccion": "Av. Sant Vicenç, 37",
+    "localidad": "El Vendrell",
+    "provincia": "Tarragona",
+    "cp": "43700",
+    "telefono": "977155964",
+    "observaciones": "Dilluns a divendres 9:00 a 21:00 Dissabtes 9:00 a 14:00",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "guardia_franja": null,
+    "guardia_franjas": [
+      "Servei d'Urgències Diürn (9:00h a 22:00h)",
+      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T22:00:00",
+        "inicio_original": "2026-11-27T09:00:00",
+        "fin_original": "2026-11-27T22:00:00",
+        "tipo": "Diürn"
+      },
+      {
+        "inicio": "2026-11-27T22:00:00",
+        "fin": "2026-11-28T00:00:00",
+        "inicio_original": "2026-11-27T22:00:00",
+        "fin_original": "2026-11-28T09:00:00",
+        "tipo": "Nocturn"
+      }
+    ],
+    "localidades_atendidas": [
+      "Albinyana",
+      "Banyeres del Penedès",
+      "Bellvei",
+      "Bonastre",
+      "El Montmell",
+      "El Vendrell",
+      "L'Arboç",
+      "La Bisbal del Penedès",
+      "Llorenç del Penedès",
+      "Sant Jaume dels Domenys",
+      "Santa Oliva"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=342"
+    ]
+  },
+  {
+    "id": "cof-tarragona-94",
+    "nombre": "Renau Aguilar, Lluis",
+    "direccion": "Generalitat, 56",
+    "localidad": "Tortosa",
+    "provincia": "Tarragona",
+    "cp": "43500",
+    "telefono": "977440735",
+    "observaciones": "09:00 - 13:30 i de 17:00 - 20:00",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "guardia_franja": null,
+    "guardia_franjas": [
+      "Servei d'Urgències Diürn (9:00h a 22:00h)",
+      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T22:00:00",
+        "inicio_original": "2026-11-27T09:00:00",
+        "fin_original": "2026-11-27T22:00:00",
+        "tipo": "Diürn"
+      },
+      {
+        "inicio": "2026-11-27T22:00:00",
+        "fin": "2026-11-28T00:00:00",
+        "inicio_original": "2026-11-27T22:00:00",
+        "fin_original": "2026-11-28T09:00:00",
+        "tipo": "Nocturn"
+      }
+    ],
+    "localidades_atendidas": [
+      "Aldover",
+      "Alfara de Carles",
+      "Benifallet",
+      "Jesús",
+      "Mas de Barberans",
+      "Paüls",
+      "Roquetes",
+      "Tivenys",
+      "Tortosa",
+      "Xerta"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=94"
+    ]
+  },
+  {
+    "id": "cof-tarragona-19",
+    "nombre": "Vaquer Llop, Marta",
+    "direccion": "Consolat de Mar, 60",
+    "localidad": "Cambrils",
+    "provincia": "Tarragona",
+    "cp": "43850",
+    "telefono": "977360270",
+    "observaciones": "",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "guardia_franja": null,
+    "guardia_franjas": [
+      "Servei d'Urgències Diürn (9:00h a 22:00h)",
+      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T22:00:00",
+        "inicio_original": "2026-11-27T09:00:00",
+        "fin_original": "2026-11-27T22:00:00",
+        "tipo": "Diürn"
+      },
+      {
+        "inicio": "2026-11-27T22:00:00",
+        "fin": "2026-11-28T00:00:00",
+        "inicio_original": "2026-11-27T22:00:00",
+        "fin_original": "2026-11-28T09:00:00",
+        "tipo": "Nocturn"
+      }
+    ],
+    "localidades_atendidas": [
+      "Alforja",
+      "Botarell",
+      "Cambrils",
+      "L'Aleixar",
+      "Les Borges del Camp",
+      "Maspujols",
+      "Miami-platja",
+      "Mont-roig del Camp",
+      "Montbrió del Camp",
+      "Pratdip",
+      "Riudecanyes",
+      "Riudecols",
+      "Riudoms",
+      "Vandellòs i L'Hospitalet de L'Infant",
+      "Vilanova d'Escornalbou",
+      "Vilaplana",
+      "Vinyols i Els Arcs"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=19"
+    ]
+  },
+  {
+    "id": "cof-tarragona-87",
+    "nombre": "Salazar Echavarria, Antonio",
+    "direccion": "Cos del Bou, 2 (plaça la Font )",
+    "localidad": "Tarragona",
+    "provincia": "Tarragona",
+    "cp": "43003",
+    "telefono": "977231631",
+    "observaciones": "dilluns a dissabte de 09:00 a 21:00 hores",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "guardia_franja": null,
+    "guardia_franjas": [
+      "Servei d'Urgències Diürn (9:00h a 22:00h)",
+      "Servei d'Urgències Nocturn (22:00h a 9:00h)"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T22:00:00",
+        "inicio_original": "2026-11-27T09:00:00",
+        "fin_original": "2026-11-27T22:00:00",
+        "tipo": "Diürn"
+      },
+      {
+        "inicio": "2026-11-27T22:00:00",
+        "fin": "2026-11-28T00:00:00",
+        "inicio_original": "2026-11-27T22:00:00",
+        "fin_original": "2026-11-28T09:00:00",
+        "tipo": "Nocturn"
+      }
+    ],
+    "localidades_atendidas": [
+      "Constantí",
+      "El Catllar",
+      "Els Pallaresos",
+      "La Canonja",
+      "Renau",
+      "Tarragona",
+      "Vespella de Gaià"
+    ],
+    "fuente": "https://www.coft.cat/font/guardies.php",
+    "fuentes": [
+      "https://www.coft.cat/font/guardies.php",
+      "https://www.coft.cat/font/fitxafarma.php?cfci=87"
+    ]
   },
   {
     "id": "cof-toledo-TO-0006-F",
@@ -569021,22 +569198,6 @@
     "guardia_franja": null
   },
   {
-    "id": "cof-valladolid-catalogo-105",
-    "nombre": "COUPEAU BORRÁS, PABLO JESÚS",
-    "localidad": "Valladolid",
-    "sector": "CENTRO-GAMAZO",
-    "direccion": "Calle Angustias , 26",
-    "telefono": "34983305062",
-    "provincia": "Valladolid",
-    "guardia": false,
-    "lat": 41.6547,
-    "lng": -4.7236,
-    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasProvincia.aspx",
-    "precision_ubicacion": "farmacia",
-    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
-    "guardia_franja": null
-  },
-  {
     "id": "cof-valladolid-catalogo-123",
     "nombre": "FUENTE MOREIRO, CONCEPCIÓN DE LA",
     "localidad": "Valladolid",
@@ -569259,22 +569420,6 @@
     "guardia_franja": null
   },
   {
-    "id": "cof-valladolid-catalogo-50",
-    "nombre": "GÓMEZ VAAMONDE, ELENA GONZÁLEZ GÓMEZ, CARLOS",
-    "localidad": "Valladolid",
-    "sector": "ESPERANTO",
-    "direccion": "Calle Puente Colgante , 11",
-    "telefono": "34983239158",
-    "provincia": "Valladolid",
-    "guardia": false,
-    "lat": 41.641,
-    "lng": -4.7335,
-    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasProvincia.aspx",
-    "precision_ubicacion": "farmacia",
-    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
-    "guardia_franja": null
-  },
-  {
     "id": "cof-valladolid-catalogo-38",
     "nombre": "GARCÍA CHICO, Mª LUISA",
     "localidad": "Valladolid",
@@ -569365,22 +569510,6 @@
     "guardia": false,
     "lat": 41.646,
     "lng": -4.74,
-    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasProvincia.aspx",
-    "precision_ubicacion": "farmacia",
-    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
-    "guardia_franja": null
-  },
-  {
-    "id": "cof-valladolid-catalogo-43",
-    "nombre": "NAVARRO GÓMEZ, JUAN ANTONIO",
-    "localidad": "Valladolid",
-    "sector": "HUERTA DEL REY",
-    "direccion": "Calle Monasterio de Santo Domingo de Silos , 8",
-    "telefono": "34983335924",
-    "provincia": "Valladolid",
-    "guardia": false,
-    "lat": 41.6455,
-    "lng": -4.7456,
     "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasProvincia.aspx",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
@@ -569549,22 +569678,6 @@
     "guardia_franja": null
   },
   {
-    "id": "cof-valladolid-catalogo-113",
-    "nombre": "MARTÍN MONEDERO, Mª REYES",
-    "localidad": "Valladolid",
-    "sector": "PLAZA CIRCULAR",
-    "direccion": "Calle Nicolas Salmerón , 30",
-    "telefono": "34983291306",
-    "provincia": "Valladolid",
-    "guardia": false,
-    "lat": 41.6462,
-    "lng": -4.7191,
-    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasProvincia.aspx",
-    "precision_ubicacion": "farmacia",
-    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
-    "guardia_franja": null
-  },
-  {
     "id": "cof-valladolid-catalogo-273",
     "nombre": "RUIZ CUADRADO, ANA BELÉN",
     "localidad": "Valladolid",
@@ -569591,22 +569704,6 @@
     "guardia": false,
     "lat": 41.6602,
     "lng": -4.7238,
-    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasProvincia.aspx",
-    "precision_ubicacion": "farmacia",
-    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
-    "guardia_franja": null
-  },
-  {
-    "id": "cof-valladolid-catalogo-158",
-    "nombre": "CANO BORREGO, ULPIANO",
-    "localidad": "Valladolid",
-    "sector": "RONDILLA II",
-    "direccion": "Calle Cardenal Cisneros , 16",
-    "telefono": "34983264518",
-    "provincia": "Valladolid",
-    "guardia": false,
-    "lat": 41.6616,
-    "lng": -4.7226,
     "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasProvincia.aspx",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
@@ -570098,22 +570195,6 @@
     "guardia": false,
     "lat": 42.1672,
     "lng": -5.2615,
-    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasProvincia.aspx",
-    "precision_ubicacion": "farmacia",
-    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
-    "guardia_franja": null
-  },
-  {
-    "id": "cof-valladolid-catalogo-265",
-    "nombre": "GORDO FRUTOS, ENRIQUE",
-    "localidad": "Medina del Campo",
-    "sector": "MEDINA DEL CAMPO URBANO",
-    "direccion": "Calle Artillería , 22",
-    "telefono": "34983813970",
-    "provincia": "Valladolid",
-    "guardia": false,
-    "lat": 41.3059,
-    "lng": -4.9161,
     "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasProvincia.aspx",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
@@ -571120,7 +571201,7 @@
     "provincia": "Valladolid",
     "telefono": "608749133",
     "guardia": false,
-    "fecha_guardia": "2026-11-19",
+    "fecha_guardia": "2026-11-27",
     "guardia_franjas": [
       "Día y noche: 24 horas según el cuadro provincial. Guardia localizada/no presencial; llamar antes de acudir."
     ],
@@ -571189,7 +571270,7 @@
     "provincia": "Valladolid",
     "telefono": "983770581",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franjas": [
       "Día y noche: 24 horas según el cuadro provincial."
     ],
@@ -571212,7 +571293,7 @@
     "provincia": "Valladolid",
     "telefono": "691686900",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franjas": [
       "Día y noche: 24 horas según el cuadro provincial. Guardia localizada/no presencial; llamar antes de acudir."
     ],
@@ -571373,7 +571454,7 @@
     "provincia": "Valladolid",
     "telefono": "983409335",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franjas": [
       "Diurna provincial: hasta las 22:00; confirmar hora de inicio. Guardia localizada/no presencial; llamar antes de acudir."
     ],
@@ -571396,7 +571477,7 @@
     "provincia": "Valladolid",
     "telefono": "633757701",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franjas": [
       "Día y noche: 24 horas según el cuadro provincial. Guardia localizada/no presencial; llamar antes de acudir."
     ],
@@ -571647,7 +571728,7 @@
     "provincia": "Valladolid",
     "telefono": "666545427",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franjas": [
       "Diurna provincial: hasta las 22:00; confirmar hora de inicio. Guardia localizada/no presencial; llamar antes de acudir."
     ],
@@ -571668,7 +571749,7 @@
     "provincia": "Valladolid",
     "telefono": "983609024",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franjas": [
       "Diurna provincial: hasta las 22:00; confirmar hora de inicio. Guardia localizada/no presencial; llamar antes de acudir."
     ],
@@ -571804,7 +571885,7 @@
     "provincia": "Valladolid",
     "telefono": "616764202",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franjas": [
       "Diurna provincial: hasta las 22:00; confirmar hora de inicio. Guardia localizada/no presencial; llamar antes de acudir."
     ],
@@ -571827,7 +571908,7 @@
     "provincia": "Valladolid",
     "telefono": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franjas": [
       "Diurna provincial: hasta las 22:00; confirmar hora de inicio."
     ],
@@ -572122,7 +572203,7 @@
     "provincia": "Valladolid",
     "telefono": "643505187",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franjas": [
       "Diurna provincial: hasta las 22:00; confirmar hora de inicio. Guardia localizada/no presencial; llamar antes de acudir."
     ],
@@ -572304,11 +572385,11 @@
     "localidad": "Valladolid",
     "sector": "PILARICA",
     "provincia": "Valladolid",
-    "telefono": null,
+    "telefono": "983211875",
     "guardia": false,
-    "fecha_guardia": "2026-11-06",
+    "fecha_guardia": "2026-11-27",
     "guardia_franjas": [
-      "Nocturna capital: 22:00–09:30; sábados, domingos y festivos hasta 10:00 del día siguiente"
+      "Diurna capital: laborables 09:30–22:00; sábados, domingos y festivos 10:00–22:00"
     ],
     "localidades_atendidas": [
       "Valladolid"
@@ -572375,7 +572456,7 @@
     "provincia": "Valladolid",
     "telefono": "660951414",
     "guardia": false,
-    "fecha_guardia": "2026-11-08",
+    "fecha_guardia": "2026-11-27",
     "guardia_franjas": [
       "Día y noche: 24 horas según el cuadro provincial. Guardia localizada/no presencial; llamar antes de acudir."
     ],
@@ -574435,7 +574516,7 @@
     "provincia": "Valladolid",
     "telefono": "617800904",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franjas": [
       "Diurna provincial: hasta las 22:00; confirmar hora de inicio. Guardia localizada/no presencial; llamar antes de acudir."
     ],
@@ -574458,7 +574539,7 @@
     "provincia": "Valladolid",
     "telefono": "983526825",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franjas": [
       "Día y noche: 24 horas según el cuadro provincial."
     ],
@@ -574481,7 +574562,7 @@
     "provincia": "Valladolid",
     "telefono": "983832862",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franjas": [
       "Diurna provincial: hasta las 22:00; confirmar hora de inicio. Guardia localizada/no presencial; llamar antes de acudir."
     ],
@@ -574504,7 +574585,7 @@
     "provincia": "Valladolid",
     "telefono": "604990674",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franjas": [
       "Diurna provincial: hasta las 22:00; confirmar hora de inicio. Guardia localizada/no presencial; llamar antes de acudir."
     ],
@@ -574527,7 +574608,7 @@
     "provincia": "Valladolid",
     "telefono": "623964245",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franjas": [
       "Diurna provincial: hasta las 22:00; confirmar hora de inicio. Guardia localizada/no presencial; llamar antes de acudir."
     ],
@@ -574550,7 +574631,7 @@
     "provincia": "Valladolid",
     "telefono": "642446271",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franjas": [
       "Diurna provincial: hasta las 22:00; confirmar hora de inicio. Guardia localizada/no presencial; llamar antes de acudir."
     ],
@@ -574824,11 +574905,11 @@
     "localidad": "Valladolid",
     "sector": "HUERTA DEL REY",
     "provincia": "Valladolid",
-    "telefono": "983342899",
+    "telefono": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franjas": [
-      "Diurna capital: laborables 09:30–22:00; sábados, domingos y festivos 10:00–22:00"
+      "Nocturna capital: 22:00–09:30; sábados, domingos y festivos hasta 10:00 del día siguiente"
     ],
     "localidades_atendidas": [
       "Valladolid"
@@ -574847,11 +574928,11 @@
     "localidad": "Valladolid",
     "sector": "ESPERANTO",
     "provincia": "Valladolid",
-    "telefono": "983233169",
+    "telefono": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_franjas": [
-      "Diurna capital: laborables 09:30–22:00; sábados, domingos y festivos 10:00–22:00"
+      "Nocturna capital: 22:00–09:30; sábados, domingos y festivos hasta 10:00 del día siguiente"
     ],
     "localidades_atendidas": [
       "Valladolid"
@@ -574904,6 +574985,144 @@
     ],
     "lat": 41.6191,
     "lng": -4.7477,
+    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "guardia_franja": null
+  },
+  {
+    "id": "cof-valladolid-guardia-126",
+    "nombre": "",
+    "direccion": "Calle Nicolas Salmerón , 30",
+    "localidad": "Valladolid",
+    "sector": "PLAZA CIRCULAR",
+    "provincia": "Valladolid",
+    "telefono": "983291306",
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "guardia_franjas": [
+      "Nocturna capital: 22:00–09:30; sábados, domingos y festivos hasta 10:00 del día siguiente"
+    ],
+    "localidades_atendidas": [
+      "Valladolid"
+    ],
+    "lat": 41.6462,
+    "lng": -4.7191,
+    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "guardia_franja": null
+  },
+  {
+    "id": "cof-valladolid-guardia-54",
+    "nombre": "",
+    "direccion": "Calle Puente Colgante , 11",
+    "localidad": "Valladolid",
+    "sector": "ESPERANTO",
+    "provincia": "Valladolid",
+    "telefono": "983239158",
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "guardia_franjas": [
+      "Diurna capital: laborables 09:30–22:00; sábados, domingos y festivos 10:00–22:00"
+    ],
+    "localidades_atendidas": [
+      "Valladolid"
+    ],
+    "lat": 41.641,
+    "lng": -4.7335,
+    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "guardia_franja": null
+  },
+  {
+    "id": "cof-valladolid-guardia-46",
+    "nombre": "",
+    "direccion": "Calle Monasterio de Santo Domingo de Silos , 8",
+    "localidad": "Valladolid",
+    "sector": "HUERTA DEL REY",
+    "provincia": "Valladolid",
+    "telefono": "983335924",
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "guardia_franjas": [
+      "Diurna capital: laborables 09:30–22:00; sábados, domingos y festivos 10:00–22:00"
+    ],
+    "localidades_atendidas": [
+      "Valladolid"
+    ],
+    "lat": 41.6455,
+    "lng": -4.7456,
+    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "guardia_franja": null
+  },
+  {
+    "id": "cof-valladolid-guardia-118",
+    "nombre": "",
+    "direccion": "Calle Angustias , 26",
+    "localidad": "Valladolid",
+    "sector": "CENTRO-GAMAZO",
+    "provincia": "Valladolid",
+    "telefono": "983305062",
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "guardia_franjas": [
+      "Diurna capital: laborables 09:30–22:00; sábados, domingos y festivos 10:00–22:00"
+    ],
+    "localidades_atendidas": [
+      "Valladolid"
+    ],
+    "lat": 41.6547,
+    "lng": -4.7236,
+    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "guardia_franja": null
+  },
+  {
+    "id": "cof-valladolid-guardia-180",
+    "nombre": "",
+    "direccion": "Calle Cardenal Cisneros , 16",
+    "localidad": "Valladolid",
+    "sector": "RONDILLA II",
+    "provincia": "Valladolid",
+    "telefono": "983264518",
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "guardia_franjas": [
+      "Diurna capital: laborables 09:30–22:00; sábados, domingos y festivos 10:00–22:00"
+    ],
+    "localidades_atendidas": [
+      "Valladolid"
+    ],
+    "lat": 41.6616,
+    "lng": -4.7226,
+    "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
+    "guardia_franja": null
+  },
+  {
+    "id": "cof-valladolid-guardia-347",
+    "nombre": "",
+    "direccion": "Calle Artillería , 22",
+    "localidad": "Medina del Campo",
+    "sector": "MEDINA DEL CAMPO URBANO",
+    "provincia": "Valladolid",
+    "telefono": "983813970",
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "guardia_franjas": [
+      "Día y noche: 24 horas según el cuadro provincial."
+    ],
+    "localidades_atendidas": [
+      "Medina del Campo"
+    ],
+    "lat": 41.3059,
+    "lng": -4.9161,
     "fuente": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://ciudadanos.farmaceuticosdevalladolid.es/FarmaciasGuardia.aspx",
@@ -574969,13 +575188,14 @@
     "telefono": "980520060",
     "fuente": "https://cofzamora.es/admin/config/media/ver_mes_completo",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Zamora"
     ],
     "guardia_franja": null,
     "guardia_franjas": [
-      "Guardia diurna COF Zamora; horario exacto pendiente, confirmar por teléfono."
+      "Guardia diurna COF Zamora; horario exacto pendiente, confirmar por teléfono.",
+      "Guardia nocturna COF Zamora; horario exacto pendiente, confirmar por teléfono."
     ],
     "guardia_intervalos": [],
     "guardia_apertura": "desconocida",

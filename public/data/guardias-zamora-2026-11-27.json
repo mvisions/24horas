@@ -1,0 +1,31 @@
+[
+  {
+    "id": "jcyl-49-e1-00046",
+    "nombre": "JOSÉ MANUEL CATALINA COELLO",
+    "direccion": "AVDA  TRES CRUCES, 25",
+    "localidad": "Zamora",
+    "provincia": "Zamora",
+    "telefono": "980520060",
+    "fuente": "https://cofzamora.es/admin/config/media/ver_mes_completo",
+    "guardia": true,
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "Zamora"
+    ],
+    "guardia_franja": "Guardia diurna COF Zamora; horario exacto pendiente, confirmar por teléfono. · Guardia nocturna COF Zamora; horario exacto pendiente, confirmar por teléfono.",
+    "guardia_franjas": [
+      "Guardia diurna COF Zamora; horario exacto pendiente, confirmar por teléfono.",
+      "Guardia nocturna COF Zamora; horario exacto pendiente, confirmar por teléfono."
+    ],
+    "guardia_intervalos": [],
+    "guardia_apertura": "desconocida",
+    "lat": 41.5112824,
+    "lng": -5.7412588,
+    "ubicacion_requiere_verificacion": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/12677706757",
+    "nota_ubicacion": "Ubicación contrastada: una farmacia de OpenStreetMap y una fuente independiente coinciden a 6.9 m.",
+    "osm_id": "osm-12677706757",
+    "ajuste_ubicacion_m": 6.9
+  }
+]

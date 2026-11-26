@@ -8184,8 +8184,8 @@
     "localidad": "Alicante/Alacant",
     "provincia": "Alicante",
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
-    "lat": null,
-    "lng": null,
+    "lat": 38.3669383,
+    "lng": -0.4887311,
     "guardia": false,
     "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
@@ -8200,7 +8200,11 @@
         "inicio": "2026-11-27T09:30:00+01:00",
         "fin": "2026-11-28T09:30:00+01:00"
       }
-    ]
+    ],
+    "precision_ubicacion": "direccion",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/10834229915",
+    "nota_ubicacion": "OpenStreetMap y CartoCiudad (IGN) sitúan esta dirección a menos de 15 m entre sí.",
+    "ajuste_ubicacion_m": 4.9
   },
   {
     "id": "cof-alicante-110305",

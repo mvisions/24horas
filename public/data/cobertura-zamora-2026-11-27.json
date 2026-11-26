@@ -5,14 +5,15 @@
   "completa": false,
   "consultas": [
     {
-      "nombre": "Calendario COF Zamora",
-      "estado": "error",
-      "error": "The read operation timed out"
+      "nombre": "Zamora Capital",
+      "estado": "parcial",
+      "farmacias": 1,
+      "error": "El calendario mensual confirma los turnos de Zamora Capital, pero no publica horarios exactos ni confirma las otras zonas de la provincia."
     }
   ],
-  "farmacias": 0,
-  "farmacias_confirmadas": 0,
-  "con_coordenadas": 0,
-  "calendario_actualizado": false,
+  "farmacias": 1,
+  "farmacias_confirmadas": 1,
+  "con_coordenadas": 1,
+  "calendario_actualizado": true,
   "guardias_conservadas_no_reconfirmadas": 0
 }

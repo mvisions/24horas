@@ -801,6 +801,18 @@
     "osm_id": "osm-12486373121"
   },
   {
+    "id": "cof-alicante-110432",
+    "provincia": "Alicante",
+    "localidad": "Alicante/Alacant",
+    "direccion": "C/ DAYA VIEJA, Nº17 LOCAL B-1",
+    "lat": 38.3669383,
+    "lng": -0.4887311,
+    "precision_ubicacion": "direccion",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/10834229915",
+    "nota_ubicacion": "OpenStreetMap y CartoCiudad (IGN) sitúan esta dirección a menos de 15 m entre sí.",
+    "ajuste_ubicacion_m": 4.9
+  },
+  {
     "id": "cof-alicante-120115",
     "provincia": "Alicante",
     "localidad": "Denia",
