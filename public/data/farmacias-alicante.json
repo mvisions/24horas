@@ -22,23 +22,23 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Elche/Elx"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00 · Guardia COFA · 26/11 09:00–27/11 09:00",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:00 · Guardia COFA · 27/11 09:00–28/11 09:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00",
-      "Guardia COFA · 26/11 09:00–27/11 09:00"
+      "Guardia COFA · 27/11 00:00–27/11 09:00",
+      "Guardia COFA · 27/11 09:00–28/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
+        "inicio": "2026-11-27T00:00:00+01:00",
+        "fin": "2026-11-27T09:00:00+01:00"
       },
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
-        "fin": "2026-11-27T09:00:00+01:00"
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-28T09:00:00+01:00"
       }
     ]
   },
@@ -53,22 +53,17 @@
     "lat": 38.5396243,
     "lng": -0.507027,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Jijona/Xixona"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:30 · Guardia COFA · 26/11 09:30–27/11 09:30",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:30",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:30",
-      "Guardia COFA · 26/11 09:30–27/11 09:30"
+      "Guardia COFA · 27/11 00:00–27/11 09:30"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:30:00+01:00"
-      },
-      {
-        "inicio": "2026-11-26T09:30:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:30:00+01:00"
       }
     ],
@@ -86,21 +81,7 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false,
-    "fecha_guardia": "2026-11-26",
-    "localidades_atendidas": [
-      "Benissa"
-    ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00",
-    "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
-      }
-    ]
+    "guardia": false
   },
   {
     "id": "cof-alicante-100046",
@@ -113,23 +94,23 @@
     "lat": 38.6285376,
     "lng": -0.7631218,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Biar"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00 · Guardia COFA · 26/11 09:00–27/11 09:00",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:00 · Guardia COFA · 27/11 09:00–28/11 09:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00",
-      "Guardia COFA · 26/11 09:00–27/11 09:00"
+      "Guardia COFA · 27/11 00:00–27/11 09:00",
+      "Guardia COFA · 27/11 09:00–28/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
+        "inicio": "2026-11-27T00:00:00+01:00",
+        "fin": "2026-11-27T09:00:00+01:00"
       },
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
-        "fin": "2026-11-27T09:00:00+01:00"
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-28T09:00:00+01:00"
       }
     ],
     "precision_ubicacion": "farmacia",
@@ -146,21 +127,7 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false,
-    "fecha_guardia": "2026-11-26",
-    "localidades_atendidas": [
-      "Monóvar/Monòver"
-    ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:30",
-    "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:30"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:30:00+01:00"
-      }
-    ]
+    "guardia": false
   },
   {
     "id": "cof-alicante-100136",
@@ -173,18 +140,18 @@
     "lat": 38.2653531,
     "lng": -0.7029615,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Elche/Elx"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 09:00–26/11 20:00",
+    "guardia_franja": "Guardia COFA · 27/11 09:00–27/11 20:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 09:00–26/11 20:00"
+      "Guardia COFA · 27/11 09:00–27/11 20:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
-        "fin": "2026-11-26T20:00:00+01:00"
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-27T20:00:00+01:00"
       }
     ],
     "precision_ubicacion": "direccion",
@@ -201,7 +168,21 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "Callosa d'En Sarrià"
+    ],
+    "guardia_franja": "Guardia COFA · 27/11 09:00–28/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 27/11 09:00–28/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-28T09:00:00+01:00"
+      }
+    ]
   },
   {
     "id": "cof-alicante-100170",
@@ -214,17 +195,17 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Callosa de Segura"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 09:00–27/11 09:00",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 09:00–27/11 09:00"
+      "Guardia COFA · 27/11 00:00–27/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:00:00+01:00"
       }
     ]
@@ -240,23 +221,23 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Elche/Elx"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00 · Guardia COFA · 26/11 09:00–27/11 09:00",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:00 · Guardia COFA · 27/11 09:00–28/11 09:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00",
-      "Guardia COFA · 26/11 09:00–27/11 09:00"
+      "Guardia COFA · 27/11 00:00–27/11 09:00",
+      "Guardia COFA · 27/11 09:00–28/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
+        "inicio": "2026-11-27T00:00:00+01:00",
+        "fin": "2026-11-27T09:00:00+01:00"
       },
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
-        "fin": "2026-11-27T09:00:00+01:00"
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-28T09:00:00+01:00"
       }
     ]
   },
@@ -283,18 +264,18 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Elche/Elx"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 09:00–26/11 20:00",
+    "guardia_franja": "Guardia COFA · 27/11 09:00–27/11 20:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 09:00–26/11 20:00"
+      "Guardia COFA · 27/11 09:00–27/11 20:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
-        "fin": "2026-11-26T20:00:00+01:00"
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-27T20:00:00+01:00"
       }
     ]
   },
@@ -308,21 +289,7 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false,
-    "fecha_guardia": "2026-11-26",
-    "localidades_atendidas": [
-      "Alfàs del Pi (l')"
-    ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:30",
-    "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:30"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:30:00+01:00"
-      }
-    ]
+    "guardia": false
   },
   {
     "id": "cof-alicante-100294",
@@ -346,7 +313,21 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "Albatera"
+    ],
+    "guardia_franja": "Guardia COFA · 27/11 09:30–28/11 09:30",
+    "guardia_franjas": [
+      "Guardia COFA · 27/11 09:30–28/11 09:30"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T09:30:00+01:00",
+        "fin": "2026-11-28T09:30:00+01:00"
+      }
+    ]
   },
   {
     "id": "cof-alicante-100478",
@@ -358,7 +339,21 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "Pilar de la Horadada"
+    ],
+    "guardia_franja": "Guardia COFA · 27/11 09:00–28/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 27/11 09:00–28/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-28T09:00:00+01:00"
+      }
+    ]
   },
   {
     "id": "cof-alicante-100481",
@@ -370,7 +365,21 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "Denia"
+    ],
+    "guardia_franja": "Guardia COFA · 27/11 09:30–28/11 09:30",
+    "guardia_franjas": [
+      "Guardia COFA · 27/11 09:30–28/11 09:30"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T09:30:00+01:00",
+        "fin": "2026-11-28T09:30:00+01:00"
+      }
+    ]
   },
   {
     "id": "cof-alicante-100497",
@@ -383,23 +392,23 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Orihuela"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00 · Guardia COFA · 26/11 09:00–27/11 09:00",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:00 · Guardia COFA · 27/11 09:00–28/11 09:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00",
-      "Guardia COFA · 26/11 09:00–27/11 09:00"
+      "Guardia COFA · 27/11 00:00–27/11 09:00",
+      "Guardia COFA · 27/11 09:00–28/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
+        "inicio": "2026-11-27T00:00:00+01:00",
+        "fin": "2026-11-27T09:00:00+01:00"
       },
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
-        "fin": "2026-11-27T09:00:00+01:00"
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-28T09:00:00+01:00"
       }
     ]
   },
@@ -438,23 +447,23 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Benidorm"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:30 · Guardia COFA · 26/11 09:30–27/11 09:30",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:30 · Guardia COFA · 27/11 09:30–28/11 09:30",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:30",
-      "Guardia COFA · 26/11 09:30–27/11 09:30"
+      "Guardia COFA · 27/11 00:00–27/11 09:30",
+      "Guardia COFA · 27/11 09:30–28/11 09:30"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:30:00+01:00"
+        "inicio": "2026-11-27T00:00:00+01:00",
+        "fin": "2026-11-27T09:30:00+01:00"
       },
       {
-        "inicio": "2026-11-26T09:30:00+01:00",
-        "fin": "2026-11-27T09:30:00+01:00"
+        "inicio": "2026-11-27T09:30:00+01:00",
+        "fin": "2026-11-28T09:30:00+01:00"
       }
     ]
   },
@@ -468,21 +477,7 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false,
-    "fecha_guardia": "2026-11-26",
-    "localidades_atendidas": [
-      "San Vicente del Raspeig/Sant V"
-    ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00",
-    "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
-      }
-    ]
+    "guardia": false
   },
   {
     "id": "cof-alicante-100682",
@@ -495,23 +490,23 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Torrevieja"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00 · Guardia COFA · 26/11 09:00–27/11 09:00",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:00 · Guardia COFA · 27/11 09:00–28/11 09:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00",
-      "Guardia COFA · 26/11 09:00–27/11 09:00"
+      "Guardia COFA · 27/11 00:00–27/11 09:00",
+      "Guardia COFA · 27/11 09:00–28/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
+        "inicio": "2026-11-27T00:00:00+01:00",
+        "fin": "2026-11-27T09:00:00+01:00"
       },
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
-        "fin": "2026-11-27T09:00:00+01:00"
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-28T09:00:00+01:00"
       }
     ]
   },
@@ -616,18 +611,18 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Elche/Elx"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 09:00–26/11 20:00",
+    "guardia_franja": "Guardia COFA · 27/11 09:00–27/11 20:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 09:00–26/11 20:00"
+      "Guardia COFA · 27/11 09:00–27/11 20:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
-        "fin": "2026-11-26T20:00:00+01:00"
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-27T20:00:00+01:00"
       }
     ]
   },
@@ -653,7 +648,26 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "Pego"
+    ],
+    "guardia_franja": "Guardia COFA · 27/11 09:00–27/11 14:00 · Guardia COFA · 27/11 17:00–28/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 27/11 09:00–27/11 14:00",
+      "Guardia COFA · 27/11 17:00–28/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-27T14:00:00+01:00"
+      },
+      {
+        "inicio": "2026-11-27T17:00:00+01:00",
+        "fin": "2026-11-28T09:00:00+01:00"
+      }
+    ]
   },
   {
     "id": "cof-alicante-110282",
@@ -678,18 +692,18 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Elche/Elx"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 09:00–26/11 20:00",
+    "guardia_franja": "Guardia COFA · 27/11 09:00–27/11 20:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 09:00–26/11 20:00"
+      "Guardia COFA · 27/11 09:00–27/11 20:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
-        "fin": "2026-11-26T20:00:00+01:00"
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-27T20:00:00+01:00"
       }
     ]
   },
@@ -776,23 +790,23 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Alicante/Alacant"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:30 · Guardia COFA · 26/11 09:30–27/11 09:30",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:30 · Guardia COFA · 27/11 09:30–28/11 09:30",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:30",
-      "Guardia COFA · 26/11 09:30–27/11 09:30"
+      "Guardia COFA · 27/11 00:00–27/11 09:30",
+      "Guardia COFA · 27/11 09:30–28/11 09:30"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:30:00+01:00"
+        "inicio": "2026-11-27T00:00:00+01:00",
+        "fin": "2026-11-27T09:30:00+01:00"
       },
       {
-        "inicio": "2026-11-26T09:30:00+01:00",
-        "fin": "2026-11-27T09:30:00+01:00"
+        "inicio": "2026-11-27T09:30:00+01:00",
+        "fin": "2026-11-28T09:30:00+01:00"
       }
     ]
   },
@@ -833,21 +847,7 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false,
-    "fecha_guardia": "2026-11-26",
-    "localidades_atendidas": [
-      "Moraira"
-    ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00",
-    "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
-      }
-    ]
+    "guardia": false
   },
   {
     "id": "cof-alicante-110654",
@@ -872,23 +872,23 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Torrevieja"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00 · Guardia COFA · 26/11 09:00–27/11 09:00",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:00 · Guardia COFA · 27/11 09:00–28/11 09:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00",
-      "Guardia COFA · 26/11 09:00–27/11 09:00"
+      "Guardia COFA · 27/11 00:00–27/11 09:00",
+      "Guardia COFA · 27/11 09:00–28/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
+        "inicio": "2026-11-27T00:00:00+01:00",
+        "fin": "2026-11-27T09:00:00+01:00"
       },
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
-        "fin": "2026-11-27T09:00:00+01:00"
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-28T09:00:00+01:00"
       }
     ]
   },
@@ -915,23 +915,23 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Torrevieja"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00 · Guardia COFA · 26/11 09:00–27/11 09:00",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:00 · Guardia COFA · 27/11 09:00–28/11 09:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00",
-      "Guardia COFA · 26/11 09:00–27/11 09:00"
+      "Guardia COFA · 27/11 00:00–27/11 09:00",
+      "Guardia COFA · 27/11 09:00–28/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
+        "inicio": "2026-11-27T00:00:00+01:00",
+        "fin": "2026-11-27T09:00:00+01:00"
       },
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
-        "fin": "2026-11-27T09:00:00+01:00"
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-28T09:00:00+01:00"
       }
     ]
   },
@@ -1021,6 +1021,20 @@
     "lat": 38.1382065,
     "lng": -0.6752966,
     "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "San Fulgencio"
+    ],
+    "guardia_franja": "Guardia COFA · 27/11 09:00–28/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 27/11 09:00–28/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-28T09:00:00+01:00"
+      }
+    ],
     "precision_ubicacion": "direccion",
     "fuente_coordenadas": "https://www.openstreetmap.org/way/167619098",
     "nota_ubicacion": "Ubicación por dirección exacta; pendiente de verificar como farmacia."
@@ -1035,7 +1049,21 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "Crevillent"
+    ],
+    "guardia_franja": "Guardia COFA · 27/11 09:00–28/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 27/11 09:00–28/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-28T09:00:00+01:00"
+      }
+    ]
   },
   {
     "id": "cof-alicante-110795",
@@ -1047,7 +1075,21 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "Nucia (la)"
+    ],
+    "guardia_franja": "Guardia COFA · 27/11 09:30–28/11 09:30",
+    "guardia_franjas": [
+      "Guardia COFA · 27/11 09:30–28/11 09:30"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T09:30:00+01:00",
+        "fin": "2026-11-28T09:30:00+01:00"
+      }
+    ]
   },
   {
     "id": "cof-alicante-120058",
@@ -1084,23 +1126,23 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "San Miguel de Salinas"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:30 · Guardia COFA · 26/11 09:30–27/11 09:30",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:30 · Guardia COFA · 27/11 09:30–28/11 09:30",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:30",
-      "Guardia COFA · 26/11 09:30–27/11 09:30"
+      "Guardia COFA · 27/11 00:00–27/11 09:30",
+      "Guardia COFA · 27/11 09:30–28/11 09:30"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:30:00+01:00"
+        "inicio": "2026-11-27T00:00:00+01:00",
+        "fin": "2026-11-27T09:30:00+01:00"
       },
       {
-        "inicio": "2026-11-26T09:30:00+01:00",
-        "fin": "2026-11-27T09:30:00+01:00"
+        "inicio": "2026-11-27T09:30:00+01:00",
+        "fin": "2026-11-28T09:30:00+01:00"
       }
     ]
   },
@@ -1130,23 +1172,23 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Alicante/Alacant"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:30 · Guardia COFA · 26/11 09:30–27/11 09:30",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:30 · Guardia COFA · 27/11 09:30–28/11 09:30",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:30",
-      "Guardia COFA · 26/11 09:30–27/11 09:30"
+      "Guardia COFA · 27/11 00:00–27/11 09:30",
+      "Guardia COFA · 27/11 09:30–28/11 09:30"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:30:00+01:00"
+        "inicio": "2026-11-27T00:00:00+01:00",
+        "fin": "2026-11-27T09:30:00+01:00"
       },
       {
-        "inicio": "2026-11-26T09:30:00+01:00",
-        "fin": "2026-11-27T09:30:00+01:00"
+        "inicio": "2026-11-27T09:30:00+01:00",
+        "fin": "2026-11-28T09:30:00+01:00"
       }
     ]
   },
@@ -1161,23 +1203,23 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Alicante/Alacant"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:30 · Guardia COFA · 26/11 09:30–27/11 09:30",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:30 · Guardia COFA · 27/11 09:30–28/11 09:30",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:30",
-      "Guardia COFA · 26/11 09:30–27/11 09:30"
+      "Guardia COFA · 27/11 00:00–27/11 09:30",
+      "Guardia COFA · 27/11 09:30–28/11 09:30"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:30:00+01:00"
+        "inicio": "2026-11-27T00:00:00+01:00",
+        "fin": "2026-11-27T09:30:00+01:00"
       },
       {
-        "inicio": "2026-11-26T09:30:00+01:00",
-        "fin": "2026-11-27T09:30:00+01:00"
+        "inicio": "2026-11-27T09:30:00+01:00",
+        "fin": "2026-11-28T09:30:00+01:00"
       }
     ]
   },
@@ -1204,23 +1246,23 @@
     "lat": 38.47316,
     "lng": -0.7881806,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Elda"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00 · Guardia COFA · 26/11 09:00–27/11 09:00",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:00 · Guardia COFA · 27/11 09:00–28/11 09:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00",
-      "Guardia COFA · 26/11 09:00–27/11 09:00"
+      "Guardia COFA · 27/11 00:00–27/11 09:00",
+      "Guardia COFA · 27/11 09:00–28/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
+        "inicio": "2026-11-27T00:00:00+01:00",
+        "fin": "2026-11-27T09:00:00+01:00"
       },
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
-        "fin": "2026-11-27T09:00:00+01:00"
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-28T09:00:00+01:00"
       }
     ],
     "precision_ubicacion": "farmacia",
@@ -1252,7 +1294,21 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "Jijona/Xixona"
+    ],
+    "guardia_franja": "Guardia COFA · 27/11 09:30–28/11 09:30",
+    "guardia_franjas": [
+      "Guardia COFA · 27/11 09:30–28/11 09:30"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T09:30:00+01:00",
+        "fin": "2026-11-28T09:30:00+01:00"
+      }
+    ]
   },
   {
     "id": "cof-alicante-100085",
@@ -1289,23 +1345,18 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Pego"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00 · Guardia COFA · 26/11 14:00–26/11 17:00",
+    "guardia_franja": "Guardia COFA · 27/11 14:00–27/11 17:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00",
-      "Guardia COFA · 26/11 14:00–26/11 17:00"
+      "Guardia COFA · 27/11 14:00–27/11 17:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
-      },
-      {
-        "inicio": "2026-11-26T14:00:00+01:00",
-        "fin": "2026-11-26T17:00:00+01:00"
+        "inicio": "2026-11-27T14:00:00+01:00",
+        "fin": "2026-11-27T17:00:00+01:00"
       }
     ]
   },
@@ -1320,17 +1371,17 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Monóvar/Monòver"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 09:30–27/11 09:30",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:30",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 09:30–27/11 09:30"
+      "Guardia COFA · 27/11 00:00–27/11 09:30"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:30:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:30:00+01:00"
       }
     ]
@@ -1382,17 +1433,17 @@
     "lat": 38.0833345,
     "lng": -0.9433396,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Orihuela"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 09:00–27/11 09:00",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 09:00–27/11 09:00"
+      "Guardia COFA · 27/11 00:00–27/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:00:00+01:00"
       }
     ],
@@ -1411,17 +1462,17 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Moraira"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 09:00–27/11 09:00",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 09:00–27/11 09:00"
+      "Guardia COFA · 27/11 00:00–27/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:00:00+01:00"
       }
     ]
@@ -1449,17 +1500,17 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Alfàs del Pi (l')"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 09:30–27/11 09:30",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:30",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 09:30–27/11 09:30"
+      "Guardia COFA · 27/11 00:00–27/11 09:30"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:30:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:30:00+01:00"
       }
     ]
@@ -1487,18 +1538,23 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Santa Pola"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 09:00–27/11 09:00",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:00 · Guardia COFA · 27/11 09:00–27/11 17:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 09:00–27/11 09:00"
+      "Guardia COFA · 27/11 00:00–27/11 09:00",
+      "Guardia COFA · 27/11 09:00–27/11 17:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:00:00+01:00"
+      },
+      {
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-27T17:00:00+01:00"
       }
     ]
   },
@@ -1536,21 +1592,7 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false,
-    "fecha_guardia": "2026-11-26",
-    "localidades_atendidas": [
-      "Jávea/Xàbia"
-    ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00",
-    "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
-      }
-    ]
+    "guardia": false
   },
   {
     "id": "cof-alicante-100781",
@@ -1575,23 +1617,23 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Monforte del Cid"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00 · Guardia COFA · 26/11 09:00–27/11 09:00",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:00 · Guardia COFA · 27/11 09:00–28/11 09:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00",
-      "Guardia COFA · 26/11 09:00–27/11 09:00"
+      "Guardia COFA · 27/11 00:00–27/11 09:00",
+      "Guardia COFA · 27/11 09:00–28/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
+        "inicio": "2026-11-27T00:00:00+01:00",
+        "fin": "2026-11-27T09:00:00+01:00"
       },
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
-        "fin": "2026-11-27T09:00:00+01:00"
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-28T09:00:00+01:00"
       }
     ]
   },
@@ -1618,18 +1660,18 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Santa Pola"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 09:00–26/11 17:00",
+    "guardia_franja": "Guardia COFA · 27/11 09:00–27/11 17:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 09:00–26/11 17:00"
+      "Guardia COFA · 27/11 09:00–27/11 17:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
-        "fin": "2026-11-26T17:00:00+01:00"
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-27T17:00:00+01:00"
       }
     ]
   },
@@ -1656,6 +1698,20 @@
     "lat": 38.7431591,
     "lng": -0.4405619,
     "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "Cocentaina"
+    ],
+    "guardia_franja": "Guardia COFA · 27/11 09:00–28/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 27/11 09:00–28/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-28T09:00:00+01:00"
+      }
+    ],
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/12852003362",
     "nota_ubicacion": "Ubicación contrastada: la dirección y una farmacia de OpenStreetMap coinciden a 1 m."
@@ -1670,21 +1726,7 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false,
-    "fecha_guardia": "2026-11-26",
-    "localidades_atendidas": [
-      "Aspe"
-    ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00",
-    "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
-      }
-    ]
+    "guardia": false
   },
   {
     "id": "cof-alicante-110160",
@@ -1697,17 +1739,17 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Jalón/Xaló"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 09:00–27/11 09:00",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 09:00–27/11 09:00"
+      "Guardia COFA · 27/11 00:00–27/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:00:00+01:00"
       }
     ]
@@ -1837,18 +1879,18 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Santa Pola"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 09:00–26/11 17:00",
+    "guardia_franja": "Guardia COFA · 27/11 09:00–27/11 17:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 09:00–26/11 17:00"
+      "Guardia COFA · 27/11 09:00–27/11 17:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
-        "fin": "2026-11-26T17:00:00+01:00"
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-27T17:00:00+01:00"
       }
     ]
   },
@@ -1929,17 +1971,17 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "San Vicente del Raspeig/Sant V"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 09:00–27/11 09:00",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 09:00–27/11 09:00"
+      "Guardia COFA · 27/11 00:00–27/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:00:00+01:00"
       }
     ]
@@ -1967,18 +2009,18 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Santa Pola"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 09:00–26/11 17:00",
+    "guardia_franja": "Guardia COFA · 27/11 09:00–28/11 09:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 09:00–26/11 17:00"
+      "Guardia COFA · 27/11 09:00–28/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
-        "fin": "2026-11-26T17:00:00+01:00"
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-28T09:00:00+01:00"
       }
     ]
   },
@@ -2028,21 +2070,7 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false,
-    "fecha_guardia": "2026-11-26",
-    "localidades_atendidas": [
-      "Poblets (els)"
-    ],
-    "guardia_franja": "Guardia COFA · 26/11 09:00–26/11 22:00",
-    "guardia_franjas": [
-      "Guardia COFA · 26/11 09:00–26/11 22:00"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-26T09:00:00+01:00",
-        "fin": "2026-11-26T22:00:00+01:00"
-      }
-    ]
+    "guardia": false
   },
   {
     "id": "cof-alicante-130729",
@@ -2066,21 +2094,7 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false,
-    "fecha_guardia": "2026-11-26",
-    "localidades_atendidas": [
-      "Villajoyosa/Vila Joiosa (la)"
-    ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00",
-    "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
-      }
-    ]
+    "guardia": false
   },
   {
     "id": "cof-alicante-100105",
@@ -2092,7 +2106,21 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "Monóvar/Monòver"
+    ],
+    "guardia_franja": "Guardia COFA · 27/11 09:30–28/11 09:30",
+    "guardia_franjas": [
+      "Guardia COFA · 27/11 09:30–28/11 09:30"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T09:30:00+01:00",
+        "fin": "2026-11-28T09:30:00+01:00"
+      }
+    ]
   },
   {
     "id": "cof-alicante-100114",
@@ -2179,7 +2207,21 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "Callosa de Segura"
+    ],
+    "guardia_franja": "Guardia COFA · 27/11 09:00–28/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 27/11 09:00–28/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-28T09:00:00+01:00"
+      }
+    ]
   },
   {
     "id": "cof-alicante-100669",
@@ -2267,17 +2309,17 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Pedreguer"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 09:00–27/11 09:00",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 09:00–27/11 09:00"
+      "Guardia COFA · 27/11 00:00–27/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:00:00+01:00"
       }
     ]
@@ -2355,21 +2397,7 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false,
-    "fecha_guardia": "2026-11-26",
-    "localidades_atendidas": [
-      "Ibi"
-    ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00",
-    "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
-      }
-    ]
+    "guardia": false
   },
   {
     "id": "cof-alicante-110521",
@@ -2393,7 +2421,21 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "Benissa"
+    ],
+    "guardia_franja": "Guardia COFA · 27/11 09:00–28/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 27/11 09:00–28/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-28T09:00:00+01:00"
+      }
+    ]
   },
   {
     "id": "cof-alicante-110674",
@@ -2430,17 +2472,17 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Jávea/Xàbia"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 09:00–27/11 09:00",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 09:00–27/11 09:00"
+      "Guardia COFA · 27/11 00:00–27/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:00:00+01:00"
       }
     ]
@@ -2456,17 +2498,17 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Aspe"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 09:00–27/11 09:00",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 09:00–27/11 09:00"
+      "Guardia COFA · 27/11 00:00–27/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:00:00+01:00"
       }
     ]
@@ -2505,7 +2547,21 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "San Vicente del Raspeig/Sant V"
+    ],
+    "guardia_franja": "Guardia COFA · 27/11 09:00–28/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 27/11 09:00–28/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-28T09:00:00+01:00"
+      }
+    ]
   },
   {
     "id": "cof-alicante-120599",
@@ -2517,7 +2573,21 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "Benitachell/Poble Nou de Benit"
+    ],
+    "guardia_franja": "Guardia COFA · 27/11 09:00–28/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 27/11 09:00–28/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-28T09:00:00+01:00"
+      }
+    ]
   },
   {
     "id": "cof-alicante-120645",
@@ -2529,7 +2599,21 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "Alfàs del Pi (l')"
+    ],
+    "guardia_franja": "Guardia COFA · 27/11 09:30–28/11 09:30",
+    "guardia_franjas": [
+      "Guardia COFA · 27/11 09:30–28/11 09:30"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T09:30:00+01:00",
+        "fin": "2026-11-28T09:30:00+01:00"
+      }
+    ]
   },
   {
     "id": "cof-alicante-120655",
@@ -2553,21 +2637,7 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false,
-    "fecha_guardia": "2026-11-26",
-    "localidades_atendidas": [
-      "Calpe/Calp"
-    ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00",
-    "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
-      }
-    ]
+    "guardia": false
   },
   {
     "id": "cof-alicante-100162",
@@ -2678,7 +2748,21 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "Jávea/Xàbia"
+    ],
+    "guardia_franja": "Guardia COFA · 27/11 09:00–28/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 27/11 09:00–28/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-28T09:00:00+01:00"
+      }
+    ]
   },
   {
     "id": "cof-alicante-100752",
@@ -2793,17 +2877,17 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Ibi"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 09:00–27/11 09:00",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 09:00–27/11 09:00"
+      "Guardia COFA · 27/11 00:00–27/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:00:00+01:00"
       }
     ]
@@ -2843,20 +2927,6 @@
     "lat": 38.1782508,
     "lng": -0.8695863,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
-    "localidades_atendidas": [
-      "Albatera"
-    ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:30",
-    "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:30"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:30:00+01:00"
-      }
-    ],
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/7295343518",
     "nota_ubicacion": null
@@ -2896,20 +2966,6 @@
     "lat": 38.1418018,
     "lng": -0.8878153,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
-    "localidades_atendidas": [
-      "Cox"
-    ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00",
-    "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
-      }
-    ],
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/7301514418",
     "nota_ubicacion": null
@@ -2937,17 +2993,17 @@
     "lat": 38.1080018,
     "lng": -0.7937063,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Almoradí"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 09:00–27/11 09:00",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 09:00–27/11 09:00"
+      "Guardia COFA · 27/11 00:00–27/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:00:00+01:00"
       }
     ],
@@ -3067,21 +3123,7 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false,
-    "fecha_guardia": "2026-11-26",
-    "localidades_atendidas": [
-      "Nucia (la)"
-    ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:30",
-    "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:30"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:30:00+01:00"
-      }
-    ]
+    "guardia": false
   },
   {
     "id": "cof-alicante-100784",
@@ -3093,21 +3135,7 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false,
-    "fecha_guardia": "2026-11-26",
-    "localidades_atendidas": [
-      "Santa Pola"
-    ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00",
-    "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
-      }
-    ]
+    "guardia": false
   },
   {
     "id": "cof-alicante-100794",
@@ -3168,20 +3196,6 @@
     "lat": 38.078763,
     "lng": -0.837416,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
-    "localidades_atendidas": [
-      "Benejúzar"
-    ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00",
-    "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
-      }
-    ],
     "precision_ubicacion": "direccion",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/6369791304",
     "nota_ubicacion": "Ubicación por dirección exacta; pendiente de verificar como farmacia."
@@ -3197,23 +3211,23 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Agost"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00 · Guardia COFA · 26/11 09:00–27/11 09:00",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:00 · Guardia COFA · 27/11 09:00–28/11 09:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00",
-      "Guardia COFA · 26/11 09:00–27/11 09:00"
+      "Guardia COFA · 27/11 00:00–27/11 09:00",
+      "Guardia COFA · 27/11 09:00–28/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
+        "inicio": "2026-11-27T00:00:00+01:00",
+        "fin": "2026-11-27T09:00:00+01:00"
       },
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
-        "fin": "2026-11-27T09:00:00+01:00"
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-28T09:00:00+01:00"
       }
     ]
   },
@@ -3227,21 +3241,7 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false,
-    "fecha_guardia": "2026-11-26",
-    "localidades_atendidas": [
-      "Callosa de Segura"
-    ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00",
-    "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
-      }
-    ]
+    "guardia": false
   },
   {
     "id": "cof-alicante-110241",
@@ -3313,7 +3313,21 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "Ibi"
+    ],
+    "guardia_franja": "Guardia COFA · 27/11 09:00–28/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 27/11 09:00–28/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-28T09:00:00+01:00"
+      }
+    ]
   },
   {
     "id": "cof-alicante-110653",
@@ -3337,21 +3351,7 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false,
-    "fecha_guardia": "2026-11-26",
-    "localidades_atendidas": [
-      "Petrer"
-    ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00",
-    "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
-      }
-    ]
+    "guardia": false
   },
   {
     "id": "cof-alicante-110716",
@@ -3444,21 +3444,7 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false,
-    "fecha_guardia": "2026-11-26",
-    "localidades_atendidas": [
-      "Novelda"
-    ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:30",
-    "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:30"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:30:00+01:00"
-      }
-    ]
+    "guardia": false
   },
   {
     "id": "cof-alicante-120513",
@@ -3482,21 +3468,7 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false,
-    "fecha_guardia": "2026-11-26",
-    "localidades_atendidas": [
-      "Campello (el)"
-    ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00",
-    "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
-      }
-    ]
+    "guardia": false
   },
   {
     "id": "cof-alicante-130211",
@@ -3583,21 +3555,7 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false,
-    "fecha_guardia": "2026-11-26",
-    "localidades_atendidas": [
-      "Ràfol d'Almúnia (El)"
-    ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 10:00",
-    "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 10:00"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T10:00:00+01:00"
-      }
-    ]
+    "guardia": false
   },
   {
     "id": "cof-alicante-100240",
@@ -3609,21 +3567,7 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false,
-    "fecha_guardia": "2026-11-26",
-    "localidades_atendidas": [
-      "Orihuela"
-    ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00",
-    "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
-      }
-    ]
+    "guardia": false
   },
   {
     "id": "cof-alicante-100262",
@@ -3687,17 +3631,17 @@
     "lat": 38.0627378,
     "lng": -0.897711,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Bigastro"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 09:00–27/11 09:00",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 09:00–27/11 09:00"
+      "Guardia COFA · 27/11 00:00–27/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:00:00+01:00"
       }
     ],
@@ -3751,21 +3695,7 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false,
-    "fecha_guardia": "2026-11-26",
-    "localidades_atendidas": [
-      "Gata de Gorgos"
-    ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00",
-    "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
-      }
-    ]
+    "guardia": false
   },
   {
     "id": "cof-alicante-110067",
@@ -3778,17 +3708,17 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Novelda"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 09:30–27/11 09:30",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:30",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 09:30–27/11 09:30"
+      "Guardia COFA · 27/11 00:00–27/11 09:30"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:30:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:30:00+01:00"
       }
     ]
@@ -3804,23 +3734,23 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Banyeres de Mariola"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00 · Guardia COFA · 26/11 09:00–27/11 09:00",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:00 · Guardia COFA · 27/11 09:00–28/11 09:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00",
-      "Guardia COFA · 26/11 09:00–27/11 09:00"
+      "Guardia COFA · 27/11 00:00–27/11 09:00",
+      "Guardia COFA · 27/11 09:00–28/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
+        "inicio": "2026-11-27T00:00:00+01:00",
+        "fin": "2026-11-27T09:00:00+01:00"
       },
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
-        "fin": "2026-11-27T09:00:00+01:00"
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-28T09:00:00+01:00"
       }
     ]
   },
@@ -3835,6 +3765,20 @@
     "lat": 38.1060892,
     "lng": -0.7967455,
     "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "Almoradí"
+    ],
+    "guardia_franja": "Guardia COFA · 27/11 09:00–28/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 27/11 09:00–28/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-28T09:00:00+01:00"
+      }
+    ],
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/7296365399",
     "nota_ubicacion": null
@@ -3937,17 +3881,17 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Pego"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 09:00–27/11 09:00",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 09:00–27/11 09:00"
+      "Guardia COFA · 27/11 00:00–27/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:00:00+01:00"
       }
     ]
@@ -3963,17 +3907,17 @@
     "lat": 38.178061,
     "lng": -0.8718786,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Albatera"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 09:30–27/11 09:30",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:30",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 09:30–27/11 09:30"
+      "Guardia COFA · 27/11 00:00–27/11 09:30"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:30:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:30:00+01:00"
       }
     ],
@@ -3991,21 +3935,7 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false,
-    "fecha_guardia": "2026-11-26",
-    "localidades_atendidas": [
-      "Altea"
-    ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00",
-    "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
-      }
-    ]
+    "guardia": false
   },
   {
     "id": "cof-alicante-110790",
@@ -4018,17 +3948,17 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Nucia (la)"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 09:30–27/11 09:30",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:30",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 09:30–27/11 09:30"
+      "Guardia COFA · 27/11 00:00–27/11 09:30"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:30:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:30:00+01:00"
       }
     ]
@@ -4068,17 +3998,17 @@
     "lat": 38.4825345,
     "lng": -0.7787288,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Petrer"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 09:00–27/11 09:00",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 09:00–27/11 09:00"
+      "Guardia COFA · 27/11 00:00–27/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:00:00+01:00"
       }
     ],
@@ -4109,17 +4039,17 @@
     "lat": 38.0879886,
     "lng": -0.7237949,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Rojales"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 20:00–27/11 09:00",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 20:00–27/11 09:00"
+      "Guardia COFA · 27/11 00:00–27/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T20:00:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:00:00+01:00"
       }
     ],
@@ -4209,7 +4139,21 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "Novelda"
+    ],
+    "guardia_franja": "Guardia COFA · 27/11 09:30–28/11 09:30",
+    "guardia_franjas": [
+      "Guardia COFA · 27/11 09:30–28/11 09:30"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T09:30:00+01:00",
+        "fin": "2026-11-28T09:30:00+01:00"
+      }
+    ]
   },
   {
     "id": "cof-alicante-100507",
@@ -4222,17 +4166,17 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Sagra"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 10:00–27/11 10:00",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 10:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 10:00–27/11 10:00"
+      "Guardia COFA · 27/11 00:00–27/11 10:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T10:00:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T10:00:00+01:00"
       }
     ]
@@ -4332,17 +4276,17 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Cocentaina"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 09:00–27/11 09:00",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 09:00–27/11 09:00"
+      "Guardia COFA · 27/11 00:00–27/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:00:00+01:00"
       }
     ]
@@ -4393,7 +4337,21 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "Campello (el)"
+    ],
+    "guardia_franja": "Guardia COFA · 27/11 09:00–28/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 27/11 09:00–28/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-28T09:00:00+01:00"
+      }
+    ]
   },
   {
     "id": "cof-alicante-110536",
@@ -4444,7 +4402,21 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "Petrer"
+    ],
+    "guardia_franja": "Guardia COFA · 27/11 09:00–28/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 27/11 09:00–28/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-28T09:00:00+01:00"
+      }
+    ]
   },
   {
     "id": "cof-alicante-110733",
@@ -4588,7 +4560,21 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "Sanet y Negrals"
+    ],
+    "guardia_franja": "Guardia COFA · 27/11 10:00–28/11 10:00",
+    "guardia_franjas": [
+      "Guardia COFA · 27/11 10:00–28/11 10:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T10:00:00+01:00",
+        "fin": "2026-11-28T10:00:00+01:00"
+      }
+    ]
   },
   {
     "id": "cof-alicante-100800",
@@ -4612,21 +4598,7 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false,
-    "fecha_guardia": "2026-11-26",
-    "localidades_atendidas": [
-      "Benimassot"
-    ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00",
-    "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
-      }
-    ]
+    "guardia": false
   },
   {
     "id": "cof-alicante-100810",
@@ -4735,6 +4707,20 @@
     "lat": 38.0635799,
     "lng": -0.7272619,
     "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "Rojales"
+    ],
+    "guardia_franja": "Guardia COFA · 27/11 20:00–28/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 27/11 20:00–28/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T20:00:00+01:00",
+        "fin": "2026-11-28T09:00:00+01:00"
+      }
+    ],
     "precision_ubicacion": "direccion",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/2390382374",
     "nota_ubicacion": "Ubicación por dirección exacta; pendiente de verificar como farmacia."
@@ -4773,7 +4759,21 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "Gata de Gorgos"
+    ],
+    "guardia_franja": "Guardia COFA · 27/11 09:00–28/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 27/11 09:00–28/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-28T09:00:00+01:00"
+      }
+    ]
   },
   {
     "id": "cof-alicante-120580",
@@ -4810,22 +4810,17 @@
     "lat": 38.6515146,
     "lng": -0.1225374,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Callosa d'En Sarrià"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00 · Guardia COFA · 26/11 09:00–27/11 09:00",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00",
-      "Guardia COFA · 26/11 09:00–27/11 09:00"
+      "Guardia COFA · 27/11 00:00–27/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
-      },
-      {
-        "inicio": "2026-11-26T09:00:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:00:00+01:00"
       }
     ],
@@ -4843,21 +4838,7 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false,
-    "fecha_guardia": "2026-11-26",
-    "localidades_atendidas": [
-      "Sant Joan d'Alacant"
-    ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:30",
-    "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:30"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:30:00+01:00"
-      }
-    ]
+    "guardia": false
   },
   {
     "id": "cof-alicante-100238",
@@ -4881,21 +4862,7 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false,
-    "fecha_guardia": "2026-11-26",
-    "localidades_atendidas": [
-      "Elda"
-    ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00",
-    "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
-      }
-    ]
+    "guardia": false
   },
   {
     "id": "cof-alicante-100516",
@@ -4970,21 +4937,7 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false,
-    "fecha_guardia": "2026-11-26",
-    "localidades_atendidas": [
-      "San Fulgencio"
-    ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00",
-    "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
-      }
-    ]
+    "guardia": false
   },
   {
     "id": "cof-alicante-110053",
@@ -5008,21 +4961,7 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false,
-    "fecha_guardia": "2026-11-26",
-    "localidades_atendidas": [
-      "Crevillent"
-    ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00",
-    "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
-      }
-    ]
+    "guardia": false
   },
   {
     "id": "cof-alicante-110204",
@@ -5035,22 +4974,17 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Pilar de la Horadada"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00 · Guardia COFA · 26/11 09:00–27/11 09:00",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00",
-      "Guardia COFA · 26/11 09:00–27/11 09:00"
+      "Guardia COFA · 27/11 00:00–27/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
-      },
-      {
-        "inicio": "2026-11-26T09:00:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:00:00+01:00"
       }
     ]
@@ -5077,7 +5011,21 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "Altea"
+    ],
+    "guardia_franja": "Guardia COFA · 27/11 09:00–28/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 27/11 09:00–28/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-28T09:00:00+01:00"
+      }
+    ]
   },
   {
     "id": "cof-alicante-110386",
@@ -5138,20 +5086,6 @@
     "lat": 38.8413268,
     "lng": 0.1119989,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
-    "localidades_atendidas": [
-      "Denia"
-    ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:30",
-    "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:30"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:30:00+01:00"
-      }
-    ],
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/1989925710",
     "nota_ubicacion": "Ubicación contrastada: la dirección y una farmacia de OpenStreetMap coinciden a 6 m."
@@ -5191,17 +5125,17 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Crevillent"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 09:00–27/11 09:00",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 09:00–27/11 09:00"
+      "Guardia COFA · 27/11 00:00–27/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:00:00+01:00"
       }
     ]
@@ -5217,17 +5151,17 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Elda"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 09:00–27/11 09:00",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 09:00–27/11 09:00"
+      "Guardia COFA · 27/11 00:00–27/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:00:00+01:00"
       }
     ]
@@ -5308,7 +5242,21 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "Aspe"
+    ],
+    "guardia_franja": "Guardia COFA · 27/11 09:00–28/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 27/11 09:00–28/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-28T09:00:00+01:00"
+      }
+    ]
   },
   {
     "id": "cof-alicante-110173",
@@ -5369,17 +5317,17 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Denia"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 09:30–27/11 09:30",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:30",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 09:30–27/11 09:30"
+      "Guardia COFA · 27/11 00:00–27/11 09:30"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:30:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:30:00+01:00"
       }
     ]
@@ -5455,18 +5403,23 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Guardamar del Segura"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 09:00–27/11 09:00",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:00 · Guardia COFA · 27/11 09:00–27/11 22:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 09:00–27/11 09:00"
+      "Guardia COFA · 27/11 00:00–27/11 09:00",
+      "Guardia COFA · 27/11 09:00–27/11 22:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:00:00+01:00"
+      },
+      {
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-27T22:00:00+01:00"
       }
     ]
   },
@@ -5528,7 +5481,21 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "Sant Joan d'Alacant"
+    ],
+    "guardia_franja": "Guardia COFA · 27/11 09:30–28/11 09:30",
+    "guardia_franjas": [
+      "Guardia COFA · 27/11 09:30–28/11 09:30"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T09:30:00+01:00",
+        "fin": "2026-11-28T09:30:00+01:00"
+      }
+    ]
   },
   {
     "id": "cof-alicante-110224",
@@ -5625,23 +5592,23 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Pinoso"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00 · Guardia COFA · 26/11 09:00–27/11 09:00",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:00 · Guardia COFA · 27/11 09:00–28/11 09:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00",
-      "Guardia COFA · 26/11 09:00–27/11 09:00"
+      "Guardia COFA · 27/11 00:00–27/11 09:00",
+      "Guardia COFA · 27/11 09:00–28/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
+        "inicio": "2026-11-27T00:00:00+01:00",
+        "fin": "2026-11-27T09:00:00+01:00"
       },
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
-        "fin": "2026-11-27T09:00:00+01:00"
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-28T09:00:00+01:00"
       }
     ]
   },
@@ -5656,17 +5623,17 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Alcoleja"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 09:00–27/11 09:00",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 09:00–27/11 09:00"
+      "Guardia COFA · 27/11 00:00–27/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:00:00+01:00"
       }
     ]
@@ -5730,23 +5697,23 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Onil"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00 · Guardia COFA · 26/11 09:00–27/11 09:00",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:00 · Guardia COFA · 27/11 09:00–28/11 09:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00",
-      "Guardia COFA · 26/11 09:00–27/11 09:00"
+      "Guardia COFA · 27/11 00:00–27/11 09:00",
+      "Guardia COFA · 27/11 09:00–28/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
+        "inicio": "2026-11-27T00:00:00+01:00",
+        "fin": "2026-11-27T09:00:00+01:00"
       },
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
-        "fin": "2026-11-27T09:00:00+01:00"
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-28T09:00:00+01:00"
       }
     ]
   },
@@ -5812,23 +5779,23 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Sax"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00 · Guardia COFA · 26/11 09:00–27/11 09:00",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:00 · Guardia COFA · 27/11 09:00–28/11 09:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00",
-      "Guardia COFA · 26/11 09:00–27/11 09:00"
+      "Guardia COFA · 27/11 00:00–27/11 09:00",
+      "Guardia COFA · 27/11 09:00–28/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
+        "inicio": "2026-11-27T00:00:00+01:00",
+        "fin": "2026-11-27T09:00:00+01:00"
       },
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
-        "fin": "2026-11-27T09:00:00+01:00"
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-28T09:00:00+01:00"
       }
     ]
   },
@@ -5878,21 +5845,7 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false,
-    "fecha_guardia": "2026-11-26",
-    "localidades_atendidas": [
-      "Villena"
-    ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00",
-    "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
-      }
-    ]
+    "guardia": false
   },
   {
     "id": "cof-alicante-110473",
@@ -6087,7 +6040,21 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "Balones"
+    ],
+    "guardia_franja": "Guardia COFA · 27/11 09:00–28/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 27/11 09:00–28/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-28T09:00:00+01:00"
+      }
+    ]
   },
   {
     "id": "cof-alicante-110713",
@@ -6100,17 +6067,17 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Villena"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 09:00–27/11 09:00",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 09:00–27/11 09:00"
+      "Guardia COFA · 27/11 00:00–27/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:00:00+01:00"
       }
     ]
@@ -6210,20 +6177,6 @@
     "lat": 38.1127493,
     "lng": -0.908409,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
-    "localidades_atendidas": [
-      "Redován"
-    ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00",
-    "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
-      }
-    ],
     "precision_ubicacion": "direccion",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/6487399615",
     "nota_ubicacion": "Ubicación por dirección exacta; pendiente de verificar como farmacia."
@@ -6299,17 +6252,17 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Campello (el)"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 09:00–27/11 09:00",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 09:00–27/11 09:00"
+      "Guardia COFA · 27/11 00:00–27/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:00:00+01:00"
       }
     ]
@@ -6336,7 +6289,21 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "Orihuela"
+    ],
+    "guardia_franja": "Guardia COFA · 27/11 09:00–28/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 27/11 09:00–28/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-28T09:00:00+01:00"
+      }
+    ]
   },
   {
     "id": "cof-alicante-110018",
@@ -6543,21 +6510,7 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false,
-    "fecha_guardia": "2026-11-26",
-    "localidades_atendidas": [
-      "Almoradí"
-    ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00",
-    "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
-      }
-    ]
+    "guardia": false
   },
   {
     "id": "cof-alicante-100798",
@@ -6717,23 +6670,23 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Elche/Elx"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00 · Guardia COFA · 26/11 09:00–27/11 09:00",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:00 · Guardia COFA · 27/11 09:00–28/11 09:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00",
-      "Guardia COFA · 26/11 09:00–27/11 09:00"
+      "Guardia COFA · 27/11 00:00–27/11 09:00",
+      "Guardia COFA · 27/11 09:00–28/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
+        "inicio": "2026-11-27T00:00:00+01:00",
+        "fin": "2026-11-27T09:00:00+01:00"
       },
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
-        "fin": "2026-11-27T09:00:00+01:00"
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-28T09:00:00+01:00"
       }
     ]
   },
@@ -6783,7 +6736,21 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "Villajoyosa/Vila Joiosa (la)"
+    ],
+    "guardia_franja": "Guardia COFA · 27/11 09:00–28/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 27/11 09:00–28/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-28T09:00:00+01:00"
+      }
+    ]
   },
   {
     "id": "cof-alicante-100621",
@@ -6831,7 +6798,21 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "Calpe/Calp"
+    ],
+    "guardia_franja": "Guardia COFA · 27/11 09:00–28/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 27/11 09:00–28/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-28T09:00:00+01:00"
+      }
+    ]
   },
   {
     "id": "cof-alicante-110610",
@@ -6880,23 +6861,23 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Castalla"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00 · Guardia COFA · 26/11 09:00–27/11 09:00",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:00 · Guardia COFA · 27/11 09:00–28/11 09:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00",
-      "Guardia COFA · 26/11 09:00–27/11 09:00"
+      "Guardia COFA · 27/11 00:00–27/11 09:00",
+      "Guardia COFA · 27/11 09:00–28/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
+        "inicio": "2026-11-27T00:00:00+01:00",
+        "fin": "2026-11-27T09:00:00+01:00"
       },
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
-        "fin": "2026-11-27T09:00:00+01:00"
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-28T09:00:00+01:00"
       }
     ]
   },
@@ -7105,7 +7086,21 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "Alcoy/Alcoi"
+    ],
+    "guardia_franja": "Guardia COFA · 27/11 09:30–28/11 09:30",
+    "guardia_franjas": [
+      "Guardia COFA · 27/11 09:30–28/11 09:30"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T09:30:00+01:00",
+        "fin": "2026-11-28T09:30:00+01:00"
+      }
+    ]
   },
   {
     "id": "cof-alicante-100248",
@@ -7177,21 +7172,7 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false,
-    "fecha_guardia": "2026-11-26",
-    "localidades_atendidas": [
-      "Elche/Elx"
-    ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00",
-    "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
-      }
-    ]
+    "guardia": false
   },
   {
     "id": "cof-alicante-110391",
@@ -7243,17 +7224,17 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Calpe/Calp"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 09:00–27/11 09:00",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 09:00–27/11 09:00"
+      "Guardia COFA · 27/11 00:00–27/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:00:00+01:00"
       }
     ]
@@ -7305,17 +7286,17 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Villajoyosa/Vila Joiosa (la)"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 09:00–27/11 09:00",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 09:00–27/11 09:00"
+      "Guardia COFA · 27/11 00:00–27/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:00:00+01:00"
       }
     ]
@@ -7367,17 +7348,17 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Elche/Elx"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 20:00–27/11 09:00",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 20:00–27/11 09:00"
+      "Guardia COFA · 27/11 00:00–27/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T20:00:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:00:00+01:00"
       }
     ]
@@ -7404,7 +7385,21 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "Elche/Elx"
+    ],
+    "guardia_franja": "Guardia COFA · 27/11 20:00–28/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 27/11 20:00–28/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T20:00:00+01:00",
+        "fin": "2026-11-28T09:00:00+01:00"
+      }
+    ]
   },
   {
     "id": "cof-alicante-110406",
@@ -7611,7 +7606,21 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "Elda"
+    ],
+    "guardia_franja": "Guardia COFA · 27/11 09:00–27/11 22:00",
+    "guardia_franjas": [
+      "Guardia COFA · 27/11 09:00–27/11 22:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-27T22:00:00+01:00"
+      }
+    ]
   },
   {
     "id": "cof-alicante-110016",
@@ -7683,21 +7692,7 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false,
-    "fecha_guardia": "2026-11-26",
-    "localidades_atendidas": [
-      "Alcoy/Alcoi"
-    ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:30",
-    "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:30"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:30:00+01:00"
-      }
-    ]
+    "guardia": false
   },
   {
     "id": "cof-alicante-100437",
@@ -7722,17 +7717,17 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Alcoy/Alcoi"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 09:30–27/11 09:30",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:30",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 09:30–27/11 09:30"
+      "Guardia COFA · 27/11 00:00–27/11 09:30"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:30:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:30:00+01:00"
       }
     ]
@@ -8051,20 +8046,6 @@
     "lat": 38.3474298,
     "lng": -0.4763202,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
-    "localidades_atendidas": [
-      "Alicante/Alacant"
-    ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:30",
-    "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:30"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:30:00+01:00"
-      }
-    ],
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/6852322080",
     "nota_ubicacion": "Ubicación contrastada: una farmacia de OpenStreetMap y una fuente independiente coinciden a 8.3 m."
@@ -8079,21 +8060,7 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false,
-    "fecha_guardia": "2026-11-26",
-    "localidades_atendidas": [
-      "Alicante/Alacant"
-    ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:30",
-    "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:30"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:30:00+01:00"
-      }
-    ]
+    "guardia": false
   },
   {
     "id": "cof-alicante-110392",
@@ -8130,17 +8097,17 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Alicante/Alacant"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 09:30–27/11 09:30",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:30",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 09:30–27/11 09:30"
+      "Guardia COFA · 27/11 00:00–27/11 09:30"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:30:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:30:00+01:00"
       }
     ]
@@ -8156,17 +8123,17 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Alicante/Alacant"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 09:30–27/11 09:30",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:30",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 09:30–27/11 09:30"
+      "Guardia COFA · 27/11 00:00–27/11 09:30"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:30:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:30:00+01:00"
       }
     ]
@@ -8193,7 +8160,21 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "Alicante/Alacant"
+    ],
+    "guardia_franja": "Guardia COFA · 27/11 09:30–28/11 09:30",
+    "guardia_franjas": [
+      "Guardia COFA · 27/11 09:30–28/11 09:30"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T09:30:00+01:00",
+        "fin": "2026-11-28T09:30:00+01:00"
+      }
+    ]
   },
   {
     "id": "cof-alicante-110432",
@@ -8205,7 +8186,21 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "Alicante/Alacant"
+    ],
+    "guardia_franja": "Guardia COFA · 27/11 09:30–28/11 09:30",
+    "guardia_franjas": [
+      "Guardia COFA · 27/11 09:30–28/11 09:30"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T09:30:00+01:00",
+        "fin": "2026-11-28T09:30:00+01:00"
+      }
+    ]
   },
   {
     "id": "cof-alicante-110305",
@@ -8338,23 +8333,23 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Mutxamel"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:30 · Guardia COFA · 26/11 09:30–27/11 09:30",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:30 · Guardia COFA · 27/11 09:30–28/11 09:30",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:30",
-      "Guardia COFA · 26/11 09:30–27/11 09:30"
+      "Guardia COFA · 27/11 00:00–27/11 09:30",
+      "Guardia COFA · 27/11 09:30–28/11 09:30"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:30:00+01:00"
+        "inicio": "2026-11-27T00:00:00+01:00",
+        "fin": "2026-11-27T09:30:00+01:00"
       },
       {
-        "inicio": "2026-11-26T09:30:00+01:00",
-        "fin": "2026-11-27T09:30:00+01:00"
+        "inicio": "2026-11-27T09:30:00+01:00",
+        "fin": "2026-11-28T09:30:00+01:00"
       }
     ]
   },
@@ -9197,20 +9192,6 @@
     "lat": 38.0858435,
     "lng": -0.7277284,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
-    "localidades_atendidas": [
-      "Rojales"
-    ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00",
-    "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
-      }
-    ],
     "precision_ubicacion": "direccion",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/6345573894",
     "nota_ubicacion": "Ubicación por dirección exacta; pendiente de verificar como farmacia."
@@ -9358,23 +9339,23 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Muro de Alcoy"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:30 · Guardia COFA · 26/11 09:30–27/11 09:30",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:30 · Guardia COFA · 27/11 09:30–28/11 09:30",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:30",
-      "Guardia COFA · 26/11 09:30–27/11 09:30"
+      "Guardia COFA · 27/11 00:00–27/11 09:30",
+      "Guardia COFA · 27/11 09:30–28/11 09:30"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:30:00+01:00"
+        "inicio": "2026-11-27T00:00:00+01:00",
+        "fin": "2026-11-27T09:30:00+01:00"
       },
       {
-        "inicio": "2026-11-26T09:30:00+01:00",
-        "fin": "2026-11-27T09:30:00+01:00"
+        "inicio": "2026-11-27T09:30:00+01:00",
+        "fin": "2026-11-28T09:30:00+01:00"
       }
     ]
   },
@@ -9472,21 +9453,7 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false,
-    "fecha_guardia": "2026-11-26",
-    "localidades_atendidas": [
-      "Cocentaina"
-    ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00",
-    "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
-      }
-    ]
+    "guardia": false
   },
   {
     "id": "cof-alicante-120393",
@@ -9558,7 +9525,21 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "Villena"
+    ],
+    "guardia_franja": "Guardia COFA · 27/11 09:00–28/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 27/11 09:00–28/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-28T09:00:00+01:00"
+      }
+    ]
   },
   {
     "id": "cof-alicante-110133",
@@ -9571,17 +9552,17 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Altea"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 09:00–27/11 09:00",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 09:00–27/11 09:00"
+      "Guardia COFA · 27/11 00:00–27/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T09:00:00+01:00"
       }
     ]
@@ -9777,23 +9758,23 @@
     "lat": 38.1596522,
     "lng": -0.8010839,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Catral"
     ],
-    "guardia_franja": "Guardia COFA · 26/11 00:00–26/11 09:00 · Guardia COFA · 26/11 09:00–27/11 09:00",
+    "guardia_franja": "Guardia COFA · 27/11 00:00–27/11 09:00 · Guardia COFA · 27/11 09:00–28/11 09:00",
     "guardia_franjas": [
-      "Guardia COFA · 26/11 00:00–26/11 09:00",
-      "Guardia COFA · 26/11 09:00–27/11 09:00"
+      "Guardia COFA · 27/11 00:00–27/11 09:00",
+      "Guardia COFA · 27/11 09:00–28/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T09:00:00+01:00"
+        "inicio": "2026-11-27T00:00:00+01:00",
+        "fin": "2026-11-27T09:00:00+01:00"
       },
       {
-        "inicio": "2026-11-26T09:00:00+01:00",
-        "fin": "2026-11-27T09:00:00+01:00"
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-28T09:00:00+01:00"
       }
     ],
     "precision_ubicacion": "farmacia",
@@ -9810,7 +9791,21 @@
     "fuente": "https://www.cofalicante.com/ficheros/farmaciasguardia/guardias2026.xlsx",
     "lat": null,
     "lng": null,
-    "guardia": false
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "Benejúzar"
+    ],
+    "guardia_franja": "Guardia COFA · 27/11 09:00–28/11 09:00",
+    "guardia_franjas": [
+      "Guardia COFA · 27/11 09:00–28/11 09:00"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T09:00:00+01:00",
+        "fin": "2026-11-28T09:00:00+01:00"
+      }
+    ]
   },
   {
     "id": "cof-alicante-120377",

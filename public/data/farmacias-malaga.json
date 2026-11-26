@@ -113,12 +113,13 @@
     "cofm_id": "29000010",
     "direccion": "PLAZA JAUNDENE, C/NUEVA, 44",
     "localidad": "Archidona",
+    "sector": "",
     "zona": "Archidona",
     "provincia": "Málaga",
     "guardia": false,
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
     "lat": null,
-    "lng": null,
-    "sector": ""
+    "lng": null
   },
   {
     "id": "29-29000448",
@@ -155,12 +156,13 @@
     "cofm_id": "29000583",
     "direccion": "CIUDAD DE MELILLA-CONJ PLAYA MAYOR 20-21",
     "localidad": "Benalmádena",
+    "sector": "ARROYO DE LA MIEL",
     "zona": "Benalmadena",
     "provincia": "Málaga",
     "guardia": false,
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
     "lat": null,
-    "lng": null,
-    "sector": "ARROYO DE LA MIEL"
+    "lng": null
   },
   {
     "id": "29-29000279",
@@ -194,12 +196,13 @@
     "cofm_id": "29000264",
     "direccion": "BUENAVISTA, 2",
     "localidad": "Coin",
+    "sector": "",
     "zona": "Coin",
     "provincia": "Málaga",
     "guardia": false,
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
     "lat": null,
-    "lng": null,
-    "sector": ""
+    "lng": null
   },
   {
     "id": "29-29000125",
@@ -2143,14 +2146,15 @@
     "cofm_id": "29000635",
     "direccion": "C/ CARRETERA NUM. 1 (ESQUINA C/ ANTONIO FERRANDIS NUM. 1)",
     "localidad": "Nerja",
+    "sector": "",
     "zona": "Nerja",
     "provincia": "Málaga",
     "guardia": false,
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
     "lat": 36.7476618,
     "lng": -3.8802981,
     "precision_ubicacion": "farmacia",
-    "fuente_coordenadas": "https://www.openstreetmap.org",
-    "sector": ""
+    "fuente_coordenadas": "https://www.openstreetmap.org"
   },
   {
     "id": "29-29010144",
@@ -2312,13 +2316,14 @@
     "cofm_id": "29000364",
     "direccion": "AV. EUROPA, 85 (EDF. EUROPA)",
     "localidad": "Málaga",
+    "sector": "SECTOR CARRETERA DE CADIZ",
     "zona": "Málaga capital",
     "provincia": "Málaga",
     "guardia": false,
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
     "lat": 36.7007855,
     "lng": -4.4502778,
-    "precision_ubicacion": "aproximada",
-    "sector": "SECTOR CARRETERA DE CADIZ"
+    "precision_ubicacion": "aproximada"
   },
   {
     "id": "29-29010154",
@@ -2522,13 +2527,14 @@
     "cofm_id": "29010188",
     "direccion": "C/ ANTONIO LUIS CARRIÓN NÚM. 7",
     "localidad": "Málaga",
+    "sector": "SECTOR LOS TILOS",
     "zona": "Málaga capital",
     "provincia": "Málaga",
     "guardia": false,
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
     "lat": 36.7122593,
     "lng": -4.4375699,
-    "precision_ubicacion": "aproximada",
-    "sector": "SECTOR LOS TILOS"
+    "precision_ubicacion": "aproximada"
   },
   {
     "id": "29-29010100",
@@ -2867,12 +2873,13 @@
     "cofm_id": "29000093",
     "direccion": "GONZALEZ MARIN, 25",
     "localidad": "Cartama",
+    "sector": "",
     "zona": "Cartama",
     "provincia": "Málaga",
     "guardia": false,
-    "lat": null,
-    "lng": null,
-    "sector": ""
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": 36.7119792,
+    "lng": -4.6294657
   },
   {
     "id": "29-29000120",
@@ -3134,12 +3141,13 @@
     "cofm_id": "29000591",
     "direccion": "DR. FLEMING LOC.1 RESID. LAS TORRES",
     "localidad": "Vélez-Málaga",
+    "sector": "TORRE DEL MAR",
     "zona": "Torre del Mar",
     "provincia": "Málaga",
     "guardia": false,
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
     "lat": null,
-    "lng": null,
-    "sector": "TORRE DEL MAR"
+    "lng": null
   },
   {
     "id": "29-29010108",
@@ -3160,12 +3168,13 @@
     "cofm_id": "29010082",
     "direccion": "CALLE ARTESANOS, 1 ESQ. AV. VIVAR TELLEZ",
     "localidad": "Velez-Malaga",
+    "sector": "",
     "zona": "Velez - Malaga",
     "provincia": "Málaga",
     "guardia": false,
-    "lat": null,
-    "lng": null,
-    "sector": ""
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": 36.7764251,
+    "lng": -4.0999217
   },
   {
     "id": "29-29000520",
@@ -3320,24 +3329,26 @@
     "cofm_id": "29000565",
     "direccion": "LIMONEROS EDF JUL 100 BLQ 1 EL CANTAL",
     "localidad": "Rincon de la Victoria",
+    "sector": "",
     "zona": "Ricon de la Victoria",
     "provincia": "Málaga",
     "guardia": false,
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
     "lat": null,
-    "lng": null,
-    "sector": ""
+    "lng": null
   },
   {
     "id": "29-29000084",
     "cofm_id": "29000084",
     "direccion": "ESPINEL, 30",
     "localidad": "Ronda",
+    "sector": "",
     "zona": "Ronda",
     "provincia": "Málaga",
     "guardia": false,
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
     "lat": null,
-    "lng": null,
-    "sector": ""
+    "lng": null
   },
   {
     "id": "29-29000606",
@@ -3755,13 +3766,14 @@
     "cofm_id": "29000166",
     "direccion": "TERESA BLASCO, 8",
     "localidad": "Málaga",
+    "sector": "BARRIADA CHURRIANA",
     "zona": "Málaga capital",
     "provincia": "Málaga",
     "guardia": false,
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
     "lat": 36.6676779,
     "lng": -4.5036329,
-    "precision_ubicacion": "aproximada",
-    "sector": "BARRIADA CHURRIANA"
+    "precision_ubicacion": "aproximada"
   },
   {
     "id": "29-29000037",
@@ -3926,14 +3938,15 @@
     "cofm_id": "29000526",
     "direccion": "AVDA. DEL MAR, 5 URB. RETAMAR",
     "localidad": "Alhaurin de la Torre",
+    "sector": "",
     "zona": "Alhaurin de la Torre",
     "provincia": "Málaga",
     "guardia": false,
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
     "lat": 36.661485,
     "lng": -4.5374358,
     "precision_ubicacion": "aproximada",
-    "fuente_coordenadas": "https://www.openstreetmap.org",
-    "sector": ""
+    "fuente_coordenadas": "https://www.openstreetmap.org"
   },
   {
     "id": "29-29000045",
@@ -4970,7 +4983,22 @@
     "lat": 36.7330005,
     "lng": -4.4298208,
     "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org"
+  },
+  {
+    "id": "29-29010211",
+    "cofm_id": "29010211",
+    "direccion": "C/ BAILÉN NÚM. 36",
+    "localidad": "Málaga",
+    "sector": "SECTOR BAILEN",
+    "zona": "Málaga capital",
+    "provincia": "Málaga",
+    "guardia": false,
+    "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
+    "lat": 36.7247218,
+    "lng": -4.4340185,
+    "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org",
-    "osm_id": "osm-5621204421"
+    "osm_id": "osm-5635679925"
   }
 ]

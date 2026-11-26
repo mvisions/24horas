@@ -58,21 +58,21 @@
     "telefono": "950284986",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T21:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T21:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 09:00–26/11 21:00"
+      "presencial: 27/11 09:00–27/11 21:00"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 09:00–26/11 21:00"
+    "guardia_franja": "presencial: 27/11 09:00–27/11 21:00"
   },
   {
     "id": "alm-a7877a36-c1a2-4b2f-a9cb-0738a23a3e95",
@@ -83,21 +83,21 @@
     "telefono": "950489373",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T07:00:00",
-        "fin": "2026-11-27T00:00:00",
+        "inicio": "2026-11-27T07:00:00",
+        "fin": "2026-11-28T00:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 07:00–27/11 00:00"
+      "presencial: 27/11 07:00–28/11 00:00"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 07:00–27/11 00:00"
+    "guardia_franja": "presencial: 27/11 07:00–28/11 00:00"
   },
   {
     "id": "alm-9e5d8b75-0135-45eb-8ade-04af0be89a53",
@@ -108,21 +108,21 @@
     "telefono": "950553201",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T08:00:00",
-        "fin": "2026-11-26T22:00:00",
+        "inicio": "2026-11-27T08:00:00",
+        "fin": "2026-11-27T22:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 08:00–26/11 22:00"
+      "presencial: 27/11 08:00–27/11 22:00"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 08:00–26/11 22:00"
+    "guardia_franja": "presencial: 27/11 08:00–27/11 22:00"
   },
   {
     "id": "alm-6244dfea-3c22-485a-88c1-6b4e66eb7d62",
@@ -133,21 +133,27 @@
     "telefono": "950320975",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T08:00:00",
-        "fin": "2026-11-26T22:00:00",
+        "inicio": "2026-11-27T08:00:00",
+        "fin": "2026-11-27T09:00:00",
+        "tipo": "presencial"
+      },
+      {
+        "inicio": "2026-11-27T22:00:00",
+        "fin": "2026-11-28T00:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 08:00–26/11 22:00"
+      "presencial: 27/11 08:00–27/11 09:00",
+      "presencial: 27/11 22:00–28/11 00:00"
     ],
     "lat": 36.7629255,
     "lng": -2.6117803,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 08:00–26/11 22:00",
+    "guardia_franja": "presencial: 27/11 08:00–27/11 09:00 · presencial: 27/11 22:00–28/11 00:00",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/2555564274"
   },
@@ -160,21 +166,21 @@
     "telefono": "950290199",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T08:00:00",
-        "fin": "2026-11-26T22:00:00",
+        "inicio": "2026-11-27T08:00:00",
+        "fin": "2026-11-27T22:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 08:00–26/11 22:00"
+      "presencial: 27/11 08:00–27/11 22:00"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 08:00–26/11 22:00"
+    "guardia_franja": "presencial: 27/11 08:00–27/11 22:00"
   },
   {
     "id": "alm-80ed9671-9d0e-4537-ad02-cae0f865eba1",
@@ -185,16 +191,21 @@
     "telefono": "950481105",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
-    "guardia_intervalos": [],
+    "fecha_guardia": "2026-11-27",
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T08:00:00",
+        "fin": "2026-11-28T00:00:00",
+        "tipo": "presencial"
+      }
+    ],
     "guardia_franjas": [
-      "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
+      "presencial: 27/11 08:00–28/11 00:00"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "nota_horario": "El Ejido, AV. BULEVAR, 195: intervalo oficial no válido (2026-11-26 08:00:00–2026-11-26 08:00:00); no se supone una guardia de 24 horas.",
-    "guardia_franja": "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
+    "guardia_franja": "presencial: 27/11 08:00–28/11 00:00"
   },
   {
     "id": "alm-67f93bd4-cc3a-46f3-8f79-c369648f964c",
@@ -205,21 +216,21 @@
     "telefono": "950320778",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T08:00:00",
-        "fin": "2026-11-27T00:00:00",
+        "inicio": "2026-11-27T08:00:00",
+        "fin": "2026-11-28T00:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 08:00–27/11 00:00"
+      "presencial: 27/11 08:00–28/11 00:00"
     ],
     "lat": 36.7576271,
     "lng": -2.6087539,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 08:00–27/11 00:00",
+    "guardia_franja": "presencial: 27/11 08:00–28/11 00:00",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/2555549900"
   },
@@ -232,21 +243,21 @@
     "telefono": "950231260",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T08:00:00",
-        "fin": "2026-11-27T00:00:00",
+        "inicio": "2026-11-27T08:00:00",
+        "fin": "2026-11-28T00:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 08:00–27/11 00:00"
+      "presencial: 27/11 08:00–28/11 00:00"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 08:00–27/11 00:00"
+    "guardia_franja": "presencial: 27/11 08:00–28/11 00:00"
   },
   {
     "id": "alm-00b6783b-742c-4c5d-afdf-2cabb2d36007",
@@ -257,21 +268,21 @@
     "telefono": "950280600",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T08:00:00",
-        "fin": "2026-11-27T00:00:00",
+        "inicio": "2026-11-27T08:00:00",
+        "fin": "2026-11-28T00:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 08:00–27/11 00:00"
+      "presencial: 27/11 08:00–28/11 00:00"
     ],
     "lat": 36.8316387,
     "lng": -2.4534204,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 08:00–27/11 00:00",
+    "guardia_franja": "presencial: 27/11 08:00–28/11 00:00",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/2758496645"
   },
@@ -284,21 +295,21 @@
     "telefono": "950340242",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T08:30:00",
-        "fin": "2026-11-26T21:30:00",
+        "inicio": "2026-11-27T08:30:00",
+        "fin": "2026-11-27T21:30:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 08:30–26/11 21:30"
+      "presencial: 27/11 08:30–27/11 21:30"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 08:30–26/11 21:30"
+    "guardia_franja": "presencial: 27/11 08:30–27/11 21:30"
   },
   {
     "id": "alm-7db24daf-cbe8-45c1-b5da-d968839c56d6",
@@ -309,21 +320,21 @@
     "telefono": "950341659",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T08:30:00",
-        "fin": "2026-11-26T21:30:00",
+        "inicio": "2026-11-27T08:30:00",
+        "fin": "2026-11-27T21:30:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 08:30–26/11 21:30"
+      "presencial: 27/11 08:30–27/11 21:30"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 08:30–26/11 21:30"
+    "guardia_franja": "presencial: 27/11 08:30–27/11 21:30"
   },
   {
     "id": "alm-383db190-3afd-48ab-8fdd-af433660ec19",
@@ -334,21 +345,21 @@
     "telefono": "950611319",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T08:30:00",
-        "fin": "2026-11-26T21:00:00",
+        "inicio": "2026-11-27T08:30:00",
+        "fin": "2026-11-27T21:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 08:30–26/11 21:00"
+      "presencial: 27/11 08:30–27/11 21:00"
     ],
     "lat": 36.9389858,
     "lng": -2.1339708,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 08:30–26/11 21:00",
+    "guardia_franja": "presencial: 27/11 08:30–27/11 21:00",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/8953844506"
   },
@@ -361,21 +372,21 @@
     "telefono": "950385358",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T22:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T22:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 09:00–26/11 22:00"
+      "presencial: 27/11 09:00–27/11 22:00"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 09:00–26/11 22:00"
+    "guardia_franja": "presencial: 27/11 09:00–27/11 22:00"
   },
   {
     "id": "alm-6e2adcde-6034-4a5d-89ae-e81f0fd573cd",
@@ -386,21 +397,21 @@
     "telefono": "950480314",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T22:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T22:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 09:00–26/11 22:00"
+      "presencial: 27/11 09:00–27/11 22:00"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 09:00–26/11 22:00"
+    "guardia_franja": "presencial: 27/11 09:00–27/11 22:00"
   },
   {
     "id": "alm-45082672-bb83-4896-a8c2-3afbce19b849",
@@ -411,21 +422,21 @@
     "telefono": "950145331",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T22:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T22:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 09:00–26/11 22:00"
+      "presencial: 27/11 09:00–27/11 22:00"
     ],
     "lat": 36.8529797,
     "lng": -2.4459841,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 09:00–26/11 22:00",
+    "guardia_franja": "presencial: 27/11 09:00–27/11 22:00",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/4496896200"
   },
@@ -438,7 +449,7 @@
     "telefono": "950393343",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [],
     "guardia_franjas": [
       "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
@@ -446,7 +457,7 @@
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "nota_horario": "Vera, C/ MAYOR, 69: intervalo oficial no válido (2026-11-26 09:00:00–2026-11-26 09:00:00); no se supone una guardia de 24 horas.",
+    "nota_horario": "Vera, C/ MAYOR, 69: intervalo oficial no válido (2026-11-27 09:00:00–2026-11-27 09:00:00); no se supone una guardia de 24 horas.",
     "guardia_franja": "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
   },
   {
@@ -458,21 +469,21 @@
     "telefono": "950135427",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T08:00:00",
-        "fin": "2026-11-26T21:30:00",
+        "inicio": "2026-11-27T08:00:00",
+        "fin": "2026-11-27T21:30:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 08:00–26/11 21:30"
+      "presencial: 27/11 08:00–27/11 21:30"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 08:00–26/11 21:30"
+    "guardia_franja": "presencial: 27/11 08:00–27/11 21:30"
   },
   {
     "id": "alm-e9653e88-ec51-4bef-8438-3055b4308313",
@@ -483,7 +494,7 @@
     "telefono": "950253557",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [],
     "guardia_franjas": [
       "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
@@ -491,7 +502,7 @@
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "nota_horario": "Almería, CTRA. DE RONDA, 325: intervalo oficial no válido (2026-11-26 09:00:00–2026-11-26 09:00:00); no se supone una guardia de 24 horas.",
+    "nota_horario": "Almería, CTRA. DE RONDA, 325: intervalo oficial no válido (2026-11-27 09:00:00–2026-11-27 09:00:00); no se supone una guardia de 24 horas.",
     "guardia_franja": "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
   },
   {
@@ -503,7 +514,7 @@
     "telefono": "950122350",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [],
     "guardia_franjas": [
       "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
@@ -511,7 +522,7 @@
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "nota_horario": "Lijar, C/ PARRAL, 18: intervalo oficial no válido (2026-11-24 09:00:00–2026-11-24 09:00:00); no se supone una guardia de 24 horas.",
+    "nota_horario": "Lijar, C/ PARRAL, 18: intervalo oficial no válido (2026-11-27 09:00:00–2026-11-27 09:00:00); no se supone una guardia de 24 horas.",
     "guardia_franja": "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
   },
   {
@@ -563,21 +574,21 @@
     "telefono": "950145211",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T22:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T22:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 09:00–26/11 22:00"
+      "presencial: 27/11 09:00–27/11 22:00"
     ],
     "lat": 36.8698192,
     "lng": -2.4395505,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 09:00–26/11 22:00",
+    "guardia_franja": "presencial: 27/11 09:00–27/11 22:00",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/5110172521"
   },
@@ -590,7 +601,7 @@
     "telefono": "950434170",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [],
     "guardia_franjas": [
       "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
@@ -598,7 +609,7 @@
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "nota_horario": "Llanos de Los Olleres, CTRA. ALBOX/CHIRIVEL, S/N: intervalo oficial no válido (2026-11-26 09:00:00–2026-11-26 09:00:00); no se supone una guardia de 24 horas.",
+    "nota_horario": "Llanos de Los Olleres, CTRA. ALBOX/CHIRIVEL, S/N: intervalo oficial no válido (2026-11-27 09:00:00–2026-11-27 09:00:00); no se supone una guardia de 24 horas.",
     "guardia_franja": "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
   },
   {
@@ -610,7 +621,7 @@
     "telefono": "950619507",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [],
     "guardia_franjas": [
       "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
@@ -618,7 +629,7 @@
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "nota_horario": "Pulpi, AV. DE LOS ANTONES, 28: intervalo oficial no válido (2026-11-26 09:00:00–2026-11-26 09:00:00); no se supone una guardia de 24 horas.",
+    "nota_horario": "Pulpi, AV. DE LOS ANTONES, 28: intervalo oficial no válido (2026-11-27 09:00:00–2026-11-27 09:00:00); no se supone una guardia de 24 horas.",
     "guardia_franja": "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
   },
   {
@@ -764,21 +775,21 @@
     "telefono": "950320933",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T21:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T21:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 09:00–26/11 21:00"
+      "presencial: 27/11 09:00–27/11 21:00"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 09:00–26/11 21:00"
+    "guardia_franja": "presencial: 27/11 09:00–27/11 21:00"
   },
   {
     "id": "alm-c2cf13e5-5de8-4ab8-9fe2-ab0c6c88fa66",
@@ -789,21 +800,21 @@
     "telefono": "950304437",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T21:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T21:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 09:00–26/11 21:00"
+      "presencial: 27/11 09:00–27/11 21:00"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 09:00–26/11 21:00"
+    "guardia_franja": "presencial: 27/11 09:00–27/11 21:00"
   },
   {
     "id": "alm-ca7dcc1f-519d-49a5-94d0-094d8a5dc486",
@@ -814,21 +825,21 @@
     "telefono": "950341744",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T08:30:00",
-        "fin": "2026-11-26T21:30:00",
+        "inicio": "2026-11-27T08:30:00",
+        "fin": "2026-11-27T21:30:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 08:30–26/11 21:30"
+      "presencial: 27/11 08:30–27/11 21:30"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 08:30–26/11 21:30"
+    "guardia_franja": "presencial: 27/11 08:30–27/11 21:30"
   },
   {
     "id": "alm-7cd16f4e-ef2c-4229-ad06-f50a27fc8a19",
@@ -839,21 +850,21 @@
     "telefono": "950250423",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T21:30:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T21:30:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 09:00–26/11 21:30"
+      "presencial: 27/11 09:00–27/11 21:30"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 09:00–26/11 21:30"
+    "guardia_franja": "presencial: 27/11 09:00–27/11 21:30"
   },
   {
     "id": "alm-6a033f4c-9a49-4044-8ab2-52e6ca6d48cf",
@@ -924,21 +935,21 @@
     "telefono": "950347600",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T22:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T22:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 09:00–26/11 22:00"
+      "presencial: 27/11 09:00–27/11 22:00"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 09:00–26/11 22:00"
+    "guardia_franja": "presencial: 27/11 09:00–27/11 22:00"
   },
   {
     "id": "alm-a01d5dc9-620f-48eb-a8c6-3de3781d4a32",
@@ -949,21 +960,21 @@
     "telefono": "950326393",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T21:30:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T21:30:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 09:00–26/11 21:30"
+      "presencial: 27/11 09:00–27/11 21:30"
     ],
     "lat": 36.7657715,
     "lng": -2.6109043,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 09:00–26/11 21:30",
+    "guardia_franja": "presencial: 27/11 09:00–27/11 21:30",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/5921484969"
   },
@@ -976,21 +987,21 @@
     "telefono": "950345009",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:30:00",
-        "fin": "2026-11-26T20:30:00",
+        "inicio": "2026-11-27T09:30:00",
+        "fin": "2026-11-27T20:30:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 09:30–26/11 20:30"
+      "presencial: 27/11 09:30–27/11 20:30"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 09:30–26/11 20:30"
+    "guardia_franja": "presencial: 27/11 09:30–27/11 20:30"
   },
   {
     "id": "alm-1e35b6d9-2090-4935-9957-19e867c596a7",
@@ -1043,7 +1054,7 @@
     "telefono": "950415437",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-19",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [],
     "guardia_franjas": [
       "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
@@ -1051,7 +1062,7 @@
     "lat": 37.6921185,
     "lng": -2.0959197,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "nota_horario": "Velez-Blanco, C/ CLAVEL, 3: intervalo oficial no válido (2026-11-19 20:00:00–2026-11-19 20:00:00); no se supone una guardia de 24 horas.",
+    "nota_horario": "Velez-Blanco, C/ CLAVEL, 3: intervalo oficial no válido (2026-11-27 20:00:00–2026-11-27 20:00:00); no se supone una guardia de 24 horas.",
     "guardia_franja": "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/9162530148"
@@ -1065,23 +1076,21 @@
     "telefono": "950456083",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T22:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T22:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 09:00–26/11 22:00",
-      "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
+      "presencial: 27/11 09:00–27/11 22:00"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 09:00–26/11 22:00 · Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono",
-    "nota_horario": "Cuevas del Almanzora, C/ POETA ALVAREZ SOTOMAYOR, 3: intervalo oficial no válido (2026-11-26 21:00:00–2026-11-26 21:00:00); no se supone una guardia de 24 horas."
+    "guardia_franja": "presencial: 27/11 09:00–27/11 22:00"
   },
   {
     "id": "alm-d9b85a0b-25c1-47bc-a1e6-399a9e14f7b0",
@@ -1117,21 +1126,21 @@
     "telefono": "950482561",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T08:30:00",
-        "fin": "2026-11-26T21:00:00",
+        "inicio": "2026-11-27T08:30:00",
+        "fin": "2026-11-27T21:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 08:30–26/11 21:00"
+      "presencial: 27/11 08:30–27/11 21:00"
     ],
     "lat": 36.7675789,
     "lng": -2.8202296,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 08:30–26/11 21:00",
+    "guardia_franja": "presencial: 27/11 08:30–27/11 21:00",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/8954899693"
   },
@@ -1144,21 +1153,21 @@
     "telefono": "950322671",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T07:30:00",
-        "fin": "2026-11-26T21:00:00",
+        "inicio": "2026-11-27T07:30:00",
+        "fin": "2026-11-27T21:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 07:30–26/11 21:00"
+      "presencial: 27/11 07:30–27/11 21:00"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 07:30–26/11 21:00"
+    "guardia_franja": "presencial: 27/11 07:30–27/11 21:00"
   },
   {
     "id": "alm-d3d6ba7d-ad80-4ff4-94de-abe3aa370589",
@@ -1169,21 +1178,21 @@
     "telefono": "950243868",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T08:00:00",
-        "fin": "2026-11-26T22:00:00",
+        "inicio": "2026-11-27T08:00:00",
+        "fin": "2026-11-27T22:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 08:00–26/11 22:00"
+      "presencial: 27/11 08:00–27/11 22:00"
     ],
     "lat": 36.8331399,
     "lng": -2.4481984,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 08:00–26/11 22:00",
+    "guardia_franja": "presencial: 27/11 08:00–27/11 22:00",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/1885381621"
   },
@@ -1196,23 +1205,21 @@
     "telefono": "950470082",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T08:00:00",
-        "fin": "2026-11-26T22:00:00",
+        "inicio": "2026-11-27T08:00:00",
+        "fin": "2026-11-27T22:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 08:00–26/11 22:00",
-      "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
+      "presencial: 27/11 08:00–27/11 22:00"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 08:00–26/11 22:00 · Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono",
-    "nota_horario": "Huercal-overa, CTRA. NACIONAL 340, 86 LOCAL 2: intervalo oficial no válido (2026-11-26 09:00:00–2026-11-26 09:00:00); no se supone una guardia de 24 horas."
+    "guardia_franja": "presencial: 27/11 08:00–27/11 22:00"
   },
   {
     "id": "alm-86c8a58d-84a5-4618-aeda-77daf9627e11",
@@ -1223,21 +1230,21 @@
     "telefono": "950230501",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T08:00:00",
-        "fin": "2026-11-26T22:00:00",
+        "inicio": "2026-11-27T08:00:00",
+        "fin": "2026-11-27T22:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 08:00–26/11 22:00"
+      "presencial: 27/11 08:00–27/11 22:00"
     ],
     "lat": 36.831623,
     "lng": -2.4566136,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 08:00–26/11 22:00",
+    "guardia_franja": "presencial: 27/11 08:00–27/11 22:00",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/4425106185"
   },
@@ -1250,21 +1257,21 @@
     "telefono": "950244425",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T08:00:00",
-        "fin": "2026-11-26T22:00:00",
+        "inicio": "2026-11-27T08:00:00",
+        "fin": "2026-11-27T22:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 08:00–26/11 22:00"
+      "presencial: 27/11 08:00–27/11 22:00"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 08:00–26/11 22:00"
+    "guardia_franja": "presencial: 27/11 08:00–27/11 22:00"
   },
   {
     "id": "alm-00dd7d81-5d26-4c0b-8ec4-d38f6175e035",
@@ -1275,21 +1282,21 @@
     "telefono": "950310028",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T08:00:00",
-        "fin": "2026-11-26T21:30:00",
+        "inicio": "2026-11-27T08:00:00",
+        "fin": "2026-11-27T21:30:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 08:00–26/11 21:30"
+      "presencial: 27/11 08:00–27/11 21:30"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 08:00–26/11 21:30"
+    "guardia_franja": "presencial: 27/11 08:00–27/11 21:30"
   },
   {
     "id": "alm-e7115826-d5db-4bac-a159-f0e037777931",
@@ -1300,21 +1307,21 @@
     "telefono": "950281119",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T08:00:00",
-        "fin": "2026-11-26T21:30:00",
+        "inicio": "2026-11-27T08:00:00",
+        "fin": "2026-11-27T21:30:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 08:00–26/11 21:30"
+      "presencial: 27/11 08:00–27/11 21:30"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 08:00–26/11 21:30"
+    "guardia_franja": "presencial: 27/11 08:00–27/11 21:30"
   },
   {
     "id": "alm-06c46d2c-2c59-4263-9fe0-761404d050cd",
@@ -1325,21 +1332,21 @@
     "telefono": "950322532",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T08:00:00",
-        "fin": "2026-11-26T21:30:00",
+        "inicio": "2026-11-27T08:00:00",
+        "fin": "2026-11-27T21:30:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 08:00–26/11 21:30"
+      "presencial: 27/11 08:00–27/11 21:30"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 08:00–26/11 21:30"
+    "guardia_franja": "presencial: 27/11 08:00–27/11 21:30"
   },
   {
     "id": "alm-66e380f9-eb3c-4e78-a5ff-2bbc9103e0e6",
@@ -1350,21 +1357,21 @@
     "telefono": "950470040",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T08:00:00",
-        "fin": "2026-11-26T21:30:00",
+        "inicio": "2026-11-27T08:00:00",
+        "fin": "2026-11-27T21:30:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 08:00–26/11 21:30"
+      "presencial: 27/11 08:00–27/11 21:30"
     ],
     "lat": 37.3909233,
     "lng": -1.9435164,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 08:00–26/11 21:30",
+    "guardia_franja": "presencial: 27/11 08:00–27/11 21:30",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/4321023271"
   },
@@ -1377,21 +1384,21 @@
     "telefono": "950254636",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T08:30:00",
-        "fin": "2026-11-26T21:30:00",
+        "inicio": "2026-11-27T08:30:00",
+        "fin": "2026-11-27T21:30:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 08:30–26/11 21:30"
+      "presencial: 27/11 08:30–27/11 21:30"
     ],
     "lat": 36.8475031,
     "lng": -2.4549318,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 08:30–26/11 21:30",
+    "guardia_franja": "presencial: 27/11 08:30–27/11 21:30",
     "precision_ubicacion": "direccion",
     "fuente_coordenadas": "https://www.openstreetmap.org/way/1420010672"
   },
@@ -1404,21 +1411,21 @@
     "telefono": "950255289",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T08:30:00",
-        "fin": "2026-11-26T21:30:00",
+        "inicio": "2026-11-27T08:30:00",
+        "fin": "2026-11-27T21:30:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 08:30–26/11 21:30"
+      "presencial: 27/11 08:30–27/11 21:30"
     ],
     "lat": 36.8379046,
     "lng": -2.4528582,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 08:30–26/11 21:30",
+    "guardia_franja": "presencial: 27/11 08:30–27/11 21:30",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/1741304109"
   },
@@ -1431,21 +1438,21 @@
     "telefono": "950268468",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T08:30:00",
-        "fin": "2026-11-26T21:30:00",
+        "inicio": "2026-11-27T08:30:00",
+        "fin": "2026-11-27T21:30:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 08:30–26/11 21:30"
+      "presencial: 27/11 08:30–27/11 21:30"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 08:30–26/11 21:30"
+    "guardia_franja": "presencial: 27/11 08:30–27/11 21:30"
   },
   {
     "id": "alm-1339dccf-8b5d-4b52-bae0-0bef2838b46f",
@@ -1456,21 +1463,21 @@
     "telefono": "950327244",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T08:30:00",
-        "fin": "2026-11-26T21:30:00",
+        "inicio": "2026-11-27T08:30:00",
+        "fin": "2026-11-27T21:30:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 08:30–26/11 21:30"
+      "presencial: 27/11 08:30–27/11 21:30"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 08:30–26/11 21:30"
+    "guardia_franja": "presencial: 27/11 08:30–27/11 21:30"
   },
   {
     "id": "alm-5487c572-f06e-4df8-8aaf-9f8d81f85d2b",
@@ -1481,21 +1488,21 @@
     "telefono": "950237047",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T08:30:00",
-        "fin": "2026-11-26T21:30:00",
+        "inicio": "2026-11-27T08:30:00",
+        "fin": "2026-11-27T21:30:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 08:30–26/11 21:30"
+      "presencial: 27/11 08:30–27/11 21:30"
     ],
     "lat": 36.8370251,
     "lng": -2.4652395,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 08:30–26/11 21:30",
+    "guardia_franja": "presencial: 27/11 08:30–27/11 21:30",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/8949713985"
   },
@@ -1508,21 +1515,23 @@
     "telefono": "950470014",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T08:30:00",
-        "fin": "2026-11-26T21:30:00",
+        "inicio": "2026-11-27T08:30:00",
+        "fin": "2026-11-27T21:30:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 08:30–26/11 21:30"
+      "presencial: 27/11 08:30–27/11 21:30",
+      "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 08:30–26/11 21:30"
+    "guardia_franja": "presencial: 27/11 08:30–27/11 21:30 · Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono",
+    "nota_horario": "Huercal-overa, PLAZA CONSTITUCION, 5: intervalo oficial no válido (2026-11-27 09:00:00–2026-11-27 09:00:00); no se supone una guardia de 24 horas."
   },
   {
     "id": "alm-96427b71-b897-46c7-bb4a-eb6498a9194b",
@@ -1533,21 +1542,27 @@
     "telefono": "950580501",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T08:30:00",
-        "fin": "2026-11-26T20:30:00",
+        "inicio": "2026-11-27T00:00:00",
+        "fin": "2026-11-27T08:00:00",
+        "tipo": "presencial"
+      },
+      {
+        "inicio": "2026-11-27T08:30:00",
+        "fin": "2026-11-27T20:30:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 08:30–26/11 20:30"
+      "presencial: 27/11 00:00–27/11 08:00",
+      "presencial: 27/11 08:30–27/11 20:30"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 08:30–26/11 20:30"
+    "guardia_franja": "presencial: 27/11 00:00–27/11 08:00 · presencial: 27/11 08:30–27/11 20:30"
   },
   {
     "id": "alm-9970294f-309d-4bee-9774-94e8e777062a",
@@ -1558,21 +1573,21 @@
     "telefono": "950297850",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T08:30:00",
-        "fin": "2026-11-26T20:30:00",
+        "inicio": "2026-11-27T08:30:00",
+        "fin": "2026-11-27T20:30:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 08:30–26/11 20:30"
+      "presencial: 27/11 08:30–27/11 20:30"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 08:30–26/11 20:30"
+    "guardia_franja": "presencial: 27/11 08:30–27/11 20:30"
   },
   {
     "id": "alm-8e658dc7-cd61-4f40-8f9f-f66284063700",
@@ -1583,21 +1598,21 @@
     "telefono": "950587553",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T08:30:00",
-        "fin": "2026-11-26T20:30:00",
+        "inicio": "2026-11-27T08:30:00",
+        "fin": "2026-11-27T20:30:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 08:30–26/11 20:30"
+      "presencial: 27/11 08:30–27/11 20:30"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 08:30–26/11 20:30"
+    "guardia_franja": "presencial: 27/11 08:30–27/11 20:30"
   },
   {
     "id": "alm-3123fadf-8471-4b16-b54d-0bccd2c017ab",
@@ -1608,21 +1623,21 @@
     "telefono": "950220065",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T08:30:00",
-        "fin": "2026-11-26T20:30:00",
+        "inicio": "2026-11-27T08:30:00",
+        "fin": "2026-11-27T20:30:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 08:30–26/11 20:30"
+      "presencial: 27/11 08:30–27/11 20:30"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 08:30–26/11 20:30"
+    "guardia_franja": "presencial: 27/11 08:30–27/11 20:30"
   },
   {
     "id": "alm-a8b65a96-33ea-4bb4-bc84-34f74c267a39",
@@ -1633,21 +1648,21 @@
     "telefono": "950254343",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T08:30:00",
-        "fin": "2026-11-26T20:30:00",
+        "inicio": "2026-11-27T08:30:00",
+        "fin": "2026-11-27T20:30:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 08:30–26/11 20:30"
+      "presencial: 27/11 08:30–27/11 20:30"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 08:30–26/11 20:30"
+    "guardia_franja": "presencial: 27/11 08:30–27/11 20:30"
   },
   {
     "id": "alm-a0010af4-d6f8-4591-93a9-e74c61cb58da",
@@ -1658,21 +1673,21 @@
     "telefono": "950486573",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T08:30:00",
-        "fin": "2026-11-26T20:30:00",
+        "inicio": "2026-11-27T08:30:00",
+        "fin": "2026-11-27T20:30:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 08:30–26/11 20:30"
+      "presencial: 27/11 08:30–27/11 20:30"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 08:30–26/11 20:30"
+    "guardia_franja": "presencial: 27/11 08:30–27/11 20:30"
   },
   {
     "id": "alm-6a45451b-184f-4e32-bbef-fd13d698be1d",
@@ -1683,21 +1698,21 @@
     "telefono": "950230090",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T08:30:00",
-        "fin": "2026-11-26T20:30:00",
+        "inicio": "2026-11-27T08:30:00",
+        "fin": "2026-11-27T20:30:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 08:30–26/11 20:30"
+      "presencial: 27/11 08:30–27/11 20:30"
     ],
     "lat": 36.8342957,
     "lng": -2.4546265,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 08:30–26/11 20:30",
+    "guardia_franja": "presencial: 27/11 08:30–27/11 20:30",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/6401709644"
   },
@@ -1710,27 +1725,27 @@
     "telefono": "950236192",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T08:30:00",
-        "fin": "2026-11-26T20:30:00",
+        "inicio": "2026-11-27T08:30:00",
+        "fin": "2026-11-27T20:30:00",
         "tipo": "presencial"
       },
       {
-        "inicio": "2026-11-26T08:30:00",
-        "fin": "2026-11-26T21:00:00",
+        "inicio": "2026-11-27T08:30:00",
+        "fin": "2026-11-27T21:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 08:30–26/11 20:30",
-      "presencial: 26/11 08:30–26/11 21:00"
+      "presencial: 27/11 08:30–27/11 20:30",
+      "presencial: 27/11 08:30–27/11 21:00"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 08:30–26/11 20:30 · presencial: 26/11 08:30–26/11 21:00"
+    "guardia_franja": "presencial: 27/11 08:30–27/11 20:30 · presencial: 27/11 08:30–27/11 21:00"
   },
   {
     "id": "alm-1bdd5a49-5db9-4d50-bf5f-43030bef1422",
@@ -1741,21 +1756,21 @@
     "telefono": "950330008",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T08:30:00",
-        "fin": "2026-11-26T21:00:00",
+        "inicio": "2026-11-27T08:30:00",
+        "fin": "2026-11-27T21:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 08:30–26/11 21:00"
+      "presencial: 27/11 08:30–27/11 21:00"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 08:30–26/11 21:00"
+    "guardia_franja": "presencial: 27/11 08:30–27/11 21:00"
   },
   {
     "id": "alm-0b935bf5-042f-40c7-9f1b-7ac5a23d5c35",
@@ -1766,21 +1781,21 @@
     "telefono": "950315052",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T08:30:00",
-        "fin": "2026-11-26T21:00:00",
+        "inicio": "2026-11-27T08:30:00",
+        "fin": "2026-11-27T21:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 08:30–26/11 21:00"
+      "presencial: 27/11 08:30–27/11 21:00"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 08:30–26/11 21:00"
+    "guardia_franja": "presencial: 27/11 08:30–27/11 21:00"
   },
   {
     "id": "alm-e37f53be-6045-4147-a640-178189893cf8",
@@ -1791,21 +1806,21 @@
     "telefono": "950277121",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T08:30:00",
-        "fin": "2026-11-26T21:00:00",
+        "inicio": "2026-11-27T08:30:00",
+        "fin": "2026-11-27T21:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 08:30–26/11 21:00"
+      "presencial: 27/11 08:30–27/11 21:00"
     ],
     "lat": 36.8320553,
     "lng": -2.4409624,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 08:30–26/11 21:00",
+    "guardia_franja": "presencial: 27/11 08:30–27/11 21:00",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/1888193708"
   },
@@ -1818,21 +1833,21 @@
     "telefono": "950480561",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T08:30:00",
-        "fin": "2026-11-26T21:00:00",
+        "inicio": "2026-11-27T08:30:00",
+        "fin": "2026-11-27T21:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 08:30–26/11 21:00"
+      "presencial: 27/11 08:30–27/11 21:00"
     ],
     "lat": 36.7691292,
     "lng": -2.8012869,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 08:30–26/11 21:00",
+    "guardia_franja": "presencial: 27/11 08:30–27/11 21:00",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/2689392522"
   },
@@ -1845,21 +1860,21 @@
     "telefono": "950533601",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T08:30:00",
-        "fin": "2026-11-26T21:00:00",
+        "inicio": "2026-11-27T08:30:00",
+        "fin": "2026-11-27T21:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 08:30–26/11 21:00"
+      "presencial: 27/11 08:30–27/11 21:00"
     ],
     "lat": 36.8433082,
     "lng": -2.4438581,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 08:30–26/11 21:00",
+    "guardia_franja": "presencial: 27/11 08:30–27/11 21:00",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/469474642"
   },
@@ -1872,21 +1887,21 @@
     "telefono": "950234979",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T08:30:00",
-        "fin": "2026-11-26T21:00:00",
+        "inicio": "2026-11-27T08:30:00",
+        "fin": "2026-11-27T21:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 08:30–26/11 21:00"
+      "presencial: 27/11 08:30–27/11 21:00"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 08:30–26/11 21:00"
+    "guardia_franja": "presencial: 27/11 08:30–27/11 21:00"
   },
   {
     "id": "alm-eb0d7907-6820-4304-9aed-85ba4f3f0c2b",
@@ -1897,21 +1912,21 @@
     "telefono": "950300148",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T08:30:00",
-        "fin": "2026-11-26T21:00:00",
+        "inicio": "2026-11-27T08:30:00",
+        "fin": "2026-11-27T21:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 08:30–26/11 21:00"
+      "presencial: 27/11 08:30–27/11 21:00"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 08:30–26/11 21:00"
+    "guardia_franja": "presencial: 27/11 08:30–27/11 21:00"
   },
   {
     "id": "alm-fae04660-7295-4bb2-aec4-5fe0ff90c42c",
@@ -1922,21 +1937,21 @@
     "telefono": "950226257",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T08:30:00",
-        "fin": "2026-11-26T21:00:00",
+        "inicio": "2026-11-27T08:30:00",
+        "fin": "2026-11-27T21:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 08:30–26/11 21:00"
+      "presencial: 27/11 08:30–27/11 21:00"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 08:30–26/11 21:00"
+    "guardia_franja": "presencial: 27/11 08:30–27/11 21:00"
   },
   {
     "id": "alm-347ce177-7f79-4601-95a0-2293d4b6fd77",
@@ -1947,21 +1962,21 @@
     "telefono": "950274658",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T08:30:00",
-        "fin": "2026-11-26T22:00:00",
+        "inicio": "2026-11-27T08:30:00",
+        "fin": "2026-11-27T22:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 08:30–26/11 22:00"
+      "presencial: 27/11 08:30–27/11 22:00"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 08:30–26/11 22:00"
+    "guardia_franja": "presencial: 27/11 08:30–27/11 22:00"
   },
   {
     "id": "alm-e1d5f7dc-45e3-4248-8934-d1b5e96ad7c6",
@@ -1972,21 +1987,21 @@
     "telefono": "950573681",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T08:30:00",
-        "fin": "2026-11-26T22:00:00",
+        "inicio": "2026-11-27T08:30:00",
+        "fin": "2026-11-27T22:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 08:30–26/11 22:00"
+      "presencial: 27/11 08:30–27/11 22:00"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 08:30–26/11 22:00"
+    "guardia_franja": "presencial: 27/11 08:30–27/11 22:00"
   },
   {
     "id": "alm-fda72ac2-4888-4218-a079-3eea332f15e6",
@@ -1997,21 +2012,21 @@
     "telefono": "950230930",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T22:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T22:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 09:00–26/11 22:00"
+      "presencial: 27/11 09:00–27/11 22:00"
     ],
     "lat": 36.8409083,
     "lng": -2.4639252,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 09:00–26/11 22:00",
+    "guardia_franja": "presencial: 27/11 09:00–27/11 22:00",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/6610782556"
   },
@@ -2024,21 +2039,21 @@
     "telefono": "950221599",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T22:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T22:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 09:00–26/11 22:00"
+      "presencial: 27/11 09:00–27/11 22:00"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 09:00–26/11 22:00"
+    "guardia_franja": "presencial: 27/11 09:00–27/11 22:00"
   },
   {
     "id": "alm-8e063b54-31de-4dcb-9b8e-a772450f484e",
@@ -2049,21 +2064,21 @@
     "telefono": "950456339",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T22:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T22:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 09:00–26/11 22:00"
+      "presencial: 27/11 09:00–27/11 22:00"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 09:00–26/11 22:00"
+    "guardia_franja": "presencial: 27/11 09:00–27/11 22:00"
   },
   {
     "id": "alm-aa9b4261-da8f-41b2-903a-9ed01575f57b",
@@ -2074,21 +2089,21 @@
     "telefono": "950554827",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T22:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T22:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 09:00–26/11 22:00"
+      "presencial: 27/11 09:00–27/11 22:00"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 09:00–26/11 22:00"
+    "guardia_franja": "presencial: 27/11 09:00–27/11 22:00"
   },
   {
     "id": "alm-6a8c7801-6bfd-4595-93dd-b15503194bec",
@@ -2099,21 +2114,21 @@
     "telefono": "950237703",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T22:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T22:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 09:00–26/11 22:00"
+      "presencial: 27/11 09:00–27/11 22:00"
     ],
     "lat": 36.8386513,
     "lng": -2.4632639,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 09:00–26/11 22:00",
+    "guardia_franja": "presencial: 27/11 09:00–27/11 22:00",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/12301649401"
   },
@@ -2126,21 +2141,21 @@
     "telefono": "950250438",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T22:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T22:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 09:00–26/11 22:00"
+      "presencial: 27/11 09:00–27/11 22:00"
     ],
     "lat": 36.8452898,
     "lng": -2.4525888,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 09:00–26/11 22:00",
+    "guardia_franja": "presencial: 27/11 09:00–27/11 22:00",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/4496965498"
   },
@@ -2215,7 +2230,7 @@
     "telefono": "950554225",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-11",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [],
     "guardia_franjas": [
       "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
@@ -2223,7 +2238,7 @@
     "lat": 36.8035312,
     "lng": -2.6317474,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "nota_horario": "Las Cabañuelas, BULEVAR CIUDAD DE VICAR, 958: intervalo oficial no válido (2026-11-11 09:00:00–2026-11-11 09:00:00); no se supone una guardia de 24 horas.",
+    "nota_horario": "Las Cabañuelas, BULEVAR CIUDAD DE VICAR, 958: intervalo oficial no válido (2026-11-27 09:00:00–2026-11-27 09:00:00); no se supone una guardia de 24 horas.",
     "guardia_franja": "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/9995289191"
@@ -2237,7 +2252,7 @@
     "telefono": "950130232",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [],
     "guardia_franjas": [
       "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
@@ -2245,7 +2260,7 @@
     "lat": 36.9997174,
     "lng": -1.8950001,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "nota_horario": "Carboneras, AV. DE ALMERIA, 24: intervalo oficial no válido (2026-11-26 09:00:00–2026-11-26 09:00:00); no se supone una guardia de 24 horas.",
+    "nota_horario": "Carboneras, AV. DE ALMERIA, 24: intervalo oficial no válido (2026-11-27 09:00:00–2026-11-27 09:00:00); no se supone una guardia de 24 horas.",
     "guardia_franja": "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/2682643309"
@@ -2346,21 +2361,21 @@
     "telefono": "950224791",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T21:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T21:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 09:00–26/11 21:00"
+      "presencial: 27/11 09:00–27/11 21:00"
     ],
     "lat": 36.8444156,
     "lng": -2.4501961,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 09:00–26/11 21:00",
+    "guardia_franja": "presencial: 27/11 09:00–27/11 21:00",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/8357584643"
   },
@@ -2373,21 +2388,21 @@
     "telefono": "950141034",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T21:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T21:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 09:00–26/11 21:00"
+      "presencial: 27/11 09:00–27/11 21:00"
     ],
     "lat": 36.8556659,
     "lng": -2.4446019,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 09:00–26/11 21:00",
+    "guardia_franja": "presencial: 27/11 09:00–27/11 21:00",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/4900222421"
   },
@@ -2400,21 +2415,21 @@
     "telefono": "950172566",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T21:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T21:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 09:00–26/11 21:00"
+      "presencial: 27/11 09:00–27/11 21:00"
     ],
     "lat": 36.84032103533417,
     "lng": -2.455798380340805,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 09:00–26/11 21:00",
+    "guardia_franja": "presencial: 27/11 09:00–27/11 21:00",
     "precision_ubicacion": "direccion",
     "fuente_coordenadas": "https://www.cartociudad.es/"
   },
@@ -2427,21 +2442,21 @@
     "telefono": "950271424",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T21:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T21:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 09:00–26/11 21:00"
+      "presencial: 27/11 09:00–27/11 21:00"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 09:00–26/11 21:00"
+    "guardia_franja": "presencial: 27/11 09:00–27/11 21:00"
   },
   {
     "id": "alm-5aa95743-530b-4eb1-81b1-385fed3bbbba",
@@ -2452,21 +2467,21 @@
     "telefono": "950268213",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T21:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T21:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 09:00–26/11 21:00"
+      "presencial: 27/11 09:00–27/11 21:00"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 09:00–26/11 21:00"
+    "guardia_franja": "presencial: 27/11 09:00–27/11 21:00"
   },
   {
     "id": "alm-4132633a-0108-4447-8b44-80c87277c5f1",
@@ -2477,21 +2492,21 @@
     "telefono": "950225431",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T21:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T21:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 09:00–26/11 21:00"
+      "presencial: 27/11 09:00–27/11 21:00"
     ],
     "lat": 36.8437749,
     "lng": -2.447479,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 09:00–26/11 21:00",
+    "guardia_franja": "presencial: 27/11 09:00–27/11 21:00",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/4487153675"
   },
@@ -2504,21 +2519,21 @@
     "telefono": "950330780",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T21:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T21:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 09:00–26/11 21:00"
+      "presencial: 27/11 09:00–27/11 21:00"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 09:00–26/11 21:00"
+    "guardia_franja": "presencial: 27/11 09:00–27/11 21:00"
   },
   {
     "id": "alm-b1a2efee-51f4-479b-a6ec-c3e8a0cea722",
@@ -2529,16 +2544,21 @@
     "telefono": "950343402",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
-    "guardia_intervalos": [],
+    "fecha_guardia": "2026-11-27",
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T21:00:00",
+        "tipo": "presencial"
+      }
+    ],
     "guardia_franjas": [
-      "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
+      "presencial: 27/11 09:00–27/11 21:00"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "nota_horario": "La Gangosa, BULEVAR CIUDAD DE VICAR, 672: intervalo oficial no válido (2026-11-26 09:00:00–2026-11-26 09:00:00); no se supone una guardia de 24 horas.",
-    "guardia_franja": "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
+    "guardia_franja": "presencial: 27/11 09:00–27/11 21:00"
   },
   {
     "id": "alm-8eaf0a39-5601-40e4-82f4-a77d27bb5859",
@@ -2549,21 +2569,21 @@
     "telefono": "950576267",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T21:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T21:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 09:00–26/11 21:00"
+      "presencial: 27/11 09:00–27/11 21:00"
     ],
     "lat": 37.1188906,
     "lng": -1.8350841,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 09:00–26/11 21:00",
+    "guardia_franja": "presencial: 27/11 09:00–27/11 21:00",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/4323064838"
   },
@@ -2576,21 +2596,21 @@
     "telefono": "950207144",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T21:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T21:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 09:00–26/11 21:00"
+      "presencial: 27/11 09:00–27/11 21:00"
     ],
     "lat": 36.8339423,
     "lng": -2.313107,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 09:00–26/11 21:00",
+    "guardia_franja": "presencial: 27/11 09:00–27/11 21:00",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/9990505460"
   },
@@ -2603,21 +2623,21 @@
     "telefono": "950323805",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T21:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T21:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 09:00–26/11 21:00"
+      "presencial: 27/11 09:00–27/11 21:00"
     ],
     "lat": 36.7427706,
     "lng": -2.6158523,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 09:00–26/11 21:00",
+    "guardia_franja": "presencial: 27/11 09:00–27/11 21:00",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/2555556350"
   },
@@ -2630,21 +2650,21 @@
     "telefono": "950366500",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T21:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T21:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 09:00–26/11 21:00"
+      "presencial: 27/11 09:00–27/11 21:00"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 09:00–26/11 21:00"
+    "guardia_franja": "presencial: 27/11 09:00–27/11 21:00"
   },
   {
     "id": "alm-57704979-5772-47bf-ad78-3f2fa1463383",
@@ -2655,21 +2675,21 @@
     "telefono": "950589135",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T21:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T21:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 09:00–26/11 21:00"
+      "presencial: 27/11 09:00–27/11 21:00"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 09:00–26/11 21:00"
+    "guardia_franja": "presencial: 27/11 09:00–27/11 21:00"
   },
   {
     "id": "alm-34ca5dc6-4901-4c4d-9549-67a7277b6603",
@@ -2680,21 +2700,21 @@
     "telefono": "950301980",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T21:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T21:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 09:00–26/11 21:00"
+      "presencial: 27/11 09:00–27/11 21:00"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 09:00–26/11 21:00"
+    "guardia_franja": "presencial: 27/11 09:00–27/11 21:00"
   },
   {
     "id": "alm-2ff0b522-a25c-46ce-8644-f3759ffc662f",
@@ -2705,21 +2725,21 @@
     "telefono": "950573112",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T21:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T21:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 09:00–26/11 21:00"
+      "presencial: 27/11 09:00–27/11 21:00"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 09:00–26/11 21:00"
+    "guardia_franja": "presencial: 27/11 09:00–27/11 21:00"
   },
   {
     "id": "alm-fb709fa6-7d53-45f7-827c-863e4e9bcee6",
@@ -2730,29 +2750,27 @@
     "telefono": "950605598",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00",
-        "fin": "2026-11-26T09:00:00",
+        "inicio": "2026-11-27T00:00:00",
+        "fin": "2026-11-27T09:00:00",
         "tipo": "presencial"
       },
       {
-        "inicio": "2026-11-26T22:00:00",
-        "fin": "2026-11-27T00:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T21:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 00:00–26/11 09:00",
-      "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono",
-      "presencial: 26/11 22:00–27/11 00:00"
+      "presencial: 27/11 00:00–27/11 09:00",
+      "presencial: 27/11 09:00–27/11 21:00"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 00:00–26/11 09:00 · Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono · presencial: 26/11 22:00–27/11 00:00",
-    "nota_horario": "Berja, CAMINO VIEJO DE BENEJÍ, S/N LOCAL 1 Y 2: intervalo oficial no válido (2026-11-26 09:00:00–2026-11-26 09:00:00); no se supone una guardia de 24 horas."
+    "guardia_franja": "presencial: 27/11 00:00–27/11 09:00 · presencial: 27/11 09:00–27/11 21:00"
   },
   {
     "id": "alm-d981a0be-1b73-42ac-998f-c73521cd3b11",
@@ -2763,21 +2781,21 @@
     "telefono": "950300157",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T21:00:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T21:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 09:00–26/11 21:00"
+      "presencial: 27/11 09:00–27/11 21:00"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 09:00–26/11 21:00"
+    "guardia_franja": "presencial: 27/11 09:00–27/11 21:00"
   },
   {
     "id": "alm-d5afc863-a320-42ae-bf73-95a024ac7d1e",
@@ -2788,21 +2806,21 @@
     "telefono": "950349252",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T21:30:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T21:30:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 09:00–26/11 21:30"
+      "presencial: 27/11 09:00–27/11 21:30"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 09:00–26/11 21:30"
+    "guardia_franja": "presencial: 27/11 09:00–27/11 21:30"
   },
   {
     "id": "alm-b8dccfd0-6cf2-41d1-aede-ddb8208016d6",
@@ -2813,21 +2831,21 @@
     "telefono": "950532692",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T21:30:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T21:30:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 09:00–26/11 21:30"
+      "presencial: 27/11 09:00–27/11 21:30"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 09:00–26/11 21:30"
+    "guardia_franja": "presencial: 27/11 09:00–27/11 21:30"
   },
   {
     "id": "alm-c51869b4-748e-411e-aa9b-1fcc7dbcd563",
@@ -2838,21 +2856,21 @@
     "telefono": "950235455",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T21:30:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T21:30:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 09:00–26/11 21:30"
+      "presencial: 27/11 09:00–27/11 21:30"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 09:00–26/11 21:30"
+    "guardia_franja": "presencial: 27/11 09:00–27/11 21:30"
   },
   {
     "id": "alm-42fd2d0b-edc8-49d1-94ca-1424bf81d4cc",
@@ -2863,21 +2881,21 @@
     "telefono": "950486306",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T20:30:00",
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T20:30:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 09:00–26/11 20:30"
+      "presencial: 27/11 09:00–27/11 20:30"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 09:00–26/11 20:30"
+    "guardia_franja": "presencial: 27/11 09:00–27/11 20:30"
   },
   {
     "id": "alm-f0228d54-4688-4275-ae3b-0b394440c213",
@@ -2888,21 +2906,21 @@
     "telefono": "950553287",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:15:00",
-        "fin": "2026-11-26T20:30:00",
+        "inicio": "2026-11-27T09:15:00",
+        "fin": "2026-11-27T20:30:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 09:15–26/11 20:30"
+      "presencial: 27/11 09:15–27/11 20:30"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 09:15–26/11 20:30"
+    "guardia_franja": "presencial: 27/11 09:15–27/11 20:30"
   },
   {
     "id": "alm-832ef11a-b6c8-4322-8712-a7bf682d0175",
@@ -2953,21 +2971,21 @@
     "telefono": "950973447",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:30:00",
-        "fin": "2026-11-26T21:30:00",
+        "inicio": "2026-11-27T09:30:00",
+        "fin": "2026-11-27T21:30:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 09:30–26/11 21:30"
+      "presencial: 27/11 09:30–27/11 21:30"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 09:30–26/11 21:30"
+    "guardia_franja": "presencial: 27/11 09:30–27/11 21:30"
   },
   {
     "id": "alm-a758ca69-8eac-46c0-84df-ec9e8063bf5e",
@@ -2978,21 +2996,21 @@
     "telefono": null,
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:30:00",
-        "fin": "2026-11-26T22:30:00",
+        "inicio": "2026-11-27T09:30:00",
+        "fin": "2026-11-27T22:30:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 09:30–26/11 22:30"
+      "presencial: 27/11 09:30–27/11 22:30"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 09:30–26/11 22:30"
+    "guardia_franja": "presencial: 27/11 09:30–27/11 22:30"
   },
   {
     "id": "alm-ea1c0f27-741f-4765-b1b0-1806a593916b",
@@ -3003,21 +3021,21 @@
     "telefono": "950304380",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T22:00:00",
-        "fin": "2026-11-27T00:00:00",
+        "inicio": "2026-11-27T00:00:00",
+        "fin": "2026-11-27T09:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 22:00–27/11 00:00"
+      "presencial: 27/11 00:00–27/11 09:00"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 22:00–27/11 00:00"
+    "guardia_franja": "presencial: 27/11 00:00–27/11 09:00"
   },
   {
     "id": "alm-ef5c3f82-0c2d-4cab-9f73-2ce9397fa891",
@@ -3140,21 +3158,21 @@
     "telefono": "950069036",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-20",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-20T00:00:00",
-        "fin": "2026-11-20T09:00:00",
+        "inicio": "2026-11-27T21:00:00",
+        "fin": "2026-11-28T00:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 20/11 00:00–20/11 09:00"
+      "presencial: 27/11 21:00–28/11 00:00"
     ],
     "lat": 37.1391989,
     "lng": -1.8531815,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 20/11 00:00–20/11 09:00",
+    "guardia_franja": "presencial: 27/11 21:00–28/11 00:00",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/11500236624"
   },
@@ -3535,7 +3553,7 @@
     "telefono": "950411250",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-12",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [],
     "guardia_franjas": [
       "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
@@ -3543,7 +3561,7 @@
     "lat": 37.6485684,
     "lng": -2.0722809,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "nota_horario": "Velez-Rubio, CARRERA DEL MERCADO 8: intervalo oficial no válido (2026-11-12 20:00:00–2026-11-12 20:00:00); no se supone una guardia de 24 horas.",
+    "nota_horario": "Velez-Rubio, CARRERA DEL MERCADO 8: intervalo oficial no válido (2026-11-27 20:00:00–2026-11-27 20:00:00); no se supone una guardia de 24 horas.",
     "guardia_franja": "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/4974259273"
@@ -3557,7 +3575,7 @@
     "telefono": "950456028",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-12",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [],
     "guardia_franjas": [
       "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
@@ -3565,7 +3583,7 @@
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "nota_horario": "Cuevas del Almanzora, C/ EL PILAR, 13: intervalo oficial no válido (2026-11-12 21:00:00–2026-11-12 21:00:00); no se supone una guardia de 24 horas.",
+    "nota_horario": "Cuevas del Almanzora, C/ EL PILAR, 13: intervalo oficial no válido (2026-11-27 21:00:00–2026-11-27 21:00:00); no se supone una guardia de 24 horas.",
     "guardia_franja": "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
   },
   {
@@ -3577,21 +3595,21 @@
     "telefono": "950460085",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T21:00:00",
-        "fin": "2026-11-27T00:00:00",
+        "inicio": "2026-11-27T00:00:00",
+        "fin": "2026-11-27T09:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 21:00–27/11 00:00"
+      "presencial: 27/11 00:00–27/11 09:00"
     ],
     "lat": 37.1801166,
     "lng": -1.822457,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 21:00–27/11 00:00",
+    "guardia_franja": "presencial: 27/11 00:00–27/11 09:00",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/8948583517"
   },
@@ -3786,7 +3804,7 @@
     "telefono": "950386612",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-18",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [],
     "guardia_franjas": [
       "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
@@ -3794,7 +3812,7 @@
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "nota_horario": "Campohermoso, AV. PRINCIPE DE ASTURIAS, 34: intervalo oficial no válido (2026-11-18 09:00:00–2026-11-18 09:00:00); no se supone una guardia de 24 horas.",
+    "nota_horario": "Campohermoso, AV. PRINCIPE DE ASTURIAS, 34: intervalo oficial no válido (2026-11-27 09:00:00–2026-11-27 09:00:00); no se supone una guardia de 24 horas.",
     "guardia_franja": "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
   },
   {
@@ -4005,21 +4023,21 @@
     "telefono": "950310278",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-11",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-11T00:00:00",
-        "fin": "2026-11-11T09:00:00",
+        "inicio": "2026-11-27T22:00:00",
+        "fin": "2026-11-28T00:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 11/11 00:00–11/11 09:00"
+      "presencial: 27/11 22:00–28/11 00:00"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 11/11 00:00–11/11 09:00"
+    "guardia_franja": "presencial: 27/11 22:00–28/11 00:00"
   },
   {
     "id": "alm-e846042b-e580-440d-b57f-1cce41e6a85b",
@@ -4102,16 +4120,23 @@
     "telefono": "950492339",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-15",
-    "guardia_intervalos": [],
+    "fecha_guardia": "2026-11-27",
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T22:00:00",
+        "fin": "2026-11-28T00:00:00",
+        "tipo": "presencial"
+      }
+    ],
     "guardia_franjas": [
-      "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
+      "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono",
+      "presencial: 27/11 22:00–28/11 00:00"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "nota_horario": "Berja, C/ MANUEL SALMERON 2: intervalo oficial no válido (2026-11-15 09:00:00–2026-11-15 09:00:00); no se supone una guardia de 24 horas.",
-    "guardia_franja": "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
+    "nota_horario": "Berja, C/ MANUEL SALMERON 2: intervalo oficial no válido (2026-11-27 09:00:00–2026-11-27 09:00:00); no se supone una guardia de 24 horas.",
+    "guardia_franja": "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono · presencial: 27/11 22:00–28/11 00:00"
   },
   {
     "id": "alm-e2987ae7-0a23-48a3-8630-7a443062f40b",
@@ -4657,7 +4682,7 @@
     "telefono": "950441258",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [],
     "guardia_franjas": [
       "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
@@ -4665,7 +4690,7 @@
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "nota_horario": "Olula del Río, C/ RAMON Y CAJAL, 50: intervalo oficial no válido (2026-11-26 09:00:00–2026-11-26 09:00:00); no se supone una guardia de 24 horas.",
+    "nota_horario": "Olula del Río, C/ RAMON Y CAJAL, 50: intervalo oficial no válido (2026-11-27 09:00:00–2026-11-27 09:00:00); no se supone una guardia de 24 horas.",
     "guardia_franja": "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
   },
   {
@@ -4677,7 +4702,7 @@
     "telefono": "950510405",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [],
     "guardia_franjas": [
       "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
@@ -4685,7 +4710,7 @@
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "nota_horario": "Almocita, C/ REAL, 6: intervalo oficial no válido (2026-11-26 09:30:00–2026-11-26 09:30:00); no se supone una guardia de 24 horas.",
+    "nota_horario": "Almocita, C/ REAL, 6: intervalo oficial no válido (2026-11-27 09:30:00–2026-11-27 09:30:00); no se supone una guardia de 24 horas.",
     "guardia_franja": "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
   },
   {
@@ -4697,7 +4722,7 @@
     "telefono": "950640241",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [],
     "guardia_franjas": [
       "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
@@ -4705,7 +4730,7 @@
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "nota_horario": "ALHAMA DE ALMERIA, C/ LOS NARANJOS, 1 (FARMACIA): intervalo oficial no válido (2026-11-26 09:30:00–2026-11-26 09:30:00); no se supone una guardia de 24 horas.",
+    "nota_horario": "ALHAMA DE ALMERIA, C/ LOS NARANJOS, 1 (FARMACIA): intervalo oficial no válido (2026-11-27 09:30:00–2026-11-27 09:30:00); no se supone una guardia de 24 horas.",
     "guardia_franja": "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
   },
   {
@@ -4717,7 +4742,7 @@
     "telefono": "950364011",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [],
     "guardia_franjas": [
       "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
@@ -4725,7 +4750,7 @@
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "nota_horario": "Sorbas, C/ CABO MELENDEZ, 1: intervalo oficial no válido (2026-11-26 09:30:00–2026-11-26 09:30:00); no se supone una guardia de 24 horas.",
+    "nota_horario": "Sorbas, C/ CABO MELENDEZ, 1: intervalo oficial no válido (2026-11-27 09:30:00–2026-11-27 09:30:00); no se supone una guardia de 24 horas.",
     "guardia_franja": "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
   },
   {
@@ -4762,7 +4787,7 @@
     "telefono": "950420179",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [],
     "guardia_franjas": [
       "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
@@ -4770,7 +4795,7 @@
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "nota_horario": "Tíjola, C/ VIRGEN DEL SOCORRO, 18: intervalo oficial no válido (2026-11-26 09:00:00–2026-11-26 09:00:00); no se supone una guardia de 24 horas.",
+    "nota_horario": "Tíjola, C/ VIRGEN DEL SOCORRO, 18: intervalo oficial no válido (2026-11-27 09:00:00–2026-11-27 09:00:00); no se supone una guardia de 24 horas.",
     "guardia_franja": "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
   },
   {
@@ -4809,20 +4834,89 @@
     "telefono": "950321060",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T22:00:00",
-        "fin": "2026-11-27T00:00:00",
+        "inicio": "2026-11-27T00:00:00",
+        "fin": "2026-11-27T09:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 26/11 22:00–27/11 00:00"
+      "presencial: 27/11 00:00–27/11 09:00"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "guardia_franja": "presencial: 26/11 22:00–27/11 00:00"
+    "guardia_franja": "presencial: 27/11 00:00–27/11 09:00"
+  },
+  {
+    "id": "alm-e4badbf9-96ef-4ff0-8a8c-ac4b5185cfcd",
+    "nombre": "LUQUE ALONSO, EVA MARIA",
+    "direccion": "POETA MARTIN DEL REY, 2",
+    "localidad": "Fondón",
+    "provincia": "Almería",
+    "telefono": "950513305",
+    "telefono_guardia": null,
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T09:00:00",
+        "fin": "2026-11-27T22:00:00",
+        "tipo": "presencial"
+      }
+    ],
+    "guardia_franjas": [
+      "presencial: 27/11 09:00–27/11 22:00"
+    ],
+    "lat": null,
+    "lng": null,
+    "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
+    "guardia_franja": "presencial: 27/11 09:00–27/11 22:00"
+  },
+  {
+    "id": "alm-11ba015b-7133-4dcf-8737-b979f02c8624",
+    "nombre": "FARMACIA GUILLEN ASPILCHE, C.B.",
+    "direccion": "C/ NATALIO RIVAS, 9",
+    "localidad": "Adra",
+    "provincia": "Almería",
+    "telefono": "950400670",
+    "telefono_guardia": null,
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "guardia_intervalos": [],
+    "guardia_franjas": [
+      "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
+    ],
+    "lat": 36.7489967,
+    "lng": -3.0143164,
+    "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
+    "nota_horario": "Adra, C/ NATALIO RIVAS, 9: intervalo oficial no válido (2026-11-27 09:00:00–2026-11-27 09:00:00); no se supone una guardia de 24 horas.",
+    "guardia_franja": "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/4643086390"
+  },
+  {
+    "id": "alm-17c37dcd-0a88-4f8a-b961-7adf17cc0282",
+    "nombre": "IRIBARREN BERRADE, MARIA JOSE",
+    "direccion": "CTRA. SANTILLANA 3",
+    "localidad": "Abla",
+    "provincia": "Almería",
+    "telefono": "950351019",
+    "telefono_guardia": null,
+    "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "guardia_intervalos": [],
+    "guardia_franjas": [
+      "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
+    ],
+    "lat": 37.1436682,
+    "lng": -2.7755835,
+    "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
+    "nota_horario": "Abla, CTRA. SANTILLANA 3: intervalo oficial no válido (2026-11-27 20:00:00–2026-11-27 20:00:00); no se supone una guardia de 24 horas.",
+    "guardia_franja": "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/3373225652"
   }
 ]

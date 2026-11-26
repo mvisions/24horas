@@ -66,10 +66,10 @@
     "localidad": "Palencia",
     "provincia": "Palencia",
     "fuente": "https://www.cofpalencia.org/PUBLICO/CALENDARIOS%20DE%20GUARDIA/calendarios%20de%20guardias%2025.pdf",
-    "lat": null,
-    "lng": null,
+    "lat": 42.0074447,
+    "lng": -4.531163,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Palencia"
     ],
@@ -81,7 +81,9 @@
       "Guardia diurna · Palencia · Horario exacto pendiente; confirmar por teléfono"
     ],
     "guardia_franja": "Guardia diurna · Palencia · Horario exacto pendiente; confirmar por teléfono",
-    "telefono": "979706277"
+    "telefono": "979706277",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org"
   },
   {
     "id": "cof-palencia-ca3224e529118bc3",
@@ -108,7 +110,7 @@
     "lat": 42.0184185,
     "lng": -4.533055,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Palencia"
     ],
@@ -117,19 +119,14 @@
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T10:00:00+01:00"
-      },
-      {
-        "inicio": "2026-11-26T22:00:00+01:00",
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T10:00:00+01:00"
       }
     ],
     "guardia_franjas": [
-      "Madrugada del día anterior · Palencia · 00:00–10:00",
-      "Guardia nocturna · Palencia · 22:00–10:00"
+      "Madrugada del día anterior · Palencia · 00:00–10:00"
     ],
-    "guardia_franja": "Madrugada del día anterior · Palencia · 00:00–10:00 · Guardia nocturna · Palencia · 22:00–10:00",
+    "guardia_franja": "Madrugada del día anterior · Palencia · 00:00–10:00",
     "telefono": "979741410",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org"
@@ -370,14 +367,31 @@
   },
   {
     "id": "cof-palencia-dab995d72da7471e",
-    "nombre": "MARTINEZ RUBIO, RAMON",
-    "direccion": "AVDA. MANUEL RIVERA, 19",
+    "nombre": "Ramón Martínez Rubio",
+    "direccion": "Avda. Manuel Rivera nº 19",
     "localidad": "Palencia",
     "provincia": "Palencia",
-    "fuente": "https://www.cofpalencia.org/PUBLICO/FARMACIA/capital.htm",
+    "fuente": "https://www.cofpalencia.org/PUBLICO/CALENDARIOS%20DE%20GUARDIA/calendarios%20de%20guardias%2025.pdf",
     "lat": 42.0079184,
     "lng": -4.5260357,
     "guardia": false,
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "Palencia"
+    ],
+    "provincias_atendidas": [
+      "Palencia"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-27T22:00:00+01:00",
+        "fin": "2026-11-28T10:00:00+01:00"
+      }
+    ],
+    "guardia_franjas": [
+      "Guardia nocturna · Palencia · 22:00–10:00"
+    ],
+    "guardia_franja": "Guardia nocturna · Palencia · 22:00–10:00",
     "telefono": "979722626",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org"
@@ -605,7 +619,7 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Carrión de los Condes",
       "Saldaña"
@@ -615,16 +629,16 @@
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T10:00:00+01:00",
-        "fin": "2026-11-26T22:00:00+01:00"
+        "inicio": "2026-11-27T10:00:00+01:00",
+        "fin": "2026-11-27T22:00:00+01:00"
       },
       {
-        "inicio": "2026-11-26T22:00:00+01:00",
+        "inicio": "2026-11-27T22:00:00+01:00",
+        "fin": "2026-11-28T10:00:00+01:00"
+      },
+      {
+        "inicio": "2026-11-27T00:00:00+01:00",
         "fin": "2026-11-27T10:00:00+01:00"
-      },
-      {
-        "inicio": "2026-11-26T00:00:00+01:00",
-        "fin": "2026-11-26T10:00:00+01:00"
       }
     ],
     "guardia_franjas": [
@@ -676,7 +690,7 @@
     "lat": 42.5223357,
     "lng": -4.7371161,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Saldaña"
     ],
@@ -685,8 +699,8 @@
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T10:00:00+01:00",
-        "fin": "2026-11-26T22:00:00+01:00"
+        "inicio": "2026-11-27T10:00:00+01:00",
+        "fin": "2026-11-27T22:00:00+01:00"
       }
     ],
     "guardia_franjas": [
@@ -736,7 +750,7 @@
     "lng": null,
     "guardia": false,
     "telefono": "979122092",
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Aguilar De Campoo"
     ],
@@ -761,7 +775,7 @@
     "lng": null,
     "guardia": false,
     "telefono": "979852603",
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Guardo"
     ],
@@ -892,7 +906,7 @@
     "lng": null,
     "guardia": false,
     "telefono": "979879015",
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Cervera De Pisuerga"
     ],
@@ -1108,7 +1122,7 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "Palencia"
     ],

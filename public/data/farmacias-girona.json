@@ -70,7 +70,7 @@
     "guardia_franjas": [
       "09:00 - 21:00; guardia no presencial, llamar antes"
     ],
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "SANT HILARI SACALM"
     ],
@@ -232,7 +232,7 @@
     "guardia_franjas": [
       "09:00 - 09:00 (día siguiente); guardia no presencial, llamar antes"
     ],
-    "fecha_guardia": "2026-11-23",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "CASSA DE LA SELVA"
     ],
@@ -257,7 +257,7 @@
     "guardia_franjas": [
       "09:00 - 21:00"
     ],
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "LLAGOSTERA"
     ],
@@ -282,7 +282,7 @@
     "guardia_franjas": [
       "09:00 - 21:00; guardia no presencial, llamar antes"
     ],
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "CELRA"
     ],
@@ -328,12 +328,11 @@
     "lng": 2.8247397,
     "ubicacion_pendiente_verificacion": false,
     "guardia": false,
-    "guardia_franja": "09:15 - 22:00 · 09:00 - 21:00",
+    "guardia_franja": "09:00 - 21:00",
     "guardia_franjas": [
-      "09:15 - 22:00",
       "09:00 - 21:00"
     ],
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "GIRONA"
     ],
@@ -422,11 +421,11 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "guardia_franja": "09:00 - 09:00 (día siguiente); guardia no presencial, llamar antes",
+    "guardia_franja": "09:00 - 20:00; guardia no presencial, llamar antes",
     "guardia_franjas": [
-      "09:00 - 09:00 (día siguiente); guardia no presencial, llamar antes"
+      "09:00 - 20:00; guardia no presencial, llamar antes"
     ],
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "VULPELLAC"
     ],
@@ -476,7 +475,7 @@
     "guardia_franjas": [
       "09:00 - 20:00"
     ],
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "LA JONQUERA"
     ],
@@ -507,7 +506,7 @@
     "guardia_franjas": [
       "09:00 - 23:59; guardia no presencial, llamar antes"
     ],
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "LLANÇÀ"
     ],
@@ -528,11 +527,11 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "guardia_franja": "09:30 - 09:30 (día siguiente)",
+    "guardia_franja": "09:30 - 22:00",
     "guardia_franjas": [
-      "09:30 - 09:30 (día siguiente)"
+      "09:30 - 22:00"
     ],
-    "fecha_guardia": "2026-11-25",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "LLORET DE MAR"
     ],
@@ -557,7 +556,7 @@
     "guardia_franjas": [
       "22:00 - 09:30 (día siguiente)"
     ],
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "LLORET DE MAR"
     ],
@@ -582,7 +581,7 @@
     "guardia_franjas": [
       "09:00 - 21:00; guardia no presencial, llamar antes"
     ],
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "TOSSA"
     ],
@@ -607,7 +606,7 @@
     "guardia_franjas": [
       "09:00 - 09:00 (día siguiente)"
     ],
-    "fecha_guardia": "2026-11-01",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "OLOT"
     ],
@@ -619,6 +618,7 @@
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.cofgi.org/farmacies/detall-guardia/10010000000671",
     "ajuste_ubicacion_m": 10.1,
+    "osm_id": "osm-7297108960",
     "referencia_ubicacion": "https://www.openstreetmap.org/node/7297108960",
     "nota_ubicacion": "Marcador del Colegio contrastado con farmacia OSM a 10.1 m."
   },
@@ -830,7 +830,7 @@
     "guardia_franjas": [
       "09:30 - 20:30; guardia no presencial, llamar antes"
     ],
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "RIBES DE FRESER"
     ],
@@ -880,7 +880,7 @@
     "guardia_franjas": [
       "09:00 - 21:00; guardia no presencial, llamar antes"
     ],
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "SANT JOAN DE LES ABADESSES"
     ],
@@ -992,7 +992,7 @@
     "guardia_franjas": [
       "09:00 - 09:00 (día siguiente)"
     ],
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "PLATJA D'ARO"
     ],
@@ -1185,7 +1185,7 @@
     "guardia_franjas": [
       "09:00 - 20:00; guardia no presencial, llamar antes"
     ],
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "BONMATI"
     ],
@@ -1216,7 +1216,7 @@
     "guardia_franjas": [
       "09:00 - 21:00; guardia no presencial, llamar antes"
     ],
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "ARBUCIES"
     ],
@@ -1316,7 +1316,7 @@
     "guardia_franjas": [
       "09:00 - 21:00; guardia no presencial, llamar antes"
     ],
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "BASCARA"
     ],
@@ -1341,7 +1341,7 @@
     "guardia_franjas": [
       "09:00 - 21:00; guardia no presencial, llamar antes"
     ],
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "TORTELLA"
     ],
@@ -1397,7 +1397,7 @@
     "guardia_franjas": [
       "09:00 - 21:00"
     ],
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "RIELLS I VIABREA"
     ],
@@ -1422,7 +1422,7 @@
     "guardia_franjas": [
       "09:00 - 21:00; guardia no presencial, llamar antes"
     ],
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "LLANARS"
     ],
@@ -1447,7 +1447,7 @@
     "guardia_franjas": [
       "09:00 - 21:00; guardia no presencial, llamar antes"
     ],
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "CALDES DE MALAVELLA"
     ],
@@ -1522,7 +1522,7 @@
     "guardia_franjas": [
       "09:00 - 21:00; guardia no presencial, llamar antes"
     ],
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "BORDILS"
     ],
@@ -1547,7 +1547,7 @@
     "guardia_franjas": [
       "09:00 - 21:00; guardia no presencial, llamar antes"
     ],
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "FLAÇÀ"
     ],
@@ -1683,7 +1683,7 @@
     "guardia_franjas": [
       "09:00 - 09:00 (día siguiente); guardia no presencial, llamar antes"
     ],
-    "fecha_guardia": "2026-11-22",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "L'ESCALA"
     ],
@@ -1795,7 +1795,7 @@
     "guardia_franjas": [
       "09:00 - 20:00; guardia no presencial, llamar antes"
     ],
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "AGULLANA"
     ],
@@ -1821,7 +1821,7 @@
       "09:00 - 14:00; guardia no presencial, llamar antes",
       "16:00 - 21:00; guardia no presencial, llamar antes"
     ],
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "SANT ESTEVE D'EN BAS"
     ],
@@ -1846,7 +1846,7 @@
     "guardia_franjas": [
       "09:00 - 21:00; guardia no presencial, llamar antes"
     ],
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "COLERA"
     ],
@@ -1877,7 +1877,7 @@
     "guardia_franjas": [
       "09:00 - 21:00; guardia no presencial, llamar antes"
     ],
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "PORT DE LA SELVA"
     ],
@@ -1902,7 +1902,7 @@
     "guardia_franjas": [
       "09:00 - 21:00; guardia no presencial, llamar antes"
     ],
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "PORTBOU"
     ],
@@ -2007,7 +2007,7 @@
     "guardia_franjas": [
       "09:00 - 21:00; guardia no presencial, llamar antes"
     ],
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "SANT ANTONI DE CALONGE"
     ],
@@ -2028,11 +2028,11 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "guardia_franja": "09:00 - 20:30",
+    "guardia_franja": "09:00 - 09:00 (día siguiente)",
     "guardia_franjas": [
-      "09:00 - 20:30"
+      "09:00 - 09:00 (día siguiente)"
     ],
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "PALAMOS"
     ],
@@ -2057,7 +2057,7 @@
     "guardia_franjas": [
       "09:30 - 21:00; guardia no presencial, llamar antes"
     ],
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "PERALADA"
     ],
@@ -2277,7 +2277,7 @@
       "09:00 - 14:00; guardia no presencial, llamar antes",
       "16:00 - 21:00; guardia no presencial, llamar antes"
     ],
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "CASTELLFOLLIT DE LA ROCA"
     ],
@@ -2304,11 +2304,11 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "guardia_franja": "09:00 - 21:00; guardia no presencial, llamar antes",
+    "guardia_franja": "09:00 - 20:00; guardia no presencial, llamar antes",
     "guardia_franjas": [
-      "09:00 - 21:00; guardia no presencial, llamar antes"
+      "09:00 - 20:00; guardia no presencial, llamar antes"
     ],
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "CERVIA DE TER"
     ],
@@ -2333,7 +2333,7 @@
     "guardia_franjas": [
       "09:00 - 21:00; guardia no presencial, llamar antes"
     ],
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "SILS"
     ],
@@ -2409,7 +2409,7 @@
       "09:00 - 14:00; guardia no presencial, llamar antes",
       "16:00 - 21:00; guardia no presencial, llamar antes"
     ],
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "VILOBI D'ONYAR"
     ],
@@ -2795,7 +2795,7 @@
     "guardia_franjas": [
       "09:00 - 21:00"
     ],
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "ROSES"
     ],
@@ -3053,11 +3053,11 @@
     "lng": null,
     "ubicacion_pendiente_verificacion": true,
     "guardia": false,
-    "guardia_franja": "09:15 - 22:00",
+    "guardia_franja": "09:15 - 09:15 (día siguiente)",
     "guardia_franjas": [
-      "09:15 - 22:00"
+      "09:15 - 09:15 (día siguiente)"
     ],
-    "fecha_guardia": "2026-11-05",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "GIRONA"
     ],
@@ -3078,11 +3078,11 @@
     "lng": 2.81827,
     "ubicacion_pendiente_verificacion": false,
     "guardia": false,
-    "guardia_franja": "09:15 - 09:15 (día siguiente)",
+    "guardia_franja": "09:15 - 22:00",
     "guardia_franjas": [
-      "09:15 - 09:15 (día siguiente)"
+      "09:15 - 22:00"
     ],
-    "fecha_guardia": "2026-11-05",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "GIRONA"
     ],
@@ -3250,7 +3250,7 @@
     "guardia_franjas": [
       "21:00 - 09:00 (día siguiente)"
     ],
-    "fecha_guardia": "2026-11-17",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "ROSES"
     ],
@@ -3312,7 +3312,7 @@
     "guardia_franjas": [
       "09:00 - 09:00 (día siguiente)"
     ],
-    "fecha_guardia": "2026-11-05",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "SANT FELIU DE GUIXOLS"
     ],
@@ -3941,7 +3941,7 @@
     "guardia_franjas": [
       "09:00 - 21:00; guardia no presencial, llamar antes"
     ],
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "CAMPDEVANOL"
     ],
@@ -4072,7 +4072,7 @@
     "guardia_franjas": [
       "09:00 - 20:30; guardia no presencial, llamar antes"
     ],
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "ANGLES"
     ],
@@ -4153,7 +4153,7 @@
     "guardia_franjas": [
       "09:00 - 09:00 (día siguiente)"
     ],
-    "fecha_guardia": "2026-11-18",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "BANYOLES"
     ],
@@ -4340,7 +4340,7 @@
     "guardia_franjas": [
       "09:00 - 09:00 (día siguiente)"
     ],
-    "fecha_guardia": "2026-11-09",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "FIGUERES"
     ],
@@ -4603,7 +4603,7 @@
     "guardia_franjas": [
       "09:00 - 20:30; guardia no presencial, llamar antes"
     ],
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "CADAQUES"
     ],
@@ -4735,7 +4735,7 @@
     "guardia_franjas": [
       "09:00 - 20:30; guardia no presencial, llamar antes"
     ],
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "SANTA CRISTINA D'ARO"
     ],
@@ -4861,7 +4861,7 @@
     "guardia_franjas": [
       "09:30 - 09:30 (día siguiente); guardia no presencial, llamar antes"
     ],
-    "fecha_guardia": "2026-11-15",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "SANTA COLOMA DE FARNERS"
     ],
@@ -4886,7 +4886,7 @@
     "guardia_franjas": [
       "09:00 - 09:00 (día siguiente); guardia no presencial, llamar antes"
     ],
-    "fecha_guardia": "2026-11-22",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "TORROELLA DE MONTGRI"
     ],
@@ -5503,7 +5503,7 @@
     "guardia_franjas": [
       "09:00 - 09:00 (día siguiente)"
     ],
-    "fecha_guardia": "2026-11-15",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "BLANES"
     ],
@@ -5659,7 +5659,7 @@
     "guardia_franjas": [
       "09:00 - 09:00 (día siguiente)"
     ],
-    "fecha_guardia": "2026-11-15",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "PALAFRUGELL"
     ],
@@ -6790,7 +6790,7 @@
     "guardia_franjas": [
       "09:00 - 09:00 (día siguiente); guardia no presencial, llamar antes"
     ],
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "RIPOLL"
     ],
@@ -6815,7 +6815,7 @@
     "guardia_franjas": [
       "09:00 - 22:00; guardia no presencial, llamar antes"
     ],
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "PORQUERES"
     ],
@@ -6871,7 +6871,7 @@
     "guardia_franjas": [
       "09:00 - 09:00 (día siguiente); guardia no presencial, llamar antes"
     ],
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "PUIGCERDÀ"
     ],
@@ -6921,7 +6921,7 @@
     "guardia_franjas": [
       "09:00 - 20:30; guardia no presencial, llamar antes"
     ],
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "EMPURIABRAVA"
     ],
@@ -6946,7 +6946,7 @@
     "guardia_franjas": [
       "09:00 - 21:00; guardia no presencial, llamar antes"
     ],
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "BESCANO"
     ],
@@ -6971,7 +6971,7 @@
     "guardia_franjas": [
       "09:00 - 21:00; guardia no presencial, llamar antes"
     ],
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "VIDRERES"
     ],
@@ -6996,7 +6996,7 @@
     "guardia_franjas": [
       "09:00 - 21:00; guardia no presencial, llamar antes"
     ],
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "VILAFANT"
     ],
@@ -7158,7 +7158,7 @@
     "guardia_franjas": [
       "09:30 - 09:30 (día siguiente)"
     ],
-    "fecha_guardia": "2026-11-25",
+    "fecha_guardia": "2026-11-27",
     "localidades_atendidas": [
       "SALT"
     ],
@@ -7347,5 +7347,55 @@
     "osm_id": "osm-7296616756",
     "referencia_ubicacion": "https://www.openstreetmap.org/node/7296616756",
     "nota_ubicacion": "Marcador del Colegio contrastado con farmacia OSM a 5.7 m."
+  },
+  {
+    "id": "cof-girona-10010000004170",
+    "nombre": "C. CECILIA NEDEA",
+    "direccion": "C/Jaume II, 14",
+    "localidad": "LA BISBAL D'EMPORDA",
+    "provincia": "Girona",
+    "telefono": "674038640",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": false,
+    "guardia_franja": "20:00 - 09:15 (día siguiente); guardia no presencial, llamar antes",
+    "guardia_franjas": [
+      "20:00 - 09:15 (día siguiente); guardia no presencial, llamar antes"
+    ],
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "LA BISBAL D'EMPORDA"
+    ],
+    "fuente": "https://www.cofgi.org/farmacies/farmacies-de-guardia",
+    "fuentes": [
+      "https://www.cofgi.org/farmacies/farmacies-de-guardia",
+      "https://www.cofgi.org/farmacies/detall-guardia/10010000004170"
+    ]
+  },
+  {
+    "id": "cof-girona-10010000000736",
+    "nombre": "PAU CANO ARRIBI",
+    "direccion": "Ctra. VELLA, S/N",
+    "localidad": "GER",
+    "provincia": "Girona",
+    "telefono": "972147059",
+    "lat": null,
+    "lng": null,
+    "ubicacion_pendiente_verificacion": true,
+    "guardia": false,
+    "guardia_franja": "09:00 - 20:00; guardia no presencial, llamar antes",
+    "guardia_franjas": [
+      "09:00 - 20:00; guardia no presencial, llamar antes"
+    ],
+    "fecha_guardia": "2026-11-27",
+    "localidades_atendidas": [
+      "GER"
+    ],
+    "fuente": "https://www.cofgi.org/farmacies/farmacies-de-guardia",
+    "fuentes": [
+      "https://www.cofgi.org/farmacies/farmacies-de-guardia",
+      "https://www.cofgi.org/farmacies/detall-guardia/10010000000736"
+    ]
   }
 ]

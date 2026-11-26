@@ -8,7 +8,7 @@
     "provincia": "Andorra",
     "telefono": "828020",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-27",
     "fuente": "https://www.govern.ad/ca/tematiques/salut/assistencia-sanitaria/farmacies-de-guardia",
     "localidades_atendidas": [
       "Andorra"
@@ -18,26 +18,19 @@
     "ubicacion_pendiente_verificacion": true,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:30:00",
-        "fin": "2026-11-26T22:00:00",
-        "inicio_original": "2026-11-26T09:30:00",
-        "fin_original": "2026-11-26T22:00:00",
-        "tipo": "DIA/ DAY 9’30→22"
-      },
-      {
-        "inicio": "2026-11-26T22:00:00",
-        "fin": "2026-11-27T00:00:00",
+        "inicio": "2026-11-27T00:00:00",
+        "fin": "2026-11-27T09:30:00",
         "inicio_original": "2026-11-26T22:00:00",
         "fin_original": "2026-11-27T09:30:00",
-        "tipo": "NIT/ NIGHT 22→9’30"
+        "tipo": "NIT/ NIGHT 22→9’30 · madrugada iniciada el 2026-11-26"
       }
     ],
     "guardia_franjas": [
-      "DIA/ DAY 9’30→22",
-      "NIT/ NIGHT 22→9’30"
+      "NIT/ NIGHT 22→9’30 · madrugada iniciada el 2026-11-26"
     ],
     "fuente_documento": "https://www.govern.ad/documents/d/guest/farmacies_guardia_novembre_2026?download=true",
-    "guardia_franja": "DIA/ DAY 9’30→22 · NIT/ NIGHT 22→9’30"
+    "guardia_desde_ayer": true,
+    "guardia_franja": "NIT/ NIGHT 22→9’30 · madrugada iniciada el 2026-11-26"
   },
   {
     "id": "govern-andorra-3b8acba293ef9bb0",
@@ -48,7 +41,7 @@
     "provincia": "Andorra",
     "telefono": "831227",
     "guardia": false,
-    "fecha_guardia": "2026-11-20",
+    "fecha_guardia": "2026-11-27",
     "fuente": "https://www.govern.ad/ca/tematiques/salut/assistencia-sanitaria/farmacies-de-guardia",
     "localidades_atendidas": [
       "Andorra"
@@ -58,19 +51,26 @@
     "ubicacion_pendiente_verificacion": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-20T00:00:00",
-        "fin": "2026-11-20T09:30:00",
-        "inicio_original": "2026-11-19T22:00:00",
-        "fin_original": "2026-11-20T09:30:00",
-        "tipo": "NIT/ NIGHT 22→9’30 · madrugada iniciada el 2026-11-19"
+        "inicio": "2026-11-27T09:30:00",
+        "fin": "2026-11-27T22:00:00",
+        "inicio_original": "2026-11-27T09:30:00",
+        "fin_original": "2026-11-27T22:00:00",
+        "tipo": "DIA/ DAY 9’30→22"
+      },
+      {
+        "inicio": "2026-11-27T22:00:00",
+        "fin": "2026-11-28T00:00:00",
+        "inicio_original": "2026-11-27T22:00:00",
+        "fin_original": "2026-11-28T09:30:00",
+        "tipo": "NIT/ NIGHT 22→9’30"
       }
     ],
     "guardia_franjas": [
-      "NIT/ NIGHT 22→9’30 · madrugada iniciada el 2026-11-19"
+      "DIA/ DAY 9’30→22",
+      "NIT/ NIGHT 22→9’30"
     ],
     "fuente_documento": "https://www.govern.ad/documents/d/guest/farmacies_guardia_novembre_2026?download=true",
-    "guardia_desde_ayer": true,
-    "guardia_franja": "NIT/ NIGHT 22→9’30 · madrugada iniciada el 2026-11-19",
+    "guardia_franja": "DIA/ DAY 9’30→22 · NIT/ NIGHT 22→9’30",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/4512004201",
     "referencia_ubicacion": "https://www.openstreetmap.org/node/4512004201",
