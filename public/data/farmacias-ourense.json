@@ -38,7 +38,7 @@
     "provincia": "Ourense",
     "telefono": "988301189",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
     "localidades_atendidas": [
       "Allariz"
@@ -47,25 +47,25 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-27T09:00:00",
-        "inicio_original": "2026-11-26T09:00:00",
-        "fin_original": "2026-11-27T09:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
+        "inicio_original": "2026-11-27T09:00:00",
+        "fin_original": "2026-11-28T09:00:00",
         "tipo": "Permanente - Localizada"
       },
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-28T00:00:00",
-        "inicio_original": "2026-11-27T09:00:00",
-        "fin_original": "2026-11-28T09:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-29T09:00:00",
         "tipo": "Permanente - Localizada"
       }
     ],
     "guardia_franjas": [
-      "Permanente - Localizada: 2026-11-27T00:00:00–2026-11-27T09:00:00; llamar antes de acudir",
-      "Permanente - Localizada: 2026-11-27T09:00:00–2026-11-28T00:00:00; llamar antes de acudir"
+      "Permanente - Localizada: 2026-11-28T00:00:00–2026-11-28T09:00:00; llamar antes de acudir",
+      "Permanente - Localizada: 2026-11-28T09:00:00–2026-11-29T00:00:00; llamar antes de acudir"
     ],
-    "guardia_franja": "Permanente - Localizada: 2026-11-27T00:00:00–2026-11-27T09:00:00; llamar antes de acudir · Permanente - Localizada: 2026-11-27T09:00:00–2026-11-28T00:00:00; llamar antes de acudir"
+    "guardia_franja": "Permanente - Localizada: 2026-11-28T00:00:00–2026-11-28T09:00:00; llamar antes de acudir · Permanente - Localizada: 2026-11-28T09:00:00–2026-11-29T00:00:00; llamar antes de acudir"
   },
   {
     "id": "cof-ourense-0101",
@@ -166,7 +166,7 @@
     "provincia": "Ourense",
     "telefono": "988203150",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
     "localidades_atendidas": [
       "Castro Caldelas"
@@ -175,17 +175,25 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "inicio_original": "2026-11-27T09:00:00",
         "fin_original": "2026-11-28T09:00:00",
+        "tipo": "Permanente - Localizada"
+      },
+      {
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-29T09:00:00",
         "tipo": "Permanente - Localizada"
       }
     ],
     "guardia_franjas": [
-      "Permanente - Localizada: 2026-11-27T09:00:00–2026-11-28T00:00:00; llamar antes de acudir"
+      "Permanente - Localizada: 2026-11-28T00:00:00–2026-11-28T09:00:00; llamar antes de acudir",
+      "Permanente - Localizada: 2026-11-28T09:00:00–2026-11-29T00:00:00; llamar antes de acudir"
     ],
-    "guardia_franja": "Permanente - Localizada: 2026-11-27T09:00:00–2026-11-28T00:00:00; llamar antes de acudir"
+    "guardia_franja": "Permanente - Localizada: 2026-11-28T00:00:00–2026-11-28T09:00:00; llamar antes de acudir · Permanente - Localizada: 2026-11-28T09:00:00–2026-11-29T00:00:00; llamar antes de acudir"
   },
   {
     "id": "cof-ourense-0261",
@@ -196,7 +204,7 @@
     "provincia": "Ourense",
     "telefono": "988451017",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
     "localidades_atendidas": [
       "Celanova"
@@ -205,17 +213,25 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "inicio_original": "2026-11-27T09:00:00",
         "fin_original": "2026-11-28T09:00:00",
+        "tipo": "Permanente"
+      },
+      {
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-29T09:00:00",
         "tipo": "Permanente"
       }
     ],
     "guardia_franjas": [
-      "Permanente: 2026-11-27T09:00:00–2026-11-28T00:00:00"
+      "Permanente: 2026-11-28T00:00:00–2026-11-28T09:00:00",
+      "Permanente: 2026-11-28T09:00:00–2026-11-29T00:00:00"
     ],
-    "guardia_franja": "Permanente: 2026-11-27T09:00:00–2026-11-28T00:00:00"
+    "guardia_franja": "Permanente: 2026-11-28T00:00:00–2026-11-28T09:00:00 · Permanente: 2026-11-28T09:00:00–2026-11-29T00:00:00"
   },
   {
     "id": "cof-ourense-0344",
@@ -286,7 +302,7 @@
     "provincia": "Ourense",
     "telefono": "988463080",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
     "localidades_atendidas": [
       "Maceda"
@@ -295,25 +311,25 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-27T09:30:00",
-        "inicio_original": "2026-11-26T09:30:00",
-        "fin_original": "2026-11-27T09:30:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:30:00",
+        "inicio_original": "2026-11-27T09:30:00",
+        "fin_original": "2026-11-28T09:30:00",
         "tipo": "Permanente"
       },
       {
-        "inicio": "2026-11-27T09:30:00",
-        "fin": "2026-11-28T00:00:00",
-        "inicio_original": "2026-11-27T09:30:00",
-        "fin_original": "2026-11-28T09:30:00",
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T09:30:00",
+        "fin_original": "2026-11-29T09:30:00",
         "tipo": "Permanente"
       }
     ],
     "guardia_franjas": [
-      "Permanente: 2026-11-27T00:00:00–2026-11-27T09:30:00",
-      "Permanente: 2026-11-27T09:30:00–2026-11-28T00:00:00"
+      "Permanente: 2026-11-28T00:00:00–2026-11-28T09:30:00",
+      "Permanente: 2026-11-28T09:30:00–2026-11-29T00:00:00"
     ],
-    "guardia_franja": "Permanente: 2026-11-27T00:00:00–2026-11-27T09:30:00 · Permanente: 2026-11-27T09:30:00–2026-11-28T00:00:00"
+    "guardia_franja": "Permanente: 2026-11-28T00:00:00–2026-11-28T09:30:00 · Permanente: 2026-11-28T09:30:00–2026-11-29T00:00:00"
   },
   {
     "id": "cof-ourense-0626",
@@ -394,7 +410,7 @@
     "provincia": "Ourense",
     "telefono": "988330052",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
     "localidades_atendidas": [
       "Pobra de Trives, A"
@@ -403,25 +419,25 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-27T09:30:00",
-        "inicio_original": "2026-11-26T09:30:00",
-        "fin_original": "2026-11-27T09:30:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:30:00",
+        "inicio_original": "2026-11-27T09:30:00",
+        "fin_original": "2026-11-28T09:30:00",
         "tipo": "Permanente - Localizada"
       },
       {
-        "inicio": "2026-11-27T09:30:00",
-        "fin": "2026-11-28T00:00:00",
-        "inicio_original": "2026-11-27T09:30:00",
-        "fin_original": "2026-11-28T09:30:00",
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T09:30:00",
+        "fin_original": "2026-11-29T09:30:00",
         "tipo": "Permanente - Localizada"
       }
     ],
     "guardia_franjas": [
-      "Permanente - Localizada: 2026-11-27T00:00:00–2026-11-27T09:30:00; llamar antes de acudir",
-      "Permanente - Localizada: 2026-11-27T09:30:00–2026-11-28T00:00:00; llamar antes de acudir"
+      "Permanente - Localizada: 2026-11-28T00:00:00–2026-11-28T09:30:00; llamar antes de acudir",
+      "Permanente - Localizada: 2026-11-28T09:30:00–2026-11-29T00:00:00; llamar antes de acudir"
     ],
-    "guardia_franja": "Permanente - Localizada: 2026-11-27T00:00:00–2026-11-27T09:30:00; llamar antes de acudir · Permanente - Localizada: 2026-11-27T09:30:00–2026-11-28T00:00:00; llamar antes de acudir"
+    "guardia_franja": "Permanente - Localizada: 2026-11-28T00:00:00–2026-11-28T09:30:00; llamar antes de acudir · Permanente - Localizada: 2026-11-28T09:30:00–2026-11-29T00:00:00; llamar antes de acudir"
   },
   {
     "id": "cof-ourense-0652",
@@ -462,7 +478,7 @@
     "provincia": "Ourense",
     "telefono": "988470077",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
     "localidades_atendidas": [
       "Ribadavia"
@@ -471,25 +487,25 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-27T09:00:00",
-        "inicio_original": "2026-11-26T09:00:00",
-        "fin_original": "2026-11-27T09:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
+        "inicio_original": "2026-11-27T09:00:00",
+        "fin_original": "2026-11-28T09:00:00",
         "tipo": "Permanente"
       },
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-28T00:00:00",
-        "inicio_original": "2026-11-27T09:00:00",
-        "fin_original": "2026-11-28T09:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-29T09:00:00",
         "tipo": "Permanente"
       }
     ],
     "guardia_franjas": [
-      "Permanente: 2026-11-27T00:00:00–2026-11-27T09:00:00",
-      "Permanente: 2026-11-27T09:00:00–2026-11-28T00:00:00"
+      "Permanente: 2026-11-28T00:00:00–2026-11-28T09:00:00",
+      "Permanente: 2026-11-28T09:00:00–2026-11-29T00:00:00"
     ],
-    "guardia_franja": "Permanente: 2026-11-27T00:00:00–2026-11-27T09:00:00 · Permanente: 2026-11-27T09:00:00–2026-11-28T00:00:00"
+    "guardia_franja": "Permanente: 2026-11-28T00:00:00–2026-11-28T09:00:00 · Permanente: 2026-11-28T09:00:00–2026-11-29T00:00:00"
   },
   {
     "id": "cof-ourense-0712",
@@ -620,7 +636,7 @@
     "provincia": "Ourense",
     "telefono": "988206286",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
     "localidades_atendidas": [
       "Coles"
@@ -629,17 +645,17 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-27T22:00:00",
-        "inicio_original": "2026-11-27T09:00:00",
-        "fin_original": "2026-11-27T22:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-28T22:00:00",
         "tipo": "Diurna"
       }
     ],
     "guardia_franjas": [
-      "Diurna: 2026-11-27T09:00:00–2026-11-27T22:00:00"
+      "Diurna: 2026-11-28T09:00:00–2026-11-28T22:00:00"
     ],
-    "guardia_franja": "Diurna: 2026-11-27T09:00:00–2026-11-27T22:00:00"
+    "guardia_franja": "Diurna: 2026-11-28T09:00:00–2026-11-28T22:00:00"
   },
   {
     "id": "cof-ourense-0600",
@@ -650,7 +666,7 @@
     "provincia": "Ourense",
     "telefono": "988510230",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
     "localidades_atendidas": [
       "Ourense"
@@ -659,17 +675,17 @@
     "lng": -7.8618738,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:30:00",
-        "fin": "2026-11-27T22:00:00",
-        "inicio_original": "2026-11-27T09:30:00",
-        "fin_original": "2026-11-27T22:00:00",
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:30:00",
+        "fin_original": "2026-11-28T22:00:00",
         "tipo": "Diurna"
       }
     ],
     "guardia_franjas": [
-      "Diurna: 2026-11-27T09:30:00–2026-11-27T22:00:00"
+      "Diurna: 2026-11-28T09:30:00–2026-11-28T22:00:00"
     ],
-    "guardia_franja": "Diurna: 2026-11-27T09:30:00–2026-11-27T22:00:00",
+    "guardia_franja": "Diurna: 2026-11-28T09:30:00–2026-11-28T22:00:00",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/1850145534",
     "nota_ubicacion": "Ubicación contrastada: la dirección y una farmacia de OpenStreetMap coinciden a 6 m.",
@@ -715,7 +731,7 @@
     "provincia": "Ourense",
     "telefono": "988228467",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
     "localidades_atendidas": [
       "Ourense"
@@ -724,22 +740,22 @@
     "lng": -7.860492,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:30:00",
-        "fin": "2026-11-27T22:00:00",
-        "inicio_original": "2026-11-27T09:30:00",
-        "fin_original": "2026-11-27T22:00:00",
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:30:00",
+        "fin_original": "2026-11-28T22:00:00",
         "tipo": "Diurna"
       }
     ],
     "guardia_franjas": [
-      "Diurna: 2026-11-27T09:30:00–2026-11-27T22:00:00"
+      "Diurna: 2026-11-28T09:30:00–2026-11-28T22:00:00"
     ],
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
     "ajuste_ubicacion_m": 5.3,
     "referencia_ubicacion": "https://www.openstreetmap.org/node/4601728448",
     "nota_ubicacion": "Coordenada del Colegio contrastada con farmacia OSM a 5.3 m.",
-    "guardia_franja": "Diurna: 2026-11-27T09:30:00–2026-11-27T22:00:00"
+    "guardia_franja": "Diurna: 2026-11-28T09:30:00–2026-11-28T22:00:00"
   },
   {
     "id": "cof-ourense-0623",
@@ -750,7 +766,7 @@
     "provincia": "Ourense",
     "telefono": "988213588",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
     "localidades_atendidas": [
       "Ourense"
@@ -759,17 +775,17 @@
     "lng": -7.8682623,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:30:00",
-        "fin": "2026-11-27T22:00:00",
-        "inicio_original": "2026-11-27T09:30:00",
-        "fin_original": "2026-11-27T22:00:00",
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:30:00",
+        "fin_original": "2026-11-28T22:00:00",
         "tipo": "Diurna"
       }
     ],
     "guardia_franjas": [
-      "Diurna: 2026-11-27T09:30:00–2026-11-27T22:00:00"
+      "Diurna: 2026-11-28T09:30:00–2026-11-28T22:00:00"
     ],
-    "guardia_franja": "Diurna: 2026-11-27T09:30:00–2026-11-27T22:00:00",
+    "guardia_franja": "Diurna: 2026-11-28T09:30:00–2026-11-28T22:00:00",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/4101920879",
     "nota_ubicacion": "Ubicación contrastada: la dirección y una farmacia de OpenStreetMap coinciden a 13 m.",
@@ -785,7 +801,7 @@
     "provincia": "Ourense",
     "telefono": "988224297",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
     "localidades_atendidas": [
       "Ourense"
@@ -794,17 +810,17 @@
     "lng": -7.870095,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:30:00",
-        "fin": "2026-11-27T22:00:00",
-        "inicio_original": "2026-11-27T09:30:00",
-        "fin_original": "2026-11-27T22:00:00",
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:30:00",
+        "fin_original": "2026-11-28T22:00:00",
         "tipo": "Diurna"
       }
     ],
     "guardia_franjas": [
-      "Diurna: 2026-11-27T09:30:00–2026-11-27T22:00:00"
+      "Diurna: 2026-11-28T09:30:00–2026-11-28T22:00:00"
     ],
-    "guardia_franja": "Diurna: 2026-11-27T09:30:00–2026-11-27T22:00:00",
+    "guardia_franja": "Diurna: 2026-11-28T09:30:00–2026-11-28T22:00:00",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/4101924541",
     "nota_ubicacion": "Ubicación contrastada: la dirección y una farmacia de OpenStreetMap coinciden a 9 m.",
@@ -820,7 +836,7 @@
     "provincia": "Ourense",
     "telefono": "988233021",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
     "localidades_atendidas": [
       "Ourense"
@@ -829,17 +845,17 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:30:00",
-        "fin": "2026-11-27T22:00:00",
-        "inicio_original": "2026-11-27T09:30:00",
-        "fin_original": "2026-11-27T22:00:00",
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:30:00",
+        "fin_original": "2026-11-28T22:00:00",
         "tipo": "Diurna"
       }
     ],
     "guardia_franjas": [
-      "Diurna: 2026-11-27T09:30:00–2026-11-27T22:00:00"
+      "Diurna: 2026-11-28T09:30:00–2026-11-28T22:00:00"
     ],
-    "guardia_franja": "Diurna: 2026-11-27T09:30:00–2026-11-27T22:00:00"
+    "guardia_franja": "Diurna: 2026-11-28T09:30:00–2026-11-28T22:00:00"
   },
   {
     "id": "cof-ourense-0636",
@@ -885,7 +901,7 @@
     "provincia": "Ourense",
     "telefono": "988392333",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
     "localidades_atendidas": [
       "Ourense"
@@ -894,17 +910,17 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:30:00",
-        "fin": "2026-11-27T22:00:00",
-        "inicio_original": "2026-11-27T09:30:00",
-        "fin_original": "2026-11-27T22:00:00",
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:30:00",
+        "fin_original": "2026-11-28T22:00:00",
         "tipo": "Diurna"
       }
     ],
     "guardia_franjas": [
-      "Diurna: 2026-11-27T09:30:00–2026-11-27T22:00:00"
+      "Diurna: 2026-11-28T09:30:00–2026-11-28T22:00:00"
     ],
-    "guardia_franja": "Diurna: 2026-11-27T09:30:00–2026-11-27T22:00:00"
+    "guardia_franja": "Diurna: 2026-11-28T09:30:00–2026-11-28T22:00:00"
   },
   {
     "id": "cof-ourense-0650",
@@ -915,7 +931,7 @@
     "provincia": "Ourense",
     "telefono": "988224348",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
     "localidades_atendidas": [
       "Ourense"
@@ -924,17 +940,17 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:30:00",
-        "fin": "2026-11-27T22:00:00",
-        "inicio_original": "2026-11-27T09:30:00",
-        "fin_original": "2026-11-27T22:00:00",
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:30:00",
+        "fin_original": "2026-11-28T22:00:00",
         "tipo": "Diurna"
       }
     ],
     "guardia_franjas": [
-      "Diurna: 2026-11-27T09:30:00–2026-11-27T22:00:00"
+      "Diurna: 2026-11-28T09:30:00–2026-11-28T22:00:00"
     ],
-    "guardia_franja": "Diurna: 2026-11-27T09:30:00–2026-11-27T22:00:00"
+    "guardia_franja": "Diurna: 2026-11-28T09:30:00–2026-11-28T22:00:00"
   },
   {
     "id": "cof-ourense-0103",
@@ -1125,7 +1141,7 @@
     "provincia": "Ourense",
     "telefono": "988411350",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
     "localidades_atendidas": [
       "Verín"
@@ -1134,17 +1150,25 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:30:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:30:00",
         "inicio_original": "2026-11-27T09:30:00",
         "fin_original": "2026-11-28T09:30:00",
+        "tipo": "Permanente"
+      },
+      {
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T09:30:00",
+        "fin_original": "2026-11-29T09:30:00",
         "tipo": "Permanente"
       }
     ],
     "guardia_franjas": [
-      "Permanente: 2026-11-27T09:30:00–2026-11-28T00:00:00"
+      "Permanente: 2026-11-28T00:00:00–2026-11-28T09:30:00",
+      "Permanente: 2026-11-28T09:30:00–2026-11-29T00:00:00"
     ],
-    "guardia_franja": "Permanente: 2026-11-27T09:30:00–2026-11-28T00:00:00"
+    "guardia_franja": "Permanente: 2026-11-28T00:00:00–2026-11-28T09:30:00 · Permanente: 2026-11-28T09:30:00–2026-11-29T00:00:00"
   },
   {
     "id": "cof-ourense-0263",
@@ -1336,7 +1360,7 @@
     "provincia": "Ourense",
     "telefono": "988340390",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
     "localidades_atendidas": [
       "Viana do Bolo"
@@ -1345,17 +1369,25 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T14:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T14:00:00",
         "inicio_original": "2026-11-27T14:00:00",
         "fin_original": "2026-11-28T14:00:00",
+        "tipo": "Permanente"
+      },
+      {
+        "inicio": "2026-11-28T14:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T14:00:00",
+        "fin_original": "2026-11-29T14:00:00",
         "tipo": "Permanente"
       }
     ],
     "guardia_franjas": [
-      "Permanente: 2026-11-27T14:00:00–2026-11-28T00:00:00"
+      "Permanente: 2026-11-28T00:00:00–2026-11-28T14:00:00",
+      "Permanente: 2026-11-28T14:00:00–2026-11-29T00:00:00"
     ],
-    "guardia_franja": "Permanente: 2026-11-27T14:00:00–2026-11-28T00:00:00"
+    "guardia_franja": "Permanente: 2026-11-28T00:00:00–2026-11-28T14:00:00 · Permanente: 2026-11-28T14:00:00–2026-11-29T00:00:00"
   },
   {
     "id": "cof-ourense-0633",
@@ -2146,7 +2178,7 @@
     "provincia": "Ourense",
     "telefono": "988530226",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
     "localidades_atendidas": [
       "O Carballiño"
@@ -2155,25 +2187,25 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-27T09:30:00",
-        "inicio_original": "2026-11-26T09:30:00",
-        "fin_original": "2026-11-27T09:30:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:30:00",
+        "inicio_original": "2026-11-27T09:30:00",
+        "fin_original": "2026-11-28T09:30:00",
         "tipo": "Permanente"
       },
       {
-        "inicio": "2026-11-27T09:30:00",
-        "fin": "2026-11-28T00:00:00",
-        "inicio_original": "2026-11-27T09:30:00",
-        "fin_original": "2026-11-28T09:30:00",
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T09:30:00",
+        "fin_original": "2026-11-29T09:30:00",
         "tipo": "Permanente"
       }
     ],
     "guardia_franjas": [
-      "Permanente: 2026-11-27T00:00:00–2026-11-27T09:30:00",
-      "Permanente: 2026-11-27T09:30:00–2026-11-28T00:00:00"
+      "Permanente: 2026-11-28T00:00:00–2026-11-28T09:30:00",
+      "Permanente: 2026-11-28T09:30:00–2026-11-29T00:00:00"
     ],
-    "guardia_franja": "Permanente: 2026-11-27T00:00:00–2026-11-27T09:30:00 · Permanente: 2026-11-27T09:30:00–2026-11-28T00:00:00"
+    "guardia_franja": "Permanente: 2026-11-28T00:00:00–2026-11-28T09:30:00 · Permanente: 2026-11-28T09:30:00–2026-11-29T00:00:00"
   },
   {
     "id": "cof-ourense-0592",
@@ -2214,31 +2246,34 @@
     "provincia": "Ourense",
     "telefono": "988326188",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
     "localidades_atendidas": [
       "O Barco de Valdeorras"
     ],
-    "lat": 42.412085,
-    "lng": -6.977988,
+    "lat": null,
+    "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:30:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:30:00",
         "inicio_original": "2026-11-27T09:30:00",
         "fin_original": "2026-11-28T09:30:00",
+        "tipo": "Permanente"
+      },
+      {
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T09:30:00",
+        "fin_original": "2026-11-29T09:30:00",
         "tipo": "Permanente"
       }
     ],
     "guardia_franjas": [
-      "Permanente: 2026-11-27T09:30:00–2026-11-28T00:00:00"
+      "Permanente: 2026-11-28T00:00:00–2026-11-28T09:30:00",
+      "Permanente: 2026-11-28T09:30:00–2026-11-29T00:00:00"
     ],
-    "precision_ubicacion": "farmacia",
-    "fuente_coordenadas": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
-    "ajuste_ubicacion_m": 12.3,
-    "referencia_ubicacion": "https://www.openstreetmap.org/node/4101927249",
-    "nota_ubicacion": "Coordenada del Colegio contrastada con farmacia OSM a 12.3 m.",
-    "guardia_franja": "Permanente: 2026-11-27T09:30:00–2026-11-28T00:00:00"
+    "guardia_franja": "Permanente: 2026-11-28T00:00:00–2026-11-28T09:30:00 · Permanente: 2026-11-28T09:30:00–2026-11-29T00:00:00"
   },
   {
     "id": "cof-ourense-0341",
@@ -2249,31 +2284,34 @@
     "provincia": "Ourense",
     "telefono": "988462368",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
     "localidades_atendidas": [
       "Xinzo de Limia"
     ],
-    "lat": 42.062884,
-    "lng": -7.725623,
+    "lat": null,
+    "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T21:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T21:00:00",
         "inicio_original": "2026-11-27T21:00:00",
         "fin_original": "2026-11-28T21:00:00",
+        "tipo": "Permanente"
+      },
+      {
+        "inicio": "2026-11-28T21:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T21:00:00",
+        "fin_original": "2026-11-29T21:00:00",
         "tipo": "Permanente"
       }
     ],
     "guardia_franjas": [
-      "Permanente: 2026-11-27T21:00:00–2026-11-28T00:00:00"
+      "Permanente: 2026-11-28T00:00:00–2026-11-28T21:00:00",
+      "Permanente: 2026-11-28T21:00:00–2026-11-29T00:00:00"
     ],
-    "precision_ubicacion": "farmacia",
-    "fuente_coordenadas": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
-    "ajuste_ubicacion_m": 7.5,
-    "referencia_ubicacion": "https://www.openstreetmap.org/node/4101920366",
-    "nota_ubicacion": "Coordenada del Colegio contrastada con farmacia OSM a 7.5 m.",
-    "guardia_franja": "Permanente: 2026-11-27T21:00:00–2026-11-28T00:00:00"
+    "guardia_franja": "Permanente: 2026-11-28T00:00:00–2026-11-28T21:00:00 · Permanente: 2026-11-28T21:00:00–2026-11-29T00:00:00"
   },
   {
     "id": "cof-ourense-0593",
@@ -2284,30 +2322,60 @@
     "provincia": "Ourense",
     "telefono": "988249857",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
     "localidades_atendidas": [
       "Ourense"
     ],
-    "lat": 42.344825,
-    "lng": -7.880065,
+    "lat": null,
+    "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T22:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:30:00",
         "inicio_original": "2026-11-27T22:00:00",
         "fin_original": "2026-11-28T09:30:00",
         "tipo": "Nocturna"
       }
     ],
     "guardia_franjas": [
-      "Nocturna: 2026-11-27T22:00:00–2026-11-28T00:00:00"
+      "Nocturna: 2026-11-28T00:00:00–2026-11-28T09:30:00"
+    ],
+    "guardia_franja": "Nocturna: 2026-11-28T00:00:00–2026-11-28T09:30:00"
+  },
+  {
+    "id": "cof-ourense-0595",
+    "cofm_id": null,
+    "nombre": "ENRIQUETA OUTEIRIÑO GARCIA",
+    "direccion": "RUA DA GRANXA. Nº 127",
+    "localidad": "Ourense",
+    "provincia": "Ourense",
+    "telefono": "988242171",
+    "guardia": false,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
+    "localidades_atendidas": [
+      "Ourense"
+    ],
+    "lat": 42.330896,
+    "lng": -7.85505,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T22:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T22:00:00",
+        "fin_original": "2026-11-29T09:30:00",
+        "tipo": "Nocturna"
+      }
+    ],
+    "guardia_franjas": [
+      "Nocturna: 2026-11-28T22:00:00–2026-11-29T00:00:00"
     ],
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
     "ajuste_ubicacion_m": 6.0,
-    "referencia_ubicacion": "https://www.openstreetmap.org/node/4101927250",
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/4101921193",
     "nota_ubicacion": "Coordenada del Colegio contrastada con farmacia OSM a 6.0 m.",
-    "guardia_franja": "Nocturna: 2026-11-27T22:00:00–2026-11-28T00:00:00"
+    "guardia_franja": "Nocturna: 2026-11-28T22:00:00–2026-11-29T00:00:00"
   }
 ]

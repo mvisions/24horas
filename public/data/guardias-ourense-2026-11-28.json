@@ -1,0 +1,745 @@
+[
+  {
+    "id": "cof-ourense-0024",
+    "cofm_id": null,
+    "nombre": "ROSA MARIA PAEZ LOPEZ",
+    "direccion": "RUA PIÑEIRO. Nº 7 A (BAJO)",
+    "localidad": "Allariz",
+    "provincia": "Ourense",
+    "telefono": "988301189",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
+    "localidades_atendidas": [
+      "Allariz"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
+        "inicio_original": "2026-11-27T09:00:00",
+        "fin_original": "2026-11-28T09:00:00",
+        "tipo": "Permanente - Localizada"
+      },
+      {
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-29T09:00:00",
+        "tipo": "Permanente - Localizada"
+      }
+    ],
+    "guardia_franjas": [
+      "Permanente - Localizada: 2026-11-28T00:00:00–2026-11-28T09:00:00; llamar antes de acudir",
+      "Permanente - Localizada: 2026-11-28T09:00:00–2026-11-29T00:00:00; llamar antes de acudir"
+    ],
+    "guardia_franja": "Permanente - Localizada: 2026-11-28T00:00:00–2026-11-28T09:00:00; llamar antes de acudir · Permanente - Localizada: 2026-11-28T09:00:00–2026-11-29T00:00:00; llamar antes de acudir"
+  },
+  {
+    "id": "cof-ourense-0104",
+    "cofm_id": null,
+    "nombre": "ROSA MARIA ARIAS GOMEZ",
+    "direccion": "ELENA QUIROGA. Nº 6 (VILOIRA)",
+    "localidad": "O Barco de Valdeorras",
+    "provincia": "Ourense",
+    "telefono": "988326188",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
+    "localidades_atendidas": [
+      "O Barco de Valdeorras"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:30:00",
+        "inicio_original": "2026-11-27T09:30:00",
+        "fin_original": "2026-11-28T09:30:00",
+        "tipo": "Permanente"
+      },
+      {
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T09:30:00",
+        "fin_original": "2026-11-29T09:30:00",
+        "tipo": "Permanente"
+      }
+    ],
+    "guardia_franjas": [
+      "Permanente: 2026-11-28T00:00:00–2026-11-28T09:30:00",
+      "Permanente: 2026-11-28T09:30:00–2026-11-29T00:00:00"
+    ],
+    "guardia_franja": "Permanente: 2026-11-28T00:00:00–2026-11-28T09:30:00 · Permanente: 2026-11-28T09:30:00–2026-11-29T00:00:00"
+  },
+  {
+    "id": "cof-ourense-0214",
+    "cofm_id": null,
+    "nombre": "JESUS FONTAIÑAS LASTRA",
+    "direccion": "AV. DE CASTELAO. Nº 35",
+    "localidad": "O Carballiño",
+    "provincia": "Ourense",
+    "telefono": "988530226",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
+    "localidades_atendidas": [
+      "O Carballiño"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:30:00",
+        "inicio_original": "2026-11-27T09:30:00",
+        "fin_original": "2026-11-28T09:30:00",
+        "tipo": "Permanente"
+      },
+      {
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T09:30:00",
+        "fin_original": "2026-11-29T09:30:00",
+        "tipo": "Permanente"
+      }
+    ],
+    "guardia_franjas": [
+      "Permanente: 2026-11-28T00:00:00–2026-11-28T09:30:00",
+      "Permanente: 2026-11-28T09:30:00–2026-11-29T00:00:00"
+    ],
+    "guardia_franja": "Permanente: 2026-11-28T00:00:00–2026-11-28T09:30:00 · Permanente: 2026-11-28T09:30:00–2026-11-29T00:00:00"
+  },
+  {
+    "id": "cof-ourense-0252",
+    "cofm_id": null,
+    "nombre": "CLAUDIO JOSE GONZALEZ MOVILLA",
+    "direccion": "RUA GRANDE. Nº 2",
+    "localidad": "Castro Caldelas",
+    "provincia": "Ourense",
+    "telefono": "988203150",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
+    "localidades_atendidas": [
+      "Castro Caldelas"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
+        "inicio_original": "2026-11-27T09:00:00",
+        "fin_original": "2026-11-28T09:00:00",
+        "tipo": "Permanente - Localizada"
+      },
+      {
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-29T09:00:00",
+        "tipo": "Permanente - Localizada"
+      }
+    ],
+    "guardia_franjas": [
+      "Permanente - Localizada: 2026-11-28T00:00:00–2026-11-28T09:00:00; llamar antes de acudir",
+      "Permanente - Localizada: 2026-11-28T09:00:00–2026-11-29T00:00:00; llamar antes de acudir"
+    ],
+    "guardia_franja": "Permanente - Localizada: 2026-11-28T00:00:00–2026-11-28T09:00:00; llamar antes de acudir · Permanente - Localizada: 2026-11-28T09:00:00–2026-11-29T00:00:00; llamar antes de acudir"
+  },
+  {
+    "id": "cof-ourense-0261",
+    "cofm_id": null,
+    "nombre": "MARIA JOSE MARIÑO CANDA",
+    "direccion": "FRANCISCO GONZALEZ REY. Nº 15 (BAJO)",
+    "localidad": "Celanova",
+    "provincia": "Ourense",
+    "telefono": "988451017",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
+    "localidades_atendidas": [
+      "Celanova"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
+        "inicio_original": "2026-11-27T09:00:00",
+        "fin_original": "2026-11-28T09:00:00",
+        "tipo": "Permanente"
+      },
+      {
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-29T09:00:00",
+        "tipo": "Permanente"
+      }
+    ],
+    "guardia_franjas": [
+      "Permanente: 2026-11-28T00:00:00–2026-11-28T09:00:00",
+      "Permanente: 2026-11-28T09:00:00–2026-11-29T00:00:00"
+    ],
+    "guardia_franja": "Permanente: 2026-11-28T00:00:00–2026-11-28T09:00:00 · Permanente: 2026-11-28T09:00:00–2026-11-29T00:00:00"
+  },
+  {
+    "id": "cof-ourense-0341",
+    "cofm_id": null,
+    "nombre": "ANTONIO GOMEZ PENIN",
+    "direccion": "AV. DE MADRID. Nº 2",
+    "localidad": "Xinzo de Limia",
+    "provincia": "Ourense",
+    "telefono": "988462368",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
+    "localidades_atendidas": [
+      "Xinzo de Limia"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T21:00:00",
+        "inicio_original": "2026-11-27T21:00:00",
+        "fin_original": "2026-11-28T21:00:00",
+        "tipo": "Permanente"
+      },
+      {
+        "inicio": "2026-11-28T21:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T21:00:00",
+        "fin_original": "2026-11-29T21:00:00",
+        "tipo": "Permanente"
+      }
+    ],
+    "guardia_franjas": [
+      "Permanente: 2026-11-28T00:00:00–2026-11-28T21:00:00",
+      "Permanente: 2026-11-28T21:00:00–2026-11-29T00:00:00"
+    ],
+    "guardia_franja": "Permanente: 2026-11-28T00:00:00–2026-11-28T21:00:00 · Permanente: 2026-11-28T21:00:00–2026-11-29T00:00:00"
+  },
+  {
+    "id": "cof-ourense-0452",
+    "cofm_id": null,
+    "nombre": "MARIA ELVIRA IGLESIAS FERNANDEZ",
+    "direccion": "PLAZA DAS TOLDAS. Nº 12",
+    "localidad": "Maceda",
+    "provincia": "Ourense",
+    "telefono": "988463080",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
+    "localidades_atendidas": [
+      "Maceda"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:30:00",
+        "inicio_original": "2026-11-27T09:30:00",
+        "fin_original": "2026-11-28T09:30:00",
+        "tipo": "Permanente"
+      },
+      {
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T09:30:00",
+        "fin_original": "2026-11-29T09:30:00",
+        "tipo": "Permanente"
+      }
+    ],
+    "guardia_franjas": [
+      "Permanente: 2026-11-28T00:00:00–2026-11-28T09:30:00",
+      "Permanente: 2026-11-28T09:30:00–2026-11-29T00:00:00"
+    ],
+    "guardia_franja": "Permanente: 2026-11-28T00:00:00–2026-11-28T09:30:00 · Permanente: 2026-11-28T09:30:00–2026-11-29T00:00:00"
+  },
+  {
+    "id": "cof-ourense-0593",
+    "cofm_id": null,
+    "nombre": "ROSA MARIA CARBALLIDO GAGO",
+    "direccion": "ISAAC PIÑEIRO VARELA. Nº 11",
+    "localidad": "Ourense",
+    "provincia": "Ourense",
+    "telefono": "988249857",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
+    "localidades_atendidas": [
+      "Ourense"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:30:00",
+        "inicio_original": "2026-11-27T22:00:00",
+        "fin_original": "2026-11-28T09:30:00",
+        "tipo": "Nocturna"
+      }
+    ],
+    "guardia_franjas": [
+      "Nocturna: 2026-11-28T00:00:00–2026-11-28T09:30:00"
+    ],
+    "guardia_franja": "Nocturna: 2026-11-28T00:00:00–2026-11-28T09:30:00"
+  },
+  {
+    "id": "cof-ourense-0595",
+    "cofm_id": null,
+    "nombre": "ENRIQUETA OUTEIRIÑO GARCIA",
+    "direccion": "RUA DA GRANXA. Nº 127",
+    "localidad": "Ourense",
+    "provincia": "Ourense",
+    "telefono": "988242171",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
+    "localidades_atendidas": [
+      "Ourense"
+    ],
+    "lat": 42.330896,
+    "lng": -7.85505,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T22:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T22:00:00",
+        "fin_original": "2026-11-29T09:30:00",
+        "tipo": "Nocturna"
+      }
+    ],
+    "guardia_franjas": [
+      "Nocturna: 2026-11-28T22:00:00–2026-11-29T00:00:00"
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
+    "ajuste_ubicacion_m": 6.0,
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/4101921193",
+    "nota_ubicacion": "Coordenada del Colegio contrastada con farmacia OSM a 6.0 m.",
+    "guardia_franja": "Nocturna: 2026-11-28T22:00:00–2026-11-29T00:00:00"
+  },
+  {
+    "id": "cof-ourense-0651",
+    "cofm_id": null,
+    "nombre": "LUIS ALVAREZ FERREIRO",
+    "direccion": "MARQUES DE TRIVES. Nº 40",
+    "localidad": "Pobra de Trives, A",
+    "provincia": "Ourense",
+    "telefono": "988330052",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
+    "localidades_atendidas": [
+      "Pobra de Trives, A"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:30:00",
+        "inicio_original": "2026-11-27T09:30:00",
+        "fin_original": "2026-11-28T09:30:00",
+        "tipo": "Permanente - Localizada"
+      },
+      {
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T09:30:00",
+        "fin_original": "2026-11-29T09:30:00",
+        "tipo": "Permanente - Localizada"
+      }
+    ],
+    "guardia_franjas": [
+      "Permanente - Localizada: 2026-11-28T00:00:00–2026-11-28T09:30:00; llamar antes de acudir",
+      "Permanente - Localizada: 2026-11-28T09:30:00–2026-11-29T00:00:00; llamar antes de acudir"
+    ],
+    "guardia_franja": "Permanente - Localizada: 2026-11-28T00:00:00–2026-11-28T09:30:00; llamar antes de acudir · Permanente - Localizada: 2026-11-28T09:30:00–2026-11-29T00:00:00; llamar antes de acudir"
+  },
+  {
+    "id": "cof-ourense-0711",
+    "cofm_id": null,
+    "nombre": "ROBERTO VILLAMARIN GARCIA",
+    "direccion": "RUA DO PROGRESO. Nº 38",
+    "localidad": "Ribadavia",
+    "provincia": "Ourense",
+    "telefono": "988470077",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
+    "localidades_atendidas": [
+      "Ribadavia"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
+        "inicio_original": "2026-11-27T09:00:00",
+        "fin_original": "2026-11-28T09:00:00",
+        "tipo": "Permanente"
+      },
+      {
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-29T09:00:00",
+        "tipo": "Permanente"
+      }
+    ],
+    "guardia_franjas": [
+      "Permanente: 2026-11-28T00:00:00–2026-11-28T09:00:00",
+      "Permanente: 2026-11-28T09:00:00–2026-11-29T00:00:00"
+    ],
+    "guardia_franja": "Permanente: 2026-11-28T00:00:00–2026-11-28T09:00:00 · Permanente: 2026-11-28T09:00:00–2026-11-29T00:00:00"
+  },
+  {
+    "id": "cof-ourense-0876",
+    "cofm_id": null,
+    "nombre": "URSULA ARACELI PENA ARNOSO",
+    "direccion": "AVENIDA DE SOUSAS. Nº 1",
+    "localidad": "Verín",
+    "provincia": "Ourense",
+    "telefono": "988411350",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
+    "localidades_atendidas": [
+      "Verín"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:30:00",
+        "inicio_original": "2026-11-27T09:30:00",
+        "fin_original": "2026-11-28T09:30:00",
+        "tipo": "Permanente"
+      },
+      {
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T09:30:00",
+        "fin_original": "2026-11-29T09:30:00",
+        "tipo": "Permanente"
+      }
+    ],
+    "guardia_franjas": [
+      "Permanente: 2026-11-28T00:00:00–2026-11-28T09:30:00",
+      "Permanente: 2026-11-28T09:30:00–2026-11-29T00:00:00"
+    ],
+    "guardia_franja": "Permanente: 2026-11-28T00:00:00–2026-11-28T09:30:00 · Permanente: 2026-11-28T09:30:00–2026-11-29T00:00:00"
+  },
+  {
+    "id": "cof-ourense-0883",
+    "cofm_id": null,
+    "nombre": "FARMACIA ARAGON FERNANDEZ, C. B.",
+    "direccion": "NICOLAS TENORIO. Nº 16",
+    "localidad": "Viana do Bolo",
+    "provincia": "Ourense",
+    "telefono": "988340390",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
+    "localidades_atendidas": [
+      "Viana do Bolo"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T14:00:00",
+        "inicio_original": "2026-11-27T14:00:00",
+        "fin_original": "2026-11-28T14:00:00",
+        "tipo": "Permanente"
+      },
+      {
+        "inicio": "2026-11-28T14:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T14:00:00",
+        "fin_original": "2026-11-29T14:00:00",
+        "tipo": "Permanente"
+      }
+    ],
+    "guardia_franjas": [
+      "Permanente: 2026-11-28T00:00:00–2026-11-28T14:00:00",
+      "Permanente: 2026-11-28T14:00:00–2026-11-29T00:00:00"
+    ],
+    "guardia_franja": "Permanente: 2026-11-28T00:00:00–2026-11-28T14:00:00 · Permanente: 2026-11-28T14:00:00–2026-11-29T00:00:00"
+  },
+  {
+    "id": "cof-ourense-0061",
+    "cofm_id": null,
+    "nombre": "MIGUEL VAZQUEZ LOPEZ",
+    "direccion": "VILARCHAO. S/N",
+    "localidad": "Coles",
+    "provincia": "Ourense",
+    "telefono": "988206286",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
+    "localidades_atendidas": [
+      "Coles"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-28T22:00:00",
+        "tipo": "Diurna"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurna: 2026-11-28T09:00:00–2026-11-28T22:00:00"
+    ],
+    "guardia_franja": "Diurna: 2026-11-28T09:00:00–2026-11-28T22:00:00"
+  },
+  {
+    "id": "cof-ourense-0600",
+    "cofm_id": null,
+    "nombre": "LUIS CERRO NOGUEROL",
+    "direccion": "CURROS ENRIQUEZ. Nº 35",
+    "localidad": "Ourense",
+    "provincia": "Ourense",
+    "telefono": "988510230",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
+    "localidades_atendidas": [
+      "Ourense"
+    ],
+    "lat": 42.3449185,
+    "lng": -7.8618738,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:30:00",
+        "fin_original": "2026-11-28T22:00:00",
+        "tipo": "Diurna"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurna: 2026-11-28T09:30:00–2026-11-28T22:00:00"
+    ],
+    "guardia_franja": "Diurna: 2026-11-28T09:30:00–2026-11-28T22:00:00",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/1850145534",
+    "nota_ubicacion": "Ubicación contrastada: la dirección y una farmacia de OpenStreetMap coinciden a 6 m.",
+    "osm_id": "osm-1850145534",
+    "ajuste_ubicacion_m": 6.4
+  },
+  {
+    "id": "cof-ourense-0622",
+    "cofm_id": null,
+    "nombre": "FARMACIA SARA GONZALEZ C.B",
+    "direccion": "CARDENAL QUEVEDO. Nº 38",
+    "localidad": "Ourense",
+    "provincia": "Ourense",
+    "telefono": "988228467",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
+    "localidades_atendidas": [
+      "Ourense"
+    ],
+    "lat": 42.342957,
+    "lng": -7.860492,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:30:00",
+        "fin_original": "2026-11-28T22:00:00",
+        "tipo": "Diurna"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurna: 2026-11-28T09:30:00–2026-11-28T22:00:00"
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
+    "ajuste_ubicacion_m": 5.3,
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/4601728448",
+    "nota_ubicacion": "Coordenada del Colegio contrastada con farmacia OSM a 5.3 m.",
+    "guardia_franja": "Diurna: 2026-11-28T09:30:00–2026-11-28T22:00:00"
+  },
+  {
+    "id": "cof-ourense-0623",
+    "cofm_id": null,
+    "nombre": "ELENA MARIA DIAZ CASANOVA",
+    "direccion": "RUA DO PROGRESO. Nº 153",
+    "localidad": "Ourense",
+    "provincia": "Ourense",
+    "telefono": "988213588",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
+    "localidades_atendidas": [
+      "Ourense"
+    ],
+    "lat": 42.3425189,
+    "lng": -7.8682623,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:30:00",
+        "fin_original": "2026-11-28T22:00:00",
+        "tipo": "Diurna"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurna: 2026-11-28T09:30:00–2026-11-28T22:00:00"
+    ],
+    "guardia_franja": "Diurna: 2026-11-28T09:30:00–2026-11-28T22:00:00",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/4101920879",
+    "nota_ubicacion": "Ubicación contrastada: la dirección y una farmacia de OpenStreetMap coinciden a 13 m.",
+    "osm_id": "osm-4101920879",
+    "ajuste_ubicacion_m": 13.5
+  },
+  {
+    "id": "cof-ourense-0625",
+    "cofm_id": null,
+    "nombre": "MARIA GLORIA RODRIGUEZ OUTEIRIÑO",
+    "direccion": "MARCELO MACIAS nº 48",
+    "localidad": "Ourense",
+    "provincia": "Ourense",
+    "telefono": "988224297",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
+    "localidades_atendidas": [
+      "Ourense"
+    ],
+    "lat": 42.3293828,
+    "lng": -7.870095,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:30:00",
+        "fin_original": "2026-11-28T22:00:00",
+        "tipo": "Diurna"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurna: 2026-11-28T09:30:00–2026-11-28T22:00:00"
+    ],
+    "guardia_franja": "Diurna: 2026-11-28T09:30:00–2026-11-28T22:00:00",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/4101924541",
+    "nota_ubicacion": "Ubicación contrastada: la dirección y una farmacia de OpenStreetMap coinciden a 9 m.",
+    "osm_id": "osm-4101924541",
+    "ajuste_ubicacion_m": 9.4
+  },
+  {
+    "id": "cof-ourense-0630",
+    "cofm_id": null,
+    "nombre": "ANTONIA PIÑA GONZALEZ",
+    "direccion": "CURROS ENRIQUEZ. Nº 10",
+    "localidad": "Ourense",
+    "provincia": "Ourense",
+    "telefono": "988233021",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
+    "localidades_atendidas": [
+      "Ourense"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:30:00",
+        "fin_original": "2026-11-28T22:00:00",
+        "tipo": "Diurna"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurna: 2026-11-28T09:30:00–2026-11-28T22:00:00"
+    ],
+    "guardia_franja": "Diurna: 2026-11-28T09:30:00–2026-11-28T22:00:00"
+  },
+  {
+    "id": "cof-ourense-0643",
+    "cofm_id": null,
+    "nombre": "FARMACIA GALLARDO ALONSO, C.B.",
+    "direccion": "XOAN DE NOVOA. Nº 10",
+    "localidad": "Ourense",
+    "provincia": "Ourense",
+    "telefono": "988392333",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
+    "localidades_atendidas": [
+      "Ourense"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:30:00",
+        "fin_original": "2026-11-28T22:00:00",
+        "tipo": "Diurna"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurna: 2026-11-28T09:30:00–2026-11-28T22:00:00"
+    ],
+    "guardia_franja": "Diurna: 2026-11-28T09:30:00–2026-11-28T22:00:00"
+  },
+  {
+    "id": "cof-ourense-0650",
+    "cofm_id": null,
+    "nombre": "RUTH RODRIGUEZ PIÑA",
+    "direccion": "RAMON PUGA. Nº 59",
+    "localidad": "Ourense",
+    "provincia": "Ourense",
+    "telefono": "988224348",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofourense.es/buscador-de-farmacias-de-guardia/",
+    "localidades_atendidas": [
+      "Ourense"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:30:00",
+        "fin_original": "2026-11-28T22:00:00",
+        "tipo": "Diurna"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurna: 2026-11-28T09:30:00–2026-11-28T22:00:00"
+    ],
+    "guardia_franja": "Diurna: 2026-11-28T09:30:00–2026-11-28T22:00:00"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "fecha": "2026-11-28",
+  "provincia": "A Coruña",
+  "fuente": "https://www.cofc.es/farmacia/index",
+  "completa": false,
+  "consultas": [
+    {
+      "nombre": "Provincia de A Coruña",
+      "estado": "parcial",
+      "farmacias": 71,
+      "error": "Listado provincial del Colegio; confirmar por teléfono antes de acudir."
+    }
+  ],
+  "farmacias": 71,
+  "farmacias_confirmadas": 71,
+  "con_coordenadas": 30,
+  "calendario_actualizado": true,
+  "guardias_conservadas_no_reconfirmadas": 0
+}

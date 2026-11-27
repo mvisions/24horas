@@ -78,7 +78,7 @@
     "lat": 37.9085,
     "lng": -6.82122,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "Guardia según calendario municipal; consultar horario del cartel y confirmar por teléfono · *GUARDIAS LOCALIZADAS (NO PRESENCIALES)"
     ],
@@ -101,7 +101,7 @@
     "lat": 37.5018,
     "lng": -7.27176,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "Guardia según calendario municipal; consultar horario del cartel y confirmar por teléfono · *GUARDIAS LOCALIZADAS (NO PRESENCIALES)"
     ],
@@ -143,7 +143,7 @@
     "lat": 37.2549,
     "lng": -6.95431,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "DIURNO ( 9:30 A 22:00 HORAS)"
     ],
@@ -165,7 +165,7 @@
     "lat": 37.2553,
     "lng": -6.93116,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "DIURNO ( 9:30 A 22:00 HORAS)"
     ],
@@ -187,7 +187,7 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "DIURNO ( 9:30 A 22:00 HORAS)"
     ],
@@ -207,7 +207,7 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "Farmacia 24 horas"
     ],
@@ -227,7 +227,7 @@
     "lat": 37.2687,
     "lng": -6.93343,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "Farmacia 24 horas"
     ],
@@ -327,19 +327,20 @@
   },
   {
     "id": "cof-huelva-5801b4023453a73f",
-    "nombre": "Mª Ascensión Serván Alcántara Mª Ascensión Serván Alcántara",
+    "nombre": "SERVÁN ALCÁNTARA, Mª ASCENSIÓN",
     "direccion": "Calle Nueva 78",
     "localidad": "Alosno",
     "localidades_atendidas": [
       "Alosno",
-      "Tharsis"
+      "Tharsis",
+      "Villanueva de las Cruces"
     ],
     "provincia": "Huelva",
     "telefono": null,
     "lat": 37.5485,
     "lng": -7.11657,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "Guardia según calendario municipal; consultar horario del cartel y confirmar por teléfono · *GUARDIAS LOCALIZADAS (NO PRESENCIALES)"
     ],
@@ -361,7 +362,7 @@
     "lat": 37.4255,
     "lng": -6.79304,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "Guardia según calendario municipal; consultar horario del cartel y confirmar por teléfono · *GUARDIAS LOCALIZADAS (NO PRESENCIALES)"
     ],
@@ -428,7 +429,7 @@
     "lat": 37.7267,
     "lng": -7.08684,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "Guardia según calendario municipal; consultar horario del cartel y confirmar por teléfono · *GUARDIAS LOCALIZADAS (NO PRESENCIALES)"
     ],
@@ -444,14 +445,15 @@
     "localidad": "Santa Olalla Del Cala",
     "localidades_atendidas": [
       "Cala",
-      "Santa Olalla del Cala"
+      "Santa Olalla del Cala",
+      "Zufre"
     ],
     "provincia": "Huelva",
     "telefono": null,
     "lat": 37.9079,
     "lng": -6.2283,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "Guardia según calendario municipal; consultar horario del cartel y confirmar por teléfono · *GUARDIAS LOCALIZADAS (NO PRESENCIALES)"
     ],
@@ -475,7 +477,7 @@
     "lat": 37.6549,
     "lng": -6.87828,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "Guardia según calendario municipal; consultar horario del cartel y confirmar por teléfono"
     ],
@@ -490,6 +492,7 @@
     "direccion": "Calle San Roque 22",
     "localidad": "Minas De Riotinto",
     "localidades_atendidas": [
+      "Campofrío",
       "Minas de Riotinto"
     ],
     "provincia": "Huelva",
@@ -497,11 +500,11 @@
     "lat": 37.6923,
     "lng": -6.59334,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "Guardia según calendario municipal; consultar horario del cartel y confirmar por teléfono · *GUARDIAS LOCALIZADAS (NO PRESENCIALES)"
     ],
-    "fuente": "https://cofhuelva.org/template/modules/cuadro-de-guardias/downloader.php?file=1638&localty=Minas%20de%20Riotinto%20Noviembre%202026",
+    "fuente": "https://cofhuelva.org/template/modules/cuadro-de-guardias/downloader.php?file=1611&localty=Campofr%C3%ADo%20Noviembre%202026",
     "guardia_franja": "Guardia según calendario municipal; consultar horario del cartel y confirmar por teléfono · *GUARDIAS LOCALIZADAS (NO PRESENCIALES)",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://cofhuelva.org/localizador"
@@ -520,7 +523,7 @@
     "lat": 38.0624,
     "lng": -6.64542,
     "guardia": false,
-    "fecha_guardia": "2026-11-22",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "Guardia según calendario municipal; consultar horario del cartel y confirmar por teléfono · *GUARDIAS LOCALIZADAS (NO PRESENCIALES)"
     ],
@@ -542,7 +545,7 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "Guardia según calendario municipal; consultar horario del cartel y confirmar por teléfono · *GUARDIAS LOCALIZADAS (NO PRESENCIALES)"
     ],
@@ -587,7 +590,7 @@
     "lat": 37.4209,
     "lng": -6.40244,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "Guardia según calendario municipal; consultar horario del cartel y confirmar por teléfono · *GUARDIAS LOCALIZADAS (NO PRESENCIALES)"
     ],
@@ -678,7 +681,7 @@
     "lat": 37.3899,
     "lng": -6.43651,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "Guardia según calendario municipal; consultar horario del cartel y confirmar por teléfono · *GUARDIAS LOCALIZADAS (NO PRESENCIALES)"
     ],
@@ -700,7 +703,7 @@
     "lat": 36.9934,
     "lng": -6.54102,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "Guardia según calendario municipal; consultar horario del cartel y confirmar por teléfono"
     ],
@@ -722,7 +725,7 @@
     "lat": 37.1369,
     "lng": -6.82839,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "Guardia según calendario municipal; consultar horario del cartel y confirmar por teléfono · *GUARDIAS LOCALIZADAS (NO PRESENCIALES)"
     ],
@@ -788,7 +791,7 @@
     "lat": 37.36,
     "lng": -6.6782,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "Guardia según calendario municipal; consultar horario del cartel y confirmar por teléfono · *GUARDIAS LOCALIZADAS (NO PRESENCIALES)"
     ],
@@ -832,7 +835,7 @@
     "lat": 37.6132,
     "lng": -7.24887,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "Guardia según calendario municipal; consultar horario del cartel y confirmar por teléfono · *GUARDIAS LOCALIZADAS (NO PRESENCIALES)"
     ],
@@ -898,7 +901,7 @@
     "lat": 37.315,
     "lng": -6.84191,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "Guardia según calendario municipal; consultar horario del cartel y confirmar por teléfono · *GUARDIAS LOCALIZADAS (NO PRESENCIALES)"
     ],
@@ -920,7 +923,7 @@
     "lat": 37.3829,
     "lng": -6.83425,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "Guardia según calendario municipal; consultar horario del cartel y confirmar por teléfono · *GUARDIAS LOCALIZADAS (NO PRESENCIALES)"
     ],
@@ -942,7 +945,7 @@
     "lat": 37.6798,
     "lng": -6.66032,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "Guardia según calendario municipal; consultar horario del cartel y confirmar por teléfono · *GUARDIAS LOCALIZADAS (NO PRESENCIALES)"
     ],
@@ -4000,7 +4003,7 @@
     "lat": 37.2564,
     "lng": -7.20132,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "DIURNO ( 9:30 A 22:00 HORAS)"
     ],
@@ -4022,7 +4025,7 @@
     "lat": 37.2545,
     "lng": -7.19713,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "Farmacia 24 horas"
     ],
@@ -4611,14 +4614,16 @@
     "direccion": "c/ Zufre, 1",
     "localidad": "Ayamonte",
     "localidades_atendidas": [
-      "Ayamonte"
+      "Ayamonte",
+      "Punta del Moral",
+      "San Silvestre de Guzmán"
     ],
     "provincia": "Huelva",
     "telefono": null,
     "lat": 37.2066,
     "lng": -7.40354,
     "guardia": false,
-    "fecha_guardia": "2026-11-02",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "Guardia según calendario municipal; consultar horario del cartel y confirmar por teléfono · *GUARDIAS LOCALIZADAS (NO PRESENCIALES) DE LUNES A SÁBADO A MEDIODÍA"
     ],
@@ -4662,7 +4667,7 @@
     "lat": 37.338,
     "lng": -6.53846,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "Guardia según calendario municipal; consultar horario del cartel y confirmar por teléfono"
     ],
@@ -4732,7 +4737,7 @@
     "lat": 37.2853,
     "lng": -7.15769,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "Guardia según calendario municipal; consultar horario del cartel y confirmar por teléfono"
     ],
@@ -4843,7 +4848,7 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-08",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "Guardia según calendario municipal; consultar horario del cartel y confirmar por teléfono · *GUARDIAS LOCALIZADAS (NO PRESENCIALES) DE LUNES A SÁBADO A MEDIODÍA"
     ],
@@ -4863,7 +4868,7 @@
     "lat": 37.2643,
     "lng": -6.95634,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "DIURNO ( 9:30 A 22:00 HORAS)"
     ],
@@ -4885,7 +4890,7 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "DIURNO ( 9:30 A 22:00 HORAS)"
     ],
@@ -4906,7 +4911,7 @@
     "lat": 37.2099,
     "lng": -7.21795,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "Guardia según calendario municipal; consultar horario del cartel y confirmar por teléfono"
     ],
@@ -4928,7 +4933,7 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "Guardia según calendario municipal; consultar horario del cartel y confirmar por teléfono"
     ],
@@ -5015,7 +5020,7 @@
     "lat": 37.6947,
     "lng": -6.55102,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "Guardia según calendario municipal; consultar horario del cartel y confirmar por teléfono"
     ],
@@ -5216,7 +5221,7 @@
     "lat": 37.2634,
     "lng": -7.02038,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "Guardia según calendario municipal; consultar horario del cartel y confirmar por teléfono"
     ],
@@ -5346,7 +5351,7 @@
     "lat": 37.9267,
     "lng": -6.77155,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "Guardia según calendario municipal; consultar horario del cartel y confirmar por teléfono · *GUARDIAS LOCALIZADAS (NO PRESENCIALES) DE LUNES A SÁBADO A MEDIODÍA"
     ],
@@ -5500,7 +5505,7 @@
     "lat": 37.2598,
     "lng": -6.95377,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "DIURNO ( 9:30 A 22:00 HORAS)"
     ],
@@ -5696,7 +5701,7 @@
     "lat": 37.2501,
     "lng": -7.2006,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "DIURNO ( 9:30 A 22:00 HORAS)"
     ],
@@ -5718,7 +5723,7 @@
     "lat": 37.7406,
     "lng": -7.34244,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "Guardia según calendario municipal; consultar horario del cartel y confirmar por teléfono · *GUARDIAS LOCALIZADAS (NO PRESENCIALES)"
     ],
@@ -6006,19 +6011,23 @@
     "direccion": "c/ Blas Infante, 27",
     "localidad": "Aracena",
     "localidades_atendidas": [
-      "Aracena"
+      "Alajar",
+      "Aracena",
+      "Castaño del Robledo",
+      "Corteconcepción"
     ],
     "provincia": "Huelva",
     "telefono": null,
     "lat": 37.8931,
     "lng": -6.56183,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
+      "Guardia según calendario municipal; consultar horario del cartel y confirmar por teléfono · *GUARDIAS LOCALIZADAS (NO PRESENCIALES) DE LUNES A SÁBADO A MEDIODÍA",
       "Guardia según calendario municipal; consultar horario del cartel y confirmar por teléfono"
     ],
-    "fuente": "https://cofhuelva.org/template/modules/cuadro-de-guardias/downloader.php?file=1603&localty=Aracena%20Noviembre%202026",
-    "guardia_franja": "Guardia según calendario municipal; consultar horario del cartel y confirmar por teléfono",
+    "fuente": "https://cofhuelva.org/template/modules/cuadro-de-guardias/downloader.php?file=1599&localty=Alajar%20Noviembre%202026",
+    "guardia_franja": "Guardia según calendario municipal; consultar horario del cartel y confirmar por teléfono · *GUARDIAS LOCALIZADAS (NO PRESENCIALES) DE LUNES A SÁBADO A MEDIODÍA · Guardia según calendario municipal; consultar horario del cartel y confirmar por teléfono",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://cofhuelva.org/localizador"
   },
@@ -6700,7 +6709,7 @@
     "lat": 37.2647,
     "lng": -6.51664,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "Guardia según calendario municipal; consultar horario del cartel y confirmar por teléfono"
     ],
@@ -6722,7 +6731,7 @@
     "lat": 37.2751,
     "lng": -6.83959,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "Guardia según calendario municipal; consultar horario del cartel y confirmar por teléfono"
     ],
@@ -6744,7 +6753,7 @@
     "lat": 37.1785,
     "lng": -6.95574,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "Guardia según calendario municipal; consultar horario del cartel y confirmar por teléfono"
     ],

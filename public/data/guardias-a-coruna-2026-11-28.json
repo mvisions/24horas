@@ -1,0 +1,2337 @@
+[
+  {
+    "id": "cof-a-coruna-C-576-F",
+    "cofm_id": null,
+    "nombre": "BARROSA VÁZQUEZ, MANUELA",
+    "direccion": "Lesón - San Lázaro 4",
+    "localidad": "A Pobra do Caramiñal",
+    "provincia": "A Coruña",
+    "telefono": "881083463",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "A Pobra do Caramiñal"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T00:00:00",
+        "fin_original": "2026-11-29T00:00:00",
+        "tipo": "Diurno y Nocturno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno y Nocturno: 24 Horas"
+    ],
+    "guardia_franja": "Diurno y Nocturno: 24 Horas"
+  },
+  {
+    "id": "cof-a-coruna-C-160-F",
+    "cofm_id": null,
+    "nombre": "BLANCO ALCAIDE, SUSANA",
+    "direccion": "Av. de Barraña 2",
+    "localidad": "Boiro",
+    "provincia": "A Coruña",
+    "telefono": "981844574",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Boiro"
+    ],
+    "lat": 42.64535,
+    "lng": -8.883628,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T00:00:00",
+        "fin_original": "2026-11-29T00:00:00",
+        "tipo": "Diurno y Nocturno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno y Nocturno: 24 Horas"
+    ],
+    "guardia_franja": "Diurno y Nocturno: 24 Horas",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofc.es/farmacia/index",
+    "ajuste_ubicacion_m": 14.4,
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/2541009277",
+    "nota_ubicacion": "Coordenada del Colegio contrastada con farmacia OSM a 14.4 m."
+  },
+  {
+    "id": "cof-a-coruna-C-233-F",
+    "cofm_id": null,
+    "nombre": "BUSTO CUIÑAS, ANTONIO",
+    "direccion": "Comercio 23",
+    "localidad": "Noia",
+    "provincia": "A Coruña",
+    "telefono": "981820055",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Noia"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T00:00:00",
+        "fin_original": "2026-11-29T00:00:00",
+        "tipo": "Diurno y Nocturno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno y Nocturno: 24 Horas"
+    ],
+    "guardia_franja": "Diurno y Nocturno: 24 Horas"
+  },
+  {
+    "id": "cof-a-coruna-C-190-F",
+    "cofm_id": null,
+    "nombre": "CASASOLA LIÑARES, MARÍA",
+    "direccion": "A Corveira - Av. González Garcés 2",
+    "localidad": "Culleredo",
+    "provincia": "A Coruña",
+    "telefono": "981287035",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Culleredo"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T00:00:00",
+        "fin_original": "2026-11-29T00:00:00",
+        "tipo": "Diurno y Nocturno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno y Nocturno: 24 Horas"
+    ],
+    "guardia_franja": "Diurno y Nocturno: 24 Horas"
+  },
+  {
+    "id": "cof-a-coruna-C-009-F",
+    "cofm_id": null,
+    "nombre": "CASTRO MARTÍN, IGNACIO",
+    "direccion": "Av. Fernández Latorre 51",
+    "localidad": "A Coruña",
+    "provincia": "A Coruña",
+    "telefono": "981293902",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "A Coruña"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T00:00:00",
+        "fin_original": "2026-11-29T00:00:00",
+        "tipo": "Diurno y Nocturno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno y Nocturno: 24 Horas"
+    ],
+    "guardia_franja": "Diurno y Nocturno: 24 Horas"
+  },
+  {
+    "id": "cof-a-coruna-C-129-F",
+    "cofm_id": null,
+    "nombre": "CORNES RODRÍGUEZ, JOSÉ MANUEL",
+    "direccion": "Pol. de Fontiñas - Rúa de Madrid 12",
+    "localidad": "Santiago de Compostela",
+    "provincia": "A Coruña",
+    "telefono": "981583156",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Santiago de Compostela"
+    ],
+    "lat": 42.88392,
+    "lng": -8.526703,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T00:00:00",
+        "fin_original": "2026-11-29T00:00:00",
+        "tipo": "Diurno y Nocturno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno y Nocturno: 24 Horas"
+    ],
+    "guardia_franja": "Diurno y Nocturno: 24 Horas",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofc.es/farmacia/index",
+    "ajuste_ubicacion_m": 7.6,
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/3735307878",
+    "nota_ubicacion": "Coordenada del Colegio contrastada con farmacia OSM a 7.6 m."
+  },
+  {
+    "id": "cof-a-coruna-C-210-F",
+    "cofm_id": null,
+    "nombre": "DEVESA ORO, MARÍA LUISA",
+    "direccion": "Ronda de A Coruña 60",
+    "localidad": "Melide",
+    "provincia": "A Coruña",
+    "telefono": "981505380",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Melide"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T00:00:00",
+        "fin_original": "2026-11-29T00:00:00",
+        "tipo": "Diurno y Nocturno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno y Nocturno: 24 Horas"
+    ],
+    "guardia_franja": "Diurno y Nocturno: 24 Horas"
+  },
+  {
+    "id": "cof-a-coruna-C-269-F",
+    "cofm_id": null,
+    "nombre": "DIOS PRADA, MANUEL",
+    "direccion": "Plaza Rafael Dieste 6",
+    "localidad": "Rianxo",
+    "provincia": "A Coruña",
+    "telefono": "981860425",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Rianxo"
+    ],
+    "lat": 42.650443,
+    "lng": -8.819075,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T00:00:00",
+        "fin_original": "2026-11-29T00:00:00",
+        "tipo": "Diurno y Nocturno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno y Nocturno: 24 Horas"
+    ],
+    "guardia_franja": "Diurno y Nocturno: 24 Horas",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofc.es/farmacia/index",
+    "ajuste_ubicacion_m": 6.6,
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/2889535559",
+    "nota_ubicacion": "Coordenada del Colegio contrastada con farmacia OSM a 6.6 m."
+  },
+  {
+    "id": "cof-a-coruna-C-515-F",
+    "cofm_id": null,
+    "nombre": "EIRÍN SÁNCHEZ, PAULA M.ª",
+    "direccion": "A Maceira (Pastoriza).- Av. Pastoriza 2",
+    "localidad": "Arteixo",
+    "provincia": "A Coruña",
+    "telefono": "981607356",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Arteixo"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T00:00:00",
+        "fin_original": "2026-11-29T00:00:00",
+        "tipo": "Diurno y Nocturno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno y Nocturno: 24 Horas"
+    ],
+    "guardia_franja": "Diurno y Nocturno: 24 Horas"
+  },
+  {
+    "id": "cof-a-coruna-C-231-F",
+    "cofm_id": null,
+    "nombre": "FABEIRO VILA, TERESA CATUXA",
+    "direccion": "Av. de Santiago 3",
+    "localidad": "Negreira",
+    "provincia": "A Coruña",
+    "telefono": "981885076",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Negreira"
+    ],
+    "lat": 42.909456,
+    "lng": -8.735947,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T00:00:00",
+        "fin_original": "2026-11-29T00:00:00",
+        "tipo": "Diurno y Nocturno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno y Nocturno: 24 Horas"
+    ],
+    "guardia_franja": "Diurno y Nocturno: 24 Horas",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofc.es/farmacia/index",
+    "ajuste_ubicacion_m": 7.4,
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/2030934788",
+    "nota_ubicacion": "Coordenada del Colegio contrastada con farmacia OSM a 7.4 m."
+  },
+  {
+    "id": "cof-a-coruna-C-545-F",
+    "cofm_id": null,
+    "nombre": "FIGUEROA ROO, JESUS FLORINDO",
+    "direccion": "Rúa Camiño do Pino 81",
+    "localidad": "Narón",
+    "provincia": "A Coruña",
+    "telefono": "981948109",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Narón"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T09:30:00",
+        "fin_original": "2026-11-29T09:30:00",
+        "tipo": "Diurno y Nocturno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno y Nocturno: 09:30 - 09:30 (día posterior)"
+    ],
+    "guardia_franja": "Diurno y Nocturno: 09:30 - 09:30 (día posterior)"
+  },
+  {
+    "id": "cof-a-coruna-C-449-F",
+    "cofm_id": null,
+    "nombre": "FOUZ IGLESIAS, BEATRIZ",
+    "direccion": "Ponte Mera",
+    "localidad": "Ortigueira",
+    "provincia": "A Coruña",
+    "telefono": "981428081",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Ortigueira"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T00:00:00",
+        "fin_original": "2026-11-29T00:00:00",
+        "tipo": "Diurno y Nocturno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno y Nocturno: 24 Horas"
+    ],
+    "guardia_franja": "Diurno y Nocturno: 24 Horas"
+  },
+  {
+    "id": "cof-a-coruna-C-246-F",
+    "cofm_id": null,
+    "nombre": "GARCÍA REY, STELLA  Y MATO VERDES, M.ª ESTHER",
+    "direccion": "Balbís 14",
+    "localidad": "Cariño",
+    "provincia": "A Coruña",
+    "telefono": "981405017",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Cariño"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T00:00:00",
+        "fin_original": "2026-11-29T00:00:00",
+        "tipo": "Diurno y Nocturno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno y Nocturno: 24 Horas"
+    ],
+    "guardia_franja": "Diurno y Nocturno: 24 Horas"
+  },
+  {
+    "id": "cof-a-coruna-C-502-F",
+    "cofm_id": null,
+    "nombre": "GIL DE LA PEÑA, MARTA DE SAN IGNACIO Y COMENDADOR GIL, ANA",
+    "direccion": "Os Regos - Isaac Díaz Pardo 4",
+    "localidad": "Oleiros",
+    "provincia": "A Coruña",
+    "telefono": "981614184",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Oleiros"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T00:00:00",
+        "fin_original": "2026-11-29T00:00:00",
+        "tipo": "Diurno y Nocturno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno y Nocturno: 24 Horas"
+    ],
+    "guardia_franja": "Diurno y Nocturno: 24 Horas"
+  },
+  {
+    "id": "cof-a-coruna-C-508-F",
+    "cofm_id": null,
+    "nombre": "HERNÁNDEZ ULLOA, AGUSTÍN",
+    "direccion": "Av. Camilo José Cela 28",
+    "localidad": "Padrón",
+    "provincia": "A Coruña",
+    "telefono": "981810548",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Padrón"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T00:00:00",
+        "fin_original": "2026-11-29T00:00:00",
+        "tipo": "Diurno y Nocturno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno y Nocturno: 24 Horas"
+    ],
+    "guardia_franja": "Diurno y Nocturno: 24 Horas"
+  },
+  {
+    "id": "cof-a-coruna-C-356-F",
+    "cofm_id": null,
+    "nombre": "IGLESIAS LESTÓN MERCEDES, VIGO IGLESIAS, M. Y VIGO IGLESIAS, R.",
+    "direccion": "Av. de Castelao 41",
+    "localidad": "Muros",
+    "provincia": "A Coruña",
+    "telefono": "981826308",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Muros"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T00:00:00",
+        "fin_original": "2026-11-29T00:00:00",
+        "tipo": "Diurno y Nocturno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno y Nocturno: 24 Horas"
+    ],
+    "guardia_franja": "Diurno y Nocturno: 24 Horas"
+  },
+  {
+    "id": "cof-a-coruna-C-514-F",
+    "cofm_id": null,
+    "nombre": "LÓPEZ DÍAZ, MARÍA ÁNGELES",
+    "direccion": "Carretera La Gándara 37-39",
+    "localidad": "Narón",
+    "provincia": "A Coruña",
+    "telefono": "881954421",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Narón"
+    ],
+    "lat": 43.4912,
+    "lng": -8.204196,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:30:00",
+        "inicio_original": "2026-11-28T00:00:00",
+        "fin_original": "2026-11-28T09:30:00",
+        "tipo": "Diurno y Nocturno"
+      },
+      {
+        "inicio": "2026-11-28T10:00:00",
+        "fin": "2026-11-28T14:00:00",
+        "inicio_original": "2026-11-28T10:00:00",
+        "fin_original": "2026-11-28T14:00:00",
+        "tipo": "Diurno y Nocturno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno y Nocturno: 00:00 - 09:30; 10:00 - 14:00"
+    ],
+    "guardia_franja": "Diurno y Nocturno: 00:00 - 09:30; 10:00 - 14:00",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofc.es/farmacia/index",
+    "ajuste_ubicacion_m": 9.4,
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/3494104878",
+    "nota_ubicacion": "Coordenada del Colegio contrastada con farmacia OSM a 9.4 m."
+  },
+  {
+    "id": "cof-a-coruna-C-357-F",
+    "cofm_id": null,
+    "nombre": "LÓPEZ MERCADER, M.ª BELEN Y LÓPEZ MERCADER, PAULA",
+    "direccion": "Av. Zumalacárregui 7",
+    "localidad": "Cedeira",
+    "provincia": "A Coruña",
+    "telefono": "981480366",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Cedeira"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T00:00:00",
+        "fin_original": "2026-11-29T00:00:00",
+        "tipo": "Diurno y Nocturno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno y Nocturno: 24 Horas"
+    ],
+    "guardia_franja": "Diurno y Nocturno: 24 Horas"
+  },
+  {
+    "id": "cof-a-coruna-C-478-F",
+    "cofm_id": null,
+    "nombre": "MAYO FERNÁNDEZ, NOELIA",
+    "direccion": "Baíñas - Estrada LC-441, PK 23,2",
+    "localidad": "Vimianzo",
+    "provincia": "A Coruña",
+    "telefono": "981619530",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Vimianzo"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T00:00:00",
+        "fin_original": "2026-11-29T00:00:00",
+        "tipo": "Diurno y Nocturno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno y Nocturno: 24 Horas"
+    ],
+    "guardia_franja": "Diurno y Nocturno: 24 Horas"
+  },
+  {
+    "id": "cof-a-coruna-C-343-F",
+    "cofm_id": null,
+    "nombre": "ORTIGUEIRA PORTELA, RAFAEL",
+    "direccion": "Marqués de Figueroa s/n",
+    "localidad": "San Sadurniño",
+    "provincia": "A Coruña",
+    "telefono": "981490180",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "San Sadurniño"
+    ],
+    "lat": 43.532604,
+    "lng": -8.072446,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T00:00:00",
+        "fin_original": "2026-11-29T00:00:00",
+        "tipo": "Diurno y Nocturno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno y Nocturno: 24 Horas"
+    ],
+    "guardia_franja": "Diurno y Nocturno: 24 Horas",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofc.es/farmacia/index",
+    "ajuste_ubicacion_m": 14.0,
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/2686991675",
+    "nota_ubicacion": "Coordenada del Colegio contrastada con farmacia OSM a 14.0 m."
+  },
+  {
+    "id": "cof-a-coruna-C-446-F",
+    "cofm_id": null,
+    "nombre": "PÉREZ SAAVEDRA, MARÍA JOSÉ",
+    "direccion": "Cecebre - Volteiro 10 A",
+    "localidad": "Cambre",
+    "provincia": "A Coruña",
+    "telefono": "981676871",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Cambre"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T00:00:00",
+        "fin_original": "2026-11-29T00:00:00",
+        "tipo": "Diurno y Nocturno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno y Nocturno: 24 Horas"
+    ],
+    "guardia_franja": "Diurno y Nocturno: 24 Horas"
+  },
+  {
+    "id": "cof-a-coruna-C-530-F",
+    "cofm_id": null,
+    "nombre": "PÉREZ SÁNCHEZ, M.ª BELÉN",
+    "direccion": "Plaza de la Iglesia Nueva 13",
+    "localidad": "Sada",
+    "provincia": "A Coruña",
+    "telefono": "981621749",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Sada"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T00:00:00",
+        "fin_original": "2026-11-29T00:00:00",
+        "tipo": "Diurno y Nocturno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno y Nocturno: 24 Horas"
+    ],
+    "guardia_franja": "Diurno y Nocturno: 24 Horas"
+  },
+  {
+    "id": "cof-a-coruna-C-013-F",
+    "cofm_id": null,
+    "nombre": "POSE VILARNOVO, BEATRIZ",
+    "direccion": "Torre 54",
+    "localidad": "A Coruña",
+    "provincia": "A Coruña",
+    "telefono": "981203842",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "A Coruña"
+    ],
+    "lat": 43.375535,
+    "lng": -8.398064,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T00:00:00",
+        "fin_original": "2026-11-29T00:00:00",
+        "tipo": "Diurno y Nocturno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno y Nocturno: 24 Horas"
+    ],
+    "guardia_franja": "Diurno y Nocturno: 24 Horas",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofc.es/farmacia/index",
+    "ajuste_ubicacion_m": 7.4,
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/2781217840",
+    "nota_ubicacion": "Coordenada del Colegio contrastada con farmacia OSM a 7.4 m."
+  },
+  {
+    "id": "cof-a-coruna-C-454-F",
+    "cofm_id": null,
+    "nombre": "PRIETO FILGUEIRA, MARÍA JOSÉ",
+    "direccion": "San Juan de Piñeiro - Camiño Grande 92",
+    "localidad": "Mugardos",
+    "provincia": "A Coruña",
+    "telefono": "981460943",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Mugardos"
+    ],
+    "lat": 43.43586,
+    "lng": -8.198694,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T00:00:00",
+        "fin_original": "2026-11-29T00:00:00",
+        "tipo": "Diurno y Nocturno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno y Nocturno: 24 Horas"
+    ],
+    "guardia_franja": "Diurno y Nocturno: 24 Horas",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofc.es/farmacia/index",
+    "ajuste_ubicacion_m": 4.5,
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/2379000960",
+    "nota_ubicacion": "Coordenada del Colegio contrastada con farmacia OSM a 4.5 m."
+  },
+  {
+    "id": "cof-a-coruna-C-468-F",
+    "cofm_id": null,
+    "nombre": "QUEIJEIRO RILO, LEONOR",
+    "direccion": "Av. del Pasaje - Carretera O Burgo 31",
+    "localidad": "A Coruña",
+    "provincia": "A Coruña",
+    "telefono": "981139105",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "A Coruña"
+    ],
+    "lat": 43.330245,
+    "lng": -8.3841,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T00:00:00",
+        "fin_original": "2026-11-29T00:00:00",
+        "tipo": "Diurno y Nocturno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno y Nocturno: 24 Horas"
+    ],
+    "guardia_franja": "Diurno y Nocturno: 24 Horas",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofc.es/farmacia/index",
+    "ajuste_ubicacion_m": 5.1,
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/1682366011",
+    "nota_ubicacion": "Coordenada del Colegio contrastada con farmacia OSM a 5.1 m."
+  },
+  {
+    "id": "cof-a-coruna-C-263-F",
+    "cofm_id": null,
+    "nombre": "QUINTERO CASTRO, JORGE PABLO",
+    "direccion": "Ricardo Sánchez 15",
+    "localidad": "Pontedeume",
+    "provincia": "A Coruña",
+    "telefono": "981430028",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Pontedeume"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T00:00:00",
+        "fin_original": "2026-11-29T00:00:00",
+        "tipo": "Diurno y Nocturno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno y Nocturno: 24 Horas"
+    ],
+    "guardia_franja": "Diurno y Nocturno: 24 Horas"
+  },
+  {
+    "id": "cof-a-coruna-C-554-F",
+    "cofm_id": null,
+    "nombre": "REPRESAS SEOANE, MARÍA DEL MAR",
+    "direccion": "Av. Finisterre 72",
+    "localidad": "Cee",
+    "provincia": "A Coruña",
+    "telefono": "881985291",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Cee"
+    ],
+    "lat": 42.957367,
+    "lng": -9.193602,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T00:00:00",
+        "fin_original": "2026-11-29T00:00:00",
+        "tipo": "Diurno y Nocturno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno y Nocturno: 24 Horas"
+    ],
+    "guardia_franja": "Diurno y Nocturno: 24 Horas",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofc.es/farmacia/index",
+    "ajuste_ubicacion_m": 12.5,
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/8749927264",
+    "nota_ubicacion": "Coordenada del Colegio contrastada con farmacia OSM a 12.5 m."
+  },
+  {
+    "id": "cof-a-coruna-C-261-F",
+    "cofm_id": null,
+    "nombre": "RODRÍGUEZ URIARTE, FERNANDO",
+    "direccion": "Anllóns 1",
+    "localidad": "Ponteceso",
+    "provincia": "A Coruña",
+    "telefono": "981715276",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Ponteceso"
+    ],
+    "lat": 43.242482,
+    "lng": -8.894954,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T00:00:00",
+        "fin_original": "2026-11-29T00:00:00",
+        "tipo": "Diurno y Nocturno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno y Nocturno: 24 Horas"
+    ],
+    "guardia_franja": "Diurno y Nocturno: 24 Horas",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofc.es/farmacia/index",
+    "ajuste_ubicacion_m": 8.8,
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/3633463340",
+    "nota_ubicacion": "Coordenada del Colegio contrastada con farmacia OSM a 8.8 m."
+  },
+  {
+    "id": "cof-a-coruna-C-552-F",
+    "cofm_id": null,
+    "nombre": "ROSÓN LÓPEZ, PASCUAL",
+    "direccion": "Campolongo - Carretera N-VI 92",
+    "localidad": "Pontedeume",
+    "provincia": "A Coruña",
+    "telefono": "981434145",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Pontedeume"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T00:00:00",
+        "fin_original": "2026-11-29T00:00:00",
+        "tipo": "Diurno y Nocturno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno y Nocturno: 24 Horas"
+    ],
+    "guardia_franja": "Diurno y Nocturno: 24 Horas"
+  },
+  {
+    "id": "cof-a-coruna-C-151-F",
+    "cofm_id": null,
+    "nombre": "SAAVEDRA ROBLEDO, MANUEL",
+    "direccion": "Padre Pardo 34",
+    "localidad": "Arzúa",
+    "provincia": "A Coruña",
+    "telefono": "981500041",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Arzúa"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T00:00:00",
+        "fin_original": "2026-11-29T00:00:00",
+        "tipo": "Diurno y Nocturno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno y Nocturno: 24 Horas"
+    ],
+    "guardia_franja": "Diurno y Nocturno: 24 Horas"
+  },
+  {
+    "id": "cof-a-coruna-C-156-F",
+    "cofm_id": null,
+    "nombre": "SANCHEZ MARTINEZ, MARIA",
+    "direccion": "Plateros 8",
+    "localidad": "Betanzos",
+    "provincia": "A Coruña",
+    "telefono": "981770103",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Betanzos"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T00:00:00",
+        "fin_original": "2026-11-29T00:00:00",
+        "tipo": "Diurno y Nocturno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno y Nocturno: 24 Horas"
+    ],
+    "guardia_franja": "Diurno y Nocturno: 24 Horas"
+  },
+  {
+    "id": "cof-a-coruna-C-173-F",
+    "cofm_id": null,
+    "nombre": "SANCHEZ VARELA, MARIA SAGRARIO",
+    "direccion": "Rúa do Muiño,73",
+    "localidad": "Carballo",
+    "provincia": "A Coruña",
+    "telefono": "981700413",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Carballo"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T00:00:00",
+        "fin_original": "2026-11-29T00:00:00",
+        "tipo": "Diurno y Nocturno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno y Nocturno: 24 Horas"
+    ],
+    "guardia_franja": "Diurno y Nocturno: 24 Horas"
+  },
+  {
+    "id": "cof-a-coruna-C-192-F",
+    "cofm_id": null,
+    "nombre": "SANTAMARÍA MARTÍNEZ, RAQUEL Y SANTAMARÍA MARTÍNEZ, YAGO",
+    "direccion": "Av. Principal 39",
+    "localidad": "Curtis",
+    "provincia": "A Coruña",
+    "telefono": "981786003",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Curtis"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T00:00:00",
+        "fin_original": "2026-11-29T00:00:00",
+        "tipo": "Diurno y Nocturno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno y Nocturno: 24 Horas"
+    ],
+    "guardia_franja": "Diurno y Nocturno: 24 Horas"
+  },
+  {
+    "id": "cof-a-coruna-C-506-F",
+    "cofm_id": null,
+    "nombre": "SANTOS CANDAL, MARÍA JESÚS",
+    "direccion": "Lugar da Pereira s/n",
+    "localidad": "Santa Comba",
+    "provincia": "A Coruña",
+    "telefono": "981538210",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Santa Comba"
+    ],
+    "lat": 42.990294,
+    "lng": -8.871751,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T00:00:00",
+        "fin_original": "2026-11-29T00:00:00",
+        "tipo": "Diurno y Nocturno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno y Nocturno: 24 Horas"
+    ],
+    "guardia_franja": "Diurno y Nocturno: 24 Horas",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofc.es/farmacia/index",
+    "ajuste_ubicacion_m": 7.4,
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/2718072460",
+    "nota_ubicacion": "Coordenada del Colegio contrastada con farmacia OSM a 7.4 m."
+  },
+  {
+    "id": "cof-a-coruna-C-527-F",
+    "cofm_id": null,
+    "nombre": "URBANO ALONSO, ÁNGEL G.",
+    "direccion": "Av. de la Habana 131",
+    "localidad": "As Pontes",
+    "provincia": "A Coruña",
+    "telefono": "881935668",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "As Pontes"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T00:00:00",
+        "fin_original": "2026-11-29T00:00:00",
+        "tipo": "Diurno y Nocturno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno y Nocturno: 24 Horas"
+    ],
+    "guardia_franja": "Diurno y Nocturno: 24 Horas"
+  },
+  {
+    "id": "cof-a-coruna-C-264-F",
+    "cofm_id": null,
+    "nombre": "VÁZQUEZ MARTÍNEZ, CARLOS SANTIAGO",
+    "direccion": "Av. de Ortigueira 27",
+    "localidad": "As Pontes",
+    "provincia": "A Coruña",
+    "telefono": "981450602",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "As Pontes"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T00:00:00",
+        "fin_original": "2026-11-29T00:00:00",
+        "tipo": "Diurno y Nocturno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno y Nocturno: 24 Horas"
+    ],
+    "guardia_franja": "Diurno y Nocturno: 24 Horas"
+  },
+  {
+    "id": "cof-a-coruna-C-352-F",
+    "cofm_id": null,
+    "nombre": "VÁZQUEZ SUÁREZ, JACOBO Y VÁZQUEZ SUÁREZ, JAVIER JESÚS",
+    "direccion": "República Argentina 43",
+    "localidad": "Santiago de Compostela",
+    "provincia": "A Coruña",
+    "telefono": "981592172",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Santiago de Compostela"
+    ],
+    "lat": 42.871734,
+    "lng": -8.551195,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T00:00:00",
+        "fin_original": "2026-11-29T00:00:00",
+        "tipo": "Diurno y Nocturno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno y Nocturno: 24 Horas"
+    ],
+    "guardia_franja": "Diurno y Nocturno: 24 Horas",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofc.es/farmacia/index",
+    "ajuste_ubicacion_m": 11.3,
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/766297026",
+    "nota_ubicacion": "Coordenada del Colegio contrastada con farmacia OSM a 11.3 m."
+  },
+  {
+    "id": "cof-a-coruna-C-107-F",
+    "cofm_id": null,
+    "nombre": "VILLANUEVA NIEVES, CELIA",
+    "direccion": "Av. de Finisterre 103",
+    "localidad": "A Laracha",
+    "provincia": "A Coruña",
+    "telefono": "981605358",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "A Laracha"
+    ],
+    "lat": 43.248226,
+    "lng": -8.583351,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T00:00:00",
+        "fin_original": "2026-11-29T00:00:00",
+        "tipo": "Diurno y Nocturno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno y Nocturno: 24 Horas"
+    ],
+    "guardia_franja": "Diurno y Nocturno: 24 Horas",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofc.es/farmacia/index",
+    "ajuste_ubicacion_m": 12.2,
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/3126864663",
+    "nota_ubicacion": "Coordenada del Colegio contrastada con farmacia OSM a 12.2 m."
+  },
+  {
+    "id": "cof-a-coruna-C-197-F",
+    "cofm_id": null,
+    "nombre": "ABOU JOKH RAJAB, ABDUL NASSER",
+    "direccion": "Santa Catalina  23",
+    "localidad": "Fisterra",
+    "provincia": "A Coruña",
+    "telefono": "981740055",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Fisterra"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:30:00",
+        "fin_original": "2026-11-28T22:00:00",
+        "tipo": "Diurno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno: 09:30 - 22:00"
+    ],
+    "guardia_franja": "Diurno: 09:30 - 22:00"
+  },
+  {
+    "id": "cof-a-coruna-C-466-F",
+    "cofm_id": null,
+    "nombre": "ACCIÓN ARMESTO, SANTIAGO Y ARMESTO MAURIZ, MANUELA",
+    "direccion": "Sillobre - Av. Doctor Sixto Mauriz 31",
+    "localidad": "Fene",
+    "provincia": "A Coruña",
+    "telefono": "981343080",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Fene"
+    ],
+    "lat": 43.472661,
+    "lng": -8.157578,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:30:00",
+        "fin_original": "2026-11-28T22:00:00",
+        "tipo": "Diurno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno: 09:30 - 22:00"
+    ],
+    "guardia_franja": "Diurno: 09:30 - 22:00",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofc.es/farmacia/index",
+    "ajuste_ubicacion_m": 2.0,
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/2123033570",
+    "nota_ubicacion": "Coordenada del Colegio contrastada con farmacia OSM a 2.0 m."
+  },
+  {
+    "id": "cof-a-coruna-C-329-F",
+    "cofm_id": null,
+    "nombre": "CORTIÑAS FARIÑA, OLEGARIO",
+    "direccion": "San Pedro de Mezonzo 34",
+    "localidad": "Santiago de Compostela",
+    "provincia": "A Coruña",
+    "telefono": "981593391",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Santiago de Compostela"
+    ],
+    "lat": 42.8716977,
+    "lng": -8.5476436,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-28T22:00:00",
+        "tipo": "Diurno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno: 09:00 - 22:00"
+    ],
+    "guardia_franja": "Diurno: 09:00 - 22:00",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/766472733",
+    "nota_ubicacion": "Ubicación contrastada: la dirección y una farmacia de OpenStreetMap coinciden a 7 m.",
+    "osm_id": "osm-766472733",
+    "ajuste_ubicacion_m": 7.1
+  },
+  {
+    "id": "cof-a-coruna-C-287-F",
+    "cofm_id": null,
+    "nombre": "CRUCES SANDE, MARTA",
+    "direccion": "Cacheiras - Travesía de Cacheiras 70",
+    "localidad": "Teo",
+    "provincia": "A Coruña",
+    "telefono": "981807436",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Teo"
+    ],
+    "lat": 42.819596,
+    "lng": -8.544943,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:30:00",
+        "fin_original": "2026-11-28T22:00:00",
+        "tipo": "Diurno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno: 09:30 - 22:00"
+    ],
+    "guardia_franja": "Diurno: 09:30 - 22:00",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofc.es/farmacia/index",
+    "ajuste_ubicacion_m": 12.5,
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/1591013445",
+    "nota_ubicacion": "Coordenada del Colegio contrastada con farmacia OSM a 12.5 m."
+  },
+  {
+    "id": "cof-a-coruna-C-392-F",
+    "cofm_id": null,
+    "nombre": "CUTRÍN PRIETO, FERNANDO, CUTRÍN GÓMEZ, ELENA, CUTRÍN GÓMEZ BEATRIZ",
+    "direccion": "Frei Rosendo Salvado 18",
+    "localidad": "Santiago de Compostela",
+    "provincia": "A Coruña",
+    "telefono": "981599702",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Santiago de Compostela"
+    ],
+    "lat": 42.8732644,
+    "lng": -8.5508358,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:30:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-28T22:30:00",
+        "tipo": "Diurno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno: 09:00 - 22:30"
+    ],
+    "guardia_franja": "Diurno: 09:00 - 22:30",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/766297076",
+    "nota_ubicacion": "Ubicación contrastada: la dirección y una farmacia de OpenStreetMap coinciden a 4 m.",
+    "osm_id": "osm-766297076",
+    "ajuste_ubicacion_m": 4.3
+  },
+  {
+    "id": "cof-a-coruna-C-100-F",
+    "cofm_id": null,
+    "nombre": "DEL RÍO CAMBESES, MANUEL TELMO",
+    "direccion": "Galiano 71 y Rubalcaba 22",
+    "localidad": "Ferrol",
+    "provincia": "A Coruña",
+    "telefono": "981352138",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Ferrol"
+    ],
+    "lat": 43.484548,
+    "lng": -8.232275,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:30:00",
+        "fin_original": "2026-11-28T22:00:00",
+        "tipo": "Diurno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno: 09:30 - 22:00"
+    ],
+    "guardia_franja": "Diurno: 09:30 - 22:00",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofc.es/farmacia/index",
+    "ajuste_ubicacion_m": 6.9,
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/11345022647",
+    "nota_ubicacion": "Coordenada del Colegio contrastada con farmacia OSM a 6.9 m."
+  },
+  {
+    "id": "cof-a-coruna-C-272-F",
+    "cofm_id": null,
+    "nombre": "FERNÁNDEZ DE SANMAMED, CARMEN E., JUAN Y MARÍA",
+    "direccion": "Rúa de Galicia 40 local 4",
+    "localidad": "Ribeira",
+    "provincia": "A Coruña",
+    "telefono": "981871070",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Ribeira"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-28T22:00:00",
+        "tipo": "Diurno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno: 09:00 - 22:00"
+    ],
+    "guardia_franja": "Diurno: 09:00 - 22:00"
+  },
+  {
+    "id": "cof-a-coruna-C-137-F",
+    "cofm_id": null,
+    "nombre": "FERRADÁNS VALDÉS, JORGE",
+    "direccion": "Cantón do Toural 1",
+    "localidad": "Santiago de Compostela",
+    "provincia": "A Coruña",
+    "telefono": "981585895",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Santiago de Compostela"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T08:30:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T08:30:00",
+        "fin_original": "2026-11-28T22:00:00",
+        "tipo": "Diurno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno: 08:30 - 22:00"
+    ],
+    "guardia_franja": "Diurno: 08:30 - 22:00"
+  },
+  {
+    "id": "cof-a-coruna-C-020-F",
+    "cofm_id": null,
+    "nombre": "FUENTES BARREIRO, AMALIA J. Y GARCÍA FUENTES, SUSANA",
+    "direccion": "Villa de Negreira 42",
+    "localidad": "A Coruña",
+    "provincia": "A Coruña",
+    "telefono": "981252438",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "A Coruña"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-28T22:00:00",
+        "tipo": "Diurno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno: 09:00 - 22:00"
+    ],
+    "guardia_franja": "Diurno: 09:00 - 22:00"
+  },
+  {
+    "id": "cof-a-coruna-C-136-F",
+    "cofm_id": null,
+    "nombre": "GARCÍA GÓMEZ, MARÍA JOSÉ",
+    "direccion": "Castiñeiriño 12",
+    "localidad": "Santiago de Compostela",
+    "provincia": "A Coruña",
+    "telefono": "981590397",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Santiago de Compostela"
+    ],
+    "lat": 42.860601,
+    "lng": -8.540861,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:30:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-28T22:30:00",
+        "tipo": "Diurno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno: 09:00 - 22:30"
+    ],
+    "guardia_franja": "Diurno: 09:00 - 22:30",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofc.es/farmacia/index",
+    "ajuste_ubicacion_m": 8.2,
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/4101924582",
+    "nota_ubicacion": "Coordenada del Colegio contrastada con farmacia OSM a 8.2 m."
+  },
+  {
+    "id": "cof-a-coruna-C-122-F",
+    "cofm_id": null,
+    "nombre": "GÓMEZ-ULLA ASTRAY, ALEJANDRO J.",
+    "direccion": "Porta Faxeira1",
+    "localidad": "Santiago de Compostela",
+    "provincia": "A Coruña",
+    "telefono": "981586835",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Santiago de Compostela"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-28T22:00:00",
+        "tipo": "Diurno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno: 09:00 - 22:00"
+    ],
+    "guardia_franja": "Diurno: 09:00 - 22:00"
+  },
+  {
+    "id": "cof-a-coruna-C-088-F",
+    "cofm_id": null,
+    "nombre": "GUERREIRO GONZÁLEZ, FERNANDO",
+    "direccion": "Galiano 1 A",
+    "localidad": "Ferrol",
+    "provincia": "A Coruña",
+    "telefono": "981321468",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Ferrol"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-28T22:00:00",
+        "tipo": "Diurno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno: 09:00 - 22:00"
+    ],
+    "guardia_franja": "Diurno: 09:00 - 22:00"
+  },
+  {
+    "id": "cof-a-coruna-C-321-F",
+    "cofm_id": null,
+    "nombre": "GUTIÉRREZ DEL OLMO MIGUEL, RAMÓN A.",
+    "direccion": "Restollal 47",
+    "localidad": "Santiago de Compostela",
+    "provincia": "A Coruña",
+    "telefono": "981599225",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Santiago de Compostela"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T08:45:00",
+        "fin": "2026-11-28T22:15:00",
+        "inicio_original": "2026-11-28T08:45:00",
+        "fin_original": "2026-11-28T22:15:00",
+        "tipo": "Diurno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno: 08:45 - 22:15"
+    ],
+    "guardia_franja": "Diurno: 08:45 - 22:15"
+  },
+  {
+    "id": "cof-a-coruna-C-338-F",
+    "cofm_id": null,
+    "nombre": "MARIÑO DE BRICIO, DAVID",
+    "direccion": "Aguiño - Sálvora 100",
+    "localidad": "Ribeira",
+    "provincia": "A Coruña",
+    "telefono": "981840546",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Ribeira"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-28T22:00:00",
+        "tipo": "Diurno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno: 09:00 - 22:00"
+    ],
+    "guardia_franja": "Diurno: 09:00 - 22:00"
+  },
+  {
+    "id": "cof-a-coruna-C-240-F",
+    "cofm_id": null,
+    "nombre": "MARTÍN MARIÑO, JACOBO",
+    "direccion": "Alfonso Senra  139",
+    "localidad": "Ordes",
+    "provincia": "A Coruña",
+    "telefono": "981680737",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Ordes"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-28T22:00:00",
+        "tipo": "Diurno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno: 09:00 - 22:00"
+    ],
+    "guardia_franja": "Diurno: 09:00 - 22:00"
+  },
+  {
+    "id": "cof-a-coruna-C-312-F",
+    "cofm_id": null,
+    "nombre": "MARTÍNEZ PÉREZ, MARTA",
+    "direccion": "Ronda de Outeiro 261",
+    "localidad": "A Coruña",
+    "provincia": "A Coruña",
+    "telefono": "981252029",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "A Coruña"
+    ],
+    "lat": 43.3622919,
+    "lng": -8.4227178,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:30:00",
+        "fin_original": "2026-11-28T22:00:00",
+        "tipo": "Diurno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno: 09:30 - 22:00"
+    ],
+    "guardia_franja": "Diurno: 09:30 - 22:00",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/473206328",
+    "nota_ubicacion": "Ubicación contrastada: una farmacia de OpenStreetMap y una fuente independiente coinciden a 9.4 m.",
+    "osm_id": "osm-473206328",
+    "ajuste_ubicacion_m": 9.4
+  },
+  {
+    "id": "cof-a-coruna-C-099-F",
+    "cofm_id": null,
+    "nombre": "MARTÍNEZ VILLAR, MARÍA DEL CARMEN",
+    "direccion": "Real 165",
+    "localidad": "Ferrol",
+    "provincia": "A Coruña",
+    "telefono": "981352034",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Ferrol"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-28T22:00:00",
+        "tipo": "Diurno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno: 09:00 - 22:00"
+    ],
+    "guardia_franja": "Diurno: 09:00 - 22:00"
+  },
+  {
+    "id": "cof-a-coruna-C-520-F",
+    "cofm_id": null,
+    "nombre": "MARTINEZ-REBOREDO FERREIRO, NATALIA",
+    "direccion": "O Milladoiro - Rúa de Abaixo 21",
+    "localidad": "Ames",
+    "provincia": "A Coruña",
+    "telefono": "981943585",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Ames"
+    ],
+    "lat": 42.847363,
+    "lng": -8.577659,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-28T22:00:00",
+        "tipo": "Diurno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno: 09:00 - 22:00"
+    ],
+    "guardia_franja": "Diurno: 09:00 - 22:00",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofc.es/farmacia/index",
+    "ajuste_ubicacion_m": 10.3,
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/1324712650",
+    "nota_ubicacion": "Coordenada del Colegio contrastada con farmacia OSM a 10.3 m."
+  },
+  {
+    "id": "cof-a-coruna-C-267-F",
+    "cofm_id": null,
+    "nombre": "MAYÁN BARREIRO, MARÍA",
+    "direccion": "Av. de Galicia 24",
+    "localidad": "Porto do Son",
+    "provincia": "A Coruña",
+    "telefono": "981853426",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Porto do Son"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:30:00",
+        "fin_original": "2026-11-28T22:00:00",
+        "tipo": "Diurno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno: 09:30 - 22:00"
+    ],
+    "guardia_franja": "Diurno: 09:30 - 22:00"
+  },
+  {
+    "id": "cof-a-coruna-C-022-F",
+    "cofm_id": null,
+    "nombre": "MOSTEIRO NOAIN, MIGUEL",
+    "direccion": "Av. Labañou 5 - Grupo María Pita",
+    "localidad": "A Coruña",
+    "provincia": "A Coruña",
+    "telefono": "981253237",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "A Coruña"
+    ],
+    "lat": 43.3739267,
+    "lng": -8.4229798,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-28T22:00:00",
+        "tipo": "Diurno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno: 09:00 - 22:00"
+    ],
+    "guardia_franja": "Diurno: 09:00 - 22:00",
+    "precision_ubicacion": "direccion",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/7653311078",
+    "nota_ubicacion": "OpenStreetMap y CartoCiudad (IGN) sitúan esta dirección a menos de 15 m entre sí.",
+    "ajuste_ubicacion_m": 1.2
+  },
+  {
+    "id": "cof-a-coruna-C-098-F",
+    "cofm_id": null,
+    "nombre": "NOVO PIÑÓN, Mª DE LOS REYES",
+    "direccion": "Real 94",
+    "localidad": "Ferrol",
+    "provincia": "A Coruña",
+    "telefono": "981364089",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Ferrol"
+    ],
+    "lat": 43.4836,
+    "lng": -8.234046,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-28T22:30:00",
+        "inicio_original": "2026-11-28T09:30:00",
+        "fin_original": "2026-11-28T22:30:00",
+        "tipo": "Diurno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno: 09:30 - 22:30"
+    ],
+    "guardia_franja": "Diurno: 09:30 - 22:30",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofc.es/farmacia/index",
+    "ajuste_ubicacion_m": 8.3,
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/429418247",
+    "nota_ubicacion": "Coordenada del Colegio contrastada con farmacia OSM a 8.3 m."
+  },
+  {
+    "id": "cof-a-coruna-C-058-F",
+    "cofm_id": null,
+    "nombre": "PASTOR FONTAO, MARÍA TERESA",
+    "direccion": "Paseo de los Puentes 10",
+    "localidad": "A Coruña",
+    "provincia": "A Coruña",
+    "telefono": "881912845",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "A Coruña"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-28T22:00:00",
+        "tipo": "Diurno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno: 09:00 - 22:00"
+    ],
+    "guardia_franja": "Diurno: 09:00 - 22:00"
+  },
+  {
+    "id": "cof-a-coruna-C-326-F",
+    "cofm_id": null,
+    "nombre": "PEDREIRA PÉREZ, MARÍA E. Y PEDREIRA PÉREZ, BEATRIZ",
+    "direccion": "Gramela 28",
+    "localidad": "A Coruña",
+    "provincia": "A Coruña",
+    "telefono": "981255147",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "A Coruña"
+    ],
+    "lat": 43.3618195,
+    "lng": -8.4182396,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-28T22:00:00",
+        "tipo": "Diurno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno: 09:00 - 22:00"
+    ],
+    "guardia_franja": "Diurno: 09:00 - 22:00",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/1450630805",
+    "nota_ubicacion": "Ubicación contrastada: una farmacia de OpenStreetMap y una fuente independiente coinciden a 7.8 m.",
+    "osm_id": "osm-1450630805",
+    "ajuste_ubicacion_m": 7.8
+  },
+  {
+    "id": "cof-a-coruna-C-043-F",
+    "cofm_id": null,
+    "nombre": "RASCÓN ECHAVE, MIGUEL",
+    "direccion": "Juan Flórez 79-81",
+    "localidad": "A Coruña",
+    "provincia": "A Coruña",
+    "telefono": "881126573",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "A Coruña"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-28T22:00:00",
+        "tipo": "Diurno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno: 09:00 - 22:00"
+    ],
+    "guardia_franja": "Diurno: 09:00 - 22:00"
+  },
+  {
+    "id": "cof-a-coruna-C-079-F",
+    "cofm_id": null,
+    "nombre": "RIVERA PÉREZ-SALVATIERRA, PATRICIA VICTORIA",
+    "direccion": "Real 92",
+    "localidad": "A Coruña",
+    "provincia": "A Coruña",
+    "telefono": "981222134",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "A Coruña"
+    ],
+    "lat": 43.3691826,
+    "lng": -8.4018634,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:30:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-28T22:30:00",
+        "tipo": "Diurno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno: 09:00 - 22:30"
+    ],
+    "guardia_franja": "Diurno: 09:00 - 22:30",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/3632090182",
+    "nota_ubicacion": "Ubicación contrastada: una farmacia de OpenStreetMap y una fuente independiente coinciden a 7.0 m.",
+    "osm_id": "osm-3632090182",
+    "ajuste_ubicacion_m": 7.0
+  },
+  {
+    "id": "cof-a-coruna-C-208-F",
+    "cofm_id": null,
+    "nombre": "RODRÍGUEZ PONSETI, CIPRIANO Y RODRÍGUEZ DOPICO, LUCÍA",
+    "direccion": "A Picota",
+    "localidad": "Mazaricos",
+    "provincia": "A Coruña",
+    "telefono": "981852051",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Mazaricos"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:30:00",
+        "fin_original": "2026-11-28T22:00:00",
+        "tipo": "Diurno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno: 09:30 - 22:00"
+    ],
+    "guardia_franja": "Diurno: 09:30 - 22:00"
+  },
+  {
+    "id": "cof-a-coruna-C-276-F",
+    "cofm_id": null,
+    "nombre": "SABORIDO QUINTELA, JUAN MANUEL",
+    "direccion": "Av. do Malecón 1",
+    "localidad": "Ribeira",
+    "provincia": "A Coruña",
+    "telefono": "981873657",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Ribeira"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-28T22:00:00",
+        "tipo": "Diurno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno: 09:00 - 22:00"
+    ],
+    "guardia_franja": "Diurno: 09:00 - 22:00"
+  },
+  {
+    "id": "cof-a-coruna-C-067-F",
+    "cofm_id": null,
+    "nombre": "VARELA SÁNCHEZ-CABALLERO, CARLOS Y VARELA SÁNCHEZ-CABALLERO, LUIS MARIANO",
+    "direccion": "Av. de Arteixo 109",
+    "localidad": "A Coruña",
+    "provincia": "A Coruña",
+    "telefono": "981232712",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "A Coruña"
+    ],
+    "lat": 43.354949,
+    "lng": -8.4138043,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:30:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-28T22:30:00",
+        "tipo": "Diurno"
+      }
+    ],
+    "guardia_franjas": [
+      "Diurno: 09:00 - 22:30"
+    ],
+    "guardia_franja": "Diurno: 09:00 - 22:30",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/3520680459",
+    "nota_ubicacion": "Ubicación contrastada: una farmacia de OpenStreetMap y una fuente independiente coinciden a 7.8 m.",
+    "osm_id": "osm-3520680459",
+    "ajuste_ubicacion_m": 7.8
+  },
+  {
+    "id": "cof-a-coruna-C-398-F",
+    "cofm_id": null,
+    "nombre": "BARREIRO VILAS, BEATRIZ",
+    "direccion": "O Milladoiro - Av. Rosalía de Castro 62 Bajo",
+    "localidad": "Ames",
+    "provincia": "A Coruña",
+    "telefono": "981530956",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Ames"
+    ],
+    "lat": 42.842587,
+    "lng": -8.578509,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T14:00:00",
+        "inicio_original": "2026-11-28T00:00:00",
+        "fin_original": "2026-11-28T14:00:00",
+        "tipo": "Nocturno"
+      },
+      {
+        "inicio": "2026-11-28T22:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T22:00:00",
+        "fin_original": "2026-11-29T09:30:00",
+        "tipo": "Nocturno"
+      }
+    ],
+    "guardia_franjas": [
+      "Nocturno: 00:00 - 14:00; 22:00 - 09:30 (día posterior)"
+    ],
+    "guardia_franja": "Nocturno: 00:00 - 14:00; 22:00 - 09:30 (día posterior)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofc.es/farmacia/index",
+    "ajuste_ubicacion_m": 9.5,
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/3285713071",
+    "nota_ubicacion": "Coordenada del Colegio contrastada con farmacia OSM a 9.5 m."
+  },
+  {
+    "id": "cof-a-coruna-C-081-F",
+    "cofm_id": null,
+    "nombre": "CRIADO ROMERO, ALMUDENA",
+    "direccion": "Carretera de Catabois 373 - Esq. Sagrada Familia",
+    "localidad": "Ferrol",
+    "provincia": "A Coruña",
+    "telefono": "981316802",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Ferrol"
+    ],
+    "lat": 43.499967,
+    "lng": -8.224427,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-28T14:00:00",
+        "inicio_original": "2026-11-28T09:30:00",
+        "fin_original": "2026-11-28T14:00:00",
+        "tipo": "Nocturno"
+      },
+      {
+        "inicio": "2026-11-28T22:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T22:00:00",
+        "fin_original": "2026-11-29T09:30:00",
+        "tipo": "Nocturno"
+      }
+    ],
+    "guardia_franjas": [
+      "Nocturno: 09:30 - 14:00; 22:00 - 09:30 (día posterior)"
+    ],
+    "guardia_franja": "Nocturno: 09:30 - 14:00; 22:00 - 09:30 (día posterior)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofc.es/farmacia/index",
+    "ajuste_ubicacion_m": 7.6,
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/4101920320",
+    "nota_ubicacion": "Coordenada del Colegio contrastada con farmacia OSM a 7.6 m."
+  },
+  {
+    "id": "cof-a-coruna-C-445-F",
+    "cofm_id": null,
+    "nombre": "LEMA TRILLO, IRMA Y VILAR PAN, MÓNICA",
+    "direccion": "Rúa Santiago Apóstol 38",
+    "localidad": "Ordes",
+    "provincia": "A Coruña",
+    "telefono": "981692740",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Ordes"
+    ],
+    "lat": 43.150509,
+    "lng": -8.384655,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:30:00",
+        "inicio_original": "2026-11-28T00:00:00",
+        "fin_original": "2026-11-28T09:30:00",
+        "tipo": "Nocturno"
+      },
+      {
+        "inicio": "2026-11-28T10:00:00",
+        "fin": "2026-11-28T14:00:00",
+        "inicio_original": "2026-11-28T10:00:00",
+        "fin_original": "2026-11-28T14:00:00",
+        "tipo": "Nocturno"
+      },
+      {
+        "inicio": "2026-11-28T22:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T22:00:00",
+        "fin_original": "2026-11-29T09:30:00",
+        "tipo": "Nocturno"
+      }
+    ],
+    "guardia_franjas": [
+      "Nocturno: 00:00 - 09:30; 10:00 - 14:00; 22:00 - 09:30 (día posterior)"
+    ],
+    "guardia_franja": "Nocturno: 00:00 - 09:30; 10:00 - 14:00; 22:00 - 09:30 (día posterior)",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.cofc.es/farmacia/index",
+    "ajuste_ubicacion_m": 3.2,
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/2769744374",
+    "nota_ubicacion": "Coordenada del Colegio contrastada con farmacia OSM a 3.2 m."
+  },
+  {
+    "id": "cof-a-coruna-C-082-F",
+    "cofm_id": null,
+    "nombre": "RUBIERO NÚÑEZ, CAROLINA",
+    "direccion": "Plaza de España 14-15",
+    "localidad": "Ferrol",
+    "provincia": "A Coruña",
+    "telefono": "981311499",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Ferrol"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:30:00",
+        "inicio_original": "2026-11-28T00:00:00",
+        "fin_original": "2026-11-28T09:30:00",
+        "tipo": "Nocturno"
+      },
+      {
+        "inicio": "2026-11-28T10:00:00",
+        "fin": "2026-11-28T14:00:00",
+        "inicio_original": "2026-11-28T10:00:00",
+        "fin_original": "2026-11-28T14:00:00",
+        "tipo": "Nocturno"
+      }
+    ],
+    "guardia_franjas": [
+      "Nocturno: 00:00 - 09:30; 10:00 - 14:00"
+    ],
+    "guardia_franja": "Nocturno: 00:00 - 09:30; 10:00 - 14:00"
+  },
+  {
+    "id": "cof-a-coruna-C-441-F",
+    "cofm_id": null,
+    "nombre": "SUÁREZ-JUEGA OTERO, SANTIAGO",
+    "direccion": "Castiñeiras - Fonte Nova 1",
+    "localidad": "Ribeira",
+    "provincia": "A Coruña",
+    "telefono": "981841976",
+    "guardia": true,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Ribeira"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:30:00",
+        "inicio_original": "2026-11-28T00:00:00",
+        "fin_original": "2026-11-28T09:30:00",
+        "tipo": "Nocturno"
+      },
+      {
+        "inicio": "2026-11-28T10:00:00",
+        "fin": "2026-11-28T14:00:00",
+        "inicio_original": "2026-11-28T10:00:00",
+        "fin_original": "2026-11-28T14:00:00",
+        "tipo": "Nocturno"
+      },
+      {
+        "inicio": "2026-11-28T22:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T22:00:00",
+        "fin_original": "2026-11-29T09:30:00",
+        "tipo": "Nocturno"
+      }
+    ],
+    "guardia_franjas": [
+      "Nocturno: 00:00 - 09:30; 10:00 - 14:00; 22:00 - 09:30 (día posterior)"
+    ],
+    "guardia_franja": "Nocturno: 00:00 - 09:30; 10:00 - 14:00; 22:00 - 09:30 (día posterior)"
+  }
+]

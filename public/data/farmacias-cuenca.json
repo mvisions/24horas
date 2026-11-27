@@ -81,13 +81,13 @@
       "Buenache De Alarcon"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T10:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
         "inicio_original": "2026-11-27T10:00:00",
         "fin_original": "2026-11-30T10:00:00"
       }
@@ -149,13 +149,13 @@
       "Cañada Juncosa"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
         "inicio_original": "2026-11-23T10:00:00",
         "fin_original": "2026-11-30T10:00:00"
       }
@@ -183,13 +183,13 @@
       "Cañete"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
         "inicio_original": "2026-11-25T10:00:00",
         "fin_original": "2026-12-02T10:00:00"
       }
@@ -217,13 +217,13 @@
       "Cardenete"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
         "inicio_original": "2026-11-23T10:00:00",
         "fin_original": "2026-11-30T10:00:00"
       }
@@ -251,13 +251,13 @@
       "Casasimarro"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
         "inicio_original": "2026-11-23T09:30:00",
         "fin_original": "2026-11-30T09:30:00"
       }
@@ -455,32 +455,32 @@
       "Huete"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-27T10:00:00",
-        "inicio_original": "2026-11-26T10:00:00",
-        "fin_original": "2026-11-27T10:00:00"
-      },
-      {
-        "inicio": "2026-11-27T10:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T10:00:00",
         "inicio_original": "2026-11-27T10:00:00",
         "fin_original": "2026-11-28T10:00:00"
+      },
+      {
+        "inicio": "2026-11-28T10:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T10:00:00",
+        "fin_original": "2026-11-29T10:00:00"
       }
     ],
     "guardia_franjas": [
-      "26/11/2026 10:00–27/11/2026 10:00",
-      "27/11/2026 10:00–28/11/2026 10:00"
+      "27/11/2026 10:00–28/11/2026 10:00",
+      "28/11/2026 10:00–29/11/2026 10:00"
     ],
     "lat": 40.1447231,
     "lng": -2.6892676,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "26/11/2026 10:00–27/11/2026 10:00 · 27/11/2026 10:00–28/11/2026 10:00"
+    "guardia_franja": "27/11/2026 10:00–28/11/2026 10:00 · 28/11/2026 10:00–29/11/2026 10:00"
   },
   {
     "id": "cof-cuenca-CU-0031-F",
@@ -564,13 +564,13 @@
       "Motilla Del Palancar"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
         "inicio_original": "2026-11-25T09:00:00",
         "fin_original": "2026-12-02T09:00:00"
       }
@@ -598,32 +598,32 @@
       "Pedroñeras, Las"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-27T09:00:00",
-        "inicio_original": "2026-11-23T09:00:00",
-        "fin_original": "2026-11-27T09:00:00"
-      },
-      {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:30:00",
         "inicio_original": "2026-11-27T09:00:00",
         "fin_original": "2026-11-28T09:30:00"
+      },
+      {
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T09:30:00",
+        "fin_original": "2026-11-29T09:00:00"
       }
     ],
     "guardia_franjas": [
-      "23/11/2026 09:00–27/11/2026 09:00",
-      "27/11/2026 09:00–28/11/2026 09:30"
+      "27/11/2026 09:00–28/11/2026 09:30",
+      "28/11/2026 09:30–29/11/2026 09:00"
     ],
     "lat": 39.45148116,
     "lng": -2.67464331,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "23/11/2026 09:00–27/11/2026 09:00 · 27/11/2026 09:00–28/11/2026 09:30"
+    "guardia_franja": "27/11/2026 09:00–28/11/2026 09:30 · 28/11/2026 09:30–29/11/2026 09:00"
   },
   {
     "id": "cof-cuenca-CU-0114-F",
@@ -707,25 +707,32 @@
       "Quintanar Del Rey"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:30:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T10:00:00",
         "inicio_original": "2026-11-27T09:30:00",
         "fin_original": "2026-11-28T10:00:00"
+      },
+      {
+        "inicio": "2026-11-28T10:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T10:00:00",
+        "fin_original": "2026-11-29T09:30:00"
       }
     ],
     "guardia_franjas": [
-      "27/11/2026 09:30–28/11/2026 10:00"
+      "27/11/2026 09:30–28/11/2026 10:00",
+      "28/11/2026 10:00–29/11/2026 09:30"
     ],
     "lat": 39.34132715,
     "lng": -1.92780512,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "27/11/2026 09:30–28/11/2026 10:00"
+    "guardia_franja": "27/11/2026 09:30–28/11/2026 10:00 · 28/11/2026 10:00–29/11/2026 09:30"
   },
   {
     "id": "cof-cuenca-CU-0052-F",
@@ -741,13 +748,13 @@
       "San Clemente"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
         "inicio_original": "2026-11-27T09:00:00",
         "fin_original": "2026-12-04T09:00:00"
       }
@@ -809,25 +816,25 @@
       "Tarancon"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00",
-        "fin": "2026-11-26T09:30:00",
-        "inicio_original": "2026-11-25T09:30:00",
-        "fin_original": "2026-11-26T09:30:00"
+        "inicio": "2026-11-28T10:00:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T10:00:00",
+        "fin_original": "2026-11-28T22:00:00"
       }
     ],
     "guardia_franjas": [
-      "25/11/2026 09:30–26/11/2026 09:30"
+      "28/11/2026 10:00–28/11/2026 22:00"
     ],
     "lat": 40.00971101,
     "lng": -3.01288135,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "25/11/2026 09:30–26/11/2026 09:30"
+    "guardia_franja": "28/11/2026 10:00–28/11/2026 22:00"
   },
   {
     "id": "cof-cuenca-CU-0074-F",
@@ -1081,13 +1088,13 @@
       "Enguidanos"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
         "inicio_original": "2026-11-23T10:00:00",
         "fin_original": "2026-11-30T10:00:00"
       }
@@ -1149,13 +1156,13 @@
       "Horcajo De Santiago"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
         "inicio_original": "2026-11-23T10:00:00",
         "fin_original": "2026-11-30T10:00:00"
       }
@@ -1217,13 +1224,13 @@
       "Mota Del Cuervo"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
         "inicio_original": "2026-11-23T09:00:00",
         "fin_original": "2026-11-30T09:00:00"
       }
@@ -1489,13 +1496,13 @@
       "Beteta"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T10:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
         "inicio_original": "2026-11-27T10:00:00",
         "fin_original": "2026-11-30T10:00:00"
       }
@@ -1829,25 +1836,32 @@
       "Cañaveras"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T10:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T10:00:00",
         "inicio_original": "2026-11-27T10:00:00",
         "fin_original": "2026-11-28T10:00:00"
+      },
+      {
+        "inicio": "2026-11-28T10:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T10:00:00",
+        "fin_original": "2026-11-29T10:00:00"
       }
     ],
     "guardia_franjas": [
-      "27/11/2026 10:00–28/11/2026 10:00"
+      "27/11/2026 10:00–28/11/2026 10:00",
+      "28/11/2026 10:00–29/11/2026 10:00"
     ],
     "lat": 40.35971895,
     "lng": -2.39698355,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "27/11/2026 10:00–28/11/2026 10:00"
+    "guardia_franja": "27/11/2026 10:00–28/11/2026 10:00 · 28/11/2026 10:00–29/11/2026 10:00"
   },
   {
     "id": "cof-cuenca-CU-0005-F",
@@ -1863,25 +1877,25 @@
       "Cuenca"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-16",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-16T09:30:00",
-        "fin": "2026-11-16T21:30:00",
-        "inicio_original": "2026-11-16T09:30:00",
-        "fin_original": "2026-11-16T21:30:00"
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-28T21:30:00",
+        "inicio_original": "2026-11-28T09:30:00",
+        "fin_original": "2026-11-28T21:30:00"
       }
     ],
     "guardia_franjas": [
-      "16/11/2026 09:30–16/11/2026 21:30"
+      "28/11/2026 09:30–28/11/2026 21:30"
     ],
     "lat": 40.07116564,
     "lng": -2.13653476,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "16/11/2026 09:30–16/11/2026 21:30"
+    "guardia_franja": "28/11/2026 09:30–28/11/2026 21:30"
   },
   {
     "id": "cof-cuenca-CU-0179-F",
@@ -2101,13 +2115,13 @@
       "Cuenca"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:30:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:30:00",
         "inicio_original": "2026-11-27T09:30:00",
         "fin_original": "2026-11-28T09:30:00"
       }
@@ -3189,25 +3203,32 @@
       "Villares Del Saz"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T10:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T10:00:00",
         "inicio_original": "2026-11-27T10:00:00",
         "fin_original": "2026-11-28T10:00:00"
+      },
+      {
+        "inicio": "2026-11-28T10:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T10:00:00",
+        "fin_original": "2026-11-29T10:00:00"
       }
     ],
     "guardia_franjas": [
-      "27/11/2026 10:00–28/11/2026 10:00"
+      "27/11/2026 10:00–28/11/2026 10:00",
+      "28/11/2026 10:00–29/11/2026 10:00"
     ],
     "lat": 39.83978194,
     "lng": -2.50547435,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "27/11/2026 10:00–28/11/2026 10:00"
+    "guardia_franja": "27/11/2026 10:00–28/11/2026 10:00 · 28/11/2026 10:00–29/11/2026 10:00"
   },
   {
     "id": "cof-cuenca-CU-0144-F",
@@ -3495,13 +3516,13 @@
       "Tarancon"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:30:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T10:00:00",
         "inicio_original": "2026-11-27T09:30:00",
         "fin_original": "2026-11-28T10:00:00"
       }
@@ -4107,25 +4128,25 @@
       "Tarancon"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-23",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-23T00:00:00",
-        "fin": "2026-11-23T09:30:00",
-        "inicio_original": "2026-11-22T09:30:00",
-        "fin_original": "2026-11-23T09:30:00"
+        "inicio": "2026-11-28T22:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T22:00:00",
+        "fin_original": "2026-11-29T09:30:00"
       }
     ],
     "guardia_franjas": [
-      "22/11/2026 09:30–23/11/2026 09:30"
+      "28/11/2026 22:00–29/11/2026 09:30"
     ],
     "lat": 40.01253112,
     "lng": -3.01849587,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "22/11/2026 09:30–23/11/2026 09:30"
+    "guardia_franja": "28/11/2026 22:00–29/11/2026 09:30"
   },
   {
     "id": "cof-cuenca-CU-0012-F",
@@ -4277,13 +4298,13 @@
       "Landete"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
         "inicio_original": "2026-11-23T10:00:00",
         "fin_original": "2026-11-30T10:00:00"
       }
@@ -4311,13 +4332,13 @@
       "Ledaña"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
         "inicio_original": "2026-11-23T10:00:00",
         "fin_original": "2026-11-30T10:00:00"
       }
@@ -4379,13 +4400,13 @@
       "Minglanilla"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
         "inicio_original": "2026-11-23T10:00:00",
         "fin_original": "2026-11-30T10:00:00"
       }
@@ -4413,13 +4434,13 @@
       "Palomares Del Campo"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
         "inicio_original": "2026-11-23T10:00:00",
         "fin_original": "2026-11-30T10:00:00"
       }
@@ -4515,13 +4536,13 @@
       "Tebar"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
         "inicio_original": "2026-11-23T10:00:00",
         "fin_original": "2026-11-30T10:00:00"
       }
@@ -4549,13 +4570,13 @@
       "Villalba De La Sierra"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
         "inicio_original": "2026-11-23T10:00:00",
         "fin_original": "2026-11-30T10:00:00"
       }
@@ -4636,5 +4657,73 @@
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_franja": "25/11/2026 09:30–26/11/2026 09:30"
+  },
+  {
+    "id": "cof-cuenca-CU-0167-F",
+    "nombre": "ANA MARIA SERRANO NAVARRO",
+    "direccion": "Calle HERMANOS BECERRIL 3",
+    "localidad": "Cuenca",
+    "sector": "",
+    "provincia": "Cuenca",
+    "telefono": "969231758",
+    "telefonos_adicionales": [],
+    "zona": "CUENCA",
+    "localidades_atendidas": [
+      "Cuenca"
+    ],
+    "guardia": false,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T09:30:00",
+        "fin_original": "2026-11-29T09:30:00"
+      }
+    ],
+    "guardia_franjas": [
+      "28/11/2026 09:30–29/11/2026 09:30"
+    ],
+    "lat": 40.0659832,
+    "lng": -2.13403879,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "28/11/2026 09:30–29/11/2026 09:30"
+  },
+  {
+    "id": "cof-cuenca-CU-0032-F",
+    "nombre": "VIRGINIA LÓPEZ ANTEQUERA",
+    "direccion": "Calle JOSE ANTONIO 2",
+    "localidad": "Villaescusa De Haro",
+    "sector": "",
+    "provincia": "Cuenca",
+    "telefono": "967168544",
+    "telefonos_adicionales": [],
+    "zona": "BELMONTE",
+    "localidades_atendidas": [
+      "Villaescusa De Haro"
+    ],
+    "guardia": false,
+    "fecha_guardia": "2026-11-28",
+    "fuente": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_localizada": false,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T10:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T10:00:00",
+        "fin_original": "2026-11-30T10:00:00"
+      }
+    ],
+    "guardia_franjas": [
+      "28/11/2026 10:00–30/11/2026 10:00"
+    ],
+    "lat": 39.59712461,
+    "lng": -2.67356067,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
+    "guardia_franja": "28/11/2026 10:00–30/11/2026 10:00"
   }
 ]

@@ -61,7 +61,7 @@
     "provincia": "Melilla",
     "guardia": false,
     "guardia_franja": "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono. · Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre.",
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
     "lat": null,
     "lng": null,
@@ -108,7 +108,7 @@
     "provincia": "Melilla",
     "guardia": false,
     "guardia_franja": "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono.",
-    "fecha_guardia": "2026-11-03",
+    "fecha_guardia": "2026-11-28",
     "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
     "lat": 35.2952772,
     "lng": -2.943306,
@@ -121,7 +121,8 @@
     "nombre": "Fernando Sanchez Ortega",
     "telefono": "952690632",
     "precision_ubicacion": "farmacia",
-    "fuente_coordenadas": "https://www.openstreetmap.org"
+    "fuente_coordenadas": "https://www.openstreetmap.org",
+    "nota_ubicacion": null
   },
   {
     "id": "52-52000004",

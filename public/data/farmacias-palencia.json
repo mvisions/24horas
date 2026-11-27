@@ -61,29 +61,15 @@
   },
   {
     "id": "cof-palencia-13af108029d828d5",
-    "nombre": "Rafael Becerril Ramos",
-    "direccion": "C/ Colón, nº 20",
+    "nombre": "BECERRIL RAMOS, RAFAEL",
+    "direccion": "C/ COLON, 20",
     "localidad": "Palencia",
     "provincia": "Palencia",
-    "fuente": "https://www.cofpalencia.org/PUBLICO/CALENDARIOS%20DE%20GUARDIA/calendarios%20de%20guardias%2025.pdf",
-    "lat": 42.0074447,
-    "lng": -4.531163,
+    "fuente": "https://www.cofpalencia.org/PUBLICO/FARMACIA/capital.htm",
+    "lat": null,
+    "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
-    "localidades_atendidas": [
-      "Palencia"
-    ],
-    "provincias_atendidas": [
-      "Palencia"
-    ],
-    "guardia_intervalos": [],
-    "guardia_franjas": [
-      "Guardia diurna · Palencia · Horario exacto pendiente; confirmar por teléfono"
-    ],
-    "guardia_franja": "Guardia diurna · Palencia · Horario exacto pendiente; confirmar por teléfono",
-    "telefono": "979706277",
-    "precision_ubicacion": "farmacia",
-    "fuente_coordenadas": "https://www.openstreetmap.org"
+    "telefono": "979706277"
   },
   {
     "id": "cof-palencia-ca3224e529118bc3",
@@ -102,31 +88,14 @@
   },
   {
     "id": "cof-palencia-802740223c13fb46",
-    "nombre": "Carmen Calvo Garcia",
-    "direccion": "C/Don Pelayo nº18",
+    "nombre": "CALVO GARCIA, CARMEN",
+    "direccion": "C/ DON PELAYO, 18",
     "localidad": "Palencia",
     "provincia": "Palencia",
-    "fuente": "https://www.cofpalencia.org/PUBLICO/CALENDARIOS%20DE%20GUARDIA/calendarios%20de%20guardias%2025.pdf",
+    "fuente": "https://www.cofpalencia.org/PUBLICO/FARMACIA/capital.htm",
     "lat": 42.0184185,
     "lng": -4.533055,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
-    "localidades_atendidas": [
-      "Palencia"
-    ],
-    "provincias_atendidas": [
-      "Palencia"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-27T00:00:00+01:00",
-        "fin": "2026-11-27T10:00:00+01:00"
-      }
-    ],
-    "guardia_franjas": [
-      "Madrugada del día anterior · Palencia · 00:00–10:00"
-    ],
-    "guardia_franja": "Madrugada del día anterior · Palencia · 00:00–10:00",
     "telefono": "979741410",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org"
@@ -375,7 +344,7 @@
     "lat": 42.0079184,
     "lng": -4.5260357,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "localidades_atendidas": [
       "Palencia"
     ],
@@ -384,14 +353,14 @@
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T22:00:00+01:00",
+        "inicio": "2026-11-28T00:00:00+01:00",
         "fin": "2026-11-28T10:00:00+01:00"
       }
     ],
     "guardia_franjas": [
-      "Guardia nocturna · Palencia · 22:00–10:00"
+      "Madrugada del día anterior · Palencia · 00:00–10:00"
     ],
-    "guardia_franja": "Guardia nocturna · Palencia · 22:00–10:00",
+    "guardia_franja": "Madrugada del día anterior · Palencia · 00:00–10:00",
     "telefono": "979722626",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org"
@@ -596,18 +565,34 @@
   },
   {
     "id": "cof-palencia-4ec27a55dcf49b58",
-    "nombre": "VELASCO VELASCO MARIA BEGOÑA",
-    "direccion": "PASEO DEL OTERO, 65",
+    "nombre": "Velasco Velasco",
+    "direccion": "Paseo del Otero,65",
     "localidad": "Palencia",
     "provincia": "Palencia",
-    "fuente": "https://www.cofpalencia.org/PUBLICO/FARMACIA/capital.htm",
+    "fuente": "https://www.cofpalencia.org/PUBLICO/CALENDARIOS%20DE%20GUARDIA/calendarios%20de%20guardias%2025.pdf",
     "lat": 42.0220043,
     "lng": -4.5330256,
     "guardia": false,
+    "fecha_guardia": "2026-11-28",
+    "localidades_atendidas": [
+      "Palencia"
+    ],
+    "provincias_atendidas": [
+      "Palencia"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T22:00:00+01:00",
+        "fin": "2026-11-29T10:00:00+01:00"
+      }
+    ],
+    "guardia_franjas": [
+      "Guardia nocturna · Palencia · 22:00–10:00"
+    ],
+    "guardia_franja": "Guardia nocturna · Palencia · 22:00–10:00",
     "telefono": "979743524",
     "precision_ubicacion": "farmacia",
-    "fuente_coordenadas": "https://www.openstreetmap.org",
-    "nota_ubicacion": null
+    "fuente_coordenadas": "https://www.openstreetmap.org"
   },
   {
     "id": "cof-palencia-29b4e499e44640f5",
@@ -619,7 +604,7 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "localidades_atendidas": [
       "Carrión de los Condes",
       "Saldaña"
@@ -629,16 +614,16 @@
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T10:00:00+01:00",
-        "fin": "2026-11-27T22:00:00+01:00"
+        "inicio": "2026-11-28T10:00:00+01:00",
+        "fin": "2026-11-28T22:00:00+01:00"
       },
       {
-        "inicio": "2026-11-27T22:00:00+01:00",
+        "inicio": "2026-11-28T22:00:00+01:00",
+        "fin": "2026-11-29T10:00:00+01:00"
+      },
+      {
+        "inicio": "2026-11-28T00:00:00+01:00",
         "fin": "2026-11-28T10:00:00+01:00"
-      },
-      {
-        "inicio": "2026-11-27T00:00:00+01:00",
-        "fin": "2026-11-27T10:00:00+01:00"
       }
     ],
     "guardia_franjas": [
@@ -690,7 +675,7 @@
     "lat": 42.5223357,
     "lng": -4.7371161,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "localidades_atendidas": [
       "Saldaña"
     ],
@@ -699,8 +684,8 @@
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T10:00:00+01:00",
-        "fin": "2026-11-27T22:00:00+01:00"
+        "inicio": "2026-11-28T10:00:00+01:00",
+        "fin": "2026-11-28T22:00:00+01:00"
       }
     ],
     "guardia_franjas": [
@@ -750,7 +735,7 @@
     "lng": null,
     "guardia": false,
     "telefono": "979122092",
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "localidades_atendidas": [
       "Aguilar De Campoo"
     ],
@@ -775,7 +760,7 @@
     "lng": null,
     "guardia": false,
     "telefono": "979852603",
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "localidades_atendidas": [
       "Guardo"
     ],
@@ -906,7 +891,7 @@
     "lng": null,
     "guardia": false,
     "telefono": "979879015",
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "localidades_atendidas": [
       "Cervera De Pisuerga"
     ],
@@ -1088,7 +1073,7 @@
   },
   {
     "id": "cof-palencia-810249a959587526",
-    "nombre": "Francisco Garcia-Malvar Gutiérrez",
+    "nombre": "Garcia-Malvar Gutiérrez",
     "direccion": "Avda. de Madrid nº37",
     "localidad": "Palencia",
     "provincia": "Palencia",
@@ -1096,7 +1081,7 @@
     "lat": 41.9918109,
     "lng": -4.5175543,
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-28",
     "localidades_atendidas": [
       "Palencia"
     ],
@@ -1188,7 +1173,7 @@
     "lat": 42.0116694,
     "lng": -4.5337901,
     "guardia": false,
-    "fecha_guardia": "2026-11-25",
+    "fecha_guardia": "2026-11-28",
     "localidades_atendidas": [
       "Palencia"
     ],

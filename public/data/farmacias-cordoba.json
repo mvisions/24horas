@@ -15,7 +15,7 @@
       "FARMACIA DE GUARDIA HASTA LAS 22:00 HORAS",
       "FARMACIA DE GUARDIA TODA LA NOCHE"
     ],
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "lat": 38.0267633,
     "lng": -4.5247404,
     "fuente": "https://www.cofco.org/aplicaciones/guardias/farmacias2026.php",
@@ -62,7 +62,7 @@
       "FARMACIA DE GUARDIA HASTA LAS 22:00 HORAS",
       "FARMACIA DE GUARDIA TODA LA NOCHE"
     ],
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofco.org/aplicaciones/guardias/farmacias2026.php",
@@ -111,7 +111,7 @@
       "FARMACIA DE GUARDIA HASTA LAS 22:00 HORAS",
       "FARMACIA DE GUARDIA TODA LA NOCHE"
     ],
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofco.org/aplicaciones/guardias/farmacias2026.php",
@@ -133,7 +133,7 @@
       "FARMACIA DE GUARDIA HASTA LAS 22:00 HORAS",
       "FARMACIA DE GUARDIA TODA LA NOCHE"
     ],
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofco.org/aplicaciones/guardias/farmacias2026.php",
@@ -176,7 +176,7 @@
       "FARMACIA DE GUARDIA HASTA LAS 22:00 HORAS",
       "FARMACIA DE GUARDIA TODA LA NOCHE"
     ],
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofco.org/aplicaciones/guardias/farmacias2026.php",
@@ -314,7 +314,7 @@
       "FARMACIA DE GUARDIA HASTA LAS 22:00 HORAS",
       "FARMACIA DE GUARDIA TODA LA NOCHE"
     ],
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofco.org/aplicaciones/guardias/farmacias2026.php",
@@ -810,7 +810,7 @@
       "FARMACIA DE GUARDIA HASTA LAS 22:00 HORAS",
       "FARMACIA DE GUARDIA TODA LA NOCHE"
     ],
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-28",
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofco.org/aplicaciones/guardias/farmacias2026.php",
@@ -2325,9 +2325,7 @@
     "direccion": "RICARDO DELGADO VIZCAINO, S/N",
     "localidad": "La Granjuela",
     "localidades_atendidas": [
-      "LA GRANJUELA",
-      "LOS BLAZQUEZ",
-      "VALSEQUILLO"
+      "LA GRANJUELA"
     ],
     "sector": "",
     "provincia": "Córdoba",
@@ -2337,7 +2335,7 @@
       "FARMACIA DE GUARDIA HASTA LAS 22:00 HORAS",
       "FARMACIA DE GUARDIA TODA LA NOCHE"
     ],
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-28",
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofco.org/aplicaciones/guardias/farmacias2026.php",
@@ -3255,7 +3253,7 @@
       "FARMACIA DE GUARDIA HASTA LAS 22:00 HORAS",
       "FARMACIA DE GUARDIA TODA LA NOCHE"
     ],
-    "fecha_guardia": "2026-11-22",
+    "fecha_guardia": "2026-11-28",
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofco.org/aplicaciones/guardias/farmacias2026.php",
@@ -3295,13 +3293,14 @@
     "telefono": "957670793",
     "guardia": false,
     "guardia_franjas": [
-      "FARMACIA DE GUARDIA HASTA LAS 22:00 HORAS"
+      "FARMACIA DE GUARDIA HASTA LAS 22:00 HORAS",
+      "FARMACIA DE GUARDIA TODA LA NOCHE"
     ],
-    "fecha_guardia": "2026-11-25",
+    "fecha_guardia": "2026-11-28",
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofco.org/aplicaciones/guardias/farmacias2026.php",
-    "guardia_franja": "FARMACIA DE GUARDIA HASTA LAS 22:00 HORAS"
+    "guardia_franja": "FARMACIA DE GUARDIA HASTA LAS 22:00 HORAS · FARMACIA DE GUARDIA TODA LA NOCHE"
   },
   {
     "id": "cof-cordoba-394",
@@ -5108,7 +5107,7 @@
       "FARMACIA DE GUARDIA HASTA LAS 22:00 HORAS",
       "FARMACIA DE GUARDIA TODA LA NOCHE"
     ],
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "lat": 38.411254,
     "lng": -4.8973864,
     "fuente": "https://www.cofco.org/aplicaciones/guardias/farmacias2026.php",
@@ -5123,7 +5122,7 @@
     "direccion": "PLAZA DE JESUS, 11",
     "localidad": "Torrecampo",
     "localidades_atendidas": [
-      "TORRECAMPO"
+      "SANTA EUFEMIA"
     ],
     "sector": "",
     "provincia": "Córdoba",
@@ -5133,7 +5132,7 @@
       "FARMACIA DE GUARDIA HASTA LAS 22:00 HORAS",
       "FARMACIA DE GUARDIA TODA LA NOCHE"
     ],
-    "fecha_guardia": "2026-11-25",
+    "fecha_guardia": "2026-11-28",
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofco.org/aplicaciones/guardias/farmacias2026.php",

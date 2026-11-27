@@ -26,48 +26,48 @@
     "lng": -4.048571,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/",
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "27/11/2026: 00:00 — 09:00 · Zona Alto Pas",
-      "26/11/2026: 22:00 — 09:00 · Zona Bajo Pas",
+      "28/11/2026: 00:00 — 09:00 · Zona Alto Pas",
       "27/11/2026: 22:00 — 09:00 · Zona Bajo Pas",
-      "26/11/2026: 22:00 — 09:00 · Zona Bezana",
+      "28/11/2026: 22:00 — 09:00 · Zona Bajo Pas",
       "27/11/2026: 22:00 — 09:00 · Zona Bezana",
-      "26/11/2026: 09:00 — 09:00 · Zona Torrelavega",
+      "28/11/2026: 22:00 — 09:00 · Zona Bezana",
       "27/11/2026: 09:00 — 09:00 · Zona Torrelavega",
-      "26/11/2026: 22:00 — 09:00 · Zona Polanco · Suances · Altamira",
-      "27/11/2026: 22:00 — 09:00 · Zona Polanco · Suances · Altamira"
+      "28/11/2026: 09:00 — 09:00 · Zona Torrelavega",
+      "27/11/2026: 22:00 — 09:00 · Zona Polanco · Suances · Altamira",
+      "28/11/2026: 22:00 — 09:00 · Zona Polanco · Suances · Altamira"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-27T09:00:00",
-        "inicio_original": "2026-11-27T00:00:00",
-        "fin_original": "2026-11-27T09:00:00"
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
+        "inicio_original": "2026-11-28T00:00:00",
+        "fin_original": "2026-11-28T09:00:00"
       },
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-27T09:00:00",
-        "inicio_original": "2026-11-26T22:00:00",
-        "fin_original": "2026-11-27T09:00:00"
-      },
-      {
-        "inicio": "2026-11-27T22:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "inicio_original": "2026-11-27T22:00:00",
         "fin_original": "2026-11-28T09:00:00"
       },
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-27T09:00:00",
-        "inicio_original": "2026-11-26T09:00:00",
-        "fin_original": "2026-11-27T09:00:00"
+        "inicio": "2026-11-28T22:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T22:00:00",
+        "fin_original": "2026-11-29T09:00:00"
       },
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "inicio_original": "2026-11-27T09:00:00",
         "fin_original": "2026-11-28T09:00:00"
+      },
+      {
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-29T09:00:00"
       }
     ],
     "zonas_atendidas": [
@@ -80,7 +80,7 @@
     "localidades_atendidas": [
       "Torrelavega"
     ],
-    "guardia_franja": "27/11/2026: 00:00 — 09:00 · Zona Alto Pas · 26/11/2026: 22:00 — 09:00 · Zona Bajo Pas · 27/11/2026: 22:00 — 09:00 · Zona Bajo Pas · 26/11/2026: 22:00 — 09:00 · Zona Bezana · 27/11/2026: 22:00 — 09:00 · Zona Bezana · 26/11/2026: 09:00 — 09:00 · Zona Torrelavega · 27/11/2026: 09:00 — 09:00 · Zona Torrelavega · 26/11/2026: 22:00 — 09:00 · Zona Polanco · Suances · Altamira · 27/11/2026: 22:00 — 09:00 · Zona Polanco · Suances · Altamira"
+    "guardia_franja": "28/11/2026: 00:00 — 09:00 · Zona Alto Pas · 27/11/2026: 22:00 — 09:00 · Zona Bajo Pas · 28/11/2026: 22:00 — 09:00 · Zona Bajo Pas · 27/11/2026: 22:00 — 09:00 · Zona Bezana · 28/11/2026: 22:00 — 09:00 · Zona Bezana · 27/11/2026: 09:00 — 09:00 · Zona Torrelavega · 28/11/2026: 09:00 — 09:00 · Zona Torrelavega · 27/11/2026: 22:00 — 09:00 · Zona Polanco · Suances · Altamira · 28/11/2026: 22:00 — 09:00 · Zona Polanco · Suances · Altamira"
   },
   {
     "id": "cof-cantabria-6f39ed3113159383",
@@ -109,16 +109,16 @@
     "lng": -3.9393951,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/",
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "27/11/2026: 09:00 — 00:00 · Zona Alto Pas"
+      "28/11/2026: 09:00 — 00:00 · Zona Alto Pas"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-28T00:00:00",
-        "inicio_original": "2026-11-27T09:00:00",
-        "fin_original": "2026-11-28T00:00:00"
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-29T00:00:00"
       }
     ],
     "zonas_atendidas": [
@@ -127,7 +127,7 @@
     "localidades_atendidas": [
       "Iruz"
     ],
-    "guardia_franja": "27/11/2026: 09:00 — 00:00 · Zona Alto Pas"
+    "guardia_franja": "28/11/2026: 09:00 — 00:00 · Zona Alto Pas"
   },
   {
     "id": "cof-cantabria-573245595a325346",
@@ -170,16 +170,16 @@
     "lng": -3.9573355,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/",
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "27/11/2026: 09:00 — 22:00 · Zona Bajo Pas"
+      "28/11/2026: 09:00 — 22:00 · Zona Bajo Pas"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-27T22:00:00",
-        "inicio_original": "2026-11-27T09:00:00",
-        "fin_original": "2026-11-27T22:00:00"
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-28T22:00:00"
       }
     ],
     "zonas_atendidas": [
@@ -188,7 +188,7 @@
     "localidades_atendidas": [
       "Renedo De Piélagos"
     ],
-    "guardia_franja": "27/11/2026: 09:00 — 22:00 · Zona Bajo Pas"
+    "guardia_franja": "28/11/2026: 09:00 — 22:00 · Zona Bajo Pas"
   },
   {
     "id": "cof-cantabria-640c570666537bc2",
@@ -469,16 +469,16 @@
     "lng": -3.8525271,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/",
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "27/11/2026: 09:00 — 22:00 · Zona Santander"
+      "28/11/2026: 09:00 — 22:00 · Zona Santander"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-27T22:00:00",
-        "inicio_original": "2026-11-27T09:00:00",
-        "fin_original": "2026-11-27T22:00:00"
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-28T22:00:00"
       }
     ],
     "zonas_atendidas": [
@@ -487,7 +487,7 @@
     "localidades_atendidas": [
       "Santander"
     ],
-    "guardia_franja": "27/11/2026: 09:00 — 22:00 · Zona Santander"
+    "guardia_franja": "28/11/2026: 09:00 — 22:00 · Zona Santander"
   },
   {
     "id": "cof-cantabria-3fda175236340461",
@@ -585,30 +585,7 @@
     "lat": 43.4643193,
     "lng": -3.7993413,
     "precision_ubicacion": "farmacia",
-    "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/",
-    "fecha_guardia": "2026-11-27",
-    "guardia_franjas": [
-      "26/11/2026: 22:00 — 09:00 · Zona Bajo Pas",
-      "26/11/2026: 22:00 — 09:00 · Zona Bezana",
-      "26/11/2026: 22:00 — 09:00 · Zona Santander"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-27T09:00:00",
-        "inicio_original": "2026-11-26T22:00:00",
-        "fin_original": "2026-11-27T09:00:00"
-      }
-    ],
-    "zonas_atendidas": [
-      "Bajo Pas",
-      "Bezana",
-      "Santander"
-    ],
-    "localidades_atendidas": [
-      "Santander"
-    ],
-    "guardia_franja": "26/11/2026: 22:00 — 09:00 · Zona Bajo Pas · 26/11/2026: 22:00 — 09:00 · Zona Bezana · 26/11/2026: 22:00 — 09:00 · Zona Santander"
+    "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/"
   },
   {
     "id": "cof-cantabria-f53647cfa909625a",
@@ -622,30 +599,7 @@
     "lat": 43.4457585,
     "lng": -3.8544853,
     "precision_ubicacion": "farmacia",
-    "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/",
-    "fecha_guardia": "2026-11-27",
-    "guardia_franjas": [
-      "26/11/2026: 22:00 — 09:00 · Zona Bajo Pas",
-      "26/11/2026: 22:00 — 09:00 · Zona Bezana",
-      "26/11/2026: 22:00 — 09:00 · Zona Santander"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-27T09:00:00",
-        "inicio_original": "2026-11-26T22:00:00",
-        "fin_original": "2026-11-27T09:00:00"
-      }
-    ],
-    "zonas_atendidas": [
-      "Bajo Pas",
-      "Bezana",
-      "Santander"
-    ],
-    "localidades_atendidas": [
-      "Peñacastillo"
-    ],
-    "guardia_franja": "26/11/2026: 22:00 — 09:00 · Zona Bajo Pas · 26/11/2026: 22:00 — 09:00 · Zona Bezana · 26/11/2026: 22:00 — 09:00 · Zona Santander"
+    "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/"
   },
   {
     "id": "cof-cantabria-10c50aaf1e06f4f7",
@@ -660,7 +614,7 @@
     "lng": -3.8063132,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/",
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "27/11/2026: 22:00 — 09:00 · Zona Bajo Pas",
       "27/11/2026: 22:00 — 09:00 · Zona Bezana",
@@ -668,8 +622,8 @@
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T22:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "inicio_original": "2026-11-27T22:00:00",
         "fin_original": "2026-11-28T09:00:00"
       }
@@ -697,7 +651,7 @@
     "lng": -3.8195904,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/",
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "27/11/2026: 22:00 — 09:00 · Zona Bajo Pas",
       "27/11/2026: 22:00 — 09:00 · Zona Bezana",
@@ -705,8 +659,8 @@
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T22:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "inicio_original": "2026-11-27T22:00:00",
         "fin_original": "2026-11-28T09:00:00"
       }
@@ -733,7 +687,30 @@
     "lat": 43.4654395,
     "lng": -3.7887179,
     "precision_ubicacion": "farmacia",
-    "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/"
+    "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/",
+    "fecha_guardia": "2026-11-28",
+    "guardia_franjas": [
+      "28/11/2026: 22:00 — 09:00 · Zona Bajo Pas",
+      "28/11/2026: 22:00 — 09:00 · Zona Bezana",
+      "28/11/2026: 22:00 — 09:00 · Zona Santander"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T22:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T22:00:00",
+        "fin_original": "2026-11-29T09:00:00"
+      }
+    ],
+    "zonas_atendidas": [
+      "Bajo Pas",
+      "Bezana",
+      "Santander"
+    ],
+    "localidades_atendidas": [
+      "Santander"
+    ],
+    "guardia_franja": "28/11/2026: 22:00 — 09:00 · Zona Bajo Pas · 28/11/2026: 22:00 — 09:00 · Zona Bezana · 28/11/2026: 22:00 — 09:00 · Zona Santander"
   },
   {
     "id": "cof-cantabria-48edc6f226b757a4",
@@ -747,7 +724,30 @@
     "lat": 43.4637496,
     "lng": -3.8074847,
     "precision_ubicacion": "farmacia",
-    "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/"
+    "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/",
+    "fecha_guardia": "2026-11-28",
+    "guardia_franjas": [
+      "28/11/2026: 22:00 — 09:00 · Zona Bajo Pas",
+      "28/11/2026: 22:00 — 09:00 · Zona Bezana",
+      "28/11/2026: 22:00 — 09:00 · Zona Santander"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T22:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T22:00:00",
+        "fin_original": "2026-11-29T09:00:00"
+      }
+    ],
+    "zonas_atendidas": [
+      "Bajo Pas",
+      "Bezana",
+      "Santander"
+    ],
+    "localidades_atendidas": [
+      "Santander"
+    ],
+    "guardia_franja": "28/11/2026: 22:00 — 09:00 · Zona Bajo Pas · 28/11/2026: 22:00 — 09:00 · Zona Bezana · 28/11/2026: 22:00 — 09:00 · Zona Santander"
   },
   {
     "id": "cof-cantabria-f8834eedd115921e",
@@ -762,16 +762,16 @@
     "lng": -3.8101826,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/",
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "27/11/2026: 09:00 — 22:00 · Zona Santander"
+      "28/11/2026: 09:00 — 22:00 · Zona Santander"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-27T22:00:00",
-        "inicio_original": "2026-11-27T09:00:00",
-        "fin_original": "2026-11-27T22:00:00"
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-28T22:00:00"
       }
     ],
     "zonas_atendidas": [
@@ -780,7 +780,7 @@
     "localidades_atendidas": [
       "Santander"
     ],
-    "guardia_franja": "27/11/2026: 09:00 — 22:00 · Zona Santander"
+    "guardia_franja": "28/11/2026: 09:00 — 22:00 · Zona Santander"
   },
   {
     "id": "cof-cantabria-b79e6cc7b6660b99",
@@ -879,16 +879,16 @@
     "lng": -3.8282452,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/",
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "27/11/2026: 09:00 — 22:00 · Zona Santander"
+      "28/11/2026: 09:00 — 22:00 · Zona Santander"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-27T22:00:00",
-        "inicio_original": "2026-11-27T09:00:00",
-        "fin_original": "2026-11-27T22:00:00"
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-28T22:00:00"
       }
     ],
     "zonas_atendidas": [
@@ -897,7 +897,7 @@
     "localidades_atendidas": [
       "Santander"
     ],
-    "guardia_franja": "27/11/2026: 09:00 — 22:00 · Zona Santander"
+    "guardia_franja": "28/11/2026: 09:00 — 22:00 · Zona Santander"
   },
   {
     "id": "cof-cantabria-ce25465165a91088",
@@ -1514,16 +1514,16 @@
     "lng": -3.8034708,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/",
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "27/11/2026: 09:00 — 22:00 · Zona Santander"
+      "28/11/2026: 09:00 — 22:00 · Zona Santander"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-27T22:00:00",
-        "inicio_original": "2026-11-27T09:00:00",
-        "fin_original": "2026-11-27T22:00:00"
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-28T22:00:00"
       }
     ],
     "zonas_atendidas": [
@@ -1532,7 +1532,7 @@
     "localidades_atendidas": [
       "Santander"
     ],
-    "guardia_franja": "27/11/2026: 09:00 — 22:00 · Zona Santander"
+    "guardia_franja": "28/11/2026: 09:00 — 22:00 · Zona Santander"
   },
   {
     "id": "cof-cantabria-3a86ae0129d3fbaa",
@@ -1602,7 +1602,26 @@
     "lat": 43.2603951,
     "lng": -4.0644038,
     "precision_ubicacion": "farmacia",
-    "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/"
+    "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/",
+    "fecha_guardia": "2026-11-28",
+    "guardia_franjas": [
+      "28/11/2026: 09:00 — 09:00 · Zona Besaya"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-29T09:00:00"
+      }
+    ],
+    "zonas_atendidas": [
+      "Besaya"
+    ],
+    "localidades_atendidas": [
+      "Corrales De Buelna, Los"
+    ],
+    "guardia_franja": "28/11/2026: 09:00 — 09:00 · Zona Besaya"
   },
   {
     "id": "cof-cantabria-0a116bcb6f6d25b5",
@@ -1659,21 +1678,14 @@
     "lng": -4.0681179,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/",
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "26/11/2026: 09:00 — 09:00 · Zona Besaya",
       "27/11/2026: 09:00 — 09:00 · Zona Besaya"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-27T09:00:00",
-        "inicio_original": "2026-11-26T09:00:00",
-        "fin_original": "2026-11-27T09:00:00"
-      },
-      {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "inicio_original": "2026-11-27T09:00:00",
         "fin_original": "2026-11-28T09:00:00"
       }
@@ -1684,7 +1696,7 @@
     "localidades_atendidas": [
       "Corrales De Buelna, Los"
     ],
-    "guardia_franja": "26/11/2026: 09:00 — 09:00 · Zona Besaya · 27/11/2026: 09:00 — 09:00 · Zona Besaya"
+    "guardia_franja": "27/11/2026: 09:00 — 09:00 · Zona Besaya"
   },
   {
     "id": "cof-cantabria-9f8d2125d6c10bd4",
@@ -1699,16 +1711,16 @@
     "lng": -3.9198565,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/",
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "27/11/2026: 09:00 — 22:00 · Zona Bezana"
+      "28/11/2026: 09:00 — 22:00 · Zona Bezana"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-27T22:00:00",
-        "inicio_original": "2026-11-27T09:00:00",
-        "fin_original": "2026-11-27T22:00:00"
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-28T22:00:00"
       }
     ],
     "zonas_atendidas": [
@@ -1717,7 +1729,7 @@
     "localidades_atendidas": [
       "Mompia"
     ],
-    "guardia_franja": "27/11/2026: 09:00 — 22:00 · Zona Bezana"
+    "guardia_franja": "28/11/2026: 09:00 — 22:00 · Zona Bezana"
   },
   {
     "id": "cof-cantabria-ca03e802968fc99f",
@@ -1886,23 +1898,23 @@
     "lng": -3.6984016,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/",
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "26/11/2026: 09:00 — 09:00 · Zona Cudeyo · Miera",
-      "27/11/2026: 09:00 — 09:00 · Zona Cudeyo · Miera"
+      "27/11/2026: 09:00 — 09:00 · Zona Cudeyo · Miera",
+      "28/11/2026: 09:00 — 09:00 · Zona Cudeyo · Miera"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-27T09:00:00",
-        "inicio_original": "2026-11-26T09:00:00",
-        "fin_original": "2026-11-27T09:00:00"
-      },
-      {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "inicio_original": "2026-11-27T09:00:00",
         "fin_original": "2026-11-28T09:00:00"
+      },
+      {
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-29T09:00:00"
       }
     ],
     "zonas_atendidas": [
@@ -1911,7 +1923,7 @@
     "localidades_atendidas": [
       "Villaverde De Pontones"
     ],
-    "guardia_franja": "26/11/2026: 09:00 — 09:00 · Zona Cudeyo · Miera · 27/11/2026: 09:00 — 09:00 · Zona Cudeyo · Miera"
+    "guardia_franja": "27/11/2026: 09:00 — 09:00 · Zona Cudeyo · Miera · 28/11/2026: 09:00 — 09:00 · Zona Cudeyo · Miera"
   },
   {
     "id": "cof-cantabria-afa23c082549e7ec",
@@ -1954,16 +1966,16 @@
     "lng": -4.6132393,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/",
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "27/11/2026: 09:00 — 22:00 · Zona Liébana"
+      "28/11/2026: 09:00 — 22:00 · Zona Liébana"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-27T22:00:00",
-        "inicio_original": "2026-11-27T09:00:00",
-        "fin_original": "2026-11-27T22:00:00"
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-28T22:00:00"
       }
     ],
     "zonas_atendidas": [
@@ -1972,7 +1984,7 @@
     "localidades_atendidas": [
       "Ojedo"
     ],
-    "guardia_franja": "27/11/2026: 09:00 — 22:00 · Zona Liébana"
+    "guardia_franja": "28/11/2026: 09:00 — 22:00 · Zona Liébana"
   },
   {
     "id": "cof-cantabria-cc51804128c0b7ad",
@@ -2001,23 +2013,37 @@
     "lng": -3.4545229,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/",
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "27/11/2026: 22:00 — 09:00 · Zona Meruelo · Gama",
-      "27/11/2026: 09:00 — 09:00 · Zona Santoña"
+      "28/11/2026: 22:00 — 09:00 · Zona Meruelo · Gama",
+      "27/11/2026: 09:00 — 09:00 · Zona Santoña",
+      "28/11/2026: 09:00 — 09:00 · Zona Santoña"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T22:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "inicio_original": "2026-11-27T22:00:00",
         "fin_original": "2026-11-28T09:00:00"
       },
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T22:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T22:00:00",
+        "fin_original": "2026-11-29T09:00:00"
+      },
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "inicio_original": "2026-11-27T09:00:00",
         "fin_original": "2026-11-28T09:00:00"
+      },
+      {
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-29T09:00:00"
       }
     ],
     "zonas_atendidas": [
@@ -2027,7 +2053,7 @@
     "localidades_atendidas": [
       "Santoña"
     ],
-    "guardia_franja": "27/11/2026: 22:00 — 09:00 · Zona Meruelo · Gama · 27/11/2026: 09:00 — 09:00 · Zona Santoña"
+    "guardia_franja": "27/11/2026: 22:00 — 09:00 · Zona Meruelo · Gama · 28/11/2026: 22:00 — 09:00 · Zona Meruelo · Gama · 27/11/2026: 09:00 — 09:00 · Zona Santoña · 28/11/2026: 09:00 — 09:00 · Zona Santoña"
   },
   {
     "id": "cof-cantabria-c06cd4144b8ce2a2",
@@ -2097,34 +2123,7 @@
     "lat": 43.4435352,
     "lng": -3.4570527,
     "precision_ubicacion": "farmacia",
-    "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/",
-    "fecha_guardia": "2026-11-27",
-    "guardia_franjas": [
-      "26/11/2026: 22:00 — 09:00 · Zona Meruelo · Gama",
-      "26/11/2026: 09:00 — 09:00 · Zona Santoña"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-27T09:00:00",
-        "inicio_original": "2026-11-26T22:00:00",
-        "fin_original": "2026-11-27T09:00:00"
-      },
-      {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-27T09:00:00",
-        "inicio_original": "2026-11-26T09:00:00",
-        "fin_original": "2026-11-27T09:00:00"
-      }
-    ],
-    "zonas_atendidas": [
-      "Meruelo · Gama",
-      "Santoña"
-    ],
-    "localidades_atendidas": [
-      "Santoña"
-    ],
-    "guardia_franja": "26/11/2026: 22:00 — 09:00 · Zona Meruelo · Gama · 26/11/2026: 09:00 — 09:00 · Zona Santoña"
+    "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/"
   },
   {
     "id": "cof-cantabria-d0c49eb7f6dfcae2",
@@ -2209,16 +2208,16 @@
     "lng": -3.52139,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/",
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "27/11/2026: 09:00 — 22:00 · Zona Meruelo · Gama"
+      "28/11/2026: 09:00 — 22:00 · Zona Meruelo · Gama"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-27T22:00:00",
-        "inicio_original": "2026-11-27T09:00:00",
-        "fin_original": "2026-11-27T22:00:00"
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-28T22:00:00"
       }
     ],
     "zonas_atendidas": [
@@ -2227,7 +2226,7 @@
     "localidades_atendidas": [
       "Noja"
     ],
-    "guardia_franja": "27/11/2026: 09:00 — 22:00 · Zona Meruelo · Gama"
+    "guardia_franja": "28/11/2026: 09:00 — 22:00 · Zona Meruelo · Gama"
   },
   {
     "id": "cof-cantabria-045288670e793c9d",
@@ -2326,16 +2325,16 @@
     "lng": -4.4630939,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/",
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "27/11/2026: 09:00 — 22:00 · Zona Nansa"
+      "28/11/2026: 09:00 — 22:00 · Zona Nansa"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-27T22:00:00",
-        "inicio_original": "2026-11-27T09:00:00",
-        "fin_original": "2026-11-27T22:00:00"
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-28T22:00:00"
       }
     ],
     "zonas_atendidas": [
@@ -2344,7 +2343,7 @@
     "localidades_atendidas": [
       "Bielva"
     ],
-    "guardia_franja": "27/11/2026: 09:00 — 22:00 · Zona Nansa"
+    "guardia_franja": "28/11/2026: 09:00 — 22:00 · Zona Nansa"
   },
   {
     "id": "cof-cantabria-8d2bef4214bdaf35",
@@ -2457,23 +2456,23 @@
     "lng": -3.8530383,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/",
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "26/11/2026: 09:00 — 09:00 · Zona Pisueña · Cayón · Selaya",
-      "27/11/2026: 09:00 — 09:00 · Zona Pisueña · Cayón · Selaya"
+      "27/11/2026: 09:00 — 09:00 · Zona Pisueña · Cayón · Selaya",
+      "28/11/2026: 09:00 — 09:00 · Zona Pisueña · Cayón · Selaya"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-27T09:00:00",
-        "inicio_original": "2026-11-26T09:00:00",
-        "fin_original": "2026-11-27T09:00:00"
-      },
-      {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "inicio_original": "2026-11-27T09:00:00",
         "fin_original": "2026-11-28T09:00:00"
+      },
+      {
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-29T09:00:00"
       }
     ],
     "zonas_atendidas": [
@@ -2482,7 +2481,7 @@
     "localidades_atendidas": [
       "Sarón"
     ],
-    "guardia_franja": "26/11/2026: 09:00 — 09:00 · Zona Pisueña · Cayón · Selaya · 27/11/2026: 09:00 — 09:00 · Zona Pisueña · Cayón · Selaya"
+    "guardia_franja": "27/11/2026: 09:00 — 09:00 · Zona Pisueña · Cayón · Selaya · 28/11/2026: 09:00 — 09:00 · Zona Pisueña · Cayón · Selaya"
   },
   {
     "id": "cof-cantabria-bf2ed04c42ad78a1",
@@ -2622,34 +2621,7 @@
     "lat": 43.4082038,
     "lng": -3.4167199,
     "precision_ubicacion": "farmacia",
-    "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/",
-    "fecha_guardia": "2026-11-27",
-    "guardia_franjas": [
-      "26/11/2026: 22:00 — 09:00 · Zona Alto y Bajo Asón",
-      "26/11/2026: 09:00 — 09:00 · Zona Laredo · Colindres"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-27T09:00:00",
-        "inicio_original": "2026-11-26T22:00:00",
-        "fin_original": "2026-11-27T09:00:00"
-      },
-      {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-27T09:00:00",
-        "inicio_original": "2026-11-26T09:00:00",
-        "fin_original": "2026-11-27T09:00:00"
-      }
-    ],
-    "zonas_atendidas": [
-      "Alto y Bajo Asón",
-      "Laredo · Colindres"
-    ],
-    "localidades_atendidas": [
-      "Laredo"
-    ],
-    "guardia_franja": "26/11/2026: 22:00 — 09:00 · Zona Alto y Bajo Asón · 26/11/2026: 09:00 — 09:00 · Zona Laredo · Colindres"
+    "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/"
   },
   {
     "id": "cof-cantabria-7bdeb53c10d3f950",
@@ -2664,15 +2636,15 @@
     "lng": -3.4504604,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/",
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "27/11/2026: 22:00 — 09:00 · Zona Alto y Bajo Asón",
       "27/11/2026: 22:00 — 09:00 · Zona Laredo · Colindres"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T22:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "inicio_original": "2026-11-27T22:00:00",
         "fin_original": "2026-11-28T09:00:00"
       }
@@ -2699,25 +2671,33 @@
     "lng": -3.4171073,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/",
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "27/11/2026: 09:00 — 22:00 · Zona Laredo · Colindres"
+      "28/11/2026: 22:00 — 09:00 · Zona Alto y Bajo Asón",
+      "28/11/2026: 09:00 — 09:00 · Zona Laredo · Colindres"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-27T22:00:00",
-        "inicio_original": "2026-11-27T09:00:00",
-        "fin_original": "2026-11-27T22:00:00"
+        "inicio": "2026-11-28T22:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T22:00:00",
+        "fin_original": "2026-11-29T09:00:00"
+      },
+      {
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-29T09:00:00"
       }
     ],
     "zonas_atendidas": [
+      "Alto y Bajo Asón",
       "Laredo · Colindres"
     ],
     "localidades_atendidas": [
       "Laredo"
     ],
-    "guardia_franja": "27/11/2026: 09:00 — 22:00 · Zona Laredo · Colindres"
+    "guardia_franja": "28/11/2026: 22:00 — 09:00 · Zona Alto y Bajo Asón · 28/11/2026: 09:00 — 09:00 · Zona Laredo · Colindres"
   },
   {
     "id": "cof-cantabria-74acaa00d98a5ea1",
@@ -2760,16 +2740,16 @@
     "lng": -3.4265623,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/",
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "27/11/2026: 09:00 — 22:00 · Zona Alto y Bajo Asón"
+      "28/11/2026: 09:00 — 22:00 · Zona Alto y Bajo Asón"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-27T22:00:00",
-        "inicio_original": "2026-11-27T09:00:00",
-        "fin_original": "2026-11-27T22:00:00"
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-28T22:00:00"
       }
     ],
     "zonas_atendidas": [
@@ -2778,7 +2758,7 @@
     "localidades_atendidas": [
       "Limpias"
     ],
-    "guardia_franja": "27/11/2026: 09:00 — 22:00 · Zona Alto y Bajo Asón"
+    "guardia_franja": "28/11/2026: 09:00 — 22:00 · Zona Alto y Bajo Asón"
   },
   {
     "id": "cof-cantabria-7491026a39ce8264",
@@ -2793,16 +2773,16 @@
     "lng": -3.8446878,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/",
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "27/11/2026: 09:00 — 22:00 · Zona Camargo"
+      "28/11/2026: 09:00 — 22:00 · Zona Camargo"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-27T22:00:00",
-        "inicio_original": "2026-11-27T09:00:00",
-        "fin_original": "2026-11-27T22:00:00"
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-28T22:00:00"
       }
     ],
     "zonas_atendidas": [
@@ -2811,7 +2791,7 @@
     "localidades_atendidas": [
       "Muriedas"
     ],
-    "guardia_franja": "27/11/2026: 09:00 — 22:00 · Zona Camargo"
+    "guardia_franja": "28/11/2026: 09:00 — 22:00 · Zona Camargo"
   },
   {
     "id": "cof-cantabria-e15c7bd9420d0371",
@@ -2826,23 +2806,37 @@
     "lng": -3.8436155,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/",
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "27/11/2026: 09:00 — 09:00 · Zona Camargo",
-      "27/11/2026: 22:00 — 09:00 · Zona El Astillero"
+      "28/11/2026: 09:00 — 09:00 · Zona Camargo",
+      "27/11/2026: 22:00 — 09:00 · Zona El Astillero",
+      "28/11/2026: 22:00 — 09:00 · Zona El Astillero"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "inicio_original": "2026-11-27T09:00:00",
         "fin_original": "2026-11-28T09:00:00"
       },
       {
-        "inicio": "2026-11-27T22:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-29T09:00:00"
+      },
+      {
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "inicio_original": "2026-11-27T22:00:00",
         "fin_original": "2026-11-28T09:00:00"
+      },
+      {
+        "inicio": "2026-11-28T22:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T22:00:00",
+        "fin_original": "2026-11-29T09:00:00"
       }
     ],
     "zonas_atendidas": [
@@ -2852,7 +2846,7 @@
     "localidades_atendidas": [
       "Maliaño"
     ],
-    "guardia_franja": "27/11/2026: 09:00 — 09:00 · Zona Camargo · 27/11/2026: 22:00 — 09:00 · Zona El Astillero"
+    "guardia_franja": "27/11/2026: 09:00 — 09:00 · Zona Camargo · 28/11/2026: 09:00 — 09:00 · Zona Camargo · 27/11/2026: 22:00 — 09:00 · Zona El Astillero · 28/11/2026: 22:00 — 09:00 · Zona El Astillero"
   },
   {
     "id": "cof-cantabria-2095441776ac08c3",
@@ -3021,16 +3015,16 @@
     "lng": -3.8193811,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/",
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "27/11/2026: 09:00 — 22:00 · Zona El Astillero"
+      "28/11/2026: 09:00 — 22:00 · Zona El Astillero"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-27T22:00:00",
-        "inicio_original": "2026-11-27T09:00:00",
-        "fin_original": "2026-11-27T22:00:00"
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-28T22:00:00"
       }
     ],
     "zonas_atendidas": [
@@ -3039,7 +3033,7 @@
     "localidades_atendidas": [
       "Astillero, El"
     ],
-    "guardia_franja": "27/11/2026: 09:00 — 22:00 · Zona El Astillero"
+    "guardia_franja": "28/11/2026: 09:00 — 22:00 · Zona El Astillero"
   },
   {
     "id": "cof-cantabria-405b350231d06a3d",
@@ -3067,28 +3061,7 @@
     "lat": 43.4079188,
     "lng": -3.8610918,
     "precision_ubicacion": "farmacia",
-    "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/",
-    "fecha_guardia": "2026-11-27",
-    "guardia_franjas": [
-      "26/11/2026: 22:00 — 09:00 · Zona Camargo",
-      "26/11/2026: 22:00 — 09:00 · Zona El Astillero"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-27T09:00:00",
-        "inicio_original": "2026-11-26T22:00:00",
-        "fin_original": "2026-11-27T09:00:00"
-      }
-    ],
-    "zonas_atendidas": [
-      "Camargo",
-      "El Astillero"
-    ],
-    "localidades_atendidas": [
-      "Revilla De Camargo"
-    ],
-    "guardia_franja": "26/11/2026: 22:00 — 09:00 · Zona Camargo · 26/11/2026: 22:00 — 09:00 · Zona El Astillero"
+    "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/"
   },
   {
     "id": "cof-cantabria-8ac5cf4645995c7a",
@@ -3117,16 +3090,16 @@
     "lng": -4.137112,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/",
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "27/11/2026: 09:00 — 22:00 · Zona Campoo · Los Valles"
+      "28/11/2026: 09:00 — 09:00 · Zona Campoo · Los Valles"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-27T22:00:00",
-        "inicio_original": "2026-11-27T09:00:00",
-        "fin_original": "2026-11-27T22:00:00"
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-29T09:00:00"
       }
     ],
     "zonas_atendidas": [
@@ -3135,7 +3108,7 @@
     "localidades_atendidas": [
       "Reinosa"
     ],
-    "guardia_franja": "27/11/2026: 09:00 — 22:00 · Zona Campoo · Los Valles"
+    "guardia_franja": "28/11/2026: 09:00 — 09:00 · Zona Campoo · Los Valles"
   },
   {
     "id": "cof-cantabria-312d8f447ce84eac",
@@ -3150,14 +3123,14 @@
     "lng": -4.136907,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/",
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "27/11/2026: 09:00 — 09:00 · Zona Campoo · Los Valles"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "inicio_original": "2026-11-27T09:00:00",
         "fin_original": "2026-11-28T09:00:00"
       }
@@ -3224,26 +3197,7 @@
     "lat": 42.9975882,
     "lng": -4.139191,
     "precision_ubicacion": "farmacia",
-    "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/",
-    "fecha_guardia": "2026-11-27",
-    "guardia_franjas": [
-      "26/11/2026: 09:00 — 09:00 · Zona Campoo · Los Valles"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-27T09:00:00",
-        "inicio_original": "2026-11-26T09:00:00",
-        "fin_original": "2026-11-27T09:00:00"
-      }
-    ],
-    "zonas_atendidas": [
-      "Campoo · Los Valles"
-    ],
-    "localidades_atendidas": [
-      "Reinosa"
-    ],
-    "guardia_franja": "26/11/2026: 09:00 — 09:00 · Zona Campoo · Los Valles"
+    "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/"
   },
   {
     "id": "cof-cantabria-ae97b3eae378e5b5",
@@ -3258,16 +3212,16 @@
     "lng": -3.2047008,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/",
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "27/11/2026: 09:00 — 22:00 · Zona Castro Urdiales"
+      "28/11/2026: 09:00 — 22:00 · Zona Castro Urdiales"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-27T22:00:00",
-        "inicio_original": "2026-11-27T09:00:00",
-        "fin_original": "2026-11-27T22:00:00"
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-28T22:00:00"
       }
     ],
     "zonas_atendidas": [
@@ -3276,7 +3230,7 @@
     "localidades_atendidas": [
       "Castro Urdiales"
     ],
-    "guardia_franja": "27/11/2026: 09:00 — 22:00 · Zona Castro Urdiales"
+    "guardia_franja": "28/11/2026: 09:00 — 22:00 · Zona Castro Urdiales"
   },
   {
     "id": "cof-cantabria-60a3b574a32cf69f",
@@ -3346,26 +3300,7 @@
     "lat": 43.3726472,
     "lng": -3.2132673,
     "precision_ubicacion": "farmacia",
-    "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/",
-    "fecha_guardia": "2026-11-27",
-    "guardia_franjas": [
-      "26/11/2026: 09:00 — 09:00 · Zona Castro Urdiales"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-27T09:00:00",
-        "inicio_original": "2026-11-26T09:00:00",
-        "fin_original": "2026-11-27T09:00:00"
-      }
-    ],
-    "zonas_atendidas": [
-      "Castro Urdiales"
-    ],
-    "localidades_atendidas": [
-      "Castro Urdiales"
-    ],
-    "guardia_franja": "26/11/2026: 09:00 — 09:00 · Zona Castro Urdiales"
+    "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/"
   },
   {
     "id": "cof-cantabria-dfe4e32575274c78",
@@ -3380,14 +3315,14 @@
     "lng": -3.2177882,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/",
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
       "27/11/2026: 09:00 — 09:00 · Zona Castro Urdiales"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "inicio_original": "2026-11-27T09:00:00",
         "fin_original": "2026-11-28T09:00:00"
       }
@@ -3412,7 +3347,26 @@
     "lat": 43.3814318,
     "lng": -3.2179855,
     "precision_ubicacion": "farmacia",
-    "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/"
+    "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/",
+    "fecha_guardia": "2026-11-28",
+    "guardia_franjas": [
+      "28/11/2026: 09:00 — 09:00 · Zona Castro Urdiales"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-29T09:00:00"
+      }
+    ],
+    "zonas_atendidas": [
+      "Castro Urdiales"
+    ],
+    "localidades_atendidas": [
+      "Castro Urdiales"
+    ],
+    "guardia_franja": "28/11/2026: 09:00 — 09:00 · Zona Castro Urdiales"
   },
   {
     "id": "cof-cantabria-1f1229ad3fcf88e6",
@@ -3553,16 +3507,16 @@
     "lng": -4.0289796,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/",
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "27/11/2026: 09:00 — 22:00 · Zona Polanco · Suances · Altamira"
+      "28/11/2026: 09:00 — 22:00 · Zona Polanco · Suances · Altamira"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-27T22:00:00",
-        "inicio_original": "2026-11-27T09:00:00",
-        "fin_original": "2026-11-27T22:00:00"
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-28T22:00:00"
       }
     ],
     "zonas_atendidas": [
@@ -3571,7 +3525,7 @@
     "localidades_atendidas": [
       "Requejada"
     ],
-    "guardia_franja": "27/11/2026: 09:00 — 22:00 · Zona Polanco · Suances · Altamira"
+    "guardia_franja": "28/11/2026: 09:00 — 22:00 · Zona Polanco · Suances · Altamira"
   },
   {
     "id": "cof-cantabria-577084fd9783e7a6",
@@ -3669,26 +3623,7 @@
     "lat": 43.3020609,
     "lng": -4.2378775,
     "precision_ubicacion": "farmacia",
-    "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/",
-    "fecha_guardia": "2026-11-27",
-    "guardia_franjas": [
-      "27/11/2026: 09:00 — 22:00 · Zona Saja · San Vicente"
-    ],
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-27T22:00:00",
-        "inicio_original": "2026-11-27T09:00:00",
-        "fin_original": "2026-11-27T22:00:00"
-      }
-    ],
-    "zonas_atendidas": [
-      "Saja · San Vicente"
-    ],
-    "localidades_atendidas": [
-      "Cabezon De La Sal"
-    ],
-    "guardia_franja": "27/11/2026: 09:00 — 22:00 · Zona Saja · San Vicente"
+    "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/"
   },
   {
     "id": "cof-cantabria-6acf8d267b2c1520",
@@ -3716,7 +3651,26 @@
     "lat": 43.3085793,
     "lng": -4.2376108,
     "precision_ubicacion": "farmacia",
-    "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/"
+    "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/",
+    "fecha_guardia": "2026-11-28",
+    "guardia_franjas": [
+      "28/11/2026: 09:00 — 22:00 · Zona Saja · San Vicente"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
+        "inicio_original": "2026-11-28T09:00:00",
+        "fin_original": "2026-11-28T22:00:00"
+      }
+    ],
+    "zonas_atendidas": [
+      "Saja · San Vicente"
+    ],
+    "localidades_atendidas": [
+      "Cabezon De La Sal"
+    ],
+    "guardia_franja": "28/11/2026: 09:00 — 22:00 · Zona Saja · San Vicente"
   },
   {
     "id": "cof-cantabria-bb28803b9f12eb68",
@@ -3773,23 +3727,23 @@
     "lng": -4.3983142,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://cofcantabria.org/cofguardiasclient/",
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "26/11/2026: 22:00 — 09:00 · Zona Saja · San Vicente",
-      "27/11/2026: 22:00 — 09:00 · Zona Saja · San Vicente"
+      "27/11/2026: 22:00 — 09:00 · Zona Saja · San Vicente",
+      "28/11/2026: 22:00 — 09:00 · Zona Saja · San Vicente"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-27T09:00:00",
-        "inicio_original": "2026-11-26T22:00:00",
-        "fin_original": "2026-11-27T09:00:00"
-      },
-      {
-        "inicio": "2026-11-27T22:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "inicio_original": "2026-11-27T22:00:00",
         "fin_original": "2026-11-28T09:00:00"
+      },
+      {
+        "inicio": "2026-11-28T22:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "inicio_original": "2026-11-28T22:00:00",
+        "fin_original": "2026-11-29T09:00:00"
       }
     ],
     "zonas_atendidas": [
@@ -3798,7 +3752,7 @@
     "localidades_atendidas": [
       "San Vicente De La Barquera"
     ],
-    "guardia_franja": "26/11/2026: 22:00 — 09:00 · Zona Saja · San Vicente · 27/11/2026: 22:00 — 09:00 · Zona Saja · San Vicente"
+    "guardia_franja": "27/11/2026: 22:00 — 09:00 · Zona Saja · San Vicente · 28/11/2026: 22:00 — 09:00 · Zona Saja · San Vicente"
   },
   {
     "id": "cof-cantabria-c1f9bbd7e5e9aaa1",
