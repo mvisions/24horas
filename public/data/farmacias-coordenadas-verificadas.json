@@ -647,6 +647,19 @@
     "ajuste_ubicacion_m": 11.8
   },
   {
+    "id": "cof-a-coruna-C-233-F",
+    "provincia": "A Coruña",
+    "localidad": "Noia",
+    "direccion": "Comercio 23",
+    "lat": 42.783392,
+    "lng": -8.8876447,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/978011745",
+    "nota_ubicacion": "Ubicación contrastada: la dirección y una farmacia de OpenStreetMap coinciden a 8 m.",
+    "osm_id": "osm-978011745",
+    "ajuste_ubicacion_m": 8.1
+  },
+  {
     "id": "cof-a-coruna-C-312-F",
     "provincia": "A Coruña",
     "localidad": "A Coruña",

@@ -7,23 +7,22 @@
     "provincia": "León",
     "telefono": "987261531",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "localidades_atendidas": [
       "Leon"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00+01:00",
-        "fin": "2026-11-27T09:30:00+01:00"
+        "inicio": "2026-11-28T00:00:00+01:00",
+        "fin": "2026-11-28T09:30:00+01:00"
       },
       {
-        "inicio": "2026-11-27T22:00:00+01:00",
-        "fin": "2026-11-28T09:30:00+01:00"
+        "inicio": "2026-11-28T22:00:00+01:00",
+        "fin": "2026-11-29T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
       "Madrugada de guardia nocturna anterior · 00:00–09:30",
-      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
       "Guardia nocturna COF León · 22:00–09:30"
     ],
     "lat": 42.596364,
@@ -31,8 +30,7 @@
     "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
     "ubicacion_requiere_verificacion": true,
     "guardia_desde_ayer": true,
-    "guardia_franja": "Madrugada de guardia nocturna anterior · 00:00–09:30 · Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono. · Guardia nocturna COF León · 22:00–09:30",
-    "guardia_apertura": "desconocida",
+    "guardia_franja": "Madrugada de guardia nocturna anterior · 00:00–09:30 · Guardia nocturna COF León · 22:00–09:30",
     "precision_ubicacion": "direccion",
     "fuente_coordenadas": "https://www.openstreetmap.org/way/707917945",
     "nota_ubicacion": "OpenStreetMap y CartoCiudad (IGN) sitúan esta dirección a menos de 15 m entre sí.",
@@ -46,24 +44,25 @@
     "provincia": "León",
     "telefono": "987258324",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "localidades_atendidas": [
       "Leon"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T22:00:00+01:00",
+        "inicio": "2026-11-28T00:00:00+01:00",
         "fin": "2026-11-28T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
-      "Guardia nocturna COF León · 22:00–09:30"
+      "Madrugada de guardia nocturna anterior · 00:00–09:30"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
     "ubicacion_requiere_verificacion": true,
-    "guardia_franja": "Guardia nocturna COF León · 22:00–09:30"
+    "guardia_desde_ayer": true,
+    "guardia_franja": "Madrugada de guardia nocturna anterior · 00:00–09:30"
   },
   {
     "id": "jcyl-24-e1-00015",
@@ -129,20 +128,27 @@
     "provincia": "León",
     "telefono": "987410070",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "localidades_atendidas": [
       "Ponferrada"
     ],
-    "guardia_intervalos": [],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T22:00:00+01:00",
+        "fin": "2026-11-29T09:30:00+01:00"
+      }
+    ],
     "guardia_franjas": [
-      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono."
+      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
+      "Guardia nocturna COF León · 22:00–09:30"
     ],
     "lat": 42.5472152,
     "lng": -6.5935918,
     "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
     "ubicacion_requiere_verificacion": true,
     "guardia_apertura": "desconocida",
-    "guardia_franja": "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
+    "guardia_franja": "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono. · Guardia nocturna COF León · 22:00–09:30",
+    "guardia_desde_ayer": false,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/633686701",
     "nota_ubicacion": "Ubicación contrastada: la dirección y una farmacia de OpenStreetMap coinciden a 5 m.",
@@ -192,18 +198,18 @@
     "provincia": "León",
     "telefono": "987750072",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "localidades_atendidas": [
       "Valencia De Don Juan"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00+01:00",
-        "fin": "2026-11-27T09:30:00+01:00"
+        "inicio": "2026-11-28T00:00:00+01:00",
+        "fin": "2026-11-28T09:30:00+01:00"
       },
       {
-        "inicio": "2026-11-27T22:00:00+01:00",
-        "fin": "2026-11-28T09:30:00+01:00"
+        "inicio": "2026-11-28T22:00:00+01:00",
+        "fin": "2026-11-29T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
@@ -402,18 +408,18 @@
     "provincia": "León",
     "telefono": "987740188",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "localidades_atendidas": [
       "Boca De Huergano"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00+01:00",
-        "fin": "2026-11-27T09:30:00+01:00"
+        "inicio": "2026-11-28T00:00:00+01:00",
+        "fin": "2026-11-28T09:30:00+01:00"
       },
       {
-        "inicio": "2026-11-27T22:00:00+01:00",
-        "fin": "2026-11-28T09:30:00+01:00"
+        "inicio": "2026-11-28T22:00:00+01:00",
+        "fin": "2026-11-29T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
@@ -437,17 +443,22 @@
     "provincia": "León",
     "telefono": "987572525",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "localidades_atendidas": [
       "Robla (La)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T22:00:00+01:00",
+        "inicio": "2026-11-28T00:00:00+01:00",
         "fin": "2026-11-28T09:30:00+01:00"
+      },
+      {
+        "inicio": "2026-11-28T22:00:00+01:00",
+        "fin": "2026-11-29T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
+      "Madrugada de guardia nocturna anterior · 00:00–09:30",
       "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
       "Guardia nocturna COF León · 22:00–09:30"
     ],
@@ -455,9 +466,9 @@
     "lng": -5.6285067,
     "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
     "ubicacion_requiere_verificacion": true,
+    "guardia_desde_ayer": true,
+    "guardia_franja": "Madrugada de guardia nocturna anterior · 00:00–09:30 · Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono. · Guardia nocturna COF León · 22:00–09:30",
     "guardia_apertura": "desconocida",
-    "guardia_franja": "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono. · Guardia nocturna COF León · 22:00–09:30",
-    "guardia_desde_ayer": false,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/7148192977",
     "nota_ubicacion": "Ubicación contrastada: la dirección y una farmacia de OpenStreetMap coinciden a 12 m.",
@@ -500,7 +511,7 @@
     "provincia": "León",
     "telefono": "987201972",
     "guardia": false,
-    "fecha_guardia": "2026-11-02",
+    "fecha_guardia": "2026-11-28",
     "localidades_atendidas": [
       "Leon"
     ],
@@ -609,18 +620,18 @@
     "provincia": "León",
     "telefono": "987780066",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "localidades_atendidas": [
       "Sahagun"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00+01:00",
-        "fin": "2026-11-27T09:30:00+01:00"
+        "inicio": "2026-11-28T00:00:00+01:00",
+        "fin": "2026-11-28T09:30:00+01:00"
       },
       {
-        "inicio": "2026-11-27T22:00:00+01:00",
-        "fin": "2026-11-28T09:30:00+01:00"
+        "inicio": "2026-11-28T22:00:00+01:00",
+        "fin": "2026-11-29T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
@@ -679,7 +690,7 @@
     "provincia": "León",
     "telefono": "987546977",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "localidades_atendidas": [
       "Cacabelos"
     ],
@@ -900,30 +911,27 @@
     "provincia": "León",
     "telefono": "987420809",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "localidades_atendidas": [
       "Ponferrada"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00+01:00",
-        "fin": "2026-11-27T09:30:00+01:00"
-      },
-      {
-        "inicio": "2026-11-27T22:00:00+01:00",
+        "inicio": "2026-11-28T00:00:00+01:00",
         "fin": "2026-11-28T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
       "Madrugada de guardia nocturna anterior · 00:00–09:30",
-      "Guardia nocturna COF León · 22:00–09:30"
+      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono."
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
     "ubicacion_requiere_verificacion": true,
     "guardia_desde_ayer": true,
-    "guardia_franja": "Madrugada de guardia nocturna anterior · 00:00–09:30 · Guardia nocturna COF León · 22:00–09:30"
+    "guardia_franja": "Madrugada de guardia nocturna anterior · 00:00–09:30 · Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
+    "guardia_apertura": "desconocida"
   },
   {
     "id": "cof-leon-5cb09a7aafc07faf",
@@ -961,18 +969,18 @@
     "provincia": "León",
     "telefono": "987551132",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "localidades_atendidas": [
       "Fabero"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00+01:00",
-        "fin": "2026-11-27T09:30:00+01:00"
+        "inicio": "2026-11-28T00:00:00+01:00",
+        "fin": "2026-11-28T09:30:00+01:00"
       },
       {
-        "inicio": "2026-11-27T22:00:00+01:00",
-        "fin": "2026-11-28T09:30:00+01:00"
+        "inicio": "2026-11-28T22:00:00+01:00",
+        "fin": "2026-11-29T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
@@ -1019,7 +1027,7 @@
     "provincia": "León",
     "telefono": "987525047",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "localidades_atendidas": [
       "Matarrosa Del Sil"
     ],
@@ -1042,7 +1050,7 @@
     "provincia": "León",
     "telefono": "670710934",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-28",
     "localidades_atendidas": [
       "Carucedo"
     ],
@@ -1320,27 +1328,25 @@
     "provincia": "León",
     "telefono": "987619153",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "localidades_atendidas": [
       "Astorga"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T22:00:00+01:00",
+        "inicio": "2026-11-28T00:00:00+01:00",
         "fin": "2026-11-28T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
-      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
-      "Guardia nocturna COF León · 22:00–09:30"
+      "Madrugada de guardia nocturna anterior · 00:00–09:30"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
     "ubicacion_requiere_verificacion": true,
-    "guardia_apertura": "desconocida",
-    "guardia_franja": "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono. · Guardia nocturna COF León · 22:00–09:30",
-    "guardia_desde_ayer": false
+    "guardia_desde_ayer": true,
+    "guardia_franja": "Madrugada de guardia nocturna anterior · 00:00–09:30"
   },
   {
     "id": "cof-leon-9e5496973852259c",
@@ -1424,27 +1430,25 @@
     "provincia": "León",
     "telefono": "987641939",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "localidades_atendidas": [
       "Bañeza (La)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T22:00:00+01:00",
+        "inicio": "2026-11-28T00:00:00+01:00",
         "fin": "2026-11-28T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
-      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
-      "Guardia nocturna COF León · 22:00–09:30"
+      "Madrugada de guardia nocturna anterior · 00:00–09:30"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
     "ubicacion_requiere_verificacion": true,
-    "guardia_apertura": "desconocida",
-    "guardia_franja": "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono. · Guardia nocturna COF León · 22:00–09:30",
-    "guardia_desde_ayer": false
+    "guardia_desde_ayer": true,
+    "guardia_franja": "Madrugada de guardia nocturna anterior · 00:00–09:30"
   },
   {
     "id": "jcyl-24-e1-00079",
@@ -1500,25 +1504,27 @@
     "provincia": "León",
     "telefono": "987615120",
     "guardia": false,
-    "fecha_guardia": "2026-11-21",
+    "fecha_guardia": "2026-11-28",
     "localidades_atendidas": [
       "Astorga"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-21T00:00:00+01:00",
-        "fin": "2026-11-21T09:30:00+01:00"
+        "inicio": "2026-11-28T22:00:00+01:00",
+        "fin": "2026-11-29T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
-      "Madrugada de guardia nocturna anterior · 00:00–09:30"
+      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
+      "Guardia nocturna COF León · 22:00–09:30"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
     "ubicacion_requiere_verificacion": true,
-    "guardia_desde_ayer": true,
-    "guardia_franja": "Madrugada de guardia nocturna anterior · 00:00–09:30"
+    "guardia_apertura": "desconocida",
+    "guardia_franja": "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono. · Guardia nocturna COF León · 22:00–09:30",
+    "guardia_desde_ayer": false
   },
   {
     "id": "cof-leon-7b070aa79d610adf",
@@ -1639,25 +1645,27 @@
     "provincia": "León",
     "telefono": "987655305",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-28",
     "localidades_atendidas": [
       "Bañeza (La)"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T00:00:00+01:00",
-        "fin": "2026-11-24T09:30:00+01:00"
+        "inicio": "2026-11-28T22:00:00+01:00",
+        "fin": "2026-11-29T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
-      "Madrugada de guardia nocturna anterior · 00:00–09:30"
+      "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
+      "Guardia nocturna COF León · 22:00–09:30"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
     "ubicacion_requiere_verificacion": true,
-    "guardia_desde_ayer": true,
-    "guardia_franja": "Madrugada de guardia nocturna anterior · 00:00–09:30"
+    "guardia_apertura": "desconocida",
+    "guardia_franja": "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono. · Guardia nocturna COF León · 22:00–09:30",
+    "guardia_desde_ayer": false
   },
   {
     "id": "cof-leon-5aef2c445edd7fe5",
@@ -1722,17 +1730,22 @@
     "provincia": "León",
     "telefono": "987701264",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "localidades_atendidas": [
       "Cistierna"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T22:00:00+01:00",
+        "inicio": "2026-11-28T00:00:00+01:00",
         "fin": "2026-11-28T09:30:00+01:00"
+      },
+      {
+        "inicio": "2026-11-28T22:00:00+01:00",
+        "fin": "2026-11-29T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
+      "Madrugada de guardia nocturna anterior · 00:00–09:30",
       "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
       "Guardia nocturna COF León · 22:00–09:30"
     ],
@@ -1740,9 +1753,9 @@
     "lng": null,
     "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
     "ubicacion_requiere_verificacion": true,
-    "guardia_apertura": "desconocida",
-    "guardia_franja": "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono. · Guardia nocturna COF León · 22:00–09:30",
-    "guardia_desde_ayer": false
+    "guardia_desde_ayer": true,
+    "guardia_franja": "Madrugada de guardia nocturna anterior · 00:00–09:30 · Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono. · Guardia nocturna COF León · 22:00–09:30",
+    "guardia_apertura": "desconocida"
   },
   {
     "id": "cof-leon-2c05b2b9f0263042",
@@ -2162,7 +2175,7 @@
     "provincia": "León",
     "telefono": "987488839",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "localidades_atendidas": [
       "Cabrillanes"
     ],
@@ -2236,7 +2249,7 @@
     "provincia": "León",
     "telefono": "987225923",
     "guardia": false,
-    "fecha_guardia": "2026-11-22",
+    "fecha_guardia": "2026-11-28",
     "localidades_atendidas": [
       "Leon"
     ],
@@ -2789,7 +2802,7 @@
     "provincia": "León",
     "telefono": "987255263",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-28",
     "localidades_atendidas": [
       "Leon"
     ],
@@ -2947,18 +2960,18 @@
     "provincia": "León",
     "telefono": "677408713",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "localidades_atendidas": [
       "Villablino"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00+01:00",
-        "fin": "2026-11-27T09:30:00+01:00"
+        "inicio": "2026-11-28T00:00:00+01:00",
+        "fin": "2026-11-28T09:30:00+01:00"
       },
       {
-        "inicio": "2026-11-27T22:00:00+01:00",
-        "fin": "2026-11-28T09:30:00+01:00"
+        "inicio": "2026-11-28T22:00:00+01:00",
+        "fin": "2026-11-29T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
@@ -2982,18 +2995,18 @@
     "provincia": "León",
     "telefono": "987510582",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "localidades_atendidas": [
       "Bembibre"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00+01:00",
-        "fin": "2026-11-27T09:30:00+01:00"
+        "inicio": "2026-11-28T00:00:00+01:00",
+        "fin": "2026-11-28T09:30:00+01:00"
       },
       {
-        "inicio": "2026-11-27T22:00:00+01:00",
-        "fin": "2026-11-28T09:30:00+01:00"
+        "inicio": "2026-11-28T22:00:00+01:00",
+        "fin": "2026-11-29T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
@@ -3040,18 +3053,18 @@
     "provincia": "León",
     "telefono": "987742101",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "localidades_atendidas": [
       "Vegaquemada"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00+01:00",
-        "fin": "2026-11-27T09:30:00+01:00"
+        "inicio": "2026-11-28T00:00:00+01:00",
+        "fin": "2026-11-28T09:30:00+01:00"
       },
       {
-        "inicio": "2026-11-27T22:00:00+01:00",
-        "fin": "2026-11-28T09:30:00+01:00"
+        "inicio": "2026-11-28T22:00:00+01:00",
+        "fin": "2026-11-29T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
@@ -3187,7 +3200,7 @@
     "provincia": "León",
     "telefono": "987540737",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "localidades_atendidas": [
       "Villafranca Del Bierzo"
     ],
@@ -3210,17 +3223,22 @@
     "provincia": "León",
     "telefono": "987390056",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "localidades_atendidas": [
       "Villadangos Del Paramo"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T22:00:00+01:00",
+        "inicio": "2026-11-28T00:00:00+01:00",
         "fin": "2026-11-28T09:30:00+01:00"
+      },
+      {
+        "inicio": "2026-11-28T22:00:00+01:00",
+        "fin": "2026-11-29T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
+      "Madrugada de guardia nocturna anterior · 00:00–09:30",
       "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
       "Guardia nocturna COF León · 22:00–09:30"
     ],
@@ -3228,9 +3246,9 @@
     "lng": null,
     "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
     "ubicacion_requiere_verificacion": true,
-    "guardia_apertura": "desconocida",
-    "guardia_franja": "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono. · Guardia nocturna COF León · 22:00–09:30",
-    "guardia_desde_ayer": false
+    "guardia_desde_ayer": true,
+    "guardia_franja": "Madrugada de guardia nocturna anterior · 00:00–09:30 · Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono. · Guardia nocturna COF León · 22:00–09:30",
+    "guardia_apertura": "desconocida"
   },
   {
     "id": "jcyl-24-e1-00189",
@@ -3240,7 +3258,7 @@
     "provincia": "León",
     "telefono": "987337151",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "localidades_atendidas": [
       "Quintana De Rueda"
     ],
@@ -3263,17 +3281,22 @@
     "provincia": "León",
     "telefono": "987364082",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "localidades_atendidas": [
       "Bustillo Del Paramo"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T22:00:00+01:00",
+        "inicio": "2026-11-28T00:00:00+01:00",
         "fin": "2026-11-28T09:30:00+01:00"
+      },
+      {
+        "inicio": "2026-11-28T22:00:00+01:00",
+        "fin": "2026-11-29T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
+      "Madrugada de guardia nocturna anterior · 00:00–09:30",
       "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono.",
       "Guardia nocturna COF León · 22:00–09:30"
     ],
@@ -3281,8 +3304,35 @@
     "lng": null,
     "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
     "ubicacion_requiere_verificacion": true,
-    "guardia_apertura": "desconocida",
-    "guardia_franja": "Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono. · Guardia nocturna COF León · 22:00–09:30",
-    "guardia_desde_ayer": false
+    "guardia_desde_ayer": true,
+    "guardia_franja": "Madrugada de guardia nocturna anterior · 00:00–09:30 · Guardia diurna COF León; horario exacto pendiente, confirmar por teléfono. · Guardia nocturna COF León · 22:00–09:30",
+    "guardia_apertura": "desconocida"
+  },
+  {
+    "id": "cof-leon-77970ea4f99ee0ac",
+    "nombre": "",
+    "direccion": "PS CONDESA DE SAGASTA, 32",
+    "localidad": "Leon",
+    "provincia": "León",
+    "telefono": "987222881",
+    "guardia": false,
+    "fecha_guardia": "2026-11-28",
+    "localidades_atendidas": [
+      "Leon"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T22:00:00+01:00",
+        "fin": "2026-11-29T09:30:00+01:00"
+      }
+    ],
+    "guardia_franjas": [
+      "Guardia nocturna COF León · 22:00–09:30"
+    ],
+    "lat": null,
+    "lng": null,
+    "fuente": "https://www.cofleon.es/index.php/farmacias-de-guardia/",
+    "ubicacion_requiere_verificacion": true,
+    "guardia_franja": "Guardia nocturna COF León · 22:00–09:30"
   }
 ]

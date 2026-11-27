@@ -78,8 +78,8 @@
     "localidades_atendidas": [
       "Noia"
     ],
-    "lat": null,
-    "lng": null,
+    "lat": 42.783392,
+    "lng": -8.8876447,
     "guardia_intervalos": [
       {
         "inicio": "2026-11-28T00:00:00",
@@ -92,7 +92,12 @@
     "guardia_franjas": [
       "Diurno y Nocturno: 24 Horas"
     ],
-    "guardia_franja": "Diurno y Nocturno: 24 Horas"
+    "guardia_franja": "Diurno y Nocturno: 24 Horas",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/978011745",
+    "nota_ubicacion": "Ubicación contrastada: la dirección y una farmacia de OpenStreetMap coinciden a 8 m.",
+    "osm_id": "osm-978011745",
+    "ajuste_ubicacion_m": 8.1
   },
   {
     "id": "cof-a-coruna-C-190-F",
