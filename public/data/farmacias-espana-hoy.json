@@ -23100,21 +23100,6 @@
     "lng": -7.052784
   },
   {
-    "id": "osm-5918437900",
-    "cofm_id": null,
-    "nombre": "Farmacia International",
-    "direccion": "Avenida del Mediterráneo 14",
-    "localidad": "",
-    "zona": "",
-    "provincia": "Almería",
-    "telefono": "+34 950 333919",
-    "horario": null,
-    "guardia": false,
-    "guardia_franja": null,
-    "lat": 36.7331733,
-    "lng": -2.6200436
-  },
-  {
     "id": "osm-5922331156",
     "cofm_id": null,
     "nombre": "Farmacia",
@@ -44190,21 +44175,6 @@
     "lng": -0.3625616
   },
   {
-    "id": "osm-356851431",
-    "cofm_id": null,
-    "nombre": "Díez Villarroel, María Luisa",
-    "direccion": "Avenida de San José 61",
-    "localidad": "",
-    "zona": "",
-    "provincia": "Zaragoza",
-    "telefono": "+34 976 412770",
-    "horario": null,
-    "guardia": false,
-    "guardia_franja": null,
-    "lat": 41.642124,
-    "lng": -0.8730132
-  },
-  {
     "id": "osm-356851461",
     "cofm_id": null,
     "nombre": "Bujanda Díaz De Cerio, María Ángeles",
@@ -50640,21 +50610,6 @@
     "lng": -0.5783574
   },
   {
-    "id": "osm-1792299668",
-    "cofm_id": null,
-    "nombre": "Casas Reig, Enrique",
-    "direccion": "Calle de Fuendejalón 5",
-    "localidad": "",
-    "zona": "",
-    "provincia": "Zaragoza",
-    "telefono": "+34 976 47 34 34",
-    "horario": null,
-    "guardia": false,
-    "guardia_franja": null,
-    "lat": 41.6588431,
-    "lng": -0.8657896
-  },
-  {
     "id": "osm-1792299680",
     "cofm_id": null,
     "nombre": "Farmacia Francia",
@@ -50803,21 +50758,6 @@
     "guardia_franja": null,
     "lat": 41.6552204,
     "lng": -0.8882539
-  },
-  {
-    "id": "osm-1792300569",
-    "cofm_id": null,
-    "nombre": "Bonafonte Zaragozano Bonafonte Jimeno",
-    "direccion": "Calle de Santa Inés 10",
-    "localidad": "",
-    "zona": "",
-    "provincia": "Zaragoza",
-    "telefono": "+34 976 431040",
-    "horario": null,
-    "guardia": false,
-    "guardia_franja": null,
-    "lat": 41.6570034,
-    "lng": -0.890687
   },
   {
     "id": "osm-1792300574",
@@ -51313,21 +51253,6 @@
     "guardia_franja": null,
     "lat": 41.651821,
     "lng": -0.8864264
-  },
-  {
-    "id": "osm-1792486062",
-    "cofm_id": null,
-    "nombre": "Andrés Magallón, Santiago",
-    "direccion": "Avenida de Madrid 185",
-    "localidad": "",
-    "zona": "",
-    "provincia": "Zaragoza",
-    "telefono": "+34 976 332929",
-    "horario": null,
-    "guardia": false,
-    "guardia_franja": null,
-    "lat": 41.6525706,
-    "lng": -0.9076933
   },
   {
     "id": "osm-1792486068",
@@ -52078,21 +52003,6 @@
     "guardia_franja": null,
     "lat": 41.6510955,
     "lng": -0.907165
-  },
-  {
-    "id": "osm-1792486803",
-    "cofm_id": null,
-    "nombre": "Ezquerra Inaraja Ezquerra Inaraja",
-    "direccion": "Calle de Jaén 2",
-    "localidad": "",
-    "zona": "",
-    "provincia": "Zaragoza",
-    "telefono": "+34 976 27 97 99",
-    "horario": null,
-    "guardia": false,
-    "guardia_franja": null,
-    "lat": 41.6310081,
-    "lng": -0.8902798
   },
   {
     "id": "osm-1792486815",
@@ -53278,21 +53188,6 @@
     "guardia_franja": null,
     "lat": 41.6605482,
     "lng": -0.8742474
-  },
-  {
-    "id": "osm-1792487478",
-    "cofm_id": null,
-    "nombre": "Pérez-Aramendia Cebolla, Carlos",
-    "direccion": "Calle del Coso 90",
-    "localidad": "",
-    "zona": "",
-    "provincia": "Zaragoza",
-    "telefono": "+34 976 228780",
-    "horario": "Mo-Fr 09:30-20:00",
-    "guardia": false,
-    "guardia_franja": null,
-    "lat": 41.6510226,
-    "lng": -0.8778592
   },
   {
     "id": "osm-1792487493",
@@ -283217,16 +283112,16 @@
     "telefono": "950489373",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T07:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T07:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 27/11 07:00–28/11 00:00"
+      "presencial: 28/11 07:00–29/11 00:00"
     ],
     "lat": null,
     "lng": null,
@@ -283242,16 +283137,16 @@
     "telefono": "950553201",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T08:00:00",
-        "fin": "2026-11-27T22:00:00",
+        "inicio": "2026-11-28T08:00:00",
+        "fin": "2026-11-28T22:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 27/11 08:00–27/11 22:00"
+      "presencial: 28/11 08:00–28/11 22:00"
     ],
     "lat": null,
     "lng": null,
@@ -283267,22 +283162,22 @@
     "telefono": "950320975",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T08:00:00",
-        "fin": "2026-11-27T09:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "tipo": "presencial"
       },
       {
-        "inicio": "2026-11-27T22:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T08:00:00",
+        "fin": "2026-11-28T22:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 27/11 08:00–27/11 09:00",
-      "presencial: 27/11 22:00–28/11 00:00"
+      "presencial: 28/11 00:00–28/11 09:00",
+      "presencial: 28/11 08:00–28/11 22:00"
     ],
     "lat": 36.7629255,
     "lng": -2.6117803,
@@ -283300,16 +283195,16 @@
     "telefono": "950290199",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T08:00:00",
-        "fin": "2026-11-27T22:00:00",
+        "inicio": "2026-11-28T08:00:00",
+        "fin": "2026-11-28T22:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 27/11 08:00–27/11 22:00"
+      "presencial: 28/11 08:00–28/11 22:00"
     ],
     "lat": null,
     "lng": null,
@@ -283325,16 +283220,16 @@
     "telefono": "950481105",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T08:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T08:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 27/11 08:00–28/11 00:00"
+      "presencial: 28/11 08:00–29/11 00:00"
     ],
     "lat": null,
     "lng": null,
@@ -283350,16 +283245,16 @@
     "telefono": "950320778",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T08:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T08:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 27/11 08:00–28/11 00:00"
+      "presencial: 28/11 08:00–29/11 00:00"
     ],
     "lat": 36.7576271,
     "lng": -2.6087539,
@@ -283377,16 +283272,16 @@
     "telefono": "950231260",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T08:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T08:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 27/11 08:00–28/11 00:00"
+      "presencial: 28/11 08:00–29/11 00:00"
     ],
     "lat": null,
     "lng": null,
@@ -283402,16 +283297,16 @@
     "telefono": "950280600",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T08:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T08:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 27/11 08:00–28/11 00:00"
+      "presencial: 28/11 08:00–29/11 00:00"
     ],
     "lat": 36.8316387,
     "lng": -2.4534204,
@@ -283429,16 +283324,16 @@
     "telefono": "950340242",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T08:30:00",
-        "fin": "2026-11-27T21:30:00",
+        "inicio": "2026-11-28T08:30:00",
+        "fin": "2026-11-28T21:30:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 27/11 08:30–27/11 21:30"
+      "presencial: 28/11 08:30–28/11 21:30"
     ],
     "lat": null,
     "lng": null,
@@ -283454,16 +283349,16 @@
     "telefono": "950341659",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T08:30:00",
-        "fin": "2026-11-27T21:30:00",
+        "inicio": "2026-11-28T08:30:00",
+        "fin": "2026-11-28T21:30:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 27/11 08:30–27/11 21:30"
+      "presencial: 28/11 08:30–28/11 21:30"
     ],
     "lat": null,
     "lng": null,
@@ -283479,16 +283374,16 @@
     "telefono": "950611319",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T08:30:00",
-        "fin": "2026-11-27T21:00:00",
+        "inicio": "2026-11-28T08:30:00",
+        "fin": "2026-11-28T21:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 27/11 08:30–27/11 21:00"
+      "presencial: 28/11 08:30–28/11 21:00"
     ],
     "lat": 36.9389858,
     "lng": -2.1339708,
@@ -283506,16 +283401,16 @@
     "telefono": "950385358",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-27T22:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 27/11 09:00–27/11 22:00"
+      "presencial: 28/11 09:00–28/11 22:00"
     ],
     "lat": null,
     "lng": null,
@@ -283531,16 +283426,16 @@
     "telefono": "950480314",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-27T22:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 27/11 09:00–27/11 22:00"
+      "presencial: 28/11 09:00–28/11 22:00"
     ],
     "lat": null,
     "lng": null,
@@ -283556,16 +283451,16 @@
     "telefono": "950145331",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-27T22:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 27/11 09:00–27/11 22:00"
+      "presencial: 28/11 09:00–28/11 22:00"
     ],
     "lat": 36.8529797,
     "lng": -2.4459841,
@@ -283583,7 +283478,7 @@
     "telefono": "950393343",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [],
     "guardia_franjas": [
       "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
@@ -283591,7 +283486,7 @@
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "nota_horario": "Vera, C/ MAYOR, 69: intervalo oficial no válido (2026-11-27 09:00:00–2026-11-27 09:00:00); no se supone una guardia de 24 horas.",
+    "nota_horario": "Vera, C/ MAYOR, 69: intervalo oficial no válido (2026-11-28 09:00:00–2026-11-28 09:00:00); no se supone una guardia de 24 horas.",
     "guardia_franja": null
   },
   {
@@ -283628,7 +283523,7 @@
     "telefono": "950253557",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [],
     "guardia_franjas": [
       "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
@@ -283636,7 +283531,7 @@
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "nota_horario": "Almería, CTRA. DE RONDA, 325: intervalo oficial no válido (2026-11-27 09:00:00–2026-11-27 09:00:00); no se supone una guardia de 24 horas.",
+    "nota_horario": "Almería, CTRA. DE RONDA, 325: intervalo oficial no válido (2026-11-28 09:00:00–2026-11-28 09:00:00); no se supone una guardia de 24 horas.",
     "guardia_franja": null
   },
   {
@@ -283648,7 +283543,7 @@
     "telefono": "950122350",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [],
     "guardia_franjas": [
       "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
@@ -283656,7 +283551,7 @@
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "nota_horario": "Lijar, C/ PARRAL, 18: intervalo oficial no válido (2026-11-27 09:00:00–2026-11-27 09:00:00); no se supone una guardia de 24 horas.",
+    "nota_horario": "Lijar, C/ PARRAL, 18: intervalo oficial no válido (2026-11-28 09:00:00–2026-11-28 09:00:00); no se supone una guardia de 24 horas.",
     "guardia_franja": null
   },
   {
@@ -283708,16 +283603,16 @@
     "telefono": "950145211",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-27T22:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 27/11 09:00–27/11 22:00"
+      "presencial: 28/11 09:00–28/11 22:00"
     ],
     "lat": 36.8698192,
     "lng": -2.4395505,
@@ -283735,7 +283630,7 @@
     "telefono": "950434170",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [],
     "guardia_franjas": [
       "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
@@ -283743,7 +283638,7 @@
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "nota_horario": "Llanos de Los Olleres, CTRA. ALBOX/CHIRIVEL, S/N: intervalo oficial no válido (2026-11-27 09:00:00–2026-11-27 09:00:00); no se supone una guardia de 24 horas.",
+    "nota_horario": "Llanos de Los Olleres, CTRA. ALBOX/CHIRIVEL, S/N: intervalo oficial no válido (2026-11-28 09:00:00–2026-11-28 09:00:00); no se supone una guardia de 24 horas.",
     "guardia_franja": null
   },
   {
@@ -283755,7 +283650,7 @@
     "telefono": "950619507",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [],
     "guardia_franjas": [
       "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
@@ -283763,7 +283658,7 @@
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "nota_horario": "Pulpi, AV. DE LOS ANTONES, 28: intervalo oficial no válido (2026-11-27 09:00:00–2026-11-27 09:00:00); no se supone una guardia de 24 horas.",
+    "nota_horario": "Pulpi, AV. DE LOS ANTONES, 28: intervalo oficial no válido (2026-11-28 09:00:00–2026-11-28 09:00:00); no se supone una guardia de 24 horas.",
     "guardia_franja": null
   },
   {
@@ -283817,7 +283712,7 @@
     "telefono": "950360196",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-19",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [],
     "guardia_franjas": [
       "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
@@ -283825,7 +283720,7 @@
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "nota_horario": "Níjar, C/ EL PARQUE, 18: intervalo oficial no válido (2026-11-19 09:00:00–2026-11-19 09:00:00); no se supone una guardia de 24 horas.",
+    "nota_horario": "Níjar, C/ EL PARQUE, 18: intervalo oficial no válido (2026-11-28 09:00:00–2026-11-28 09:00:00); no se supone una guardia de 24 horas.",
     "guardia_franja": null
   },
   {
@@ -283909,16 +283804,16 @@
     "telefono": "950320933",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-27T21:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T21:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 27/11 09:00–27/11 21:00"
+      "presencial: 28/11 09:00–28/11 21:00"
     ],
     "lat": null,
     "lng": null,
@@ -283934,16 +283829,16 @@
     "telefono": "950304437",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-27T21:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T21:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 27/11 09:00–27/11 21:00"
+      "presencial: 28/11 09:00–28/11 21:00"
     ],
     "lat": null,
     "lng": null,
@@ -283959,16 +283854,16 @@
     "telefono": "950341744",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T08:30:00",
-        "fin": "2026-11-27T21:30:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T21:30:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 27/11 08:30–27/11 21:30"
+      "presencial: 28/11 09:00–28/11 21:30"
     ],
     "lat": null,
     "lng": null,
@@ -283984,16 +283879,16 @@
     "telefono": "950250423",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-27T21:30:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T21:30:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 27/11 09:00–27/11 21:30"
+      "presencial: 28/11 09:00–28/11 21:30"
     ],
     "lat": null,
     "lng": null,
@@ -284069,16 +283964,16 @@
     "telefono": "950347600",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-27T22:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 27/11 09:00–27/11 22:00"
+      "presencial: 28/11 09:00–28/11 22:00"
     ],
     "lat": null,
     "lng": null,
@@ -284094,16 +283989,16 @@
     "telefono": "950326393",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-27T21:30:00",
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-28T21:30:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 27/11 09:00–27/11 21:30"
+      "presencial: 28/11 09:30–28/11 21:30"
     ],
     "lat": 36.7657715,
     "lng": -2.6109043,
@@ -284121,16 +284016,16 @@
     "telefono": "950345009",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:30:00",
-        "fin": "2026-11-27T20:30:00",
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-28T20:30:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 27/11 09:30–27/11 20:30"
+      "presencial: 28/11 09:30–28/11 20:30"
     ],
     "lat": null,
     "lng": null,
@@ -284188,7 +284083,7 @@
     "telefono": "950415437",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [],
     "guardia_franjas": [
       "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
@@ -284196,7 +284091,7 @@
     "lat": 37.6921185,
     "lng": -2.0959197,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "nota_horario": "Velez-Blanco, C/ CLAVEL, 3: intervalo oficial no válido (2026-11-27 20:00:00–2026-11-27 20:00:00); no se supone una guardia de 24 horas.",
+    "nota_horario": "Velez-Blanco, C/ CLAVEL, 3: intervalo oficial no válido (2026-11-28 20:00:00–2026-11-28 20:00:00); no se supone una guardia de 24 horas.",
     "guardia_franja": null,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/9162530148"
@@ -284260,16 +284155,16 @@
     "telefono": "950482561",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T08:30:00",
-        "fin": "2026-11-27T21:00:00",
+        "inicio": "2026-11-28T08:30:00",
+        "fin": "2026-11-28T21:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 27/11 08:30–27/11 21:00"
+      "presencial: 28/11 08:30–28/11 21:00"
     ],
     "lat": 36.7675789,
     "lng": -2.8202296,
@@ -284312,16 +284207,16 @@
     "telefono": "950243868",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T08:00:00",
-        "fin": "2026-11-27T22:00:00",
+        "inicio": "2026-11-28T08:00:00",
+        "fin": "2026-11-28T22:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 27/11 08:00–27/11 22:00"
+      "presencial: 28/11 08:00–28/11 22:00"
     ],
     "lat": 36.8331399,
     "lng": -2.4481984,
@@ -284572,16 +284467,16 @@
     "telefono": "950268468",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T08:30:00",
-        "fin": "2026-11-27T21:30:00",
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-28T21:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 27/11 08:30–27/11 21:30"
+      "presencial: 28/11 09:30–28/11 21:00"
     ],
     "lat": null,
     "lng": null,
@@ -284859,22 +284754,16 @@
     "telefono": "950236192",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T08:30:00",
-        "fin": "2026-11-27T20:30:00",
-        "tipo": "presencial"
-      },
-      {
-        "inicio": "2026-11-27T08:30:00",
-        "fin": "2026-11-27T21:00:00",
+        "inicio": "2026-11-28T08:30:00",
+        "fin": "2026-11-28T20:30:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 27/11 08:30–27/11 20:30",
-      "presencial: 27/11 08:30–27/11 21:00"
+      "presencial: 28/11 08:30–28/11 20:30"
     ],
     "lat": null,
     "lng": null,
@@ -284890,16 +284779,16 @@
     "telefono": "950330008",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T08:30:00",
-        "fin": "2026-11-27T21:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T21:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 27/11 08:30–27/11 21:00"
+      "presencial: 28/11 09:00–28/11 21:00"
     ],
     "lat": null,
     "lng": null,
@@ -284967,16 +284856,16 @@
     "telefono": "950480561",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T08:30:00",
-        "fin": "2026-11-27T21:00:00",
+        "inicio": "2026-11-28T08:30:00",
+        "fin": "2026-11-28T21:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 27/11 08:30–27/11 21:00"
+      "presencial: 28/11 08:30–28/11 21:00"
     ],
     "lat": 36.7691292,
     "lng": -2.8012869,
@@ -285096,16 +284985,16 @@
     "telefono": "950274658",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T08:30:00",
-        "fin": "2026-11-27T22:00:00",
+        "inicio": "2026-11-28T08:30:00",
+        "fin": "2026-11-28T22:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 27/11 08:30–27/11 22:00"
+      "presencial: 28/11 08:30–28/11 22:00"
     ],
     "lat": null,
     "lng": null,
@@ -285121,16 +285010,16 @@
     "telefono": "950573681",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T08:30:00",
-        "fin": "2026-11-27T22:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T21:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 27/11 08:30–27/11 22:00"
+      "presencial: 28/11 09:00–28/11 21:00"
     ],
     "lat": null,
     "lng": null,
@@ -285146,16 +285035,16 @@
     "telefono": "950230930",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-27T22:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 27/11 09:00–27/11 22:00"
+      "presencial: 28/11 09:00–28/11 22:00"
     ],
     "lat": 36.8409083,
     "lng": -2.4639252,
@@ -285248,16 +285137,16 @@
     "telefono": "950237703",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-27T22:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 27/11 09:00–27/11 22:00"
+      "presencial: 28/11 09:00–28/11 22:00"
     ],
     "lat": 36.8386513,
     "lng": -2.4632639,
@@ -285275,16 +285164,16 @@
     "telefono": "950250438",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-27T22:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 27/11 09:00–27/11 22:00"
+      "presencial: 28/11 09:00–28/11 22:00"
     ],
     "lat": 36.8452898,
     "lng": -2.4525888,
@@ -285386,7 +285275,7 @@
     "telefono": "950130232",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [],
     "guardia_franjas": [
       "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
@@ -285394,7 +285283,7 @@
     "lat": 36.9997174,
     "lng": -1.8950001,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "nota_horario": "Carboneras, AV. DE ALMERIA, 24: intervalo oficial no válido (2026-11-27 09:00:00–2026-11-27 09:00:00); no se supone una guardia de 24 horas.",
+    "nota_horario": "Carboneras, AV. DE ALMERIA, 24: intervalo oficial no válido (2026-11-28 09:00:00–2026-11-28 09:00:00); no se supone una guardia de 24 horas.",
     "guardia_franja": null,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/2682643309"
@@ -285626,16 +285515,16 @@
     "telefono": "950225431",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-27T21:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T21:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 27/11 09:00–27/11 21:00"
+      "presencial: 28/11 09:00–28/11 21:00"
     ],
     "lat": 36.8437749,
     "lng": -2.447479,
@@ -285653,16 +285542,16 @@
     "telefono": "950330780",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-27T21:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T21:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 27/11 09:00–27/11 21:00"
+      "presencial: 28/11 09:00–28/11 21:00"
     ],
     "lat": null,
     "lng": null,
@@ -285678,16 +285567,16 @@
     "telefono": "950343402",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-27T21:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T21:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 27/11 09:00–27/11 21:00"
+      "presencial: 28/11 09:00–28/11 21:00"
     ],
     "lat": null,
     "lng": null,
@@ -285703,16 +285592,16 @@
     "telefono": "950576267",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-27T21:00:00",
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-28T21:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 27/11 09:00–27/11 21:00"
+      "presencial: 28/11 09:30–28/11 21:00"
     ],
     "lat": 37.1188906,
     "lng": -1.8350841,
@@ -285757,16 +285646,16 @@
     "telefono": "950323805",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-27T21:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T21:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 27/11 09:00–27/11 21:00"
+      "presencial: 28/11 09:00–28/11 21:00"
     ],
     "lat": 36.7427706,
     "lng": -2.6158523,
@@ -285915,16 +285804,16 @@
     "telefono": "950300157",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-27T21:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T21:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 27/11 09:00–27/11 21:00"
+      "presencial: 28/11 09:00–28/11 21:00"
     ],
     "lat": null,
     "lng": null,
@@ -285990,16 +285879,16 @@
     "telefono": "950235455",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-27T21:30:00",
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-28T21:30:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 27/11 09:00–27/11 21:30"
+      "presencial: 28/11 09:30–28/11 21:30"
     ],
     "lat": null,
     "lng": null,
@@ -286015,16 +285904,16 @@
     "telefono": "950486306",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-27T20:30:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T08:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 27/11 09:00–27/11 20:30"
+      "presencial: 28/11 00:00–28/11 08:00"
     ],
     "lat": null,
     "lng": null,
@@ -286105,16 +285994,16 @@
     "telefono": "950973447",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:30:00",
-        "fin": "2026-11-27T21:30:00",
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-28T21:30:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 27/11 09:30–27/11 21:30"
+      "presencial: 28/11 09:30–28/11 21:30"
     ],
     "lat": null,
     "lng": null,
@@ -286130,16 +286019,16 @@
     "telefono": null,
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:30:00",
-        "fin": "2026-11-27T22:30:00",
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-28T22:30:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 27/11 09:30–27/11 22:30"
+      "presencial: 28/11 09:30–28/11 22:30"
     ],
     "lat": null,
     "lng": null,
@@ -286232,7 +286121,7 @@
     "telefono": "950342207",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-19",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [],
     "guardia_franjas": [
       "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
@@ -286240,7 +286129,7 @@
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "nota_horario": "Barrio de Archilla, BULEVAR DE LA UNION EUROPEA, 141: intervalo oficial no válido (2026-11-19 09:00:00–2026-11-19 09:00:00); no se supone una guardia de 24 horas.",
+    "nota_horario": "Barrio de Archilla, BULEVAR DE LA UNION EUROPEA, 141: intervalo oficial no válido (2026-11-28 09:00:00–2026-11-28 09:00:00); no se supone una guardia de 24 horas.",
     "guardia_franja": null
   },
   {
@@ -286292,16 +286181,16 @@
     "telefono": "950069036",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T21:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 27/11 21:00–28/11 00:00"
+      "presencial: 28/11 00:00–28/11 09:00"
     ],
     "lat": 37.1391989,
     "lng": -1.8531815,
@@ -286433,16 +286322,16 @@
     "telefono": "950132279",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-20",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-20T21:00:00",
-        "fin": "2026-11-21T00:00:00",
+        "inicio": "2026-11-28T21:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 20/11 21:00–21/11 00:00"
+      "presencial: 28/11 21:00–29/11 00:00"
     ],
     "lat": 37.1868768,
     "lng": -1.81972,
@@ -286460,16 +286349,16 @@
     "telefono": "950303183",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-17",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-17T00:00:00",
-        "fin": "2026-11-17T09:00:00",
+        "inicio": "2026-11-28T22:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 17/11 00:00–17/11 09:00"
+      "presencial: 28/11 22:00–29/11 00:00"
     ],
     "lat": null,
     "lng": null,
@@ -286627,7 +286516,7 @@
     "telefono": "950470131",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-25",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [],
     "guardia_franjas": [
       "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
@@ -286635,7 +286524,7 @@
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "nota_horario": "Huercal-overa, C/ DOCTOR JIMENEZ DIAZ, 26: intervalo oficial no válido (2026-11-25 09:00:00–2026-11-25 09:00:00); no se supone una guardia de 24 horas.",
+    "nota_horario": "Huercal-overa, C/ DOCTOR JIMENEZ DIAZ, 26: intervalo oficial no válido (2026-11-28 09:00:00–2026-11-28 09:00:00); no se supone una guardia de 24 horas.",
     "guardia_franja": null
   },
   {
@@ -286687,7 +286576,7 @@
     "telefono": "950411250",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [],
     "guardia_franjas": [
       "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
@@ -286695,7 +286584,7 @@
     "lat": 37.6485684,
     "lng": -2.0722809,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "nota_horario": "Velez-Rubio, CARRERA DEL MERCADO 8: intervalo oficial no válido (2026-11-27 20:00:00–2026-11-27 20:00:00); no se supone una guardia de 24 horas.",
+    "nota_horario": "Velez-Rubio, CARRERA DEL MERCADO 8: intervalo oficial no válido (2026-11-28 20:00:00–2026-11-28 20:00:00); no se supone una guardia de 24 horas.",
     "guardia_franja": null,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/4974259273"
@@ -286709,7 +286598,7 @@
     "telefono": "950456028",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [],
     "guardia_franjas": [
       "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
@@ -286717,7 +286606,7 @@
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "nota_horario": "Cuevas del Almanzora, C/ EL PILAR, 13: intervalo oficial no válido (2026-11-27 21:00:00–2026-11-27 21:00:00); no se supone una guardia de 24 horas.",
+    "nota_horario": "Cuevas del Almanzora, C/ EL PILAR, 13: intervalo oficial no válido (2026-11-28 21:00:00–2026-11-28 21:00:00); no se supone una guardia de 24 horas.",
     "guardia_franja": null
   },
   {
@@ -287157,16 +287046,16 @@
     "telefono": "950310278",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T22:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "presencial: 27/11 22:00–28/11 00:00"
+      "presencial: 28/11 00:00–28/11 09:00"
     ],
     "lat": null,
     "lng": null,
@@ -287254,23 +287143,23 @@
     "telefono": "950492339",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T22:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "tipo": "presencial"
       }
     ],
     "guardia_franjas": [
-      "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono",
-      "presencial: 27/11 22:00–28/11 00:00"
+      "presencial: 28/11 00:00–28/11 09:00",
+      "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "nota_horario": "Berja, C/ MANUEL SALMERON 2: intervalo oficial no válido (2026-11-27 09:00:00–2026-11-27 09:00:00); no se supone una guardia de 24 horas.",
-    "guardia_franja": null
+    "guardia_franja": null,
+    "nota_horario": "Berja, C/ MANUEL SALMERON 2: intervalo oficial no válido (2026-11-28 09:00:00–2026-11-28 09:00:00); no se supone una guardia de 24 horas."
   },
   {
     "id": "alm-e2987ae7-0a23-48a3-8630-7a443062f40b",
@@ -287816,7 +287705,7 @@
     "telefono": "950441258",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [],
     "guardia_franjas": [
       "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
@@ -287824,7 +287713,7 @@
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "nota_horario": "Olula del Río, C/ RAMON Y CAJAL, 50: intervalo oficial no válido (2026-11-27 09:00:00–2026-11-27 09:00:00); no se supone una guardia de 24 horas.",
+    "nota_horario": "Olula del Río, C/ RAMON Y CAJAL, 50: intervalo oficial no válido (2026-11-28 09:00:00–2026-11-28 09:00:00); no se supone una guardia de 24 horas.",
     "guardia_franja": null
   },
   {
@@ -287836,7 +287725,7 @@
     "telefono": "950510405",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [],
     "guardia_franjas": [
       "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
@@ -287844,7 +287733,7 @@
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "nota_horario": "Almocita, C/ REAL, 6: intervalo oficial no válido (2026-11-27 09:30:00–2026-11-27 09:30:00); no se supone una guardia de 24 horas.",
+    "nota_horario": "Almocita, C/ REAL, 6: intervalo oficial no válido (2026-11-28 09:30:00–2026-11-28 09:30:00); no se supone una guardia de 24 horas.",
     "guardia_franja": null
   },
   {
@@ -287856,7 +287745,7 @@
     "telefono": "950640241",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [],
     "guardia_franjas": [
       "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
@@ -287864,7 +287753,7 @@
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "nota_horario": "ALHAMA DE ALMERIA, C/ LOS NARANJOS, 1 (FARMACIA): intervalo oficial no válido (2026-11-27 09:30:00–2026-11-27 09:30:00); no se supone una guardia de 24 horas.",
+    "nota_horario": "ALHAMA DE ALMERIA, C/ LOS NARANJOS, 1 (FARMACIA): intervalo oficial no válido (2026-11-28 09:30:00–2026-11-28 09:30:00); no se supone una guardia de 24 horas.",
     "guardia_franja": null
   },
   {
@@ -287876,7 +287765,7 @@
     "telefono": "950364011",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [],
     "guardia_franjas": [
       "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
@@ -287884,7 +287773,7 @@
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "nota_horario": "Sorbas, C/ CABO MELENDEZ, 1: intervalo oficial no válido (2026-11-27 09:30:00–2026-11-27 09:30:00); no se supone una guardia de 24 horas.",
+    "nota_horario": "Sorbas, C/ CABO MELENDEZ, 1: intervalo oficial no válido (2026-11-28 09:30:00–2026-11-28 09:30:00); no se supone una guardia de 24 horas.",
     "guardia_franja": null
   },
   {
@@ -287921,7 +287810,7 @@
     "telefono": "950420179",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [],
     "guardia_franjas": [
       "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
@@ -287929,7 +287818,7 @@
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "nota_horario": "Tíjola, C/ VIRGEN DEL SOCORRO, 18: intervalo oficial no válido (2026-11-27 09:00:00–2026-11-27 09:00:00); no se supone una guardia de 24 horas.",
+    "nota_horario": "Tíjola, C/ VIRGEN DEL SOCORRO, 18: intervalo oficial no válido (2026-11-28 09:00:00–2026-11-28 09:00:00); no se supone una guardia de 24 horas.",
     "guardia_franja": null
   },
   {
@@ -287993,20 +287882,15 @@
     "telefono": "950513305",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
-    "guardia_intervalos": [
-      {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-27T22:00:00",
-        "tipo": "presencial"
-      }
-    ],
+    "fecha_guardia": "2026-11-28",
+    "guardia_intervalos": [],
     "guardia_franjas": [
-      "presencial: 27/11 09:00–27/11 22:00"
+      "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
     ],
     "lat": null,
     "lng": null,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
+    "nota_horario": "Fondón, POETA MARTIN DEL REY, 2: intervalo oficial no válido (2026-11-28 09:00:00–2026-11-28 09:00:00); no se supone una guardia de 24 horas.",
     "guardia_franja": null
   },
   {
@@ -288018,7 +287902,7 @@
     "telefono": "950400670",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [],
     "guardia_franjas": [
       "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
@@ -288026,7 +287910,7 @@
     "lat": 36.7489967,
     "lng": -3.0143164,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "nota_horario": "Adra, C/ NATALIO RIVAS, 9: intervalo oficial no válido (2026-11-27 09:00:00–2026-11-27 09:00:00); no se supone una guardia de 24 horas.",
+    "nota_horario": "Adra, C/ NATALIO RIVAS, 9: intervalo oficial no válido (2026-11-28 09:00:00–2026-11-28 09:00:00); no se supone una guardia de 24 horas.",
     "guardia_franja": null,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/4643086390"
@@ -288040,7 +287924,7 @@
     "telefono": "950351019",
     "telefono_guardia": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_intervalos": [],
     "guardia_franjas": [
       "Guardia publicada para la fecha; horario oficial inválido, confirmar por teléfono"
@@ -288048,10 +287932,37 @@
     "lat": 37.1436682,
     "lng": -2.7755835,
     "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
-    "nota_horario": "Abla, CTRA. SANTILLANA 3: intervalo oficial no válido (2026-11-27 20:00:00–2026-11-27 20:00:00); no se supone una guardia de 24 horas.",
+    "nota_horario": "Abla, CTRA. SANTILLANA 3: intervalo oficial no válido (2026-11-28 20:00:00–2026-11-28 20:00:00); no se supone una guardia de 24 horas.",
     "guardia_franja": null,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org/node/3373225652"
+  },
+  {
+    "id": "alm-d1566a42-13b3-4c06-9f02-8f79ea93251e",
+    "nombre": "CERRUDO RUIZ DE LA TORRE, ELENA",
+    "direccion": "AV. MEDITERRANEO, 14",
+    "localidad": "Roquetas de Mar",
+    "provincia": "Almería",
+    "telefono": "950333919",
+    "telefono_guardia": null,
+    "guardia": false,
+    "fecha_guardia": "2026-11-28",
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-28T22:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "tipo": "presencial"
+      }
+    ],
+    "guardia_franjas": [
+      "presencial: 28/11 22:00–29/11 00:00"
+    ],
+    "lat": 36.7331733,
+    "lng": -2.6200436,
+    "fuente": "https://www.cofalmeria.com/buscador-de-farmacias/?activo_guardias=on",
+    "guardia_franja": null,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/5918437900"
   },
   {
     "id": "govern-andorra-e383a2372dd4c480",
@@ -359551,14 +359462,14 @@
     "zona": "ALGAR",
     "telefono": "956710353",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Atención Permanente (Localizada): 27/11 00:00–28/11 00:00"
+      "Atención Permanente (Localizada): 28/11 00:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "Atención Permanente (Localizada)"
       }
     ],
@@ -359579,14 +359490,14 @@
     "zona": "ZAHARA DE LOS ATUNES (BARBATE)",
     "telefono": "956439147",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Atención Permanente (Localizada): 27/11 00:00–28/11 00:00"
+      "Atención Permanente (Localizada): 28/11 00:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "Atención Permanente (Localizada)"
       }
     ],
@@ -359607,14 +359518,14 @@
     "zona": "SAN JOSE DEL VALLE",
     "telefono": "956160203",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Atención Permanente (Localizada): 27/11 00:00–28/11 00:00"
+      "Atención Permanente (Localizada): 28/11 00:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "Atención Permanente (Localizada)"
       }
     ],
@@ -359635,14 +359546,14 @@
     "zona": "SAN MARTÍN DEL TESORILLO",
     "telefono": "956618132",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Atención Permanente (Localizada): 27/11 00:00–28/11 00:00"
+      "Atención Permanente (Localizada): 28/11 00:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "Atención Permanente (Localizada)"
       }
     ],
@@ -359663,14 +359574,14 @@
     "zona": "CASTELLAR DE LA FRONTERA",
     "telefono": "956647369",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Atención Permanente (Localizada): 27/11 00:00–28/11 00:00"
+      "Atención Permanente (Localizada): 28/11 00:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "Atención Permanente (Localizada)"
       }
     ],
@@ -359691,14 +359602,14 @@
     "zona": "BENAOCAZ",
     "telefono": "956125686",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Atención Permanente (Localizada): 27/11 00:00–28/11 00:00"
+      "Atención Permanente (Localizada): 28/11 00:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "Atención Permanente (Localizada)"
       }
     ],
@@ -359719,14 +359630,14 @@
     "zona": "VILLALUENGA DEL ROSARIO",
     "telefono": "956464601",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Atención Permanente (Localizada): 27/11 00:00–28/11 00:00"
+      "Atención Permanente (Localizada): 28/11 00:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "Atención Permanente (Localizada)"
       }
     ],
@@ -359747,14 +359658,14 @@
     "zona": "BENAMAHOMA (GRAZALEMA)",
     "telefono": "956716281",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Atención Permanente (Localizada): 27/11 00:00–28/11 00:00"
+      "Atención Permanente (Localizada): 28/11 00:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "Atención Permanente (Localizada)"
       }
     ],
@@ -359775,14 +359686,14 @@
     "zona": "ALCALA DEL VALLE",
     "telefono": "856940567",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Atención Permanente (Localizada): 27/11 00:00–28/11 00:00"
+      "Atención Permanente (Localizada): 28/11 00:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "Atención Permanente (Localizada)"
       }
     ],
@@ -359803,14 +359714,14 @@
     "zona": "TORRE ALHAQUIME",
     "telefono": "956125197",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Atención Permanente (Localizada): 27/11 00:00–28/11 00:00"
+      "Atención Permanente (Localizada): 28/11 00:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "Atención Permanente (Localizada)"
       }
     ],
@@ -359831,14 +359742,14 @@
     "zona": "ESPERA",
     "telefono": "956721067",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Atención Permanente (Localizada): 27/11 00:00–28/11 00:00"
+      "Atención Permanente (Localizada): 28/11 00:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "Atención Permanente (Localizada)"
       }
     ],
@@ -359859,14 +359770,14 @@
     "zona": "ZAHARA DE LA SIERRA",
     "telefono": "956123259",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Atención Permanente (Localizada): 27/11 00:00–28/11 00:00"
+      "Atención Permanente (Localizada): 28/11 00:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "Atención Permanente (Localizada)"
       }
     ],
@@ -359887,14 +359798,14 @@
     "zona": "EL BOSQUE",
     "telefono": "956716268",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Atención Permanente (Localizada): 27/11 00:00–28/11 00:00"
+      "Atención Permanente (Localizada): 28/11 00:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "Atención Permanente (Localizada)"
       }
     ],
@@ -359915,14 +359826,14 @@
     "zona": "GRAZALEMA",
     "telefono": "956132477",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Atención Permanente (Localizada): 27/11 00:00–28/11 00:00"
+      "Atención Permanente (Localizada): 28/11 00:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "Atención Permanente (Localizada)"
       }
     ],
@@ -359943,14 +359854,14 @@
     "zona": "EL GASTOR",
     "telefono": "956123824",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Atención Permanente (Localizada): 27/11 00:00–28/11 00:00"
+      "Atención Permanente (Localizada): 28/11 00:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "Atención Permanente (Localizada)"
       }
     ],
@@ -360015,14 +359926,14 @@
     "zona": "CADIZ",
     "telefono": "956544813",
     "guardia": false,
-    "fecha_guardia": "2026-11-21",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "SERVICIO DIURNO (De 9,00 a 22,00 h): 21/11 09:00–21/11 22:00"
+      "SERVICIO DIURNO (De 9,00 a 22,00 h): 28/11 09:00–28/11 22:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-21T09:00:00",
-        "fin": "2026-11-21T22:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
         "tipo": "SERVICIO DIURNO (De 9,00 a 22,00 h)"
       }
     ],
@@ -360099,14 +360010,14 @@
     "zona": "JEREZ DE LA FRONTERA",
     "telefono": "856032590",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "SERVICIO DIURNO (de 09,00 h a 22,00 h): 24/11 09:00–24/11 22:00"
+      "SERVICIO DIURNO (de 09,00 h a 22,00 h): 28/11 09:00–28/11 22:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T09:00:00",
-        "fin": "2026-11-24T22:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
         "tipo": "SERVICIO DIURNO (de 09,00 h a 22,00 h)"
       }
     ],
@@ -360127,14 +360038,14 @@
     "zona": "JEREZ DE LA FRONTERA",
     "telefono": "956342893",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "SERVICIO DIURNO (de 09,00 h a 22,00 h): 24/11 09:00–24/11 22:00"
+      "SERVICIO DIURNO (de 09,00 h a 22,00 h): 28/11 09:00–28/11 22:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T09:00:00",
-        "fin": "2026-11-24T22:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
         "tipo": "SERVICIO DIURNO (de 09,00 h a 22,00 h)"
       }
     ],
@@ -360155,14 +360066,14 @@
     "zona": "MEDINA SIDONIA",
     "telefono": "956410031",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Día y Noche (24 horas): 27/11 00:00–27/11 09:00"
+      "Día y Noche (24 horas): 28/11 09:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-27T09:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "Día y Noche (24 horas)"
       }
     ],
@@ -360183,14 +360094,20 @@
     "zona": "PRADO DEL REY",
     "telefono": "956723137",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Día y Noche (24 horas): 27/11 09:00–28/11 00:00"
+      "Día y Noche (24 horas): 28/11 00:00–28/11 09:00",
+      "Día y Noche (24 horas): 28/11 09:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      },
+      {
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "Día y Noche (24 horas)"
       }
     ],
@@ -360211,15 +360128,21 @@
     "zona": "SAN FERNANDO",
     "telefono": "956881911",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "SERVICIO DIURNO (de 09,00 h a 22,00 h): 27/11 09:00–27/11 22:00"
+      "SERVICIO DIURNO (de 09,00 h a 22,00 h): 28/11 09:00–28/11 22:00",
+      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 28/11 22:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-27T22:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
         "tipo": "SERVICIO DIURNO (de 09,00 h a 22,00 h)"
+      },
+      {
+        "inicio": "2026-11-28T22:00:00",
+        "fin": "2026-11-29T00:00:00",
+        "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,00 h)"
       }
     ],
     "lat": 36.4687518,
@@ -360239,20 +360162,20 @@
     "zona": "SAN ROQUE",
     "telefono": "956780152",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Día y Noche (24 horas): 27/11 00:00–27/11 09:00",
-      "Día y Noche (24 horas): 27/11 09:00–28/11 00:00"
+      "Día y Noche (24 horas): 28/11 00:00–28/11 09:00",
+      "Día y Noche (24 horas): 28/11 09:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-27T09:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "tipo": "Día y Noche (24 horas)"
       },
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "Día y Noche (24 horas)"
       }
     ],
@@ -360273,14 +360196,14 @@
     "zona": "VEJER DE LA FRONTERA",
     "telefono": "956450054",
     "guardia": false,
-    "fecha_guardia": "2026-11-25",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Día y Noche (24 horas): 25/11 00:00–25/11 09:00"
+      "Día y Noche (24 horas): 28/11 09:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-25T00:00:00",
-        "fin": "2026-11-25T09:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "Día y Noche (24 horas)"
       }
     ],
@@ -360301,15 +360224,15 @@
     "zona": "SAN FERNANDO",
     "telefono": "956882253",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 27/11 00:00–27/11 09:00"
+      "SERVICIO DIURNO (de 09,00 h a 22,00 h): 28/11 09:00–28/11 22:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-27T09:00:00",
-        "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,00 h)"
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
+        "tipo": "SERVICIO DIURNO (de 09,00 h a 22,00 h)"
       }
     ],
     "lat": 36.466144890711,
@@ -360385,14 +360308,20 @@
     "zona": "PUERTO SERRANO",
     "telefono": "956136059",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Día y Noche (24 horas): 27/11 09:00–28/11 00:00"
+      "Día y Noche (24 horas): 28/11 00:00–28/11 09:00",
+      "Día y Noche (24 horas): 28/11 09:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      },
+      {
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "Día y Noche (24 horas)"
       }
     ],
@@ -360497,14 +360426,14 @@
     "zona": "JEREZ DE LA FRONTERA",
     "telefono": "956341963",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "SERVICIO DIURNO (de 09,00 h a 22,00 h): 24/11 09:00–24/11 22:00"
+      "SERVICIO DIURNO (de 09,00 h a 22,00 h): 28/11 09:00–28/11 22:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T09:00:00",
-        "fin": "2026-11-24T22:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
         "tipo": "SERVICIO DIURNO (de 09,00 h a 22,00 h)"
       }
     ],
@@ -360553,14 +360482,14 @@
     "zona": "JEREZ DE LA FRONTERA",
     "telefono": "956335697",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "SERVICIO DIURNO (de 09,00 h a 22,00 h): 24/11 09:00–24/11 22:00"
+      "SERVICIO DIURNO (de 09,00 h a 22,00 h): 28/11 09:00–28/11 22:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T09:00:00",
-        "fin": "2026-11-24T22:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
         "tipo": "SERVICIO DIURNO (de 09,00 h a 22,00 h)"
       }
     ],
@@ -360609,20 +360538,20 @@
     "zona": "BENALUP-CASA VIEJAS",
     "telefono": "956417759",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Día y Noche (24 horas): 27/11 00:00–27/11 09:00",
-      "Día y Noche (24 horas): 27/11 09:00–28/11 00:00"
+      "Día y Noche (24 horas): 28/11 00:00–28/11 09:00",
+      "Día y Noche (24 horas): 28/11 09:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-27T09:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "tipo": "Día y Noche (24 horas)"
       },
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "Día y Noche (24 horas)"
       }
     ],
@@ -360699,20 +360628,20 @@
     "zona": "SETENIL DE LAS BODEGAS",
     "telefono": "956134329",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Día y Noche (24 horas): 27/11 00:00–27/11 09:00",
-      "Día y Noche (24 horas): 27/11 09:00–28/11 00:00"
+      "Día y Noche (24 horas): 28/11 00:00–28/11 09:00",
+      "Día y Noche (24 horas): 28/11 09:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-27T09:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "tipo": "Día y Noche (24 horas)"
       },
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "Día y Noche (24 horas)"
       }
     ],
@@ -360733,20 +360662,20 @@
     "zona": "TREBUJENA",
     "telefono": "956395351",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Día y Noche (24 horas): 27/11 00:00–27/11 09:00",
-      "Día y Noche (24 horas): 27/11 09:00–28/11 00:00"
+      "Día y Noche (24 horas): 28/11 00:00–28/11 09:00",
+      "Día y Noche (24 horas): 28/11 09:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-27T09:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "tipo": "Día y Noche (24 horas)"
       },
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "Día y Noche (24 horas)"
       }
     ],
@@ -360767,14 +360696,20 @@
     "zona": "ALGODONALES",
     "telefono": "956137863",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Día y Noche (24 horas): 27/11 09:00–28/11 00:00"
+      "Día y Noche (24 horas): 28/11 00:00–28/11 09:00",
+      "Día y Noche (24 horas): 28/11 09:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      },
+      {
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "Día y Noche (24 horas)"
       }
     ],
@@ -360823,14 +360758,14 @@
     "zona": "PATERNA DE RIVERA",
     "telefono": "956416598",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "DIURNO (De 9 a 22 h)/NOCTURNO: LOCALIZADA: 27/11 09:00–27/11 22:00"
+      "DIURNO (De 9 a 22 h)/NOCTURNO: LOCALIZADA: 28/11 09:00–28/11 22:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-27T22:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
         "tipo": "DIURNO (De 9 a 22 h)/NOCTURNO: LOCALIZADA"
       }
     ],
@@ -360851,20 +360786,20 @@
     "zona": "ALCALA DE LOS GAZULES",
     "telefono": "956420257",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Día y Noche (24 horas): 27/11 00:00–27/11 09:00",
-      "Día y Noche (24 horas): 27/11 09:00–28/11 00:00"
+      "Día y Noche (24 horas): 28/11 00:00–28/11 09:00",
+      "Día y Noche (24 horas): 28/11 09:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-27T09:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "tipo": "Día y Noche (24 horas)"
       },
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "Día y Noche (24 horas)"
       }
     ],
@@ -360885,20 +360820,20 @@
     "zona": "JIMENA DE LA FRONTERA",
     "telefono": "956640004",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Día y Noche (24 horas): 27/11 00:00–27/11 09:00",
-      "Día y Noche (24 horas): 27/11 09:00–28/11 00:00"
+      "Día y Noche (24 horas): 28/11 00:00–28/11 09:00",
+      "Día y Noche (24 horas): 28/11 09:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-27T09:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "tipo": "Día y Noche (24 horas)"
       },
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "Día y Noche (24 horas)"
       }
     ],
@@ -360947,14 +360882,20 @@
     "zona": "VILLAMARTIN",
     "telefono": "956730075",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Día y Noche (24 horas): 27/11 09:00–28/11 00:00"
+      "Día y Noche (24 horas): 28/11 00:00–28/11 09:00",
+      "Día y Noche (24 horas): 28/11 09:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
+        "tipo": "Día y Noche (24 horas)"
+      },
+      {
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "Día y Noche (24 horas)"
       }
     ],
@@ -360975,14 +360916,14 @@
     "zona": "ALGECIRAS",
     "telefono": "956652752",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "SERVICIO DIURNO (de 09,00 h a 22,00 h): 27/11 09:00–27/11 22:00"
+      "SERVICIO DIURNO (de 09,00 h a 22,00 h): 28/11 09:00–28/11 22:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-27T22:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
         "tipo": "SERVICIO DIURNO (de 09,00 h a 22,00 h)"
       }
     ],
@@ -361059,20 +361000,20 @@
     "zona": "EL PUERTO DE SANTA MARIA",
     "telefono": "956871086",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "SERVICIO NOCTURNO (de 22,00 a 9,30 h): 27/11 00:00–27/11 09:30",
-      "SERVICIO NOCTURNO (de 22,00 a 9,30 h): 27/11 22:00–28/11 00:00"
+      "SERVICIO NOCTURNO (de 22,00 a 9,30 h): 28/11 00:00–28/11 09:30",
+      "SERVICIO NOCTURNO (de 22,00 a 9,30 h): 28/11 22:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-27T09:30:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:30:00",
         "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,30 h)"
       },
       {
-        "inicio": "2026-11-27T22:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T22:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,30 h)"
       }
     ],
@@ -361177,15 +361118,15 @@
     "zona": "LA LINEA DE LA CONCEPCION",
     "telefono": "956643765",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "SERVICIO NOCTURNO (de 22,00 a 9,30 h): 24/11 00:00–24/11 09:30"
+      "SERVICIO DIURNO (de 9,30 a 22,00 h): 28/11 09:30–28/11 22:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T00:00:00",
-        "fin": "2026-11-24T09:30:00",
-        "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,30 h)"
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-28T22:00:00",
+        "tipo": "SERVICIO DIURNO (de 9,30 a 22,00 h)"
       }
     ],
     "lat": 36.1768268,
@@ -361345,20 +361286,20 @@
     "zona": "JEREZ DE LA FRONTERA",
     "telefono": "956305815",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 27/11 00:00–27/11 09:00",
-      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 27/11 22:00–28/11 00:00"
+      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 28/11 00:00–28/11 09:00",
+      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 28/11 22:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-27T09:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,00 h)"
       },
       {
-        "inicio": "2026-11-27T22:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T22:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,00 h)"
       }
     ],
@@ -361379,14 +361320,26 @@
     "zona": "ALGECIRAS",
     "telefono": "956656641",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 27/11 22:00–28/11 00:00"
+      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 28/11 00:00–28/11 09:00",
+      "SERVICIO DIURNO (de 09,00 h a 22,00 h): 28/11 09:00–28/11 22:00",
+      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 28/11 22:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T22:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
+        "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,00 h)"
+      },
+      {
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
+        "tipo": "SERVICIO DIURNO (de 09,00 h a 22,00 h)"
+      },
+      {
+        "inicio": "2026-11-28T22:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,00 h)"
       }
     ],
@@ -361407,20 +361360,20 @@
     "zona": "JEREZ DE LA FRONTERA",
     "telefono": "956336212",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 27/11 00:00–27/11 09:00",
-      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 27/11 22:00–28/11 00:00"
+      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 28/11 00:00–28/11 09:00",
+      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 28/11 22:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-27T09:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,00 h)"
       },
       {
-        "inicio": "2026-11-27T22:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T22:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,00 h)"
       }
     ],
@@ -361441,26 +361394,14 @@
     "zona": "ALGECIRAS",
     "telefono": "956650823",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 27/11 00:00–27/11 09:00",
-      "SERVICIO DIURNO (de 09,00 h a 22,00 h): 27/11 09:00–27/11 22:00",
-      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 27/11 22:00–28/11 00:00"
+      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 28/11 00:00–28/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-27T09:00:00",
-        "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,00 h)"
-      },
-      {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-27T22:00:00",
-        "tipo": "SERVICIO DIURNO (de 09,00 h a 22,00 h)"
-      },
-      {
-        "inicio": "2026-11-27T22:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,00 h)"
       }
     ],
@@ -361481,20 +361422,20 @@
     "zona": "CADIZ",
     "telefono": "956252715",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 27/11 00:00–27/11 09:00",
-      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 27/11 22:00–28/11 00:00"
+      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 28/11 00:00–28/11 09:00",
+      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 28/11 22:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-27T09:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,00 h)"
       },
       {
-        "inicio": "2026-11-27T22:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T22:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,00 h)"
       }
     ],
@@ -361543,20 +361484,14 @@
     "zona": "LA LINEA DE LA CONCEPCION",
     "telefono": "956171335",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "SERVICIO DIURNO (de 9,30 a 22,00 h): 27/11 09:30–27/11 22:00",
-      "SERVICIO NOCTURNO (de 22,00 a 9,30 h): 27/11 22:00–28/11 00:00"
+      "SERVICIO NOCTURNO (de 22,00 a 9,30 h): 28/11 00:00–28/11 09:30"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:30:00",
-        "fin": "2026-11-27T22:00:00",
-        "tipo": "SERVICIO DIURNO (de 9,30 a 22,00 h)"
-      },
-      {
-        "inicio": "2026-11-27T22:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:30:00",
         "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,30 h)"
       }
     ],
@@ -361857,14 +361792,14 @@
     "zona": "ALGECIRAS",
     "telefono": "956662851",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 27/11 00:00–27/11 09:00"
+      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 28/11 22:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-27T09:00:00",
+        "inicio": "2026-11-28T22:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,00 h)"
       }
     ],
@@ -361969,14 +361904,14 @@
     "zona": "PUERTO REAL",
     "telefono": "956832853",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Día y Noche (24 horas): 27/11 09:00–28/11 00:00"
+      "Día y Noche (24 horas): 28/11 00:00–28/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "tipo": "Día y Noche (24 horas)"
       }
     ],
@@ -362025,14 +361960,20 @@
     "zona": "LA LINEA DE LA CONCEPCION",
     "telefono": "956171644",
     "guardia": false,
-    "fecha_guardia": "2026-11-02",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "SERVICIO NOCTURNO (de 22,00 a 9,30 h): 02/11 00:00–02/11 09:30"
+      "SERVICIO DIURNO (de 9,30 a 22,00 h): 28/11 09:30–28/11 22:00",
+      "SERVICIO NOCTURNO (de 22,00 a 9,30 h): 28/11 22:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-02T00:00:00",
-        "fin": "2026-11-02T09:30:00",
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-28T22:00:00",
+        "tipo": "SERVICIO DIURNO (de 9,30 a 22,00 h)"
+      },
+      {
+        "inicio": "2026-11-28T22:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,30 h)"
       }
     ],
@@ -362193,14 +362134,14 @@
     "zona": "EL PUERTO DE SANTA MARIA",
     "telefono": "956852428",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "SERVICIO DIURNO (de 9,30 a 22,00 h): 26/11 09:30–26/11 22:00"
+      "SERVICIO DIURNO (de 9,30 a 22,00 h): 28/11 09:30–28/11 22:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:30:00",
-        "fin": "2026-11-26T22:00:00",
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-28T22:00:00",
         "tipo": "SERVICIO DIURNO (de 9,30 a 22,00 h)"
       }
     ],
@@ -362305,20 +362246,20 @@
     "zona": "BORNOS",
     "telefono": "956712304",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Día y Noche (24 horas): 27/11 00:00–27/11 09:00",
-      "Día y Noche (24 horas): 27/11 09:00–28/11 00:00"
+      "Día y Noche (24 horas): 28/11 00:00–28/11 09:00",
+      "Día y Noche (24 horas): 28/11 09:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-27T09:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "tipo": "Día y Noche (24 horas)"
       },
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "Día y Noche (24 horas)"
       }
     ],
@@ -362367,14 +362308,14 @@
     "zona": "PUERTO REAL",
     "telefono": "956830081",
     "guardia": false,
-    "fecha_guardia": "2026-11-16",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Día y Noche (24 horas): 16/11 00:00–16/11 09:00"
+      "Día y Noche (24 horas): 28/11 09:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-16T00:00:00",
-        "fin": "2026-11-16T09:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "Día y Noche (24 horas)"
       }
     ],
@@ -362563,14 +362504,14 @@
     "zona": "ALGECIRAS",
     "telefono": "956662748",
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "SERVICIO DIURNO (de 09,00 h a 22,00 h): 26/11 09:00–26/11 22:00"
+      "SERVICIO DIURNO (de 09,00 h a 22,00 h): 28/11 09:00–28/11 22:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T09:00:00",
-        "fin": "2026-11-26T22:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
         "tipo": "SERVICIO DIURNO (de 09,00 h a 22,00 h)"
       }
     ],
@@ -362815,20 +362756,20 @@
     "zona": "OLVERA",
     "telefono": "956130823",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Día y Noche (24 horas): 27/11 00:00–27/11 09:00",
-      "Día y Noche (24 horas): 27/11 09:00–28/11 00:00"
+      "Día y Noche (24 horas): 28/11 00:00–28/11 09:00",
+      "Día y Noche (24 horas): 28/11 09:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T00:00:00",
-        "fin": "2026-11-27T09:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "tipo": "Día y Noche (24 horas)"
       },
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "Día y Noche (24 horas)"
       }
     ],
@@ -363101,14 +363042,14 @@
     "zona": "SANLUCAR DE BARRAMEDA",
     "telefono": "956362915",
     "guardia": false,
-    "fecha_guardia": "2026-11-19",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "SERVICIO DIURNO (de 9,30 a 22,00 h): 19/11 09:30–19/11 22:00"
+      "SERVICIO DIURNO (de 9,30 a 22,00 h): 28/11 09:30–28/11 22:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-19T09:30:00",
-        "fin": "2026-11-19T22:00:00",
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-28T22:00:00",
         "tipo": "SERVICIO DIURNO (de 9,30 a 22,00 h)"
       }
     ],
@@ -363325,14 +363266,14 @@
     "zona": "CONIL DE LA FRONTERA",
     "telefono": "956442944",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Día y Noche (24 horas): 27/11 09:00–28/11 00:00"
+      "Día y Noche (24 horas): 28/11 00:00–28/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "tipo": "Día y Noche (24 horas)"
       }
     ],
@@ -363493,14 +363434,14 @@
     "zona": "ARCOS DE LA FRONTERA",
     "telefono": "956700209",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Día y Noche (24 horas): 27/11 09:00–28/11 00:00"
+      "Día y Noche (24 horas): 28/11 00:00–28/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "tipo": "Día y Noche (24 horas)"
       }
     ],
@@ -363605,14 +363546,14 @@
     "zona": "VEJER DE LA FRONTERA",
     "telefono": "956455268",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Día y Noche (24 horas): 27/11 09:00–28/11 00:00"
+      "Día y Noche (24 horas): 28/11 00:00–28/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "tipo": "Día y Noche (24 horas)"
       }
     ],
@@ -363717,14 +363658,14 @@
     "zona": "CHICLANA DE LA FRONTERA",
     "telefono": "956401618",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "SERVICIO DIURNO (de 9,30 a 22,00 h): 24/11 09:30–24/11 22:00"
+      "SERVICIO DIURNO (de 9,30 a 22,00 h): 28/11 09:30–28/11 22:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T09:30:00",
-        "fin": "2026-11-24T22:00:00",
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-28T22:00:00",
         "tipo": "SERVICIO DIURNO (de 9,30 a 22,00 h)"
       }
     ],
@@ -363773,14 +363714,14 @@
     "zona": "BARBATE",
     "telefono": "956430087",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "DURANTE LAS 24 HORAS: 27/11 09:30–28/11 00:00"
+      "DURANTE LAS 24 HORAS: 28/11 00:00–28/11 09:30"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:30:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:30:00",
         "tipo": "DURANTE LAS 24 HORAS"
       }
     ],
@@ -363913,14 +363854,14 @@
     "zona": "SAN FERNANDO",
     "telefono": "956892104",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 27/11 22:00–28/11 00:00"
+      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 28/11 00:00–28/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T22:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,00 h)"
       }
     ],
@@ -364025,14 +363966,14 @@
     "zona": "SAN ROQUE",
     "telefono": "956610128",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Día y Noche (24 horas): 27/11 09:00–28/11 00:00"
+      "Día y Noche (24 horas): 28/11 00:00–28/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "tipo": "Día y Noche (24 horas)"
       }
     ],
@@ -364053,14 +363994,14 @@
     "zona": "CONIL DE LA FRONTERA",
     "telefono": "956444432",
     "guardia": false,
-    "fecha_guardia": "2026-11-21",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Día y Noche (24 horas): 21/11 00:00–21/11 09:00"
+      "Día y Noche (24 horas): 28/11 09:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-21T00:00:00",
-        "fin": "2026-11-21T09:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "Día y Noche (24 horas)"
       }
     ],
@@ -364081,14 +364022,14 @@
     "zona": "ARCOS DE LA FRONTERA",
     "telefono": "956701066",
     "guardia": false,
-    "fecha_guardia": "2026-11-21",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Día y Noche (24 horas): 21/11 00:00–21/11 09:00"
+      "Día y Noche (24 horas): 28/11 09:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-21T00:00:00",
-        "fin": "2026-11-21T09:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "Día y Noche (24 horas)"
       }
     ],
@@ -364137,14 +364078,14 @@
     "zona": "UBRIQUE",
     "telefono": "956460457",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Día y Noche (24 horas): 27/11 09:00–28/11 00:00"
+      "Día y Noche (24 horas): 28/11 00:00–28/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "tipo": "Día y Noche (24 horas)"
       }
     ],
@@ -364221,14 +364162,14 @@
     "zona": "TARIFA",
     "telefono": "956684136",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Día y Noche (24 horas): 27/11 09:00–28/11 00:00"
+      "Día y Noche (24 horas): 28/11 00:00–28/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "tipo": "Día y Noche (24 horas)"
       }
     ],
@@ -364277,14 +364218,14 @@
     "zona": "LOS BARRIOS",
     "telefono": "956620096",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Día y Noche (24 horas): 27/11 09:00–28/11 00:00"
+      "Día y Noche (24 horas): 28/11 00:00–28/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "tipo": "Día y Noche (24 horas)"
       }
     ],
@@ -364389,14 +364330,14 @@
     "zona": "EL PUERTO DE SANTA MARIA",
     "telefono": "956871468",
     "guardia": false,
-    "fecha_guardia": "2026-11-16",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "SERVICIO DIURNO (de 9,30 a 22,00 h): 16/11 09:30–16/11 22:00"
+      "SERVICIO DIURNO (de 9,30 a 22,00 h): 28/11 09:30–28/11 22:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-16T09:30:00",
-        "fin": "2026-11-16T22:00:00",
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-28T22:00:00",
         "tipo": "SERVICIO DIURNO (de 9,30 a 22,00 h)"
       }
     ],
@@ -364445,14 +364386,14 @@
     "zona": "BARBATE",
     "telefono": "956433515",
     "guardia": false,
-    "fecha_guardia": "2026-11-21",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "DURANTE LAS 24 HORAS: 21/11 00:00–21/11 09:30"
+      "DURANTE LAS 24 HORAS: 28/11 09:30–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-21T00:00:00",
-        "fin": "2026-11-21T09:30:00",
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "DURANTE LAS 24 HORAS"
       }
     ],
@@ -364585,20 +364526,14 @@
     "zona": "CADIZ",
     "telefono": "956808066",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "SERVICIO DIURNO (De 9,00 a 22,00 h): 27/11 09:00–27/11 22:00",
-      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 27/11 22:00–28/11 00:00"
+      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 28/11 00:00–28/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-27T22:00:00",
-        "tipo": "SERVICIO DIURNO (De 9,00 a 22,00 h)"
-      },
-      {
-        "inicio": "2026-11-27T22:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,00 h)"
       }
     ],
@@ -364675,14 +364610,14 @@
     "zona": "MEDINA SIDONIA",
     "telefono": "956410180",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Día y Noche (24 horas): 27/11 09:00–28/11 00:00"
+      "Día y Noche (24 horas): 28/11 00:00–28/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "tipo": "Día y Noche (24 horas)"
       }
     ],
@@ -364703,14 +364638,14 @@
     "zona": "ROTA",
     "telefono": "956811950",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Día y Noche (24 horas): 27/11 09:00–28/11 00:00"
+      "Día y Noche (24 horas): 28/11 00:00–28/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "tipo": "Día y Noche (24 horas)"
       }
     ],
@@ -364787,14 +364722,14 @@
     "zona": "UBRIQUE",
     "telefono": "956460800",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Día y Noche (24 horas): 24/11 00:00–24/11 09:00"
+      "Día y Noche (24 horas): 28/11 09:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T00:00:00",
-        "fin": "2026-11-24T09:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "Día y Noche (24 horas)"
       }
     ],
@@ -364815,14 +364750,14 @@
     "zona": "SAN ROQUE",
     "telefono": "956794961",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Día y Noche (24 horas): 24/11 00:00–24/11 09:00"
+      "Día y Noche (24 horas): 28/11 09:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T00:00:00",
-        "fin": "2026-11-24T09:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "Día y Noche (24 horas)"
       }
     ],
@@ -364843,14 +364778,14 @@
     "zona": "TARIFA",
     "telefono": "956680584",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Día y Noche (24 horas): 24/11 00:00–24/11 09:00"
+      "Día y Noche (24 horas): 28/11 09:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T00:00:00",
-        "fin": "2026-11-24T09:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "Día y Noche (24 horas)"
       }
     ],
@@ -364955,14 +364890,14 @@
     "zona": "LOS BARRIOS",
     "telefono": "956620037",
     "guardia": false,
-    "fecha_guardia": "2026-11-24",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Día y Noche (24 horas): 24/11 00:00–24/11 09:00"
+      "Día y Noche (24 horas): 28/11 09:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-24T00:00:00",
-        "fin": "2026-11-24T09:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "Día y Noche (24 horas)"
       }
     ],
@@ -365123,14 +365058,14 @@
     "zona": "EL PUERTO DE SANTA MARIA",
     "telefono": "956870769",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "SERVICIO DIURNO (de 9,30 a 22,00 h): 27/11 09:30–27/11 22:00"
+      "SERVICIO DIURNO (de 9,30 a 22,00 h): 28/11 09:30–28/11 22:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:30:00",
-        "fin": "2026-11-27T22:00:00",
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-28T22:00:00",
         "tipo": "SERVICIO DIURNO (de 9,30 a 22,00 h)"
       }
     ],
@@ -365437,14 +365372,20 @@
     "zona": "CADIZ",
     "telefono": "956223576",
     "guardia": false,
-    "fecha_guardia": "2026-11-07",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 07/11 00:00–07/11 09:00"
+      "SERVICIO DIURNO (De 9,00 a 22,00 h): 28/11 09:00–28/11 22:00",
+      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 28/11 22:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-07T00:00:00",
-        "fin": "2026-11-07T09:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
+        "tipo": "SERVICIO DIURNO (De 9,00 a 22,00 h)"
+      },
+      {
+        "inicio": "2026-11-28T22:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,00 h)"
       }
     ],
@@ -365465,14 +365406,14 @@
     "zona": "ROTA",
     "telefono": "956812140",
     "guardia": false,
-    "fecha_guardia": "2026-11-18",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Día y Noche (24 horas): 18/11 00:00–18/11 09:00"
+      "Día y Noche (24 horas): 28/11 09:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-18T00:00:00",
-        "fin": "2026-11-18T09:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "Día y Noche (24 horas)"
       }
     ],
@@ -366053,14 +365994,14 @@
     "zona": "LOS BARRIOS",
     "telefono": "956678297",
     "guardia": false,
-    "fecha_guardia": "2026-11-07",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "SERVICIO DIURNO (de 9,00 a 21,00 h): 07/11 09:00–07/11 21:00"
+      "SERVICIO DIURNO (de 9,00 a 21,00 h): 28/11 09:00–28/11 21:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-07T09:00:00",
-        "fin": "2026-11-07T21:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T21:00:00",
         "tipo": "SERVICIO DIURNO (de 9,00 a 21,00 h)"
       }
     ],
@@ -366109,14 +366050,14 @@
     "zona": "SANLUCAR DE BARRAMEDA",
     "telefono": "956360115",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "DURANTE LAS 24 HORAS: 27/11 09:30–28/11 00:00"
+      "DURANTE LAS 24 HORAS: 28/11 00:00–28/11 09:30"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:30:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:30:00",
         "tipo": "DURANTE LAS 24 HORAS"
       }
     ],
@@ -366165,14 +366106,14 @@
     "zona": "CHICLANA DE LA FRONTERA",
     "telefono": "956537758",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "SERVICIO NOCTURNO (de 22,00 a 9,30 h): 27/11 22:00–28/11 00:00"
+      "SERVICIO NOCTURNO (de 22,00 a 9,30 h): 28/11 00:00–28/11 09:30"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T22:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:30:00",
         "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,30 h)"
       }
     ],
@@ -366305,14 +366246,14 @@
     "zona": "CHIPIONA",
     "telefono": "956371083",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Día y Noche (24 horas): 27/11 09:00–28/11 00:00"
+      "Día y Noche (24 horas): 28/11 00:00–28/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "tipo": "Día y Noche (24 horas)"
       }
     ],
@@ -366417,14 +366358,14 @@
     "zona": "CHIPIONA",
     "telefono": "956370191",
     "guardia": false,
-    "fecha_guardia": "2026-11-19",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "Día y Noche (24 horas): 19/11 00:00–19/11 09:00"
+      "Día y Noche (24 horas): 28/11 09:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-19T00:00:00",
-        "fin": "2026-11-19T09:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "Día y Noche (24 horas)"
       }
     ],
@@ -366557,14 +366498,14 @@
     "zona": "SANLUCAR DE BARRAMEDA",
     "telefono": "956381633",
     "guardia": false,
-    "fecha_guardia": "2026-11-09",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "DURANTE LAS 24 HORAS: 09/11 00:00–09/11 09:30"
+      "DURANTE LAS 24 HORAS: 28/11 09:30–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-09T00:00:00",
-        "fin": "2026-11-09T09:30:00",
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "DURANTE LAS 24 HORAS"
       }
     ],
@@ -366613,14 +366554,20 @@
     "zona": "CHICLANA DE LA FRONTERA",
     "telefono": "956409742",
     "guardia": false,
-    "fecha_guardia": "2026-11-09",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "SERVICIO NOCTURNO (de 22,00 a 9,30 h): 09/11 00:00–09/11 09:30"
+      "SERVICIO DIURNO (de 9,30 a 22,00 h): 28/11 09:30–28/11 22:00",
+      "SERVICIO NOCTURNO (de 22,00 a 9,30 h): 28/11 22:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-09T00:00:00",
-        "fin": "2026-11-09T09:30:00",
+        "inicio": "2026-11-28T09:30:00",
+        "fin": "2026-11-28T22:00:00",
+        "tipo": "SERVICIO DIURNO (de 9,30 a 22,00 h)"
+      },
+      {
+        "inicio": "2026-11-28T22:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,30 h)"
       }
     ],
@@ -366753,14 +366700,14 @@
     "zona": "CADIZ",
     "telefono": "956285168",
     "guardia": false,
-    "fecha_guardia": "2026-11-09",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "SERVICIO DIURNO (De 9,00 a 22,00 h): 09/11 09:00–09/11 22:00"
+      "SERVICIO DIURNO (De 9,00 a 22,00 h): 28/11 09:00–28/11 22:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-09T09:00:00",
-        "fin": "2026-11-09T22:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
         "tipo": "SERVICIO DIURNO (De 9,00 a 22,00 h)"
       }
     ],
@@ -367201,20 +367148,14 @@
     "zona": "SAN FERNANDO",
     "telefono": "956890054",
     "guardia": false,
-    "fecha_guardia": "2026-11-23",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 23/11 00:00–23/11 09:00",
-      "SERVICIO DIURNO (de 09,00 h a 22,00 h): 23/11 09:00–23/11 22:00"
+      "SERVICIO DIURNO (de 09,00 h a 22,00 h): 28/11 09:00–28/11 22:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-23T00:00:00",
-        "fin": "2026-11-23T09:00:00",
-        "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,00 h)"
-      },
-      {
-        "inicio": "2026-11-23T09:00:00",
-        "fin": "2026-11-23T22:00:00",
+        "inicio": "2026-11-28T09:00:00",
+        "fin": "2026-11-28T22:00:00",
         "tipo": "SERVICIO DIURNO (de 09,00 h a 22,00 h)"
       }
     ],
@@ -368305,14 +368246,14 @@
     "zona": "SAN FERNANDO",
     "telefono": "956489931",
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 27/11 22:00–28/11 00:00"
+      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 28/11 00:00–28/11 09:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T22:00:00",
-        "fin": "2026-11-28T00:00:00",
+        "inicio": "2026-11-28T00:00:00",
+        "fin": "2026-11-28T09:00:00",
         "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,00 h)"
       }
     ],
@@ -368809,14 +368750,14 @@
     "zona": "SAN FERNANDO",
     "telefono": "956566311",
     "guardia": false,
-    "fecha_guardia": "2026-11-23",
+    "fecha_guardia": "2026-11-28",
     "guardia_franjas": [
-      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 23/11 00:00–23/11 09:00"
+      "SERVICIO NOCTURNO (de 22,00 a 9,00 h): 28/11 22:00–29/11 00:00"
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-23T00:00:00",
-        "fin": "2026-11-23T09:00:00",
+        "inicio": "2026-11-28T22:00:00",
+        "fin": "2026-11-29T00:00:00",
         "tipo": "SERVICIO NOCTURNO (de 22,00 a 9,00 h)"
       }
     ],
@@ -576118,9 +576059,14 @@
     ],
     "guardia_intervalos": [],
     "guardia_apertura": "desconocida",
-    "lat": null,
-    "lng": null,
-    "ubicacion_requiere_verificacion": true
+    "lat": 41.5096994,
+    "lng": -5.7436827,
+    "ubicacion_requiere_verificacion": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/14281115839",
+    "nota_ubicacion": "Ubicación contrastada: una farmacia de OpenStreetMap y una fuente independiente coinciden a 3.1 m.",
+    "osm_id": "osm-14281115839",
+    "ajuste_ubicacion_m": 3.1
   },
   {
     "id": "50-50000132",
@@ -584754,14 +584700,19 @@
     "guardia_franja": null,
     "fecha_guardia": "2026-11-28",
     "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
-    "lat": null,
-    "lng": null,
+    "lat": 41.6588431,
+    "lng": -0.8657896,
     "localidades_atendidas": [
       "Zaragoza"
     ],
     "guardia_franjas": [
       "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono."
-    ]
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/1792299668",
+    "nota_ubicacion": "Ubicación contrastada: una farmacia de OpenStreetMap y una fuente independiente coinciden a 5.1 m.",
+    "osm_id": "osm-1792299668",
+    "ajuste_ubicacion_m": 5.1
   },
   {
     "id": "50-50000101",
@@ -584796,14 +584747,19 @@
     "guardia_franja": null,
     "fecha_guardia": "2026-11-28",
     "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
-    "lat": null,
-    "lng": null,
+    "lat": 41.642124,
+    "lng": -0.8730132,
     "localidades_atendidas": [
       "ZARAGOZA"
     ],
     "guardia_franjas": [
       "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono."
-    ]
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/356851431",
+    "nota_ubicacion": "Ubicación contrastada: una farmacia de OpenStreetMap y una fuente independiente coinciden a 7.0 m.",
+    "osm_id": "osm-356851431",
+    "ajuste_ubicacion_m": 7.0
   },
   {
     "id": "50-50000133",
@@ -584817,14 +584773,19 @@
     "guardia_franja": null,
     "fecha_guardia": "2026-11-28",
     "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
-    "lat": null,
-    "lng": null,
+    "lat": 41.6525706,
+    "lng": -0.9076933,
     "localidades_atendidas": [
       "Zaragoza"
     ],
     "guardia_franjas": [
       "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono."
-    ]
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/1792486062",
+    "nota_ubicacion": "Ubicación contrastada: una farmacia de OpenStreetMap y una fuente independiente coinciden a 9.1 m.",
+    "osm_id": "osm-1792486062",
+    "ajuste_ubicacion_m": 9.1
   },
   {
     "id": "50-50000186",
@@ -584859,14 +584820,19 @@
     "guardia_franja": null,
     "fecha_guardia": "2026-11-28",
     "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
-    "lat": null,
-    "lng": null,
+    "lat": 41.6510226,
+    "lng": -0.8778592,
     "localidades_atendidas": [
       "Zaragoza"
     ],
     "guardia_franjas": [
       "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono."
-    ]
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/1792487478",
+    "nota_ubicacion": "Ubicación contrastada: una farmacia de OpenStreetMap y una fuente independiente coinciden a 3.9 m.",
+    "osm_id": "osm-1792487478",
+    "ajuste_ubicacion_m": 3.9
   },
   {
     "id": "50-50000213",
@@ -584943,14 +584909,19 @@
     "guardia_franja": null,
     "fecha_guardia": "2026-11-28",
     "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
-    "lat": null,
-    "lng": null,
+    "lat": 41.6570034,
+    "lng": -0.890687,
     "localidades_atendidas": [
       "ZARAGOZA"
     ],
     "guardia_franjas": [
       "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono."
-    ]
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/1792300569",
+    "nota_ubicacion": "Ubicación contrastada: una farmacia de OpenStreetMap y una fuente independiente coinciden a 1.0 m.",
+    "osm_id": "osm-1792300569",
+    "ajuste_ubicacion_m": 1.0
   },
   {
     "id": "50-50000299",
@@ -585135,14 +585106,19 @@
     "guardia_franja": null,
     "fecha_guardia": "2026-11-28",
     "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
-    "lat": null,
-    "lng": null,
+    "lat": 41.6310081,
+    "lng": -0.8902798,
     "localidades_atendidas": [
       "Zaragoza"
     ],
     "guardia_franjas": [
       "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono."
-    ]
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/1792486803",
+    "nota_ubicacion": "Ubicación contrastada: una farmacia de OpenStreetMap y una fuente independiente coinciden a 0.7 m.",
+    "osm_id": "osm-1792486803",
+    "ajuste_ubicacion_m": 0.7
   },
   {
     "id": "50-50000427",

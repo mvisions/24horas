@@ -19,8 +19,13 @@
     ],
     "guardia_intervalos": [],
     "guardia_apertura": "desconocida",
-    "lat": null,
-    "lng": null,
-    "ubicacion_requiere_verificacion": true
+    "lat": 41.5096994,
+    "lng": -5.7436827,
+    "ubicacion_requiere_verificacion": true,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/14281115839",
+    "nota_ubicacion": "Ubicación contrastada: una farmacia de OpenStreetMap y una fuente independiente coinciden a 3.1 m.",
+    "osm_id": "osm-14281115839",
+    "ajuste_ubicacion_m": 3.1
   }
 ]

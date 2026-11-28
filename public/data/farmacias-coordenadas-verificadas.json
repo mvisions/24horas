@@ -284,6 +284,32 @@
     "ajuste_ubicacion_m": 1.1
   },
   {
+    "id": "50-50000093",
+    "provincia": "Zaragoza",
+    "localidad": "Zaragoza",
+    "direccion": "C/ FUENDEJALON, 5",
+    "lat": 41.6588431,
+    "lng": -0.8657896,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/1792299668",
+    "nota_ubicacion": "Ubicación contrastada: una farmacia de OpenStreetMap y una fuente independiente coinciden a 5.1 m.",
+    "ajuste_ubicacion_m": 5.1,
+    "osm_id": "osm-1792299668"
+  },
+  {
+    "id": "50-50000102",
+    "provincia": "Zaragoza",
+    "localidad": "ZARAGOZA",
+    "direccion": "AVD. DE SAN JOSÉ, 61",
+    "lat": 41.642124,
+    "lng": -0.8730132,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/356851431",
+    "nota_ubicacion": "Ubicación contrastada: una farmacia de OpenStreetMap y una fuente independiente coinciden a 7.0 m.",
+    "ajuste_ubicacion_m": 7.0,
+    "osm_id": "osm-356851431"
+  },
+  {
     "id": "50-50000125",
     "provincia": "Zaragoza",
     "localidad": "ZARAGOZA",
@@ -297,6 +323,19 @@
     "ajuste_ubicacion_m": 8.6
   },
   {
+    "id": "50-50000133",
+    "provincia": "Zaragoza",
+    "localidad": "Zaragoza",
+    "direccion": "AVD. DE MADRID, 185",
+    "lat": 41.6525706,
+    "lng": -0.9076933,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/1792486062",
+    "nota_ubicacion": "Ubicación contrastada: una farmacia de OpenStreetMap y una fuente independiente coinciden a 9.1 m.",
+    "ajuste_ubicacion_m": 9.1,
+    "osm_id": "osm-1792486062"
+  },
+  {
     "id": "50-50000184",
     "provincia": "Zaragoza",
     "localidad": "ZARAGOZA",
@@ -308,6 +347,19 @@
     "nota_ubicacion": "Ubicación contrastada: la dirección y una farmacia de OpenStreetMap coinciden a 6 m.",
     "osm_id": "osm-1792487525",
     "ajuste_ubicacion_m": 5.8
+  },
+  {
+    "id": "50-50000211",
+    "provincia": "Zaragoza",
+    "localidad": "Zaragoza",
+    "direccion": "C/ COSO, 90",
+    "lat": 41.6510226,
+    "lng": -0.8778592,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/1792487478",
+    "nota_ubicacion": "Ubicación contrastada: una farmacia de OpenStreetMap y una fuente independiente coinciden a 3.9 m.",
+    "ajuste_ubicacion_m": 3.9,
+    "osm_id": "osm-1792487478"
   },
   {
     "id": "50-50000226",
@@ -349,6 +401,19 @@
     "ajuste_ubicacion_m": 1.1
   },
   {
+    "id": "50-50000296",
+    "provincia": "Zaragoza",
+    "localidad": "ZARAGOZA",
+    "direccion": "C/ SANTA INÉS, 10",
+    "lat": 41.6570034,
+    "lng": -0.890687,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/1792300569",
+    "nota_ubicacion": "Ubicación contrastada: una farmacia de OpenStreetMap y una fuente independiente coinciden a 1.0 m.",
+    "ajuste_ubicacion_m": 1.0,
+    "osm_id": "osm-1792300569"
+  },
+  {
     "id": "50-50000346",
     "provincia": "Zaragoza",
     "localidad": "Zaragoza",
@@ -360,6 +425,19 @@
     "nota_ubicacion": "Ubicación contrastada: la dirección y una farmacia de OpenStreetMap coinciden a 14 m.",
     "osm_id": "osm-441756890",
     "ajuste_ubicacion_m": 13.8
+  },
+  {
+    "id": "50-50000384",
+    "provincia": "Zaragoza",
+    "localidad": "Zaragoza",
+    "direccion": "C/ JAEN, 2",
+    "lat": 41.6310081,
+    "lng": -0.8902798,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/1792486803",
+    "nota_ubicacion": "Ubicación contrastada: una farmacia de OpenStreetMap y una fuente independiente coinciden a 0.7 m.",
+    "ajuste_ubicacion_m": 0.7,
+    "osm_id": "osm-1792486803"
   },
   {
     "id": "50-50000472",
@@ -3119,6 +3197,19 @@
     "nota_ubicacion": "Ubicación contrastada: una farmacia de OpenStreetMap y una fuente independiente coinciden a 5.5 m.",
     "ajuste_ubicacion_m": 5.5,
     "osm_id": "osm-7837106096"
+  },
+  {
+    "id": "jcyl-49-e1-00090",
+    "provincia": "Zamora",
+    "localidad": "Zamora",
+    "direccion": "CALLE AMARGURA, 21",
+    "lat": 41.5096994,
+    "lng": -5.7436827,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/14281115839",
+    "nota_ubicacion": "Ubicación contrastada: una farmacia de OpenStreetMap y una fuente independiente coinciden a 3.1 m.",
+    "ajuste_ubicacion_m": 3.1,
+    "osm_id": "osm-14281115839"
   },
   {
     "id": "navarra-f00006",

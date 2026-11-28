@@ -23006,8 +23006,13 @@
     "fuente": "https://analisis.datosabiertos.jcyl.es/explore/dataset/registro-de-establecimientos-farmaceuticos-de-castilla-y-leon/",
     "guardia": false,
     "guardia_franja": null,
-    "lat": null,
-    "lng": null
+    "lat": 41.5096994,
+    "lng": -5.7436827,
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/14281115839",
+    "nota_ubicacion": "Ubicación contrastada: una farmacia de OpenStreetMap y una fuente independiente coinciden a 3.1 m.",
+    "osm_id": "osm-14281115839",
+    "ajuste_ubicacion_m": 3.1
   },
   {
     "id": "jcyl-49-e1-00091",
