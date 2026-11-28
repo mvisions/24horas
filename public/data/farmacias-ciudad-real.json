@@ -13,32 +13,32 @@
       "Abenojar"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-28T10:00:00",
-        "inicio_original": "2026-11-27T10:00:00",
-        "fin_original": "2026-11-28T10:00:00"
-      },
-      {
-        "inicio": "2026-11-28T10:00:00",
-        "fin": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-29T10:00:00",
         "inicio_original": "2026-11-28T10:00:00",
         "fin_original": "2026-11-29T10:00:00"
+      },
+      {
+        "inicio": "2026-11-29T10:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T10:00:00",
+        "fin_original": "2026-11-30T10:00:00"
       }
     ],
     "guardia_franjas": [
-      "27/11/2026 10:00–28/11/2026 10:00",
-      "28/11/2026 10:00–29/11/2026 10:00"
+      "28/11/2026 10:00–29/11/2026 10:00",
+      "29/11/2026 10:00–30/11/2026 10:00"
     ],
     "lat": 38.87918253,
     "lng": -4.35516023,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "27/11/2026 10:00–28/11/2026 10:00 · 28/11/2026 10:00–29/11/2026 10:00"
+    "guardia_franja": "28/11/2026 10:00–29/11/2026 10:00 · 29/11/2026 10:00–30/11/2026 10:00"
   },
   {
     "id": "cof-ciudad-real-2002",
@@ -54,32 +54,32 @@
       "Agudo"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-28T09:30:00",
-        "inicio_original": "2026-11-27T09:30:00",
-        "fin_original": "2026-11-28T09:30:00"
-      },
-      {
-        "inicio": "2026-11-28T09:30:00",
-        "fin": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-29T09:30:00",
         "inicio_original": "2026-11-28T09:30:00",
         "fin_original": "2026-11-29T09:30:00"
+      },
+      {
+        "inicio": "2026-11-29T09:30:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T09:30:00",
+        "fin_original": "2026-11-30T09:30:00"
       }
     ],
     "guardia_franjas": [
-      "27/11/2026 09:30–28/11/2026 09:30",
-      "28/11/2026 09:30–29/11/2026 09:30"
+      "28/11/2026 09:30–29/11/2026 09:30",
+      "29/11/2026 09:30–30/11/2026 09:30"
     ],
     "lat": 38.9810432,
     "lng": -4.8719217,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "27/11/2026 09:30–28/11/2026 09:30 · 28/11/2026 09:30–29/11/2026 09:30"
+    "guardia_franja": "28/11/2026 09:30–29/11/2026 09:30 · 29/11/2026 09:30–30/11/2026 09:30"
   },
   {
     "id": "cof-ciudad-real-7",
@@ -163,32 +163,32 @@
       "Almaden"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-28T09:30:00",
-        "inicio_original": "2026-11-27T09:30:00",
-        "fin_original": "2026-11-28T09:30:00"
-      },
-      {
-        "inicio": "2026-11-28T09:30:00",
-        "fin": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-29T09:30:00",
         "inicio_original": "2026-11-28T09:30:00",
         "fin_original": "2026-11-29T09:30:00"
+      },
+      {
+        "inicio": "2026-11-29T09:30:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T09:30:00",
+        "fin_original": "2026-11-30T09:30:00"
       }
     ],
     "guardia_franjas": [
-      "27/11/2026 09:30–28/11/2026 09:30",
-      "28/11/2026 09:30–29/11/2026 09:30"
+      "28/11/2026 09:30–29/11/2026 09:30",
+      "29/11/2026 09:30–30/11/2026 09:30"
     ],
     "lat": 38.77575841,
     "lng": -4.8340129,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "27/11/2026 09:30–28/11/2026 09:30 · 28/11/2026 09:30–29/11/2026 09:30"
+    "guardia_franja": "28/11/2026 09:30–29/11/2026 09:30 · 29/11/2026 09:30–30/11/2026 09:30"
   },
   {
     "id": "cof-ciudad-real-1023",
@@ -204,32 +204,32 @@
       "Almagro"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-28T09:30:00",
-        "inicio_original": "2026-11-27T09:30:00",
-        "fin_original": "2026-11-28T09:30:00"
-      },
-      {
-        "inicio": "2026-11-28T09:30:00",
-        "fin": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-29T09:30:00",
         "inicio_original": "2026-11-28T09:30:00",
         "fin_original": "2026-11-29T09:30:00"
+      },
+      {
+        "inicio": "2026-11-29T09:30:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T09:30:00",
+        "fin_original": "2026-11-30T09:30:00"
       }
     ],
     "guardia_franjas": [
-      "27/11/2026 09:30–28/11/2026 09:30",
-      "28/11/2026 09:30–29/11/2026 09:30"
+      "28/11/2026 09:30–29/11/2026 09:30",
+      "29/11/2026 09:30–30/11/2026 09:30"
     ],
     "lat": 38.88972704,
     "lng": -3.71360278,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "27/11/2026 09:30–28/11/2026 09:30 · 28/11/2026 09:30–29/11/2026 09:30"
+    "guardia_franja": "28/11/2026 09:30–29/11/2026 09:30 · 29/11/2026 09:30–30/11/2026 09:30"
   },
   {
     "id": "cof-ciudad-real-1026",
@@ -245,32 +245,32 @@
       "Almodovar Del Campo"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-28T09:30:00",
-        "inicio_original": "2026-11-27T09:30:00",
-        "fin_original": "2026-11-28T09:30:00"
-      },
-      {
-        "inicio": "2026-11-28T09:30:00",
-        "fin": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-29T09:30:00",
         "inicio_original": "2026-11-28T09:30:00",
         "fin_original": "2026-11-29T09:30:00"
+      },
+      {
+        "inicio": "2026-11-29T09:30:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T09:30:00",
+        "fin_original": "2026-11-30T09:30:00"
       }
     ],
     "guardia_franjas": [
-      "27/11/2026 09:30–28/11/2026 09:30",
-      "28/11/2026 09:30–29/11/2026 09:30"
+      "28/11/2026 09:30–29/11/2026 09:30",
+      "29/11/2026 09:30–30/11/2026 09:30"
     ],
     "lat": 38.7077493,
     "lng": -4.1783358,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "27/11/2026 09:30–28/11/2026 09:30 · 28/11/2026 09:30–29/11/2026 09:30"
+    "guardia_franja": "28/11/2026 09:30–29/11/2026 09:30 · 29/11/2026 09:30–30/11/2026 09:30"
   },
   {
     "id": "cof-ciudad-real-3183",
@@ -286,32 +286,32 @@
       "Argamasilla De Alba"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-28T10:00:00",
-        "inicio_original": "2026-11-27T10:00:00",
-        "fin_original": "2026-11-28T10:00:00"
-      },
-      {
-        "inicio": "2026-11-28T10:00:00",
-        "fin": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-29T10:00:00",
         "inicio_original": "2026-11-28T10:00:00",
         "fin_original": "2026-11-29T10:00:00"
+      },
+      {
+        "inicio": "2026-11-29T10:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T10:00:00",
+        "fin_original": "2026-11-30T10:00:00"
       }
     ],
     "guardia_franjas": [
-      "27/11/2026 10:00–28/11/2026 10:00",
-      "28/11/2026 10:00–29/11/2026 10:00"
+      "28/11/2026 10:00–29/11/2026 10:00",
+      "29/11/2026 10:00–30/11/2026 10:00"
     ],
     "lat": 39.1285513,
     "lng": -3.0960182,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "27/11/2026 10:00–28/11/2026 10:00 · 28/11/2026 10:00–29/11/2026 10:00"
+    "guardia_franja": "28/11/2026 10:00–29/11/2026 10:00 · 29/11/2026 10:00–30/11/2026 10:00"
   },
   {
     "id": "cof-ciudad-real-1171",
@@ -361,32 +361,32 @@
       "Arroba De Los Montes"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-28T10:00:00",
-        "inicio_original": "2026-11-27T10:00:00",
-        "fin_original": "2026-11-28T10:00:00"
-      },
-      {
-        "inicio": "2026-11-28T10:00:00",
-        "fin": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-29T10:00:00",
         "inicio_original": "2026-11-28T10:00:00",
         "fin_original": "2026-11-29T10:00:00"
+      },
+      {
+        "inicio": "2026-11-29T10:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T10:00:00",
+        "fin_original": "2026-11-30T10:00:00"
       }
     ],
     "guardia_franjas": [
-      "27/11/2026 10:00–28/11/2026 10:00",
-      "28/11/2026 10:00–29/11/2026 10:00"
+      "28/11/2026 10:00–29/11/2026 10:00",
+      "29/11/2026 10:00–30/11/2026 10:00"
     ],
     "lat": 39.1531377,
     "lng": -4.5431032,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "27/11/2026 10:00–28/11/2026 10:00 · 28/11/2026 10:00–29/11/2026 10:00"
+    "guardia_franja": "28/11/2026 10:00–29/11/2026 10:00 · 29/11/2026 10:00–30/11/2026 10:00"
   },
   {
     "id": "cof-ciudad-real-239",
@@ -572,25 +572,25 @@
       "Ciudad Real"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-27",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-27T09:30:00",
-        "fin": "2026-11-27T21:30:00",
-        "inicio_original": "2026-11-27T09:30:00",
-        "fin_original": "2026-11-27T21:30:00"
+        "inicio": "2026-11-29T09:30:00",
+        "fin": "2026-11-29T21:30:00",
+        "inicio_original": "2026-11-29T09:30:00",
+        "fin_original": "2026-11-29T21:30:00"
       }
     ],
     "guardia_franjas": [
-      "27/11/2026 09:30–27/11/2026 21:30"
+      "29/11/2026 09:30–29/11/2026 21:30"
     ],
     "lat": 38.9925474,
     "lng": -3.93666467,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "27/11/2026 09:30–27/11/2026 21:30"
+    "guardia_franja": "29/11/2026 09:30–29/11/2026 21:30"
   },
   {
     "id": "cof-ciudad-real-1273",
@@ -606,25 +606,25 @@
       "Ciudad Real"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T09:30:00",
-        "fin": "2026-11-28T21:30:00",
-        "inicio_original": "2026-11-28T09:30:00",
-        "fin_original": "2026-11-28T21:30:00"
+        "inicio": "2026-11-29T09:30:00",
+        "fin": "2026-11-29T21:30:00",
+        "inicio_original": "2026-11-29T09:30:00",
+        "fin_original": "2026-11-29T21:30:00"
       }
     ],
     "guardia_franjas": [
-      "28/11/2026 09:30–28/11/2026 21:30"
+      "29/11/2026 09:30–29/11/2026 21:30"
     ],
     "lat": 38.98155135,
     "lng": -3.93244982,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "28/11/2026 09:30–28/11/2026 21:30"
+    "guardia_franja": "29/11/2026 09:30–29/11/2026 21:30"
   },
   {
     "id": "cof-ciudad-real-1056",
@@ -742,32 +742,32 @@
       "Fuencaliente"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-28T10:00:00",
-        "inicio_original": "2026-11-27T10:00:00",
-        "fin_original": "2026-11-28T10:00:00"
-      },
-      {
-        "inicio": "2026-11-28T10:00:00",
-        "fin": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-29T10:00:00",
         "inicio_original": "2026-11-28T10:00:00",
         "fin_original": "2026-11-29T10:00:00"
+      },
+      {
+        "inicio": "2026-11-29T10:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T10:00:00",
+        "fin_original": "2026-11-30T10:00:00"
       }
     ],
     "guardia_franjas": [
-      "27/11/2026 10:00–28/11/2026 10:00",
-      "28/11/2026 10:00–29/11/2026 10:00"
+      "28/11/2026 10:00–29/11/2026 10:00",
+      "29/11/2026 10:00–30/11/2026 10:00"
     ],
     "lat": 38.4059,
     "lng": -4.305835,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "27/11/2026 10:00–28/11/2026 10:00 · 28/11/2026 10:00–29/11/2026 10:00"
+    "guardia_franja": "28/11/2026 10:00–29/11/2026 10:00 · 29/11/2026 10:00–30/11/2026 10:00"
   },
   {
     "id": "cof-ciudad-real-72",
@@ -783,32 +783,32 @@
       "Herencia"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-28T10:00:00",
-        "inicio_original": "2026-11-27T10:00:00",
-        "fin_original": "2026-11-28T10:00:00"
-      },
-      {
-        "inicio": "2026-11-28T10:00:00",
-        "fin": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-29T10:00:00",
         "inicio_original": "2026-11-28T10:00:00",
         "fin_original": "2026-11-29T10:00:00"
+      },
+      {
+        "inicio": "2026-11-29T10:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T10:00:00",
+        "fin_original": "2026-11-30T10:00:00"
       }
     ],
     "guardia_franjas": [
-      "27/11/2026 10:00–28/11/2026 10:00",
-      "28/11/2026 10:00–29/11/2026 10:00"
+      "28/11/2026 10:00–29/11/2026 10:00",
+      "29/11/2026 10:00–30/11/2026 10:00"
     ],
     "lat": 39.36811741,
     "lng": -3.35361421,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "27/11/2026 10:00–28/11/2026 10:00 · 28/11/2026 10:00–29/11/2026 10:00"
+    "guardia_franja": "28/11/2026 10:00–29/11/2026 10:00 · 29/11/2026 10:00–30/11/2026 10:00"
   },
   {
     "id": "cof-ciudad-real-1306",
@@ -858,32 +858,32 @@
       "Malagon"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-28T09:30:00",
-        "inicio_original": "2026-11-27T09:30:00",
-        "fin_original": "2026-11-28T09:30:00"
-      },
-      {
-        "inicio": "2026-11-28T09:30:00",
-        "fin": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-29T09:30:00",
         "inicio_original": "2026-11-28T09:30:00",
         "fin_original": "2026-11-29T09:30:00"
+      },
+      {
+        "inicio": "2026-11-29T09:30:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T09:30:00",
+        "fin_original": "2026-11-30T09:30:00"
       }
     ],
     "guardia_franjas": [
-      "27/11/2026 09:30–28/11/2026 09:30",
-      "28/11/2026 09:30–29/11/2026 09:30"
+      "28/11/2026 09:30–29/11/2026 09:30",
+      "29/11/2026 09:30–30/11/2026 09:30"
     ],
     "lat": 39.1697797,
     "lng": -3.8497813,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "27/11/2026 09:30–28/11/2026 09:30 · 28/11/2026 09:30–29/11/2026 09:30"
+    "guardia_franja": "28/11/2026 09:30–29/11/2026 09:30 · 29/11/2026 09:30–30/11/2026 09:30"
   },
   {
     "id": "cof-ciudad-real-1089",
@@ -1035,32 +1035,32 @@
       "Pedro Muñoz"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-28T09:00:00",
-        "inicio_original": "2026-11-27T09:00:00",
-        "fin_original": "2026-11-28T09:00:00"
-      },
-      {
-        "inicio": "2026-11-28T09:00:00",
-        "fin": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-29T09:00:00",
         "inicio_original": "2026-11-28T09:00:00",
         "fin_original": "2026-11-29T09:00:00"
+      },
+      {
+        "inicio": "2026-11-29T09:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T09:00:00",
+        "fin_original": "2026-11-30T09:00:00"
       }
     ],
     "guardia_franjas": [
-      "27/11/2026 09:00–28/11/2026 09:00",
-      "28/11/2026 09:00–29/11/2026 09:00"
+      "28/11/2026 09:00–29/11/2026 09:00",
+      "29/11/2026 09:00–30/11/2026 09:00"
     ],
     "lat": 39.4013585,
     "lng": -2.9523489,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "27/11/2026 09:00–28/11/2026 09:00 · 28/11/2026 09:00–29/11/2026 09:00"
+    "guardia_franja": "28/11/2026 09:00–29/11/2026 09:00 · 29/11/2026 09:00–30/11/2026 09:00"
   },
   {
     "id": "cof-ciudad-real-2103",
@@ -1076,32 +1076,32 @@
       "Piedrabuena"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-28T09:30:00",
-        "inicio_original": "2026-11-27T09:30:00",
-        "fin_original": "2026-11-28T09:30:00"
-      },
-      {
-        "inicio": "2026-11-28T09:30:00",
-        "fin": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-29T09:30:00",
         "inicio_original": "2026-11-28T09:30:00",
         "fin_original": "2026-11-29T09:30:00"
+      },
+      {
+        "inicio": "2026-11-29T09:30:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T09:30:00",
+        "fin_original": "2026-11-30T09:30:00"
       }
     ],
     "guardia_franjas": [
-      "27/11/2026 09:30–28/11/2026 09:30",
-      "28/11/2026 09:30–29/11/2026 09:30"
+      "28/11/2026 09:30–29/11/2026 09:30",
+      "29/11/2026 09:30–30/11/2026 09:30"
     ],
     "lat": 39.0354146,
     "lng": -4.1737144,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "27/11/2026 09:30–28/11/2026 09:30 · 28/11/2026 09:30–29/11/2026 09:30"
+    "guardia_franja": "28/11/2026 09:30–29/11/2026 09:30 · 29/11/2026 09:30–30/11/2026 09:30"
   },
   {
     "id": "cof-ciudad-real-1105",
@@ -1117,32 +1117,32 @@
       "Porzuna"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-28T09:00:00",
-        "inicio_original": "2026-11-27T09:00:00",
-        "fin_original": "2026-11-28T09:00:00"
-      },
-      {
-        "inicio": "2026-11-28T09:00:00",
-        "fin": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-29T09:00:00",
         "inicio_original": "2026-11-28T09:00:00",
         "fin_original": "2026-11-29T09:00:00"
+      },
+      {
+        "inicio": "2026-11-29T09:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T09:00:00",
+        "fin_original": "2026-11-30T09:00:00"
       }
     ],
     "guardia_franjas": [
-      "27/11/2026 09:00–28/11/2026 09:00",
-      "28/11/2026 09:00–29/11/2026 09:00"
+      "28/11/2026 09:00–29/11/2026 09:00",
+      "29/11/2026 09:00–30/11/2026 09:00"
     ],
     "lat": 39.1468186,
     "lng": -4.1548835,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "27/11/2026 09:00–28/11/2026 09:00 · 28/11/2026 09:00–29/11/2026 09:00"
+    "guardia_franja": "28/11/2026 09:00–29/11/2026 09:00 · 29/11/2026 09:00–30/11/2026 09:00"
   },
   {
     "id": "cof-ciudad-real-1275",
@@ -1158,32 +1158,39 @@
       "Puertollano"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-28T09:30:00",
-        "inicio_original": "2026-11-27T21:30:00",
-        "fin_original": "2026-11-28T09:30:00"
-      },
-      {
-        "inicio": "2026-11-28T21:30:00",
-        "fin": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-29T09:30:00",
         "inicio_original": "2026-11-28T21:30:00",
         "fin_original": "2026-11-29T09:30:00"
+      },
+      {
+        "inicio": "2026-11-29T09:30:00",
+        "fin": "2026-11-29T21:30:00",
+        "inicio_original": "2026-11-29T09:30:00",
+        "fin_original": "2026-11-29T21:30:00"
+      },
+      {
+        "inicio": "2026-11-29T21:30:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T21:30:00",
+        "fin_original": "2026-11-30T09:30:00"
       }
     ],
     "guardia_franjas": [
-      "27/11/2026 21:30–28/11/2026 09:30",
-      "28/11/2026 21:30–29/11/2026 09:30"
+      "28/11/2026 21:30–29/11/2026 09:30",
+      "29/11/2026 09:30–29/11/2026 21:30",
+      "29/11/2026 21:30–30/11/2026 09:30"
     ],
     "lat": 38.70022442,
     "lng": -4.10338146,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "27/11/2026 21:30–28/11/2026 09:30 · 28/11/2026 21:30–29/11/2026 09:30"
+    "guardia_franja": "28/11/2026 21:30–29/11/2026 09:30 · 29/11/2026 09:30–29/11/2026 21:30 · 29/11/2026 21:30–30/11/2026 09:30"
   },
   {
     "id": "cof-ciudad-real-1126",
@@ -1233,32 +1240,32 @@
       "Retuerta Del Bullaque"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-28T10:00:00",
-        "inicio_original": "2026-11-27T10:00:00",
-        "fin_original": "2026-11-28T10:00:00"
-      },
-      {
-        "inicio": "2026-11-28T10:00:00",
-        "fin": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-29T10:00:00",
         "inicio_original": "2026-11-28T10:00:00",
         "fin_original": "2026-11-29T10:00:00"
+      },
+      {
+        "inicio": "2026-11-29T10:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T10:00:00",
+        "fin_original": "2026-11-30T10:00:00"
       }
     ],
     "guardia_franjas": [
-      "27/11/2026 10:00–28/11/2026 10:00",
-      "28/11/2026 10:00–29/11/2026 10:00"
+      "28/11/2026 10:00–29/11/2026 10:00",
+      "29/11/2026 10:00–30/11/2026 10:00"
     ],
     "lat": 39.46114668,
     "lng": -4.40974817,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "27/11/2026 10:00–28/11/2026 10:00 · 28/11/2026 10:00–29/11/2026 10:00"
+    "guardia_franja": "28/11/2026 10:00–29/11/2026 10:00 · 29/11/2026 10:00–30/11/2026 10:00"
   },
   {
     "id": "cof-ciudad-real-2214",
@@ -1274,32 +1281,32 @@
       "San Lorenzo De Calatrava"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-28T09:00:00",
-        "inicio_original": "2026-11-27T09:00:00",
-        "fin_original": "2026-11-28T09:00:00"
-      },
-      {
-        "inicio": "2026-11-28T09:00:00",
-        "fin": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-29T09:00:00",
         "inicio_original": "2026-11-28T09:00:00",
         "fin_original": "2026-11-29T09:00:00"
+      },
+      {
+        "inicio": "2026-11-29T09:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T09:00:00",
+        "fin_original": "2026-11-30T09:00:00"
       }
     ],
     "guardia_franjas": [
-      "27/11/2026 09:00–28/11/2026 09:00",
-      "28/11/2026 09:00–29/11/2026 09:00"
+      "28/11/2026 09:00–29/11/2026 09:00",
+      "29/11/2026 09:00–30/11/2026 09:00"
     ],
     "lat": 38.47685723,
     "lng": -3.82219425,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "27/11/2026 09:00–28/11/2026 09:00 · 28/11/2026 09:00–29/11/2026 09:00"
+    "guardia_franja": "28/11/2026 09:00–29/11/2026 09:00 · 29/11/2026 09:00–30/11/2026 09:00"
   },
   {
     "id": "cof-ciudad-real-2128",
@@ -1587,32 +1594,32 @@
       "Villahermosa"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-28T10:00:00",
-        "inicio_original": "2026-11-27T10:00:00",
-        "fin_original": "2026-11-28T10:00:00"
-      },
-      {
-        "inicio": "2026-11-28T10:00:00",
-        "fin": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-29T10:00:00",
         "inicio_original": "2026-11-28T10:00:00",
         "fin_original": "2026-11-29T10:00:00"
+      },
+      {
+        "inicio": "2026-11-29T10:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T10:00:00",
+        "fin_original": "2026-11-30T10:00:00"
       }
     ],
     "guardia_franjas": [
-      "27/11/2026 10:00–28/11/2026 10:00",
-      "28/11/2026 10:00–29/11/2026 10:00"
+      "28/11/2026 10:00–29/11/2026 10:00",
+      "29/11/2026 10:00–30/11/2026 10:00"
     ],
     "lat": 38.7492133,
     "lng": -2.8713036,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "27/11/2026 10:00–28/11/2026 10:00 · 28/11/2026 10:00–29/11/2026 10:00"
+    "guardia_franja": "28/11/2026 10:00–29/11/2026 10:00 · 29/11/2026 10:00–30/11/2026 10:00"
   },
   {
     "id": "cof-ciudad-real-1079",
@@ -1696,32 +1703,32 @@
       "Villarta De San Juan"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-28T09:30:00",
-        "inicio_original": "2026-11-27T09:30:00",
-        "fin_original": "2026-11-28T09:30:00"
-      },
-      {
-        "inicio": "2026-11-28T09:30:00",
-        "fin": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-29T09:30:00",
         "inicio_original": "2026-11-28T09:30:00",
         "fin_original": "2026-11-29T09:30:00"
+      },
+      {
+        "inicio": "2026-11-29T09:30:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T09:30:00",
+        "fin_original": "2026-11-30T09:30:00"
       }
     ],
     "guardia_franjas": [
-      "27/11/2026 09:30–28/11/2026 09:30",
-      "28/11/2026 09:30–29/11/2026 09:30"
+      "28/11/2026 09:30–29/11/2026 09:30",
+      "29/11/2026 09:30–30/11/2026 09:30"
     ],
     "lat": 39.23889702,
     "lng": -3.42417777,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "27/11/2026 09:30–28/11/2026 09:30 · 28/11/2026 09:30–29/11/2026 09:30"
+    "guardia_franja": "28/11/2026 09:30–29/11/2026 09:30 · 29/11/2026 09:30–30/11/2026 09:30"
   },
   {
     "id": "cof-ciudad-real-9",
@@ -2043,25 +2050,25 @@
       "Ciudad Real"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-03",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-03T00:00:00",
-        "fin": "2026-11-03T09:30:00",
-        "inicio_original": "2026-11-02T21:30:00",
-        "fin_original": "2026-11-03T09:30:00"
+        "inicio": "2026-11-29T21:30:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T21:30:00",
+        "fin_original": "2026-11-30T09:30:00"
       }
     ],
     "guardia_franjas": [
-      "02/11/2026 21:30–03/11/2026 09:30"
+      "29/11/2026 21:30–30/11/2026 09:30"
     ],
     "lat": 38.98477843,
     "lng": -3.92535657,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "02/11/2026 21:30–03/11/2026 09:30"
+    "guardia_franja": "29/11/2026 21:30–30/11/2026 09:30"
   },
   {
     "id": "cof-ciudad-real-303",
@@ -2349,32 +2356,32 @@
       "Miguelturra"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-28T10:00:00",
-        "inicio_original": "2026-11-27T10:00:00",
-        "fin_original": "2026-11-28T10:00:00"
-      },
-      {
-        "inicio": "2026-11-28T10:00:00",
-        "fin": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-29T10:00:00",
         "inicio_original": "2026-11-28T10:00:00",
         "fin_original": "2026-11-29T10:00:00"
+      },
+      {
+        "inicio": "2026-11-29T10:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T10:00:00",
+        "fin_original": "2026-11-30T10:00:00"
       }
     ],
     "guardia_franjas": [
-      "27/11/2026 10:00–28/11/2026 10:00",
-      "28/11/2026 10:00–29/11/2026 10:00"
+      "28/11/2026 10:00–29/11/2026 10:00",
+      "29/11/2026 10:00–30/11/2026 10:00"
     ],
     "lat": 38.96476317,
     "lng": -3.88983121,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "27/11/2026 10:00–28/11/2026 10:00 · 28/11/2026 10:00–29/11/2026 10:00"
+    "guardia_franja": "28/11/2026 10:00–29/11/2026 10:00 · 29/11/2026 10:00–30/11/2026 10:00"
   },
   {
     "id": "cof-ciudad-real-1104",
@@ -2594,32 +2601,32 @@
       "Torralba De Calatrava"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-28T10:00:00",
-        "inicio_original": "2026-11-27T10:00:00",
-        "fin_original": "2026-11-28T10:00:00"
-      },
-      {
-        "inicio": "2026-11-28T10:00:00",
-        "fin": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-29T10:00:00",
         "inicio_original": "2026-11-28T10:00:00",
         "fin_original": "2026-11-29T10:00:00"
+      },
+      {
+        "inicio": "2026-11-29T10:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T10:00:00",
+        "fin_original": "2026-11-30T10:00:00"
       }
     ],
     "guardia_franjas": [
-      "27/11/2026 10:00–28/11/2026 10:00",
-      "28/11/2026 10:00–29/11/2026 10:00"
+      "28/11/2026 10:00–29/11/2026 10:00",
+      "29/11/2026 10:00–30/11/2026 10:00"
     ],
     "lat": 39.0158,
     "lng": -3.75014,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "27/11/2026 10:00–28/11/2026 10:00 · 28/11/2026 10:00–29/11/2026 10:00"
+    "guardia_franja": "28/11/2026 10:00–29/11/2026 10:00 · 29/11/2026 10:00–30/11/2026 10:00"
   },
   {
     "id": "cof-ciudad-real-2150",
@@ -2635,32 +2642,25 @@
       "Valdepeñas"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T09:30:00",
-        "fin": "2026-11-28T21:30:00",
-        "inicio_original": "2026-11-28T09:30:00",
-        "fin_original": "2026-11-28T21:30:00"
-      },
-      {
-        "inicio": "2026-11-28T21:30:00",
-        "fin": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-29T09:30:00",
         "inicio_original": "2026-11-28T21:30:00",
         "fin_original": "2026-11-29T09:30:00"
       }
     ],
     "guardia_franjas": [
-      "28/11/2026 09:30–28/11/2026 21:30",
       "28/11/2026 21:30–29/11/2026 09:30"
     ],
     "lat": 38.7682775,
     "lng": -3.3906879,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "28/11/2026 09:30–28/11/2026 21:30 · 28/11/2026 21:30–29/11/2026 09:30"
+    "guardia_franja": "28/11/2026 21:30–29/11/2026 09:30"
   },
   {
     "id": "cof-ciudad-real-1286",
@@ -2710,32 +2710,32 @@
       "Villanueva De Los Infantes"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-28T10:00:00",
-        "inicio_original": "2026-11-27T10:00:00",
-        "fin_original": "2026-11-28T10:00:00"
-      },
-      {
-        "inicio": "2026-11-28T10:00:00",
-        "fin": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-29T10:00:00",
         "inicio_original": "2026-11-28T10:00:00",
         "fin_original": "2026-11-29T10:00:00"
+      },
+      {
+        "inicio": "2026-11-29T10:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T10:00:00",
+        "fin_original": "2026-11-30T10:00:00"
       }
     ],
     "guardia_franjas": [
-      "27/11/2026 10:00–28/11/2026 10:00",
-      "28/11/2026 10:00–29/11/2026 10:00"
+      "28/11/2026 10:00–29/11/2026 10:00",
+      "29/11/2026 10:00–30/11/2026 10:00"
     ],
     "lat": 38.736621,
     "lng": -3.0137807,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "27/11/2026 10:00–28/11/2026 10:00 · 28/11/2026 10:00–29/11/2026 10:00"
+    "guardia_franja": "28/11/2026 10:00–29/11/2026 10:00 · 29/11/2026 10:00–30/11/2026 10:00"
   },
   {
     "id": "cof-ciudad-real-2166",
@@ -2819,13 +2819,13 @@
       "Alcazar De San Juan"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T09:15:00",
-        "fin": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-29T09:15:00",
         "inicio_original": "2026-11-28T09:15:00",
         "fin_original": "2026-11-29T09:15:00"
       }
@@ -2921,32 +2921,39 @@
       "Bolaños De Calatrava"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T10:00:00",
-        "fin": "2026-11-28T22:00:00",
-        "inicio_original": "2026-11-28T10:00:00",
-        "fin_original": "2026-11-28T22:00:00"
-      },
-      {
-        "inicio": "2026-11-28T22:00:00",
-        "fin": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-29T10:00:00",
         "inicio_original": "2026-11-28T22:00:00",
         "fin_original": "2026-11-29T10:00:00"
+      },
+      {
+        "inicio": "2026-11-29T10:00:00",
+        "fin": "2026-11-29T22:00:00",
+        "inicio_original": "2026-11-29T10:00:00",
+        "fin_original": "2026-11-29T22:00:00"
+      },
+      {
+        "inicio": "2026-11-29T22:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T22:00:00",
+        "fin_original": "2026-11-30T09:30:00"
       }
     ],
     "guardia_franjas": [
-      "28/11/2026 10:00–28/11/2026 22:00",
-      "28/11/2026 22:00–29/11/2026 10:00"
+      "28/11/2026 22:00–29/11/2026 10:00",
+      "29/11/2026 10:00–29/11/2026 22:00",
+      "29/11/2026 22:00–30/11/2026 09:30"
     ],
     "lat": 38.9069336,
     "lng": -3.6685738,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "28/11/2026 10:00–28/11/2026 22:00 · 28/11/2026 22:00–29/11/2026 10:00"
+    "guardia_franja": "28/11/2026 22:00–29/11/2026 10:00 · 29/11/2026 10:00–29/11/2026 22:00 · 29/11/2026 22:00–30/11/2026 09:30"
   },
   {
     "id": "cof-ciudad-real-3195",
@@ -3268,32 +3275,32 @@
       "Los Pozuelos"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-28T10:00:00",
-        "inicio_original": "2026-11-27T10:00:00",
-        "fin_original": "2026-11-28T10:00:00"
-      },
-      {
-        "inicio": "2026-11-28T10:00:00",
-        "fin": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-29T10:00:00",
         "inicio_original": "2026-11-28T10:00:00",
         "fin_original": "2026-11-29T10:00:00"
+      },
+      {
+        "inicio": "2026-11-29T10:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T10:00:00",
+        "fin_original": "2026-11-30T10:00:00"
       }
     ],
     "guardia_franjas": [
-      "27/11/2026 10:00–28/11/2026 10:00",
-      "28/11/2026 10:00–29/11/2026 10:00"
+      "28/11/2026 10:00–29/11/2026 10:00",
+      "29/11/2026 10:00–30/11/2026 10:00"
     ],
     "lat": 38.89910658,
     "lng": -4.1676432,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "27/11/2026 10:00–28/11/2026 10:00 · 28/11/2026 10:00–29/11/2026 10:00"
+    "guardia_franja": "28/11/2026 10:00–29/11/2026 10:00 · 29/11/2026 10:00–30/11/2026 10:00"
   },
   {
     "id": "cof-ciudad-real-1093",
@@ -3819,25 +3826,25 @@
       "Alcazar De San Juan"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-25",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-25T00:00:00",
-        "fin": "2026-11-25T09:15:00",
-        "inicio_original": "2026-11-24T09:15:00",
-        "fin_original": "2026-11-25T09:15:00"
+        "inicio": "2026-11-29T09:15:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T09:15:00",
+        "fin_original": "2026-11-30T09:15:00"
       }
     ],
     "guardia_franjas": [
-      "24/11/2026 09:15–25/11/2026 09:15"
+      "29/11/2026 09:15–30/11/2026 09:15"
     ],
     "lat": 39.38397,
     "lng": -3.21724,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "24/11/2026 09:15–25/11/2026 09:15"
+    "guardia_franja": "29/11/2026 09:15–30/11/2026 09:15"
   },
   {
     "id": "cof-ciudad-real-1127",
@@ -3955,32 +3962,32 @@
       "Calzada De Calatrava"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-28T09:30:00",
-        "inicio_original": "2026-11-27T09:30:00",
-        "fin_original": "2026-11-28T09:30:00"
-      },
-      {
-        "inicio": "2026-11-28T09:30:00",
-        "fin": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-29T09:30:00",
         "inicio_original": "2026-11-28T09:30:00",
         "fin_original": "2026-11-29T09:30:00"
+      },
+      {
+        "inicio": "2026-11-29T09:30:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T09:30:00",
+        "fin_original": "2026-11-30T09:30:00"
       }
     ],
     "guardia_franjas": [
-      "27/11/2026 09:30–28/11/2026 09:30",
-      "28/11/2026 09:30–29/11/2026 09:30"
+      "28/11/2026 09:30–29/11/2026 09:30",
+      "29/11/2026 09:30–30/11/2026 09:30"
     ],
     "lat": 38.702766,
     "lng": -3.7754291,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "27/11/2026 09:30–28/11/2026 09:30 · 28/11/2026 09:30–29/11/2026 09:30"
+    "guardia_franja": "28/11/2026 09:30–29/11/2026 09:30 · 29/11/2026 09:30–30/11/2026 09:30"
   },
   {
     "id": "cof-ciudad-real-2040",
@@ -3996,25 +4003,32 @@
       "Campo De Criptana"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T09:00:00",
-        "fin": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-29T09:00:00",
         "inicio_original": "2026-11-28T09:00:00",
         "fin_original": "2026-11-29T09:00:00"
+      },
+      {
+        "inicio": "2026-11-29T09:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T09:00:00",
+        "fin_original": "2026-11-30T09:00:00"
       }
     ],
     "guardia_franjas": [
-      "28/11/2026 09:00–29/11/2026 09:00"
+      "28/11/2026 09:00–29/11/2026 09:00",
+      "29/11/2026 09:00–30/11/2026 09:00"
     ],
     "lat": 39.4050655,
     "lng": -3.1274718,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "28/11/2026 09:00–29/11/2026 09:00"
+    "guardia_franja": "28/11/2026 09:00–29/11/2026 09:00 · 29/11/2026 09:00–30/11/2026 09:00"
   },
   {
     "id": "cof-ciudad-real-1040",
@@ -4030,25 +4044,32 @@
       "Campo De Criptana"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T09:00:00",
-        "fin": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-29T09:00:00",
         "inicio_original": "2026-11-28T09:00:00",
         "fin_original": "2026-11-29T09:00:00"
+      },
+      {
+        "inicio": "2026-11-29T09:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T09:00:00",
+        "fin_original": "2026-11-30T09:00:00"
       }
     ],
     "guardia_franjas": [
-      "28/11/2026 09:00–29/11/2026 09:00"
+      "28/11/2026 09:00–29/11/2026 09:00",
+      "29/11/2026 09:00–30/11/2026 09:00"
     ],
     "lat": 39.40514173,
     "lng": -3.1265974,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "28/11/2026 09:00–29/11/2026 09:00"
+    "guardia_franja": "28/11/2026 09:00–29/11/2026 09:00 · 29/11/2026 09:00–30/11/2026 09:00"
   },
   {
     "id": "cof-ciudad-real-1047",
@@ -4098,32 +4119,25 @@
       "Ciudad Real"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T09:30:00",
-        "fin": "2026-11-28T21:30:00",
-        "inicio_original": "2026-11-28T09:30:00",
-        "fin_original": "2026-11-28T21:30:00"
-      },
-      {
-        "inicio": "2026-11-28T21:30:00",
-        "fin": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-29T09:30:00",
         "inicio_original": "2026-11-28T21:30:00",
         "fin_original": "2026-11-29T09:30:00"
       }
     ],
     "guardia_franjas": [
-      "28/11/2026 09:30–28/11/2026 21:30",
       "28/11/2026 21:30–29/11/2026 09:30"
     ],
     "lat": 38.9969236,
     "lng": -3.927568,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "28/11/2026 09:30–28/11/2026 21:30 · 28/11/2026 21:30–29/11/2026 09:30"
+    "guardia_franja": "28/11/2026 21:30–29/11/2026 09:30"
   },
   {
     "id": "cof-ciudad-real-1059",
@@ -4275,25 +4289,32 @@
       "La Solana"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T09:30:00",
-        "fin": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-29T09:30:00",
         "inicio_original": "2026-11-28T09:30:00",
         "fin_original": "2026-11-29T09:30:00"
+      },
+      {
+        "inicio": "2026-11-29T09:30:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T09:30:00",
+        "fin_original": "2026-11-30T09:30:00"
       }
     ],
     "guardia_franjas": [
-      "28/11/2026 09:30–29/11/2026 09:30"
+      "28/11/2026 09:30–29/11/2026 09:30",
+      "29/11/2026 09:30–30/11/2026 09:30"
     ],
     "lat": 38.94299214,
     "lng": -3.2381656,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "28/11/2026 09:30–29/11/2026 09:30"
+    "guardia_franja": "28/11/2026 09:30–29/11/2026 09:30 · 29/11/2026 09:30–30/11/2026 09:30"
   },
   {
     "id": "cof-ciudad-real-4205",
@@ -4343,13 +4364,13 @@
       "Manzanares"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T09:30:00",
-        "fin": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-29T09:30:00",
         "inicio_original": "2026-11-28T09:30:00",
         "fin_original": "2026-11-29T09:30:00"
       }
@@ -4411,32 +4432,32 @@
       "Moral De Calatrava"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-28T09:30:00",
-        "inicio_original": "2026-11-27T09:30:00",
-        "fin_original": "2026-11-28T09:30:00"
-      },
-      {
-        "inicio": "2026-11-28T09:30:00",
-        "fin": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-29T09:30:00",
         "inicio_original": "2026-11-28T09:30:00",
         "fin_original": "2026-11-29T09:30:00"
+      },
+      {
+        "inicio": "2026-11-29T09:30:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T09:30:00",
+        "fin_original": "2026-11-30T09:30:00"
       }
     ],
     "guardia_franjas": [
-      "27/11/2026 09:30–28/11/2026 09:30",
-      "28/11/2026 09:30–29/11/2026 09:30"
+      "28/11/2026 09:30–29/11/2026 09:30",
+      "29/11/2026 09:30–30/11/2026 09:30"
     ],
     "lat": 38.8289936,
     "lng": -3.5769162,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "27/11/2026 09:30–28/11/2026 09:30 · 28/11/2026 09:30–29/11/2026 09:30"
+    "guardia_franja": "28/11/2026 09:30–29/11/2026 09:30 · 29/11/2026 09:30–30/11/2026 09:30"
   },
   {
     "id": "cof-ciudad-real-2107",
@@ -4486,32 +4507,32 @@
       "Santa Cruz De Mudela"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-28T09:30:00",
-        "inicio_original": "2026-11-27T09:30:00",
-        "fin_original": "2026-11-28T09:30:00"
-      },
-      {
-        "inicio": "2026-11-28T09:30:00",
-        "fin": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-29T09:30:00",
         "inicio_original": "2026-11-28T09:30:00",
         "fin_original": "2026-11-29T09:30:00"
+      },
+      {
+        "inicio": "2026-11-29T09:30:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T09:30:00",
+        "fin_original": "2026-11-30T09:30:00"
       }
     ],
     "guardia_franjas": [
-      "27/11/2026 09:30–28/11/2026 09:30",
-      "28/11/2026 09:30–29/11/2026 09:30"
+      "28/11/2026 09:30–29/11/2026 09:30",
+      "29/11/2026 09:30–30/11/2026 09:30"
     ],
     "lat": 38.6416473,
     "lng": -3.4666537,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "27/11/2026 09:30–28/11/2026 09:30 · 28/11/2026 09:30–29/11/2026 09:30"
+    "guardia_franja": "28/11/2026 09:30–29/11/2026 09:30 · 29/11/2026 09:30–30/11/2026 09:30"
   },
   {
     "id": "cof-ciudad-real-2132",
@@ -4697,25 +4718,32 @@
       "Villarrubia De Los Ojos"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T09:00:00",
-        "fin": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-29T09:00:00",
         "inicio_original": "2026-11-28T09:00:00",
         "fin_original": "2026-11-29T09:00:00"
+      },
+      {
+        "inicio": "2026-11-29T09:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T09:00:00",
+        "fin_original": "2026-11-30T09:00:00"
       }
     ],
     "guardia_franjas": [
-      "28/11/2026 09:00–29/11/2026 09:00"
+      "28/11/2026 09:00–29/11/2026 09:00",
+      "29/11/2026 09:00–30/11/2026 09:00"
     ],
     "lat": 39.21882,
     "lng": -3.61231,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "28/11/2026 09:00–29/11/2026 09:00"
+    "guardia_franja": "28/11/2026 09:00–29/11/2026 09:00 · 29/11/2026 09:00–30/11/2026 09:00"
   },
   {
     "id": "cof-ciudad-real-168",
@@ -5241,25 +5269,32 @@
       "Socuellamos"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T09:30:00",
-        "fin": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-29T09:30:00",
         "inicio_original": "2026-11-28T09:30:00",
         "fin_original": "2026-11-29T09:30:00"
+      },
+      {
+        "inicio": "2026-11-29T09:30:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T09:30:00",
+        "fin_original": "2026-11-30T09:30:00"
       }
     ],
     "guardia_franjas": [
-      "28/11/2026 09:30–29/11/2026 09:30"
+      "28/11/2026 09:30–29/11/2026 09:30",
+      "29/11/2026 09:30–30/11/2026 09:30"
     ],
     "lat": 39.2819786,
     "lng": -2.7935135,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "28/11/2026 09:30–29/11/2026 09:30"
+    "guardia_franja": "28/11/2026 09:30–29/11/2026 09:30 · 29/11/2026 09:30–30/11/2026 09:30"
   },
   {
     "id": "cof-ciudad-real-1189",
@@ -5445,32 +5480,32 @@
       "Argamasilla De Calatrava"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-28T10:00:00",
-        "inicio_original": "2026-11-27T10:00:00",
-        "fin_original": "2026-11-28T10:00:00"
-      },
-      {
-        "inicio": "2026-11-28T10:00:00",
-        "fin": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-29T10:00:00",
         "inicio_original": "2026-11-28T10:00:00",
         "fin_original": "2026-11-29T10:00:00"
+      },
+      {
+        "inicio": "2026-11-29T10:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T10:00:00",
+        "fin_original": "2026-11-30T10:00:00"
       }
     ],
     "guardia_franjas": [
-      "27/11/2026 10:00–28/11/2026 10:00",
-      "28/11/2026 10:00–29/11/2026 10:00"
+      "28/11/2026 10:00–29/11/2026 10:00",
+      "29/11/2026 10:00–30/11/2026 10:00"
     ],
     "lat": 38.7275092,
     "lng": -4.0779903,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "27/11/2026 10:00–28/11/2026 10:00 · 28/11/2026 10:00–29/11/2026 10:00"
+    "guardia_franja": "28/11/2026 10:00–29/11/2026 10:00 · 29/11/2026 10:00–30/11/2026 10:00"
   },
   {
     "id": "cof-ciudad-real-1187",
@@ -6778,25 +6813,25 @@
       "Manzanares"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-26",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-26T00:00:00",
-        "fin": "2026-11-26T09:30:00",
-        "inicio_original": "2026-11-25T09:30:00",
-        "fin_original": "2026-11-26T09:30:00"
+        "inicio": "2026-11-29T09:30:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T09:30:00",
+        "fin_original": "2026-11-30T09:30:00"
       }
     ],
     "guardia_franjas": [
-      "25/11/2026 09:30–26/11/2026 09:30"
+      "29/11/2026 09:30–30/11/2026 09:30"
     ],
     "lat": 38.99945,
     "lng": -3.36514,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "25/11/2026 09:30–26/11/2026 09:30"
+    "guardia_franja": "29/11/2026 09:30–30/11/2026 09:30"
   },
   {
     "id": "cof-ciudad-real-3216",
@@ -7662,25 +7697,32 @@
       "Valdepeñas"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-13",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-13T00:00:00",
-        "fin": "2026-11-13T09:30:00",
-        "inicio_original": "2026-11-12T21:30:00",
-        "fin_original": "2026-11-13T09:30:00"
+        "inicio": "2026-11-29T09:30:00",
+        "fin": "2026-11-29T21:30:00",
+        "inicio_original": "2026-11-29T09:30:00",
+        "fin_original": "2026-11-29T21:30:00"
+      },
+      {
+        "inicio": "2026-11-29T21:30:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T21:30:00",
+        "fin_original": "2026-11-30T09:30:00"
       }
     ],
     "guardia_franjas": [
-      "12/11/2026 21:30–13/11/2026 09:30"
+      "29/11/2026 09:30–29/11/2026 21:30",
+      "29/11/2026 21:30–30/11/2026 09:30"
     ],
     "lat": 38.76079,
     "lng": -3.38639,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "12/11/2026 21:30–13/11/2026 09:30"
+    "guardia_franja": "29/11/2026 09:30–29/11/2026 21:30 · 29/11/2026 21:30–30/11/2026 09:30"
   },
   {
     "id": "cof-ciudad-real-264",
@@ -7900,13 +7942,13 @@
       "Tomelloso"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T09:30:00",
-        "fin": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-29T09:30:00",
         "inicio_original": "2026-11-28T09:30:00",
         "fin_original": "2026-11-29T09:30:00"
       }
@@ -7968,25 +8010,25 @@
       "Tomelloso"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-15",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-15T00:00:00",
-        "fin": "2026-11-15T09:30:00",
-        "inicio_original": "2026-11-14T09:30:00",
-        "fin_original": "2026-11-15T09:30:00"
+        "inicio": "2026-11-29T09:30:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T09:30:00",
+        "fin_original": "2026-11-30T09:30:00"
       }
     ],
     "guardia_franjas": [
-      "14/11/2026 09:30–15/11/2026 09:30"
+      "29/11/2026 09:30–30/11/2026 09:30"
     ],
     "lat": 39.1544317,
     "lng": -3.0231026,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "14/11/2026 09:30–15/11/2026 09:30"
+    "guardia_franja": "29/11/2026 09:30–30/11/2026 09:30"
   },
   {
     "id": "cof-ciudad-real-2185",
@@ -8852,25 +8894,32 @@
       "Daimiel"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T09:30:00",
-        "fin": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-29T09:30:00",
         "inicio_original": "2026-11-28T09:30:00",
         "fin_original": "2026-11-29T09:30:00"
+      },
+      {
+        "inicio": "2026-11-29T09:30:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T09:30:00",
+        "fin_original": "2026-11-30T09:30:00"
       }
     ],
     "guardia_franjas": [
-      "28/11/2026 09:30–29/11/2026 09:30"
+      "28/11/2026 09:30–29/11/2026 09:30",
+      "29/11/2026 09:30–30/11/2026 09:30"
     ],
     "lat": 39.06682536,
     "lng": -3.61082063,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "28/11/2026 09:30–29/11/2026 09:30"
+    "guardia_franja": "28/11/2026 09:30–29/11/2026 09:30 · 29/11/2026 09:30–30/11/2026 09:30"
   },
   {
     "id": "cof-ciudad-real-1316",
@@ -9362,31 +9411,31 @@
       "Puebla Del Principe"
     ],
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasdeguardia.cofcam.es/",
     "guardia_localizada": false,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-28T10:00:00",
-        "inicio_original": "2026-11-27T10:00:00",
-        "fin_original": "2026-11-28T10:00:00"
-      },
-      {
-        "inicio": "2026-11-28T10:00:00",
-        "fin": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-29T10:00:00",
         "inicio_original": "2026-11-28T10:00:00",
         "fin_original": "2026-11-29T10:00:00"
+      },
+      {
+        "inicio": "2026-11-29T10:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T10:00:00",
+        "fin_original": "2026-11-30T10:00:00"
       }
     ],
     "guardia_franjas": [
-      "27/11/2026 10:00–28/11/2026 10:00",
-      "28/11/2026 10:00–29/11/2026 10:00"
+      "28/11/2026 10:00–29/11/2026 10:00",
+      "29/11/2026 10:00–30/11/2026 10:00"
     ],
     "lat": 38.5687901,
     "lng": -2.9259426,
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://farmaciasdeguardia.cofcam.es/",
-    "guardia_franja": "27/11/2026 10:00–28/11/2026 10:00 · 28/11/2026 10:00–29/11/2026 10:00"
+    "guardia_franja": "28/11/2026 10:00–29/11/2026 10:00 · 29/11/2026 10:00–30/11/2026 10:00"
   }
 ]

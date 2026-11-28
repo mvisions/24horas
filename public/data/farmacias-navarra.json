@@ -36,7 +36,7 @@
     "provincia": "Navarra",
     "telefono": "948245030",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://datosabiertos.navarra.es/es/dataset/farmacias-de-guardia",
     "fuente_licencia": "https://creativecommons.org/licenses/by/4.0/",
     "localidades_atendidas": [
@@ -75,7 +75,7 @@
     "provincia": "Navarra",
     "telefono": "948198191",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://datosabiertos.navarra.es/es/dataset/farmacias-de-guardia",
     "fuente_licencia": "https://creativecommons.org/licenses/by/4.0/",
     "localidades_atendidas": [
@@ -1198,7 +1198,7 @@
     "provincia": "Navarra",
     "telefono": "948556944",
     "guardia": false,
-    "fecha_guardia": "2026-11-12",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://datosabiertos.navarra.es/es/dataset/farmacias-de-guardia",
     "fuente_licencia": "https://creativecommons.org/licenses/by/4.0/",
     "localidades_atendidas": [
@@ -1822,6 +1822,39 @@
     "telefono": "948827205",
     "guardia": false,
     "fecha_guardia": "2026-11-28",
+    "fuente": "https://datosabiertos.navarra.es/es/dataset/farmacias-de-guardia",
+    "fuente_licencia": "https://creativecommons.org/licenses/by/4.0/",
+    "localidades_atendidas": [
+      "Tudela"
+    ],
+    "lat": null,
+    "lng": null,
+    "guardia_franjas": [
+      "Fuente: desde 9, hasta 21; horario y cambio de fecha pendientes de confirmar.",
+      "Fuente: desde 21, hasta 9; horario y cambio de fecha pendientes de confirmar."
+    ],
+    "horarios_fuente": [
+      {
+        "desde": "9",
+        "hasta": "21"
+      },
+      {
+        "desde": "21",
+        "hasta": "9"
+      }
+    ],
+    "guardia_franja": "Fuente: desde 9, hasta 21; horario y cambio de fecha pendientes de confirmar. · Fuente: desde 21, hasta 9; horario y cambio de fecha pendientes de confirmar."
+  },
+  {
+    "id": "navarra-f00499",
+    "cofm_id": null,
+    "nombre": "Prada Rondan, Jesus A.",
+    "direccion": "C/ San Marcial, 16 . Esq. Paseo de Invierno",
+    "localidad": "Tudela",
+    "provincia": "Navarra",
+    "telefono": "948847559",
+    "guardia": false,
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://datosabiertos.navarra.es/es/dataset/farmacias-de-guardia",
     "fuente_licencia": "https://creativecommons.org/licenses/by/4.0/",
     "localidades_atendidas": [

@@ -66,10 +66,12 @@
     "localidad": "Palencia",
     "provincia": "Palencia",
     "fuente": "https://www.cofpalencia.org/PUBLICO/FARMACIA/capital.htm",
-    "lat": null,
-    "lng": null,
+    "lat": 42.0074447,
+    "lng": -4.531163,
     "guardia": false,
-    "telefono": "979706277"
+    "telefono": "979706277",
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org"
   },
   {
     "id": "cof-palencia-ca3224e529118bc3",
@@ -88,14 +90,26 @@
   },
   {
     "id": "cof-palencia-802740223c13fb46",
-    "nombre": "CALVO GARCIA, CARMEN",
-    "direccion": "C/ DON PELAYO, 18",
+    "nombre": "Carmen Calvo Garcia",
+    "direccion": "C/Don Pelayo nº18",
     "localidad": "Palencia",
     "provincia": "Palencia",
-    "fuente": "https://www.cofpalencia.org/PUBLICO/FARMACIA/capital.htm",
+    "fuente": "https://www.cofpalencia.org/PUBLICO/CALENDARIOS%20DE%20GUARDIA/calendarios%20de%20guardias%2025.pdf",
     "lat": 42.0184185,
     "lng": -4.533055,
     "guardia": false,
+    "fecha_guardia": "2026-11-29",
+    "localidades_atendidas": [
+      "Palencia"
+    ],
+    "provincias_atendidas": [
+      "Palencia"
+    ],
+    "guardia_intervalos": [],
+    "guardia_franjas": [
+      "Guardia diurna · Palencia · Horario exacto pendiente; confirmar por teléfono"
+    ],
+    "guardia_franja": "Guardia diurna · Palencia · Horario exacto pendiente; confirmar por teléfono",
     "telefono": "979741410",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org"
@@ -344,7 +358,7 @@
     "lat": 42.0079184,
     "lng": -4.5260357,
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "localidades_atendidas": [
       "Palencia"
     ],
@@ -353,14 +367,14 @@
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00+01:00",
-        "fin": "2026-11-28T10:00:00+01:00"
+        "inicio": "2026-11-29T22:00:00+01:00",
+        "fin": "2026-11-30T10:00:00+01:00"
       }
     ],
     "guardia_franjas": [
-      "Madrugada del día anterior · Palencia · 00:00–10:00"
+      "Guardia nocturna · Palencia · 22:00–10:00"
     ],
-    "guardia_franja": "Madrugada del día anterior · Palencia · 00:00–10:00",
+    "guardia_franja": "Guardia nocturna · Palencia · 22:00–10:00",
     "telefono": "979722626",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org"
@@ -573,7 +587,7 @@
     "lat": 42.0220043,
     "lng": -4.5330256,
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "localidades_atendidas": [
       "Palencia"
     ],
@@ -582,14 +596,14 @@
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T22:00:00+01:00",
+        "inicio": "2026-11-29T00:00:00+01:00",
         "fin": "2026-11-29T10:00:00+01:00"
       }
     ],
     "guardia_franjas": [
-      "Guardia nocturna · Palencia · 22:00–10:00"
+      "Madrugada del día anterior · Palencia · 00:00–10:00"
     ],
-    "guardia_franja": "Guardia nocturna · Palencia · 22:00–10:00",
+    "guardia_franja": "Madrugada del día anterior · Palencia · 00:00–10:00",
     "telefono": "979743524",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.openstreetmap.org"
@@ -604,7 +618,7 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "localidades_atendidas": [
       "Carrión de los Condes",
       "Saldaña"
@@ -614,16 +628,16 @@
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T10:00:00+01:00",
-        "fin": "2026-11-28T22:00:00+01:00"
+        "inicio": "2026-11-29T10:00:00+01:00",
+        "fin": "2026-11-29T22:00:00+01:00"
       },
       {
-        "inicio": "2026-11-28T22:00:00+01:00",
+        "inicio": "2026-11-29T22:00:00+01:00",
+        "fin": "2026-11-30T10:00:00+01:00"
+      },
+      {
+        "inicio": "2026-11-29T00:00:00+01:00",
         "fin": "2026-11-29T10:00:00+01:00"
-      },
-      {
-        "inicio": "2026-11-28T00:00:00+01:00",
-        "fin": "2026-11-28T10:00:00+01:00"
       }
     ],
     "guardia_franjas": [
@@ -675,7 +689,7 @@
     "lat": 42.5223357,
     "lng": -4.7371161,
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "localidades_atendidas": [
       "Saldaña"
     ],
@@ -684,8 +698,8 @@
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T10:00:00+01:00",
-        "fin": "2026-11-28T22:00:00+01:00"
+        "inicio": "2026-11-29T10:00:00+01:00",
+        "fin": "2026-11-29T22:00:00+01:00"
       }
     ],
     "guardia_franjas": [
@@ -735,7 +749,7 @@
     "lng": null,
     "guardia": false,
     "telefono": "979122092",
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "localidades_atendidas": [
       "Aguilar De Campoo"
     ],
@@ -760,7 +774,7 @@
     "lng": null,
     "guardia": false,
     "telefono": "979852603",
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "localidades_atendidas": [
       "Guardo"
     ],
@@ -891,7 +905,7 @@
     "lng": null,
     "guardia": false,
     "telefono": "979879015",
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "localidades_atendidas": [
       "Cervera De Pisuerga"
     ],
@@ -1130,7 +1144,7 @@
     "lat": null,
     "lng": null,
     "guardia": false,
-    "fecha_guardia": "2026-11-08",
+    "fecha_guardia": "2026-11-29",
     "localidades_atendidas": [
       "Venta de Baños"
     ],
@@ -1139,29 +1153,24 @@
     ],
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-08T09:30:00+01:00",
-        "fin": "2026-11-08T20:00:00+01:00"
+        "inicio": "2026-11-29T09:30:00+01:00",
+        "fin": "2026-11-29T20:00:00+01:00"
       },
       {
-        "inicio": "2026-11-08T20:00:00+01:00",
-        "fin": "2026-11-08T22:00:00+01:00"
+        "inicio": "2026-11-29T22:00:00+01:00",
+        "fin": "2026-11-30T09:30:00+01:00"
       },
       {
-        "inicio": "2026-11-08T22:00:00+01:00",
-        "fin": "2026-11-09T09:30:00+01:00"
-      },
-      {
-        "inicio": "2026-11-08T00:00:00+01:00",
-        "fin": "2026-11-08T09:30:00+01:00"
+        "inicio": "2026-11-29T00:00:00+01:00",
+        "fin": "2026-11-29T09:30:00+01:00"
       }
     ],
     "guardia_franjas": [
       "Guardia diurna · Venta de Baños · 09:30–20:00",
-      "Guardia diurna · Venta de Baños · 20:00–22:00",
       "Guardia nocturna · Venta de Baños · 22:00–09:30",
       "Madrugada del día anterior · Venta de Baños · 00:00–09:30"
     ],
-    "guardia_franja": "Guardia diurna · Venta de Baños · 09:30–20:00 · Guardia diurna · Venta de Baños · 20:00–22:00 · Guardia nocturna · Venta de Baños · 22:00–09:30 · Madrugada del día anterior · Venta de Baños · 00:00–09:30"
+    "guardia_franja": "Guardia diurna · Venta de Baños · 09:30–20:00 · Guardia nocturna · Venta de Baños · 22:00–09:30 · Madrugada del día anterior · Venta de Baños · 00:00–09:30"
   },
   {
     "id": "cof-palencia-4cde1ba12647c51e",
@@ -1268,5 +1277,80 @@
       "Madrugada del día anterior · Villada · Horario exacto pendiente; confirmar por teléfono"
     ],
     "guardia_franja": "Guardia 24 horas · Villada · Horario exacto pendiente; confirmar por teléfono · Madrugada del día anterior · Villada · Horario exacto pendiente; confirmar por teléfono"
+  },
+  {
+    "id": "cof-palencia-8aab3740f4177562",
+    "nombre": "ACERO FERNANDEZ, MARIA ROSARIO",
+    "direccion": "PZ MAYOR, 2",
+    "localidad": "Sahagún",
+    "provincia": "León",
+    "fuente": "https://www.cofpalencia.org/PUBLICO/CALENDARIOS%20DE%20GUARDIA/calendarios%20de%20guardias%2016.pdf",
+    "lat": null,
+    "lng": null,
+    "guardia": false,
+    "fecha_guardia": "2026-11-29",
+    "localidades_atendidas": [
+      "Villada"
+    ],
+    "provincias_atendidas": [
+      "Palencia"
+    ],
+    "guardia_intervalos": [],
+    "guardia_franjas": [
+      "Guardia 24 horas · Villada · Horario exacto pendiente; confirmar por teléfono",
+      "Madrugada del día anterior · Villada · Horario exacto pendiente; confirmar por teléfono"
+    ],
+    "guardia_franja": "Guardia 24 horas · Villada · Horario exacto pendiente; confirmar por teléfono · Madrugada del día anterior · Villada · Horario exacto pendiente; confirmar por teléfono"
+  },
+  {
+    "id": "cof-palencia-9d337c6c4f5bb214",
+    "nombre": "SERAFIN MORENO CABAÑAS (*)",
+    "direccion": "Crta. De Baños,9) JUAN PABLO ZAMARRIEGO",
+    "localidad": "Venta de Baños",
+    "provincia": "Palencia",
+    "fuente": "https://www.cofpalencia.org/PUBLICO/CALENDARIOS%20DE%20GUARDIA/calendarios%20de%20guardias%2021.pdf",
+    "lat": null,
+    "lng": null,
+    "guardia": false,
+    "fecha_guardia": "2026-11-29",
+    "localidades_atendidas": [
+      "Venta de Baños"
+    ],
+    "provincias_atendidas": [
+      "Palencia"
+    ],
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-29T20:00:00+01:00",
+        "fin": "2026-11-29T22:00:00+01:00"
+      }
+    ],
+    "guardia_franjas": [
+      "Guardia diurna · Venta de Baños · 20:00–22:00"
+    ],
+    "guardia_franja": "Guardia diurna · Venta de Baños · 20:00–22:00"
+  },
+  {
+    "id": "cof-palencia-8b88182e1421bae7",
+    "nombre": "Teresa Revilla Torrijos",
+    "direccion": "Mayor Principal nº104",
+    "localidad": "Palencia",
+    "provincia": "Palencia",
+    "fuente": "https://www.cofpalencia.org/PUBLICO/CALENDARIOS%20DE%20GUARDIA/calendarios%20de%20guardias%2025.pdf",
+    "lat": null,
+    "lng": null,
+    "guardia": false,
+    "fecha_guardia": "2026-11-29",
+    "localidades_atendidas": [
+      "Palencia"
+    ],
+    "provincias_atendidas": [
+      "Palencia"
+    ],
+    "guardia_intervalos": [],
+    "guardia_franjas": [
+      "Guardia diurna · Palencia · Horario exacto pendiente; confirmar por teléfono"
+    ],
+    "guardia_franja": "Guardia diurna · Palencia · Horario exacto pendiente; confirmar por teléfono"
   }
 ]

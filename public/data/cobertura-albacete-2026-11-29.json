@@ -1,0 +1,186 @@
+{
+  "fecha": "2026-11-29",
+  "provincia": "Albacete",
+  "fuente": "https://farmaciasdeguardia.cofcam.es/",
+  "completa": false,
+  "consultas": [
+    {
+      "nombre": "Albacete",
+      "estado": "disponible",
+      "farmacias": 4,
+      "error": ""
+    },
+    {
+      "nombre": "Albatana",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Almansa",
+      "estado": "disponible",
+      "farmacias": 2,
+      "error": ""
+    },
+    {
+      "nombre": "Barrax",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Bonete",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Casas De Juan Nuñez",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Casas Ibañez",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Caudete",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Chinchilla",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "El Bonillo",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Elche De La Sierra",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Hellin",
+      "estado": "disponible",
+      "farmacias": 2,
+      "error": ""
+    },
+    {
+      "nombre": "La Roda",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Madrigueras",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Molinicos",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Munera",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Nerpio",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Ossa De Montiel",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Peñas De San Pedro",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Riopar",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Robledo",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "San Pedro",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Socovos",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Tarazona De La Mancha",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Tobarra",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Villamalea",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Villarrobledo",
+      "estado": "disponible",
+      "farmacias": 2,
+      "error": ""
+    },
+    {
+      "nombre": "Yeste",
+      "estado": "disponible",
+      "farmacias": 1,
+      "error": ""
+    },
+    {
+      "nombre": "Cobertura municipal provincial",
+      "estado": "parcial",
+      "error": "Listado provincial completo consultado sin filtro horario; no es un censo de todos los municipios ni confirma derivaciones. El catálogo azul conserva las farmacias OSM y las observadas en guardias."
+    }
+  ],
+  "farmacias": 34,
+  "farmacias_confirmadas": 34,
+  "con_coordenadas": 34,
+  "calendario_actualizado": true,
+  "guardias_conservadas_no_reconfirmadas": 0
+}

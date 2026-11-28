@@ -1689,14 +1689,16 @@
     "guardia_franja": "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono.",
     "fecha_guardia": "2026-11-28",
     "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
-    "lat": null,
-    "lng": null,
+    "lat": 41.6518696,
+    "lng": -0.914606,
     "localidades_atendidas": [
       "Zaragoza"
     ],
     "guardia_franjas": [
       "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono."
-    ]
+    ],
+    "precision_ubicacion": "farmacia",
+    "fuente_coordenadas": "https://www.openstreetmap.org/node/1792486421"
   },
   {
     "id": "50-50000334",

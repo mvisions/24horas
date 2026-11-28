@@ -242,7 +242,7 @@
     "provincia": "A Coruña",
     "telefono": "981293902",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "A Coruña"
@@ -251,10 +251,10 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-29T00:00:00",
-        "inicio_original": "2026-11-28T00:00:00",
-        "fin_original": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T00:00:00",
+        "fin_original": "2026-11-30T00:00:00",
         "tipo": "Diurno y Nocturno"
       }
     ],
@@ -302,7 +302,7 @@
     "provincia": "A Coruña",
     "telefono": "981583156",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Santiago de Compostela"
@@ -311,10 +311,10 @@
     "lng": -8.526703,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-29T00:00:00",
-        "inicio_original": "2026-11-28T00:00:00",
-        "fin_original": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T00:00:00",
+        "fin_original": "2026-11-30T00:00:00",
         "tipo": "Diurno y Nocturno"
       }
     ],
@@ -367,7 +367,7 @@
     "provincia": "A Coruña",
     "telefono": "981505380",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Melide"
@@ -376,10 +376,10 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-29T00:00:00",
-        "inicio_original": "2026-11-28T00:00:00",
-        "fin_original": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T00:00:00",
+        "fin_original": "2026-11-30T00:00:00",
         "tipo": "Diurno y Nocturno"
       }
     ],
@@ -457,7 +457,7 @@
     "provincia": "A Coruña",
     "telefono": "981885076",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Negreira"
@@ -466,10 +466,10 @@
     "lng": -8.735947,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-29T00:00:00",
-        "inicio_original": "2026-11-28T00:00:00",
-        "fin_original": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T00:00:00",
+        "fin_original": "2026-11-30T00:00:00",
         "tipo": "Diurno y Nocturno"
       }
     ],
@@ -529,7 +529,7 @@
     "provincia": "A Coruña",
     "telefono": "981948109",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Narón"
@@ -538,17 +538,17 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T09:30:00",
-        "fin": "2026-11-29T00:00:00",
-        "inicio_original": "2026-11-28T09:30:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-29T09:30:00",
+        "inicio_original": "2026-11-29T00:00:00",
         "fin_original": "2026-11-29T09:30:00",
         "tipo": "Diurno y Nocturno"
       }
     ],
     "guardia_franjas": [
-      "Diurno y Nocturno: 09:30 - 09:30 (día posterior)"
+      "Diurno y Nocturno: 00:00 - 09:30"
     ],
-    "guardia_franja": "Diurno y Nocturno: 09:30 - 09:30 (día posterior)"
+    "guardia_franja": "Diurno y Nocturno: 00:00 - 09:30"
   },
   {
     "id": "cof-a-coruna-C-558-F",
@@ -631,7 +631,7 @@
     "provincia": "A Coruña",
     "telefono": "981405017",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Cariño"
@@ -640,10 +640,10 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-29T00:00:00",
-        "inicio_original": "2026-11-28T00:00:00",
-        "fin_original": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T00:00:00",
+        "fin_original": "2026-11-30T00:00:00",
         "tipo": "Diurno y Nocturno"
       }
     ],
@@ -844,7 +844,7 @@
     "provincia": "A Coruña",
     "telefono": "981384583",
     "guardia": false,
-    "fecha_guardia": "2026-11-17",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Narón"
@@ -853,17 +853,17 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-17T00:00:00",
-        "fin": "2026-11-17T21:00:00",
-        "inicio_original": "2026-11-17T00:00:00",
-        "fin_original": "2026-11-17T21:00:00",
+        "inicio": "2026-11-29T09:30:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T09:30:00",
+        "fin_original": "2026-11-30T09:30:00",
         "tipo": "Diurno y Nocturno"
       }
     ],
     "guardia_franjas": [
-      "Diurno y Nocturno: 00:00 - 21:00"
+      "Diurno y Nocturno: 09:30 - 09:30 (día posterior)"
     ],
-    "guardia_franja": "Diurno y Nocturno: 00:00 - 21:00"
+    "guardia_franja": "Diurno y Nocturno: 09:30 - 09:30 (día posterior)"
   },
   {
     "id": "cof-a-coruna-C-240-F",
@@ -874,7 +874,7 @@
     "provincia": "A Coruña",
     "telefono": "981680737",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Ordes"
@@ -883,10 +883,10 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T09:00:00",
-        "fin": "2026-11-28T22:00:00",
-        "inicio_original": "2026-11-28T09:00:00",
-        "fin_original": "2026-11-28T22:00:00",
+        "inicio": "2026-11-29T09:00:00",
+        "fin": "2026-11-29T22:00:00",
+        "inicio_original": "2026-11-29T09:00:00",
+        "fin_original": "2026-11-29T22:00:00",
         "tipo": "Diurno"
       }
     ],
@@ -941,7 +941,7 @@
     "provincia": "A Coruña",
     "telefono": "981490180",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "San Sadurniño"
@@ -950,10 +950,10 @@
     "lng": -8.072446,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-29T00:00:00",
-        "inicio_original": "2026-11-28T00:00:00",
-        "fin_original": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T00:00:00",
+        "fin_original": "2026-11-30T00:00:00",
         "tipo": "Diurno y Nocturno"
       }
     ],
@@ -1108,7 +1108,7 @@
     "provincia": "A Coruña",
     "telefono": "981203842",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "A Coruña"
@@ -1117,10 +1117,10 @@
     "lng": -8.398064,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-29T00:00:00",
-        "inicio_original": "2026-11-28T00:00:00",
-        "fin_original": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T00:00:00",
+        "fin_original": "2026-11-30T00:00:00",
         "tipo": "Diurno y Nocturno"
       }
     ],
@@ -1143,7 +1143,7 @@
     "provincia": "A Coruña",
     "telefono": "981460943",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Mugardos"
@@ -1152,10 +1152,10 @@
     "lng": -8.198694,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-29T00:00:00",
-        "inicio_original": "2026-11-28T00:00:00",
-        "fin_original": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T00:00:00",
+        "fin_original": "2026-11-30T00:00:00",
         "tipo": "Diurno y Nocturno"
       }
     ],
@@ -1178,7 +1178,7 @@
     "provincia": "A Coruña",
     "telefono": "981139105",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "A Coruña"
@@ -1187,10 +1187,10 @@
     "lng": -8.3841,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-29T00:00:00",
-        "inicio_original": "2026-11-28T00:00:00",
-        "fin_original": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T00:00:00",
+        "fin_original": "2026-11-30T00:00:00",
         "tipo": "Diurno y Nocturno"
       }
     ],
@@ -1280,7 +1280,7 @@
     "provincia": "A Coruña",
     "telefono": "981592172",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Santiago de Compostela"
@@ -1289,10 +1289,10 @@
     "lng": -8.551195,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-29T00:00:00",
-        "inicio_original": "2026-11-28T00:00:00",
-        "fin_original": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T00:00:00",
+        "fin_original": "2026-11-30T00:00:00",
         "tipo": "Diurno y Nocturno"
       }
     ],
@@ -1352,7 +1352,7 @@
     "provincia": "A Coruña",
     "telefono": "981740055",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Fisterra"
@@ -1361,10 +1361,10 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T09:30:00",
-        "fin": "2026-11-28T22:00:00",
-        "inicio_original": "2026-11-28T09:30:00",
-        "fin_original": "2026-11-28T22:00:00",
+        "inicio": "2026-11-29T09:30:00",
+        "fin": "2026-11-29T22:00:00",
+        "inicio_original": "2026-11-29T09:30:00",
+        "fin_original": "2026-11-29T22:00:00",
         "tipo": "Diurno"
       }
     ],
@@ -1412,7 +1412,7 @@
     "provincia": "A Coruña",
     "telefono": "981593391",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Santiago de Compostela"
@@ -1421,10 +1421,10 @@
     "lng": -8.5476436,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T09:00:00",
-        "fin": "2026-11-28T22:00:00",
-        "inicio_original": "2026-11-28T09:00:00",
-        "fin_original": "2026-11-28T22:00:00",
+        "inicio": "2026-11-29T09:00:00",
+        "fin": "2026-11-29T22:00:00",
+        "inicio_original": "2026-11-29T09:00:00",
+        "fin_original": "2026-11-29T22:00:00",
         "tipo": "Diurno"
       }
     ],
@@ -1447,7 +1447,7 @@
     "provincia": "A Coruña",
     "telefono": "981599702",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Santiago de Compostela"
@@ -1456,10 +1456,10 @@
     "lng": -8.5508358,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T09:00:00",
-        "fin": "2026-11-28T22:30:00",
-        "inicio_original": "2026-11-28T09:00:00",
-        "fin_original": "2026-11-28T22:30:00",
+        "inicio": "2026-11-29T09:00:00",
+        "fin": "2026-11-29T22:30:00",
+        "inicio_original": "2026-11-29T09:00:00",
+        "fin_original": "2026-11-29T22:30:00",
         "tipo": "Diurno"
       }
     ],
@@ -1482,7 +1482,7 @@
     "provincia": "A Coruña",
     "telefono": "981352138",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Ferrol"
@@ -1491,10 +1491,10 @@
     "lng": -8.232275,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T09:30:00",
-        "fin": "2026-11-28T22:00:00",
-        "inicio_original": "2026-11-28T09:30:00",
-        "fin_original": "2026-11-28T22:00:00",
+        "inicio": "2026-11-29T09:30:00",
+        "fin": "2026-11-29T22:00:00",
+        "inicio_original": "2026-11-29T09:30:00",
+        "fin_original": "2026-11-29T22:00:00",
         "tipo": "Diurno"
       }
     ],
@@ -1517,7 +1517,7 @@
     "provincia": "A Coruña",
     "telefono": "981871070",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Ribeira"
@@ -1526,10 +1526,10 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T09:00:00",
-        "fin": "2026-11-28T22:00:00",
-        "inicio_original": "2026-11-28T09:00:00",
-        "fin_original": "2026-11-28T22:00:00",
+        "inicio": "2026-11-29T09:00:00",
+        "fin": "2026-11-29T22:00:00",
+        "inicio_original": "2026-11-29T09:00:00",
+        "fin_original": "2026-11-29T22:00:00",
         "tipo": "Diurno"
       }
     ],
@@ -1547,7 +1547,7 @@
     "provincia": "A Coruña",
     "telefono": "981585895",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Santiago de Compostela"
@@ -1556,10 +1556,10 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T08:30:00",
-        "fin": "2026-11-28T22:00:00",
-        "inicio_original": "2026-11-28T08:30:00",
-        "fin_original": "2026-11-28T22:00:00",
+        "inicio": "2026-11-29T08:30:00",
+        "fin": "2026-11-29T22:00:00",
+        "inicio_original": "2026-11-29T08:30:00",
+        "fin_original": "2026-11-29T22:00:00",
         "tipo": "Diurno"
       }
     ],
@@ -1577,7 +1577,7 @@
     "provincia": "A Coruña",
     "telefono": "981252438",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "A Coruña"
@@ -1586,10 +1586,10 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T09:00:00",
-        "fin": "2026-11-28T22:00:00",
-        "inicio_original": "2026-11-28T09:00:00",
-        "fin_original": "2026-11-28T22:00:00",
+        "inicio": "2026-11-29T09:00:00",
+        "fin": "2026-11-29T22:00:00",
+        "inicio_original": "2026-11-29T09:00:00",
+        "fin_original": "2026-11-29T22:00:00",
         "tipo": "Diurno"
       }
     ],
@@ -1607,7 +1607,7 @@
     "provincia": "A Coruña",
     "telefono": "981590397",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Santiago de Compostela"
@@ -1616,10 +1616,10 @@
     "lng": -8.540861,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T09:00:00",
-        "fin": "2026-11-28T22:30:00",
-        "inicio_original": "2026-11-28T09:00:00",
-        "fin_original": "2026-11-28T22:30:00",
+        "inicio": "2026-11-29T09:00:00",
+        "fin": "2026-11-29T22:30:00",
+        "inicio_original": "2026-11-29T09:00:00",
+        "fin_original": "2026-11-29T22:30:00",
         "tipo": "Diurno"
       }
     ],
@@ -1672,7 +1672,7 @@
     "provincia": "A Coruña",
     "telefono": "981586835",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Santiago de Compostela"
@@ -1681,10 +1681,10 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T09:00:00",
-        "fin": "2026-11-28T22:00:00",
-        "inicio_original": "2026-11-28T09:00:00",
-        "fin_original": "2026-11-28T22:00:00",
+        "inicio": "2026-11-29T09:00:00",
+        "fin": "2026-11-29T22:00:00",
+        "inicio_original": "2026-11-29T09:00:00",
+        "fin_original": "2026-11-29T22:00:00",
         "tipo": "Diurno"
       }
     ],
@@ -1702,7 +1702,7 @@
     "provincia": "A Coruña",
     "telefono": "981321468",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Ferrol"
@@ -1711,10 +1711,10 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T09:00:00",
-        "fin": "2026-11-28T22:00:00",
-        "inicio_original": "2026-11-28T09:00:00",
-        "fin_original": "2026-11-28T22:00:00",
+        "inicio": "2026-11-29T09:00:00",
+        "fin": "2026-11-29T22:00:00",
+        "inicio_original": "2026-11-29T09:00:00",
+        "fin_original": "2026-11-29T22:00:00",
         "tipo": "Diurno"
       }
     ],
@@ -1732,7 +1732,7 @@
     "provincia": "A Coruña",
     "telefono": "981599225",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Santiago de Compostela"
@@ -1741,10 +1741,10 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T08:45:00",
-        "fin": "2026-11-28T22:15:00",
-        "inicio_original": "2026-11-28T08:45:00",
-        "fin_original": "2026-11-28T22:15:00",
+        "inicio": "2026-11-29T08:45:00",
+        "fin": "2026-11-29T22:15:00",
+        "inicio_original": "2026-11-29T08:45:00",
+        "fin_original": "2026-11-29T22:15:00",
         "tipo": "Diurno"
       }
     ],
@@ -1827,7 +1827,7 @@
     "provincia": "A Coruña",
     "telefono": "981840546",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Ribeira"
@@ -1836,10 +1836,10 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T09:00:00",
-        "fin": "2026-11-28T22:00:00",
-        "inicio_original": "2026-11-28T09:00:00",
-        "fin_original": "2026-11-28T22:00:00",
+        "inicio": "2026-11-29T09:00:00",
+        "fin": "2026-11-29T22:00:00",
+        "inicio_original": "2026-11-29T09:00:00",
+        "fin_original": "2026-11-29T22:00:00",
         "tipo": "Diurno"
       }
     ],
@@ -1857,7 +1857,7 @@
     "provincia": "A Coruña",
     "telefono": "981252029",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "A Coruña"
@@ -1866,10 +1866,10 @@
     "lng": -8.4227178,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T09:30:00",
-        "fin": "2026-11-28T22:00:00",
-        "inicio_original": "2026-11-28T09:30:00",
-        "fin_original": "2026-11-28T22:00:00",
+        "inicio": "2026-11-29T09:30:00",
+        "fin": "2026-11-29T22:00:00",
+        "inicio_original": "2026-11-29T09:30:00",
+        "fin_original": "2026-11-29T22:00:00",
         "tipo": "Diurno"
       }
     ],
@@ -1892,7 +1892,7 @@
     "provincia": "A Coruña",
     "telefono": "981352034",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Ferrol"
@@ -1901,10 +1901,10 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T09:00:00",
-        "fin": "2026-11-28T22:00:00",
-        "inicio_original": "2026-11-28T09:00:00",
-        "fin_original": "2026-11-28T22:00:00",
+        "inicio": "2026-11-29T09:00:00",
+        "fin": "2026-11-29T22:00:00",
+        "inicio_original": "2026-11-29T09:00:00",
+        "fin_original": "2026-11-29T22:00:00",
         "tipo": "Diurno"
       }
     ],
@@ -1922,7 +1922,7 @@
     "provincia": "A Coruña",
     "telefono": "981253237",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "A Coruña"
@@ -1931,10 +1931,10 @@
     "lng": -8.4229798,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T09:00:00",
-        "fin": "2026-11-28T22:00:00",
-        "inicio_original": "2026-11-28T09:00:00",
-        "fin_original": "2026-11-28T22:00:00",
+        "inicio": "2026-11-29T09:00:00",
+        "fin": "2026-11-29T22:00:00",
+        "inicio_original": "2026-11-29T09:00:00",
+        "fin_original": "2026-11-29T22:00:00",
         "tipo": "Diurno"
       }
     ],
@@ -1956,7 +1956,7 @@
     "provincia": "A Coruña",
     "telefono": "981364089",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Ferrol"
@@ -1965,10 +1965,10 @@
     "lng": -8.234046,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T09:30:00",
-        "fin": "2026-11-28T22:30:00",
-        "inicio_original": "2026-11-28T09:30:00",
-        "fin_original": "2026-11-28T22:30:00",
+        "inicio": "2026-11-29T09:30:00",
+        "fin": "2026-11-29T22:30:00",
+        "inicio_original": "2026-11-29T09:30:00",
+        "fin_original": "2026-11-29T22:30:00",
         "tipo": "Diurno"
       }
     ],
@@ -1991,7 +1991,7 @@
     "provincia": "A Coruña",
     "telefono": "881912845",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "A Coruña"
@@ -2000,10 +2000,10 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T09:00:00",
-        "fin": "2026-11-28T22:00:00",
-        "inicio_original": "2026-11-28T09:00:00",
-        "fin_original": "2026-11-28T22:00:00",
+        "inicio": "2026-11-29T09:00:00",
+        "fin": "2026-11-29T22:00:00",
+        "inicio_original": "2026-11-29T09:00:00",
+        "fin_original": "2026-11-29T22:00:00",
         "tipo": "Diurno"
       }
     ],
@@ -2021,7 +2021,7 @@
     "provincia": "A Coruña",
     "telefono": "981255147",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "A Coruña"
@@ -2030,10 +2030,10 @@
     "lng": -8.4182396,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T09:00:00",
-        "fin": "2026-11-28T22:00:00",
-        "inicio_original": "2026-11-28T09:00:00",
-        "fin_original": "2026-11-28T22:00:00",
+        "inicio": "2026-11-29T09:00:00",
+        "fin": "2026-11-29T22:00:00",
+        "inicio_original": "2026-11-29T09:00:00",
+        "fin_original": "2026-11-29T22:00:00",
         "tipo": "Diurno"
       }
     ],
@@ -2086,7 +2086,7 @@
     "provincia": "A Coruña",
     "telefono": "881126573",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "A Coruña"
@@ -2095,10 +2095,10 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T09:00:00",
-        "fin": "2026-11-28T22:00:00",
-        "inicio_original": "2026-11-28T09:00:00",
-        "fin_original": "2026-11-28T22:00:00",
+        "inicio": "2026-11-29T09:00:00",
+        "fin": "2026-11-29T22:00:00",
+        "inicio_original": "2026-11-29T09:00:00",
+        "fin_original": "2026-11-29T22:00:00",
         "tipo": "Diurno"
       }
     ],
@@ -2116,7 +2116,7 @@
     "provincia": "A Coruña",
     "telefono": "981222134",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "A Coruña"
@@ -2125,10 +2125,10 @@
     "lng": -8.4018634,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T09:00:00",
-        "fin": "2026-11-28T22:30:00",
-        "inicio_original": "2026-11-28T09:00:00",
-        "fin_original": "2026-11-28T22:30:00",
+        "inicio": "2026-11-29T09:00:00",
+        "fin": "2026-11-29T22:30:00",
+        "inicio_original": "2026-11-29T09:00:00",
+        "fin_original": "2026-11-29T22:30:00",
         "tipo": "Diurno"
       }
     ],
@@ -2151,7 +2151,7 @@
     "provincia": "A Coruña",
     "telefono": "981873657",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Ribeira"
@@ -2160,10 +2160,10 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T09:00:00",
-        "fin": "2026-11-28T22:00:00",
-        "inicio_original": "2026-11-28T09:00:00",
-        "fin_original": "2026-11-28T22:00:00",
+        "inicio": "2026-11-29T09:00:00",
+        "fin": "2026-11-29T22:00:00",
+        "inicio_original": "2026-11-29T09:00:00",
+        "fin_original": "2026-11-29T22:00:00",
         "tipo": "Diurno"
       }
     ],
@@ -2181,7 +2181,7 @@
     "provincia": "A Coruña",
     "telefono": "981232712",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "A Coruña"
@@ -2190,10 +2190,10 @@
     "lng": -8.4138043,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T09:00:00",
-        "fin": "2026-11-28T22:30:00",
-        "inicio_original": "2026-11-28T09:00:00",
-        "fin_original": "2026-11-28T22:30:00",
+        "inicio": "2026-11-29T09:00:00",
+        "fin": "2026-11-29T22:30:00",
+        "inicio_original": "2026-11-29T09:00:00",
+        "fin_original": "2026-11-29T22:30:00",
         "tipo": "Diurno"
       }
     ],
@@ -2753,7 +2753,7 @@
     "provincia": "A Coruña",
     "telefono": "981480366",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Cedeira"
@@ -2762,10 +2762,10 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-29T00:00:00",
-        "inicio_original": "2026-11-28T00:00:00",
-        "fin_original": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T00:00:00",
+        "fin_original": "2026-11-30T00:00:00",
         "tipo": "Diurno y Nocturno"
       }
     ],
@@ -3244,7 +3244,7 @@
     "provincia": "A Coruña",
     "telefono": "981434145",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Pontedeume"
@@ -3253,10 +3253,10 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-29T00:00:00",
-        "inicio_original": "2026-11-28T00:00:00",
-        "fin_original": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T00:00:00",
+        "fin_original": "2026-11-30T00:00:00",
         "tipo": "Diurno y Nocturno"
       }
     ],
@@ -3274,7 +3274,7 @@
     "provincia": "A Coruña",
     "telefono": "981500041",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Arzúa"
@@ -3283,10 +3283,10 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-29T00:00:00",
-        "inicio_original": "2026-11-28T00:00:00",
-        "fin_original": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T00:00:00",
+        "fin_original": "2026-11-30T00:00:00",
         "tipo": "Diurno y Nocturno"
       }
     ],
@@ -3304,7 +3304,7 @@
     "provincia": "A Coruña",
     "telefono": "981786003",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Curtis"
@@ -3313,10 +3313,10 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-29T00:00:00",
-        "inicio_original": "2026-11-28T00:00:00",
-        "fin_original": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T00:00:00",
+        "fin_original": "2026-11-30T00:00:00",
         "tipo": "Diurno y Nocturno"
       }
     ],
@@ -3401,7 +3401,7 @@
     "provincia": "A Coruña",
     "telefono": "881935668",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "As Pontes"
@@ -3410,10 +3410,10 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-29T00:00:00",
-        "inicio_original": "2026-11-28T00:00:00",
-        "fin_original": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T00:00:00",
+        "fin_original": "2026-11-30T00:00:00",
         "tipo": "Diurno y Nocturno"
       }
     ],
@@ -3461,7 +3461,7 @@
     "provincia": "A Coruña",
     "telefono": "981605358",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "A Laracha"
@@ -3470,10 +3470,10 @@
     "lng": -8.583351,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-29T00:00:00",
-        "inicio_original": "2026-11-28T00:00:00",
-        "fin_original": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T00:00:00",
+        "fin_original": "2026-11-30T00:00:00",
         "tipo": "Diurno y Nocturno"
       }
     ],
@@ -4805,7 +4805,7 @@
     "provincia": "A Coruña",
     "telefono": "981430028",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Pontedeume"
@@ -4814,10 +4814,10 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-29T00:00:00",
-        "inicio_original": "2026-11-28T00:00:00",
-        "fin_original": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T00:00:00",
+        "fin_original": "2026-11-30T00:00:00",
         "tipo": "Diurno y Nocturno"
       }
     ],
@@ -5009,7 +5009,7 @@
     "provincia": "A Coruña",
     "telefono": "981450602",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "As Pontes"
@@ -5018,10 +5018,10 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-29T00:00:00",
-        "inicio_original": "2026-11-28T00:00:00",
-        "fin_original": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T00:00:00",
+        "fin_original": "2026-11-30T00:00:00",
         "tipo": "Diurno y Nocturno"
       }
     ],
@@ -5488,7 +5488,7 @@
     "provincia": "A Coruña",
     "telefono": "981943585",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Ames"
@@ -5497,10 +5497,10 @@
     "lng": -8.577659,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T09:00:00",
-        "fin": "2026-11-28T22:00:00",
-        "inicio_original": "2026-11-28T09:00:00",
-        "fin_original": "2026-11-28T22:00:00",
+        "inicio": "2026-11-29T09:00:00",
+        "fin": "2026-11-29T22:00:00",
+        "inicio_original": "2026-11-29T09:00:00",
+        "fin_original": "2026-11-29T22:00:00",
         "tipo": "Diurno"
       }
     ],
@@ -6684,7 +6684,7 @@
     "provincia": "A Coruña",
     "telefono": "981810548",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Padrón"
@@ -6693,10 +6693,10 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-29T00:00:00",
-        "inicio_original": "2026-11-28T00:00:00",
-        "fin_original": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T00:00:00",
+        "fin_original": "2026-11-30T00:00:00",
         "tipo": "Diurno y Nocturno"
       }
     ],
@@ -6714,7 +6714,7 @@
     "provincia": "A Coruña",
     "telefono": "981700413",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Carballo"
@@ -6723,10 +6723,10 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-29T00:00:00",
-        "inicio_original": "2026-11-28T00:00:00",
-        "fin_original": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T00:00:00",
+        "fin_original": "2026-11-30T00:00:00",
         "tipo": "Diurno y Nocturno"
       }
     ],
@@ -6884,7 +6884,7 @@
     "provincia": "A Coruña",
     "telefono": "881083463",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "A Pobra do Caramiñal"
@@ -6893,10 +6893,10 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-29T00:00:00",
-        "inicio_original": "2026-11-28T00:00:00",
-        "fin_original": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T00:00:00",
+        "fin_original": "2026-11-30T00:00:00",
         "tipo": "Diurno y Nocturno"
       }
     ],
@@ -6914,7 +6914,7 @@
     "provincia": "A Coruña",
     "telefono": "981844574",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Boiro"
@@ -6923,10 +6923,10 @@
     "lng": -8.883628,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-29T00:00:00",
-        "inicio_original": "2026-11-28T00:00:00",
-        "fin_original": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T00:00:00",
+        "fin_original": "2026-11-30T00:00:00",
         "tipo": "Diurno y Nocturno"
       }
     ],
@@ -6949,7 +6949,7 @@
     "provincia": "A Coruña",
     "telefono": "981820055",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Noia"
@@ -6958,10 +6958,10 @@
     "lng": -8.8876447,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-29T00:00:00",
-        "inicio_original": "2026-11-28T00:00:00",
-        "fin_original": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T00:00:00",
+        "fin_original": "2026-11-30T00:00:00",
         "tipo": "Diurno y Nocturno"
       }
     ],
@@ -6984,7 +6984,7 @@
     "provincia": "A Coruña",
     "telefono": "981287035",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Culleredo"
@@ -6993,10 +6993,10 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-29T00:00:00",
-        "inicio_original": "2026-11-28T00:00:00",
-        "fin_original": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T00:00:00",
+        "fin_original": "2026-11-30T00:00:00",
         "tipo": "Diurno y Nocturno"
       }
     ],
@@ -7014,7 +7014,7 @@
     "provincia": "A Coruña",
     "telefono": "981860425",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Rianxo"
@@ -7023,10 +7023,10 @@
     "lng": -8.819075,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-29T00:00:00",
-        "inicio_original": "2026-11-28T00:00:00",
-        "fin_original": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T00:00:00",
+        "fin_original": "2026-11-30T00:00:00",
         "tipo": "Diurno y Nocturno"
       }
     ],
@@ -7049,7 +7049,7 @@
     "provincia": "A Coruña",
     "telefono": "981607356",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Arteixo"
@@ -7058,10 +7058,10 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-29T00:00:00",
-        "inicio_original": "2026-11-28T00:00:00",
-        "fin_original": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T00:00:00",
+        "fin_original": "2026-11-30T00:00:00",
         "tipo": "Diurno y Nocturno"
       }
     ],
@@ -7079,7 +7079,7 @@
     "provincia": "A Coruña",
     "telefono": "981428081",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Ortigueira"
@@ -7088,10 +7088,10 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-29T00:00:00",
-        "inicio_original": "2026-11-28T00:00:00",
-        "fin_original": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T00:00:00",
+        "fin_original": "2026-11-30T00:00:00",
         "tipo": "Diurno y Nocturno"
       }
     ],
@@ -7109,7 +7109,7 @@
     "provincia": "A Coruña",
     "telefono": "981614184",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Oleiros"
@@ -7118,10 +7118,10 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-29T00:00:00",
-        "inicio_original": "2026-11-28T00:00:00",
-        "fin_original": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T00:00:00",
+        "fin_original": "2026-11-30T00:00:00",
         "tipo": "Diurno y Nocturno"
       }
     ],
@@ -7139,7 +7139,7 @@
     "provincia": "A Coruña",
     "telefono": "981826308",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Muros"
@@ -7148,10 +7148,10 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-29T00:00:00",
-        "inicio_original": "2026-11-28T00:00:00",
-        "fin_original": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T00:00:00",
+        "fin_original": "2026-11-30T00:00:00",
         "tipo": "Diurno y Nocturno"
       }
     ],
@@ -7169,7 +7169,7 @@
     "provincia": "A Coruña",
     "telefono": "981619530",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Vimianzo"
@@ -7178,10 +7178,10 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-29T00:00:00",
-        "inicio_original": "2026-11-28T00:00:00",
-        "fin_original": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T00:00:00",
+        "fin_original": "2026-11-30T00:00:00",
         "tipo": "Diurno y Nocturno"
       }
     ],
@@ -7199,7 +7199,7 @@
     "provincia": "A Coruña",
     "telefono": "981676871",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Cambre"
@@ -7208,10 +7208,10 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-29T00:00:00",
-        "inicio_original": "2026-11-28T00:00:00",
-        "fin_original": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T00:00:00",
+        "fin_original": "2026-11-30T00:00:00",
         "tipo": "Diurno y Nocturno"
       }
     ],
@@ -7229,7 +7229,7 @@
     "provincia": "A Coruña",
     "telefono": "981621749",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Sada"
@@ -7238,10 +7238,10 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-29T00:00:00",
-        "inicio_original": "2026-11-28T00:00:00",
-        "fin_original": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T00:00:00",
+        "fin_original": "2026-11-30T00:00:00",
         "tipo": "Diurno y Nocturno"
       }
     ],
@@ -7259,7 +7259,7 @@
     "provincia": "A Coruña",
     "telefono": "881985291",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Cee"
@@ -7268,10 +7268,10 @@
     "lng": -9.193602,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-29T00:00:00",
-        "inicio_original": "2026-11-28T00:00:00",
-        "fin_original": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T00:00:00",
+        "fin_original": "2026-11-30T00:00:00",
         "tipo": "Diurno y Nocturno"
       }
     ],
@@ -7294,7 +7294,7 @@
     "provincia": "A Coruña",
     "telefono": "981715276",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Ponteceso"
@@ -7303,10 +7303,10 @@
     "lng": -8.894954,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-29T00:00:00",
-        "inicio_original": "2026-11-28T00:00:00",
-        "fin_original": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T00:00:00",
+        "fin_original": "2026-11-30T00:00:00",
         "tipo": "Diurno y Nocturno"
       }
     ],
@@ -7329,7 +7329,7 @@
     "provincia": "A Coruña",
     "telefono": "981770103",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Betanzos"
@@ -7338,10 +7338,10 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-29T00:00:00",
-        "inicio_original": "2026-11-28T00:00:00",
-        "fin_original": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T00:00:00",
+        "fin_original": "2026-11-30T00:00:00",
         "tipo": "Diurno y Nocturno"
       }
     ],
@@ -7359,7 +7359,7 @@
     "provincia": "A Coruña",
     "telefono": "981538210",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Santa Comba"
@@ -7368,10 +7368,10 @@
     "lng": -8.871751,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-29T00:00:00",
-        "inicio_original": "2026-11-28T00:00:00",
-        "fin_original": "2026-11-29T00:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T00:00:00",
+        "fin_original": "2026-11-30T00:00:00",
         "tipo": "Diurno y Nocturno"
       }
     ],
@@ -7394,7 +7394,7 @@
     "provincia": "A Coruña",
     "telefono": "981343080",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Fene"
@@ -7403,10 +7403,10 @@
     "lng": -8.157578,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T09:30:00",
-        "fin": "2026-11-28T22:00:00",
-        "inicio_original": "2026-11-28T09:30:00",
-        "fin_original": "2026-11-28T22:00:00",
+        "inicio": "2026-11-29T09:30:00",
+        "fin": "2026-11-29T22:00:00",
+        "inicio_original": "2026-11-29T09:30:00",
+        "fin_original": "2026-11-29T22:00:00",
         "tipo": "Diurno"
       }
     ],
@@ -7429,7 +7429,7 @@
     "provincia": "A Coruña",
     "telefono": "981807436",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Teo"
@@ -7438,10 +7438,10 @@
     "lng": -8.544943,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T09:30:00",
-        "fin": "2026-11-28T22:00:00",
-        "inicio_original": "2026-11-28T09:30:00",
-        "fin_original": "2026-11-28T22:00:00",
+        "inicio": "2026-11-29T09:30:00",
+        "fin": "2026-11-29T22:00:00",
+        "inicio_original": "2026-11-29T09:30:00",
+        "fin_original": "2026-11-29T22:00:00",
         "tipo": "Diurno"
       }
     ],
@@ -7464,7 +7464,7 @@
     "provincia": "A Coruña",
     "telefono": "981853426",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Porto do Son"
@@ -7473,10 +7473,10 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T09:30:00",
-        "fin": "2026-11-28T22:00:00",
-        "inicio_original": "2026-11-28T09:30:00",
-        "fin_original": "2026-11-28T22:00:00",
+        "inicio": "2026-11-29T09:30:00",
+        "fin": "2026-11-29T22:00:00",
+        "inicio_original": "2026-11-29T09:30:00",
+        "fin_original": "2026-11-29T22:00:00",
         "tipo": "Diurno"
       }
     ],
@@ -7494,7 +7494,7 @@
     "provincia": "A Coruña",
     "telefono": "981530956",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Ames"
@@ -7503,24 +7503,24 @@
     "lng": -8.578509,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-28T14:00:00",
-        "inicio_original": "2026-11-28T00:00:00",
-        "fin_original": "2026-11-28T14:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-29T09:30:00",
+        "inicio_original": "2026-11-29T00:00:00",
+        "fin_original": "2026-11-29T09:30:00",
         "tipo": "Nocturno"
       },
       {
-        "inicio": "2026-11-28T22:00:00",
-        "fin": "2026-11-29T00:00:00",
-        "inicio_original": "2026-11-28T22:00:00",
-        "fin_original": "2026-11-29T09:30:00",
+        "inicio": "2026-11-29T22:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T22:00:00",
+        "fin_original": "2026-11-30T09:30:00",
         "tipo": "Nocturno"
       }
     ],
     "guardia_franjas": [
-      "Nocturno: 00:00 - 14:00; 22:00 - 09:30 (día posterior)"
+      "Nocturno: 00:00 - 09:30; 22:00 - 09:30 (día posterior)"
     ],
-    "guardia_franja": "Nocturno: 00:00 - 14:00; 22:00 - 09:30 (día posterior)",
+    "guardia_franja": "Nocturno: 00:00 - 09:30; 22:00 - 09:30 (día posterior)",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.cofc.es/farmacia/index",
     "ajuste_ubicacion_m": 9.5,
@@ -7536,7 +7536,7 @@
     "provincia": "A Coruña",
     "telefono": "981692740",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Ordes"
@@ -7545,31 +7545,24 @@
     "lng": -8.384655,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-28T09:30:00",
-        "inicio_original": "2026-11-28T00:00:00",
-        "fin_original": "2026-11-28T09:30:00",
-        "tipo": "Nocturno"
-      },
-      {
-        "inicio": "2026-11-28T10:00:00",
-        "fin": "2026-11-28T14:00:00",
-        "inicio_original": "2026-11-28T10:00:00",
-        "fin_original": "2026-11-28T14:00:00",
-        "tipo": "Nocturno"
-      },
-      {
-        "inicio": "2026-11-28T22:00:00",
-        "fin": "2026-11-29T00:00:00",
-        "inicio_original": "2026-11-28T22:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-29T09:30:00",
+        "inicio_original": "2026-11-29T00:00:00",
         "fin_original": "2026-11-29T09:30:00",
+        "tipo": "Nocturno"
+      },
+      {
+        "inicio": "2026-11-29T22:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T22:00:00",
+        "fin_original": "2026-11-30T09:30:00",
         "tipo": "Nocturno"
       }
     ],
     "guardia_franjas": [
-      "Nocturno: 00:00 - 09:30; 10:00 - 14:00; 22:00 - 09:30 (día posterior)"
+      "Nocturno: 00:00 - 09:30; 22:00 - 09:30 (día posterior)"
     ],
-    "guardia_franja": "Nocturno: 00:00 - 09:30; 10:00 - 14:00; 22:00 - 09:30 (día posterior)",
+    "guardia_franja": "Nocturno: 00:00 - 09:30; 22:00 - 09:30 (día posterior)",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.cofc.es/farmacia/index",
     "ajuste_ubicacion_m": 3.2,
@@ -7622,7 +7615,7 @@
     "provincia": "A Coruña",
     "telefono": "981841976",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Ribeira"
@@ -7631,31 +7624,24 @@
     "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T00:00:00",
-        "fin": "2026-11-28T09:30:00",
-        "inicio_original": "2026-11-28T00:00:00",
-        "fin_original": "2026-11-28T09:30:00",
-        "tipo": "Nocturno"
-      },
-      {
-        "inicio": "2026-11-28T10:00:00",
-        "fin": "2026-11-28T14:00:00",
-        "inicio_original": "2026-11-28T10:00:00",
-        "fin_original": "2026-11-28T14:00:00",
-        "tipo": "Nocturno"
-      },
-      {
-        "inicio": "2026-11-28T22:00:00",
-        "fin": "2026-11-29T00:00:00",
-        "inicio_original": "2026-11-28T22:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-29T09:30:00",
+        "inicio_original": "2026-11-29T00:00:00",
         "fin_original": "2026-11-29T09:30:00",
+        "tipo": "Nocturno"
+      },
+      {
+        "inicio": "2026-11-29T22:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T22:00:00",
+        "fin_original": "2026-11-30T09:30:00",
         "tipo": "Nocturno"
       }
     ],
     "guardia_franjas": [
-      "Nocturno: 00:00 - 09:30; 10:00 - 14:00; 22:00 - 09:30 (día posterior)"
+      "Nocturno: 00:00 - 09:30; 22:00 - 09:30 (día posterior)"
     ],
-    "guardia_franja": "Nocturno: 00:00 - 09:30; 10:00 - 14:00; 22:00 - 09:30 (día posterior)"
+    "guardia_franja": "Nocturno: 00:00 - 09:30; 22:00 - 09:30 (día posterior)"
   },
   {
     "id": "cof-a-coruna-C-081-F",
@@ -7666,37 +7652,60 @@
     "provincia": "A Coruña",
     "telefono": "981316802",
     "guardia": false,
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://www.cofc.es/farmacia/index",
     "localidades_atendidas": [
       "Ferrol"
     ],
-    "lat": 43.499967,
-    "lng": -8.224427,
+    "lat": null,
+    "lng": null,
     "guardia_intervalos": [
       {
-        "inicio": "2026-11-28T09:30:00",
-        "fin": "2026-11-28T14:00:00",
-        "inicio_original": "2026-11-28T09:30:00",
-        "fin_original": "2026-11-28T14:00:00",
-        "tipo": "Nocturno"
-      },
-      {
-        "inicio": "2026-11-28T22:00:00",
-        "fin": "2026-11-29T00:00:00",
-        "inicio_original": "2026-11-28T22:00:00",
+        "inicio": "2026-11-29T00:00:00",
+        "fin": "2026-11-29T09:30:00",
+        "inicio_original": "2026-11-29T00:00:00",
         "fin_original": "2026-11-29T09:30:00",
         "tipo": "Nocturno"
       }
     ],
     "guardia_franjas": [
-      "Nocturno: 09:30 - 14:00; 22:00 - 09:30 (día posterior)"
+      "Nocturno: 00:00 - 09:30"
     ],
-    "guardia_franja": "Nocturno: 09:30 - 14:00; 22:00 - 09:30 (día posterior)",
+    "guardia_franja": "Nocturno: 00:00 - 09:30"
+  },
+  {
+    "id": "cof-a-coruna-C-083-F",
+    "cofm_id": null,
+    "nombre": "DURÁN MORAIS, LAURA MARÍA",
+    "direccion": "Carretera de Catabois 279-281",
+    "localidad": "Ferrol",
+    "provincia": "A Coruña",
+    "telefono": "981353263",
+    "guardia": false,
+    "fecha_guardia": "2026-11-29",
+    "fuente": "https://www.cofc.es/farmacia/index",
+    "localidades_atendidas": [
+      "Ferrol"
+    ],
+    "lat": 43.497699,
+    "lng": -8.228149,
+    "guardia_intervalos": [
+      {
+        "inicio": "2026-11-29T22:00:00",
+        "fin": "2026-11-30T00:00:00",
+        "inicio_original": "2026-11-29T22:00:00",
+        "fin_original": "2026-11-30T09:30:00",
+        "tipo": "Nocturno"
+      }
+    ],
+    "guardia_franjas": [
+      "Nocturno: 22:00 - 09:30 (día posterior)"
+    ],
+    "guardia_franja": "Nocturno: 22:00 - 09:30 (día posterior)",
     "precision_ubicacion": "farmacia",
     "fuente_coordenadas": "https://www.cofc.es/farmacia/index",
-    "ajuste_ubicacion_m": 7.6,
-    "referencia_ubicacion": "https://www.openstreetmap.org/node/4101920320",
-    "nota_ubicacion": "Coordenada del Colegio contrastada con farmacia OSM a 7.6 m."
+    "ajuste_ubicacion_m": 3.4,
+    "referencia_ubicacion": "https://www.openstreetmap.org/node/4101923372",
+    "nota_ubicacion": "Coordenada del Colegio contrastada con farmacia OSM a 3.4 m."
   }
 ]

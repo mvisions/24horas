@@ -61,7 +61,7 @@
     "provincia": "Melilla",
     "guardia": false,
     "guardia_franja": "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono. · Madrugada: guardia nocturna/24h del día anterior; confirmar hora de cierre.",
-    "fecha_guardia": "2026-11-28",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
     "lat": null,
     "lng": null,
@@ -134,7 +134,7 @@
     "provincia": "Melilla",
     "guardia": false,
     "guardia_franja": "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono.",
-    "fecha_guardia": "2026-11-04",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
     "lat": 35.292907,
     "lng": -2.9426118,
@@ -147,7 +147,8 @@
     "nombre": "Salomon Chocron Truzman",
     "telefono": "952684582",
     "precision_ubicacion": "farmacia",
-    "fuente_coordenadas": "https://www.openstreetmap.org"
+    "fuente_coordenadas": "https://www.openstreetmap.org",
+    "nota_ubicacion": null
   },
   {
     "id": "52-52000018",
@@ -258,7 +259,7 @@
     "provincia": "Melilla",
     "guardia": false,
     "guardia_franja": "Guardia fechada según CGCOF; consultar horas del cartel y confirmar por teléfono.",
-    "fecha_guardia": "2026-11-18",
+    "fecha_guardia": "2026-11-29",
     "fuente": "https://farmaciasguardia.farmaceuticos.com/web_guardias",
     "lat": 35.2770919,
     "lng": -2.9398473,
